@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01287a",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-997-85",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Het Porträt der Gräfin",
+  "zugeschriebene_werkstatt": "Ludwig van Hohenberg",
+  "besitzfolge": [
+    {
+      "name": "Haus Wüstenberg",
+      "ort": "Graz, Österreich"
+    },
+    {
+      "name": "Gräfin Sophie von Wüstenberg",
+      "grundung": "1850"
+    },
+    {
+      "name": "Gräfin Helene von Schönburg-Glauchau",
+      "erbe": "1922"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

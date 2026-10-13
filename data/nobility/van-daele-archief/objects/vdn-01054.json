@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-o1054",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-359-55",
+  "objecttype": "devotiebeeld",
+  "benaming": "Archiv van Hertogin Beatrix van Oudenaarde",
+  "vermoedelijke_meester": "Pieter van de Vijveren",
+  "provenance": [
+    {
+      "eerste_eigendige": "Hertog Hendrik II van Oudenaarde",
+      "jaar_acquisitie": 1650
+    },
+    {
+      "eerste_eigendige": "Prinses Elisabeth van Habsburg",
+      "jaar_acquisitie": 1701
+    },
+    {
+      "eerste_eigendige": "Hertog Leopold I van Oudenaarde",
+      "jaar_acquisitie": 1750
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 83.5,
+    "width": 285.1
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

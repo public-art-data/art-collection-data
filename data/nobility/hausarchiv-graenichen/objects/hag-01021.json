@@ -1,0 +1,32 @@
+{
+  "record_id": "HAG-01021",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-118-22",
+  "gegenstand": "andachtsbild in rahmen",
+  "bezeichnung": "Ländliches Gemäldebuch",
+  "zugeschrieben_an": "Herrin Helena von Schwarzenberg",
+  "besitzgeschichte": [
+    {
+      "name": "Grafenhaus von Falkenberg",
+      "jahr": 1650,
+      "besitzt": true
+    },
+    {
+      "name": "Gräfin Helena von Schwarzenberg",
+      "jahr": 1705,
+      "erbt von": "Herr Graf Friedrich von Falkenberg"
+    },
+    {
+      "name": "Herrin Helena von Schwarzenberg",
+      "jahr": 1750,
+      "erbte von": "Gräfin Maria von Thurn und Taxis"
+    },
+    {
+      "name": "Kurfürstin Henriette von Schwarzenberg",
+      "jahr": 1805,
+      "erbte von": "Herr Philipp von Schwarzenberg"
+    }
+  ],
+  "frueherer_besitzer": "Freiherren von Staufenried",
+  "bemerkungen": "stempel des Hausarchivs"
+}

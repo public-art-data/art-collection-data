@@ -1,0 +1,43 @@
+{
+  "record_id": "OGV-01264",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-633-92",
+  "stuk": "kabinetklok",
+  "omschrijving": "De 'Ridders van de Blauwe Steen'",
+  "vermoedelijke_maker": "Karel van Veldensteen",
+  "eigendomsgeschiedenis": [
+    {
+      "jaar": 1700,
+      "aangename_eigenaar": "Hertogin Sophia van Gelre"
+    },
+    {
+      "jaar": 1750,
+      "overleden_eigenaar": "Hertogin Sophia van Gelre",
+      "nachvolger": "Graaf Hendrik van Alba"
+    },
+    {
+      "jaar": 1800,
+      "aangename_eigenaar": "Graaf Hendrik van Alba",
+      "overleden_eigenaar": "Graaf Hendrik van Alba",
+      "nachvolger": "Hertogin Elisabeth van Limburg"
+    },
+    {
+      "jaar": 1850,
+      "aangename_eigenaar": "Hertogin Elisabeth van Limburg",
+      "overleden_eigenaar": "Hertogin Elisabeth van Limburg",
+      "nachvolger": "Graaf Willem van Alba"
+    },
+    {
+      "jaar": 1900,
+      "aangename_eigenaar": "Graaf Willem van Alba",
+      "overleden_eigenaar": "Graaf Willem van Alba",
+      "nachvolger": "Hertogin Beatrix van Limburg"
+    }
+  ],
+  "grootte": {
+    "height": 118.1,
+    "width": 255.7
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld",
+  "marginale_notitie": "waszegel beschadigd"
+}

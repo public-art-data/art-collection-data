@@ -1,0 +1,19 @@
+{
+  "record_id": "CWS-01119",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-169-18",
+  "categorie_d_objet": "portrait en miniature",
+  "intitule": "Collection de la Maison de Valtor",
+  "maitre": {
+    "nom": "Aurelia Delacroix",
+    "prenom": "Antoinette",
+    "date_de_naissance": "1780-02-15"
+  },
+  "historique": "Legue a Comtesse de Warnier-Saint-Servais en 1781; entre dans l'inventaire de 1782.",
+  "cotes_cm": {
+    "height": 205.0,
+    "width": 196.4
+  },
+  "valeur": 456000,
+  "observations_de_la_comtesse": "entree rayee puis restauree"
+}

@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01524",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-184-32",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt der Fürstin Sophia von Harrasburg",
+  "zugeschriebene_werkstatt": "Friedrich Rittermann",
+  "besitzfolge": [
+    {
+      "persönlich": true,
+      "besitzer": "Harrasburgsche Familie",
+      "besitzdatum": 1810
+    },
+    "Erbschaft",
+    "Ehe mit Grafen von Schwarzenberg",
+    "Erbe von Grafin Maria von Harrasburg",
+    "Geburt und Erbe von Fürst Alexander von Harrasburg"
+  ],
+  "groesse": {
+    "height": 73.6,
+    "width": 43.1
+  }
+}

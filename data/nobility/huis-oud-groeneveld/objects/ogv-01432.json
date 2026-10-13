@@ -1,0 +1,38 @@
+{
+  "record_id": "OGV-01432",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-468-37",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Gouden Zonneschilderij",
+  "vermoedelijke_maker": "Lady Astrid van Montfort",
+  "eigendomsgeschiedenis": [
+    {
+      "geslacht": "van Montfort",
+      "titel": "Prinsessenheer",
+      "jaar": 1650
+    },
+    {
+      "geslacht": "van der Meer",
+      "titel": "Hertogin",
+      "jaar": 1700,
+      "verband": "huiselijk huwelijk"
+    },
+    {
+      "geslacht": "van Oranje",
+      "titel": "Koningin",
+      "jaar": 1800,
+      "verband": "afstammeling"
+    },
+    {
+      "geslacht": "van Buren",
+      "titel": "Huisvrouw",
+      "jaar": 1950,
+      "verband": "erfgoed"
+    }
+  ],
+  "grootte": {
+    "height": 56.5,
+    "width": 168.4
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

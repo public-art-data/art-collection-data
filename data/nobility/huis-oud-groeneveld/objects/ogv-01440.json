@@ -1,0 +1,33 @@
+{
+  "record_id": "OGV-01440",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-811-67",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Portret van een jonge Edelmannen",
+  "vermoedelijke_maker": "Johannes de Valk",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Hertogin van Midden-Holland",
+      "persoon": "Wilhelmina van Oranje-Nassau",
+      "jaar": 1700,
+      "gebruik": "Geëerbied"
+    },
+    {
+      "titel": "Barones van Teylingen",
+      "persoon": "Jacob van Teylingen",
+      "jaar": 1720,
+      "gebruik": "Erfenis"
+    },
+    {
+      "titel": "Koningin van België",
+      "persoon": "Alydia van Oranje-Nassau",
+      "jaar": 1825,
+      "gebruik": "Erfgood"
+    }
+  ],
+  "grootte": {
+    "height": 73.8,
+    "width": 18.7
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

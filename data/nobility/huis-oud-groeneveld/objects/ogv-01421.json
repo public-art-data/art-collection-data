@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01421-alt",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-958-11",
+  "stuk": "marmeren buste",
+  "omschrijving": "De Meesterlijk Geschilderde Wolk",
+  "vermoedelijke_maker": "Johannes van der Meerzijl",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Huis van Veldhuizen",
+      "beschrijving": "Eerste eigenaar en voorgeschiedenis",
+      "jaar": 1550
+    },
+    {
+      "titel": "Hertogin Beatrix van Gelre",
+      "beschrijving": "Overleden echtgenoot en vererving van de kunst",
+      "jaar": 1585
+    },
+    {
+      "titel": "Herenstand Hoge van der Linden",
+      "beschrijving": "Eerste eigenaar na Beatrix' overlijden",
+      "jaar": 1600
+    }
+  ],
+  "grootte": {
+    "height": 14.2,
+    "width": 52.0
+  },
+  "vorige_eigenaar": "Familie Van Daele-Nuytens",
+  "marginale_notitie": "kreuk in perkament"
+}

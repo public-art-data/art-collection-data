@@ -1,0 +1,32 @@
+{
+  "record_id": "TMB-01029",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-587-87",
+  "soort": "wandtapijt",
+  "titel": "Privé Samenraad van Hertogin van Valkenburg",
+  "toegeschreven_aan": "Aurelia Van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "dato": 1550,
+      "gezin": "Hertogin van Valkenburg"
+    },
+    {
+      "dato": 1600,
+      "gezin": "Prinses van Gennep"
+    },
+    {
+      "dato": 1650,
+      "gezin": "Vrijheer van Dinteville"
+    },
+    {
+      "dato": 1725,
+      "gezin": "Hertogin van Valkenburg"
+    }
+  ],
+  "afmetingen": {
+    "height": 207.4,
+    "width": 249.9
+  },
+  "vroegere_bezitter": "Familie Van ter Muelen-Berckel",
+  "aantekening": "dubbele nummering"
+}

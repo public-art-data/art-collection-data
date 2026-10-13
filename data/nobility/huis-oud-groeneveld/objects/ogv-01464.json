@@ -1,0 +1,35 @@
+{
+  "record_id": "OGV-01464",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-893-85",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Kleurrijk Schilderij van 'De gevangene's nacht'",
+  "vermoedelijke_maker": "Fleurien Vangenberg",
+  "eigendomsgeschiedenis": [
+    {
+      "geschiedenis_id": 1,
+      "eerste_eigenaar": "Hertogin Isabella van Wijnsen",
+      "jaren": 1680
+    },
+    {
+      "geschiedenis_id": 2,
+      "volgende_eigenaar": "Lievegraaf Hendrik van Aaldenburg",
+      "wegen": "Erfgoodheid"
+    },
+    {
+      "geschiedenis_id": 3,
+      "volgende_eigenaar": "Prinses Maria van Schuilenburg",
+      "jaren": 1750
+    },
+    {
+      "geschiedenis_id": 4,
+      "eerste_eigenaar": "Baroness Sofia van Meerbeek",
+      "wegen": "Legacie"
+    }
+  ],
+  "grootte": {
+    "height": 97.6,
+    "width": 14.4
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

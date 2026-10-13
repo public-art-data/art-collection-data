@@ -1,0 +1,20 @@
+{
+  "record_id": "SYN MFA 02775",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-48",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Hoi An",
+  "artist": "Ongpiboon",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1986; private collection Private collection, Kuala Lumpur since 2009.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 730.0,
+    "width": 308.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 30000,
+    "high": 132000
+  },
+  "_artist_dates": "1857-1529"
+}

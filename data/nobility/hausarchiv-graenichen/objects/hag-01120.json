@@ -1,0 +1,31 @@
+{
+  "record_id": "HAG-1001120",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-928-35",
+  "gegenstand": "standuhr mit intarsien",
+  "bezeichnung": "Erlkönigstanz",
+  "zugeschrieben_an": "Dame Astrid von Eisenhütten",
+  "besitzgeschichte": [
+    {
+      "name": "Gräfin Adelheid von Eisenhütten",
+      "jahr": 1740,
+      "ursprung": "Schloss Eisenhütten, Burgland"
+    },
+    {
+      "name": "Königin Luise von Eisenhütten",
+      "jahr": 1795,
+      "ursprung": "Schloss Eisenhütten, Burgland",
+      "besitzerin_erblich": true
+    },
+    {
+      "name": "Dame Astrid von Eisenhütten",
+      "jahr": 1870,
+      "ursprung": "Schloss Eisenhütten, Burgland"
+    }
+  ],
+  "abmessungen": {
+    "height": 146.7,
+    "width": 234.5
+  },
+  "schaetzung_chf": 439000
+}

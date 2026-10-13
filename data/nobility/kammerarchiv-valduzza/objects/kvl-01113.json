@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01113",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-322-19",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt der Familie von Orlovitz",
+  "zugeschriebene_werkstatt": "Marcel van der Meer",
+  "besitzfolge": {
+    "Haus Orlovitz": {
+      "Gründer": "Graf Leopold von Hausberg",
+      "Erblasser": "Friedrich von Hausberg",
+      "Heirat mit": "Gräfin Isabella von Schwarzenegg"
+    },
+    "Gräfin Sophia von Hausberg": {
+      "Eigentümerin des Werks 1 (1700-1720)": "Graf Leopold von Hausberg",
+      "Eigentümerin des Werks 2 (1720-1750)": "Königin Luise von Bayern"
+    },
+    "Haus Schwarzenegg": {
+      "Gründer": "Markgraf Karl von Schwarzenegg",
+      "Erblasser": "Friedrich von Schwarzenegg"
+    }
+  },
+  "groesse": {
+    "height": 150.3,
+    "width": 188.8
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

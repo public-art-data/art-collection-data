@@ -1,0 +1,23 @@
+{
+  "record_id": "HFV-01124",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-348-24",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Graafschap van de Wijnen",
+  "kuenstler": "Herrin von der Blume",
+  "provenienz": [
+    {
+      "erbeuerung": "Erbteilung durch ihre Enkel, die Prinzessin Helena und Baron Dominik",
+      "datum": "14. März 1775"
+    },
+    {
+      "vermögensübertragung": "Übernahme durch Baronin Elisabeth als Geschenk von ihrem Bruder, Herzog Ludwig",
+      "datum": "18. Februar 1832"
+    }
+  ],
+  "masse_cm": {
+    "height": 117.2,
+    "width": 131.5
+  },
+  "schaetzung_chf": 673000
+}

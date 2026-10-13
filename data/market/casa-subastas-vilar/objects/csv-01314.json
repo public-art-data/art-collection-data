@@ -1,0 +1,18 @@
+{
+  "record_id": "CSV-01314_bis",
+  "origen": "Sala de Subastas Vilar y Compania, Zaragoza, Espania",
+  "lote_numero": "CSV-778/1991",
+  "tipo_de_objeto": "tecnica mixta",
+  "titulo": "Hacienda de Paso del Rio Claro",
+  "artista": "J. Luvianos",
+  "dimensiones_cm": {
+    "height": 100.3,
+    "width": 112.3
+  },
+  "antiguo_propietario": {
+    "name": "M. Retana-Pesquera",
+    "born": 1947,
+    "acquired": 1927
+  },
+  "epoca": "mediados del siglo XX"
+}

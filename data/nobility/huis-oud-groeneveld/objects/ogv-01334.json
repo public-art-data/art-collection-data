@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01334",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-379-66",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Praalacht 'De Schonere Geschenken'",
+  "vermoedelijke_maker": "Lady Ariadne van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "datering": "18e eeuw",
+      "besitter": "Huis van Nassau-Wittenheim",
+      "overdracht": "Achternaam erfgenamen"
+    },
+    {
+      "datering": "19e eeuw",
+      "besitter": "Huis van Valkenburg",
+      "overdracht": "Gevraagd aan een afstammeling als legaat"
+    },
+    {
+      "datering": "20e eeuw",
+      "besitter": "Privébesitting van Admiraal Joris van der Meer",
+      "overdracht": "Erfdeeld na zijn dood"
+    }
+  ],
+  "grootte": {
+    "height": 140.2,
+    "width": 108.4
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-1001232",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-795-5",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Der Seer von Wysteria",
+  "zugeschriebene_werkstatt": "Marcellus Florizel van der Meer",
+  "besitzfolge": [
+    {
+      "person": "Herrin zu Falkenberg",
+      "jahr": 1800,
+      "grunde": "Erbschaft"
+    },
+    {
+      "person": "Gräfin Adelheid von Eisenstadt",
+      "jahr": 1815,
+      "grunde": "Eheschließung"
+    },
+    {
+      "person": "Herr von Schönberg",
+      "jahr": 1850,
+      "grunde": "Erbschaft und Übernahme der Sammlung"
+    },
+    {
+      "person": "Freifrau Wilhelmina zu Wiesbaden",
+      "jahr": 1920,
+      "grunde": "Erfolg in einem Gerichtsfall"
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "VDN-01114",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-847-63",
+  "objecttype": "wandtapijt",
+  "benaming": "Kasteel van Gucht",
+  "vermoedelijke_meester": "Amandus Vlugt",
+  "provenance": [
+    {
+      "gezin_id": 1,
+      "titel": "Hertogin van Wijn",
+      "naam": "Eline van Meerendonk",
+      "jaren": [
+        1620,
+        1650
+      ]
+    },
+    {
+      "gezin_id": 2,
+      "titel": "Kardinaal van Oudenhove",
+      "naam": "Jan van Gucht",
+      "jaren": [
+        1650,
+        1700
+      ],
+      "gezin_id_vorige_eigendom": 1
+    },
+    {
+      "gezin_id": 3,
+      "titel": null,
+      "naam": null,
+      "jaren": []
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 27.4,
+    "width": 77.3
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

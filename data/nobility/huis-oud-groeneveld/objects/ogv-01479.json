@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01479-alt",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-897-68",
+  "stuk": "wandtapijt",
+  "omschrijving": "Het Meisje van de Morgen",
+  "vermoedelijke_maker": "Aurélien Wychwood",
+  "eigendomsgeschiedenis": [
+    {
+      "id": "1",
+      "gezin": "Huis van Vlaanderen",
+      "jaar": 1750,
+      "omschrijving": "Oorspronkelijk eigendom van Adelaïde van Vlaanderen en haar man, graaf Jan van Vlaanderen"
+    },
+    {
+      "id": "2",
+      "gezin": "Huis van Oudenaarde",
+      "jaar": 1850,
+      "omschrijving": "Geërfd door Henriëtte van Oudenaarde, de dochter van Adelaïde"
+    },
+    {
+      "id": "3",
+      "gezin": "Huis van Montigny",
+      "jaar": 1920,
+      "omschrijving": "Overgedragen aan François-Xavier van Montigny, een neef van Henriëtte"
+    }
+  ],
+  "grootte": {
+    "height": 74.7,
+    "width": 217.3
+  }
+}

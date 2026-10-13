@@ -1,0 +1,23 @@
+{
+  "record_id": "VDN-1016",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-600-77",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Huis van Houten",
+  "vermoedelijke_meester": "Joost van der Meer",
+  "provenance": [
+    {
+      "eerste_eigenaar": "Hertogin Adela van Vleutenburg",
+      "geërfd_van": "Hertog Hendrik van Vleutenburg"
+    },
+    {
+      "eerste_eigenaar": "Graafinne Aleida van Oud-Reesten",
+      "geërfd_van": "Graaf Pieter van Oud-Reesten"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 165.0,
+    "width": 245.2
+  },
+  "staat": "kreuk in perkament"
+}

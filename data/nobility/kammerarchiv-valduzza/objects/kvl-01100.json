@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01100",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-662-53",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Het Portret van Adelaïde",
+  "zugeschriebene_werkstatt": "Hendrik van der Meer",
+  "besitzfolge": [
+    {
+      "name": "Huis Oranje-Nassau",
+      "inheemsheid": "Amsterdam, 1650-1700"
+    },
+    {
+      "name": "Prinses Wilhelmina van Oranje-Nassau",
+      "godschaft": "1675-1711",
+      "opvolger": "Koning Lodewijk"
+    }
+  ],
+  "groesse": {
+    "height": 159.2,
+    "width": 198.8
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

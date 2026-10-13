@@ -1,0 +1,24 @@
+{
+  "record_id": "HFV-01293",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-877-83",
+  "objektart": "miniaturportrait",
+  "titel": "Adelsarchiv von Schatzdorf",
+  "kuenstler": "Marcella van der Meer",
+  "provenienz": {
+    "Geschichte": "Das Gemälde stammt aus der Erbschaft von Graf Friedrich von Alderan, der es von seiner Schwiegermutter, Gräfin Maria von Schatzdorf, geerbt hat.",
+    "Eigentümer": [
+      {
+        "Name": "Friedrich von Alderan",
+        "Titel": "Graf",
+        "Datum": "1850"
+      },
+      {
+        "Name": "Maria von Schatzdorf",
+        "Titel": "Gräfin",
+        "Datum": "1830-1850"
+      }
+    ]
+  },
+  "vorbesitzer": "Herren von Falkeisberg"
+}

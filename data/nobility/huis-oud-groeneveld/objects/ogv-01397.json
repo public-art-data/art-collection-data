@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-01397",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-410-91",
+  "stuk": "devotiebeeld",
+  "omschrijving": "Portret van een Ridder op zijn jachttocht",
+  "vermoedelijke_maker": "Sibranda van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "gezin_id": "Huis van Vledder",
+      "inbesluiting": "1482",
+      "verkocht aan": null
+    },
+    {
+      "gezin_id": "Hausen van Udenhove",
+      "inbesluiting": "1530, door erfgenis van Huis van Vledder",
+      "verkocht aan": null
+    },
+    {
+      "gezin_id": "Huis van Kortenberg",
+      "inbesluiting": "1656, door huwelijk met Elisabeth van Udenhove",
+      "verkocht aan": null
+    }
+  ],
+  "grootte": {
+    "height": 196.6,
+    "width": 95.1
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

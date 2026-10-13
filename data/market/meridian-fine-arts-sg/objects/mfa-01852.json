@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01852",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-315",
+  "object_type": "mixed media assemblage",
+  "title": "Untitled (fisherman)",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by Kiat Hock Estate in 1987, then sold to Jian Ming Gallery in 1992, and finally acquired by Mei Ling Lee in 2018.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 275.0,
+    "width": 2611.0
+  },
+  "estimate_sgd": {
+    "low": 1000,
+    "high": 178000
+  },
+  "_artist_dates": "1878-1517"
+}

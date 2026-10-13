@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00924",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-448",
+  "object_type": "lithograph",
+  "title": "Blue Composition",
+  "artist": "Ongpiboon",
+  "provenance": "Acquired by the Lim Kian Fong Estate in 1975, previously part of the Lee Beng Teng Collection, from Ongpiboon's estate in 1969.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 878.0,
+    "width": 2174.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 33000,
+    "high": 100000
+  }
+}

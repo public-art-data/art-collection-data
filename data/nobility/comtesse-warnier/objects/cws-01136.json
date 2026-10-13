@@ -1,0 +1,30 @@
+{
+  "record_id": "CWS-01136",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-940-8",
+  "categorie_d_objet": "service a the en porcelaine",
+  "intitule": "Musée de la Nuit Éternelle",
+  "maitre": {
+    "nom": "Élise Dumont",
+    "prénom": "Léonie"
+  },
+  "historique": [
+    {
+      "date": "1720",
+      "détails": "Héritée par Léonie Dumont de sa grand-mère paternelle, Madame Sophie Dubois"
+    },
+    {
+      "date": "1750",
+      "détails": "Donné à son fils, Jean-Louis Dumont, en mariage avec Madeleine Fournier"
+    },
+    {
+      "date": "1820",
+      "détails": "Legatée par sa veuve, Marie-Thérèse Dumont, à sa fille aînée, Camille Dumont de Bourgogne"
+    }
+  ],
+  "cotes_cm": {
+    "height": 113.3,
+    "width": 287.1
+  },
+  "titulaire_precedent": "Famille de Collonges-Valiere"
+}

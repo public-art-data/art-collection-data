@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01108",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-612-76",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Het Gesprek van de Sterren",
+  "zugeschriebene_werkstatt": "Lucien Valtor",
+  "besitzfolge": {
+    "Bijlage": [
+      {
+        "datum": "1742",
+        "besitzer": "Familie Van der Meer"
+      },
+      {
+        "datum": "1785",
+        "nachfolger": "Familie De Jonghe"
+      },
+      {
+        "datum": "1850",
+        "erbe": "Dame Adela van der Meer-De Jonghe"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 57.8,
+    "width": 225.9
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

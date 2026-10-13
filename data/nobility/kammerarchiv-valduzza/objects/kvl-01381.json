@@ -1,0 +1,34 @@
+{
+  "record_id": "KVL-o1381",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-272-55",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Verlies van Schierkeer",
+  "zugeschriebene_werkstatt": "Marcellinus Van Gelderen",
+  "besitzfolge": [
+    {
+      "persoon": "Rafael III van Valkenburg",
+      "datum": "1640"
+    },
+    {
+      "persoon": "Rafael III van Valkenburg",
+      "datum": "1665",
+      "nachfolger": "Hendrik IV van Valkenburg"
+    },
+    {
+      "persoon": "Hendrik IV van Valkenburg",
+      "datum": "1700"
+    },
+    {
+      "persoon": "Emma van Hertoghaven",
+      "datum": "1750",
+      "nachfolger": "Willem I van Hertoghaven"
+    }
+  ],
+  "groesse": {
+    "height": 93.6,
+    "width": 192.0
+  },
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "doppelt nummeriert"
+}

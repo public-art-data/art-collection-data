@@ -1,0 +1,19 @@
+{
+  "record_id": "SYN.CWS.01215",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-383-79",
+  "categorie_d_objet": "portrait en miniature",
+  "intitule": "Collection de la Maison de Saint-Maurice",
+  "maitre": {
+    "nom": "Pierre Léonard d'Epinay",
+    "prenom": "Pierre",
+    "dateNaissance": "1760-02-10"
+  },
+  "historique": "Acquis par Maison de Villierscourt a l'occasion d'un mariage en 1680; passe a Maison de Beauffort-Orval par heritage en 1718.",
+  "cotes_cm": {
+    "height": 138.1,
+    "width": 103.8
+  },
+  "titulaire_precedent": "Famille de Clemency-Sonnenberg",
+  "valeur": 312000
+}

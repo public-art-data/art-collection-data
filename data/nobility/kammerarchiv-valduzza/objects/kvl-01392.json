@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-1001392",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-740-62",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Portrait van Adelheid van Hohenstein",
+  "zugeschriebene_werkstatt": "Johannes van Leidenburg",
+  "besitzfolge": [
+    {
+      "family": "von Hohenstein",
+      "title": "Baronin",
+      "ownership_date": "18. Jahrhundert",
+      "purchase_from": "Vater von Adelheid, Baron Maximilian von Hohenstein"
+    },
+    {
+      "family": "van der Meer",
+      "title": "Grafs van der Meer",
+      "ownership_date": "19. Jahrhundert",
+      "purchase_from": "Urenkelin Adelheids, Tochter von Heinrich van der Meer, Graf"
+    }
+  ],
+  "kammervermerk": "doppelt nummeriert"
+}

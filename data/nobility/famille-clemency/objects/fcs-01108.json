@@ -1,0 +1,23 @@
+{
+  "record_id": "FCS-01108",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-926-82",
+  "type_d_objet": "portrait en miniature",
+  "titre": "Duchesse de Valmy",
+  "artiste_attribue": "Marcelle LaFleur",
+  "historique_de_possession": [
+    {
+      "date_de_pret": "1850",
+      "domicile_original": "Château de Saint-Amour, Île-de-France"
+    },
+    {
+      "date_de_succession": "1880",
+      "successeur": "Marie-Thérèse de Bourbon"
+    },
+    {
+      "date_de_legance": "1920",
+      "domicile_actuel": "Château de Valmy, Normandie"
+    }
+  ],
+  "observations": "double cotation au verso"
+}

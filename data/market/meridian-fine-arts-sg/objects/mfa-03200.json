@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03200",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-380",
+  "object_type": "lithograph",
+  "title": "View of Kuching",
+  "artist": "Selvaratnam",
+  "provenance": "Acquired by Khoo Liang Hock's private collection in 1945, later gifted to his estate in 1970, then sold at Soo Swee Fong's gallery to Koon Yit Meng in 1982",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 339.0,
+    "width": 476.0
+  },
+  "estimate_sgd": {
+    "low": 38000,
+    "high": 50000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

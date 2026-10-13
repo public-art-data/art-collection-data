@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01224",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-213-78",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Het Spiegelrijk",
+  "zugeschriebene_werkstatt": "Adriana van der Meer",
+  "besitzfolge": [
+    {
+      "titel": "Gravin van Wassenberg",
+      "person": "Hedwig van Wassenberg",
+      "jahr": 1750
+    },
+    {
+      "titel": "Prinzessin von Hohenstein",
+      "person": "Katharina von Hohenstein (Hedwigs Tochter)",
+      "jahr": 1800
+    },
+    {
+      "titel": "Baronesse van der Meer",
+      "person": "Eleanor van der Meer (Katharinas Tochter)",
+      "jahr": 1850
+    }
+  ],
+  "einstiger_besitzer": {
+    "name": "P. Gruenewald",
+    "born": 1937,
+    "acquired": 1900
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

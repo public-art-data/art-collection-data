@@ -1,0 +1,33 @@
+{
+  "record_id": "TMB-01098",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-792-2",
+  "soort": "devotiebeeld",
+  "titel": "Huis van Rennenberg",
+  "toegeschreven_aan": "Sofia van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "persoon": "Gerben van Rennenberg",
+      "gezin": "van Rennenberg",
+      "jaar": 1850,
+      "gebeurteis": "Erfde Huis van Rennenberg"
+    },
+    {
+      "persoon": "Geertruij van der Meer",
+      "gezin": "van der Meer",
+      "jaar": 1885,
+      "gebeurteis": "Kocht Huis van Rennenberg"
+    },
+    {
+      "persoon": "Sofia van der Meer",
+      "gezin": "van der Meer",
+      "jaar": 1920,
+      "gebeurteis": "Erfde Huis van Rennenberg"
+    }
+  ],
+  "afmetingen": {
+    "height": 209.0,
+    "width": 218.2
+  },
+  "vroegere_bezitter": "Huis van Oud-Groeneveld"
+}

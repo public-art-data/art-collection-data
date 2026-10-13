@@ -1,0 +1,26 @@
+{
+  "record_id": "MBO-01227",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-276-30",
+  "nature": "vitrail d'atelier",
+  "appellation": "Comtesse de l'Ombre",
+  "attribue_a": "Eugène LeFleur",
+  "provenance_detaillee": {
+    "debut_provenance": "1780",
+    "predecesseur": "La Comtesse de Montsoreau",
+    "acquiseur": "Marie-Antoinette de la Croix",
+    "annee_decouverte_1": "1815",
+    "predecesseur_2": "Henri III de Vaudrémont",
+    "acquiseur_2": "Ferdinand II de l'Ombre",
+    "legitime_heredite": {
+      "droiture_dheritage": 1800,
+      "successeur": "Pierre IV de l'Ombre"
+    }
+  },
+  "mesures": {
+    "height": 73.2,
+    "width": 198.5
+  },
+  "detenteur_precedent": "Comtes de Rousset-Lavandieres",
+  "cachets": "entree rayee puis restauree"
+}

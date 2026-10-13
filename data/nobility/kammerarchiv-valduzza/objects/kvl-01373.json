@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01373",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-493-44",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Het Licht der Schatten",
+  "zugeschriebene_werkstatt": "Ludwig von Schattenburg",
+  "besitzfolge": [
+    {
+      "datum": 1800,
+      "erbeichter": "Friedrich III. von Wüstenburg, Graf zu Eichenstein"
+    },
+    {
+      "datum": 1815,
+      "vererbt_an": "Hedwig von Eisenhut",
+      "beschreibung": "Einzige Tochter von Friedrich III."
+    },
+    {
+      "datum": 1850,
+      "vererbt_an": "Wilhelm I. von Wüstenburg, Herzog zu Alpenstein"
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Staufenried",
+  "kammervermerk": "doppelt nummeriert"
+}

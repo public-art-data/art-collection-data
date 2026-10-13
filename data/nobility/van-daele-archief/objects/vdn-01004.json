@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01004",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-737-15",
+  "objecttype": "wandtapijt",
+  "benaming": "Huis van Oranje-Vereijken",
+  "vermoedelijke_meester": "Pieter van de Waal",
+  "provenance": [
+    {
+      "beschrijving": "Eerste eigenaar",
+      "houding": "Van oude voorspos, geërfd van zijn vader Pieter Oranje-Vereijken I",
+      "datum_eigendom": 1650
+    },
+    {
+      "beschrijving": "Eerste eigendomsvererving",
+      "houding": "Voor zichzelf verhuisd naar het kasteel van Zonnenburg, geërfd door zijn kinderen Jan en Sophia Oranje-Vereijken II & III",
+      "datum_eigendom": 1700
+    },
+    {
+      "beschrijving": "Tweede eigendomsvererving",
+      "houding": "Voor zichzelf verhuisd naar het kasteel van Kastelenburg, geërfd door zijn kleindochter Elizabeth Oranje-Vereijken IV",
+      "datum_eigendom": 1850
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

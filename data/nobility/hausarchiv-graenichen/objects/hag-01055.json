@@ -1,0 +1,51 @@
+{
+  "record_id": "HAG-01055",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-640-78",
+  "gegenstand": "tafelsilber (teilservice)",
+  "bezeichnung": "Porträt der Grafin von Waldenburg",
+  "zugeschrieben_an": "Helga Kraussmann",
+  "besitzgeschichte": {
+    "Haus Waldenburg, Grafen von Württemberg (1495-1730)": [
+      {
+        "Besitzer": "Kaiser Ferdinand I",
+        "Datum": "1622",
+        "Uträge": ""
+      },
+      {
+        "Erbschaft": "Werner von Württemberg",
+        "Datum": "1653",
+        "Uträge": ""
+      }
+    ],
+    "Haus Waldburg, Freiherren von Hochhausen (1675-1810)": [
+      {
+        "Besitzerin": "Prinzessin Sophie von Sachsen-Koburg und Gotha",
+        "Datum": "1804",
+        "Uträge": ""
+      },
+      {
+        "Erbschaft": "Freiherr Anton von Hochhausen",
+        "Datum": "1827",
+        "Uträge": ""
+      }
+    ],
+    "Privatbesitz, Grafen von Waldenburg (1850-1955)": [
+      {
+        "Besitzer": "Graf Friedrich von Waldenburg",
+        "Datum": "1888",
+        "Uträge": ""
+      },
+      {
+        "Erbschaft": "Frau Elisabeth von Waldenburg",
+        "Datum": "1934",
+        "Uträge": ""
+      }
+    ]
+  },
+  "abmessungen": {
+    "height": 189.4,
+    "width": 203.6
+  },
+  "schaetzung_chf": 261000
+}

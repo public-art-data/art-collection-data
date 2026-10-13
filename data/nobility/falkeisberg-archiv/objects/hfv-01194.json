@@ -1,0 +1,33 @@
+{
+  "record_id": "HFV-2001194",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-600-54",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Hausarchiv der Gräfin Helena von Waldburg",
+  "kuenstler": "Katharina Fischer",
+  "provenienz": [
+    {
+      "datum": "1542",
+      "besitzer": "Ritter Sigismund von Bayern"
+    },
+    {
+      "datum": "1650",
+      "geschenk": "Herr Wilhelm von Öttingen"
+    },
+    {
+      "datum": "1735",
+      "erbe": "Gräfin Sophie von Waldburg"
+    },
+    {
+      "datum": "1825",
+      "heirat": "Ritter Anton von Hohenzollern"
+    }
+  ],
+  "masse_cm": {
+    "height": 66.6,
+    "width": 136.6
+  },
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 371000,
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

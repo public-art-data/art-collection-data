@@ -1,0 +1,39 @@
+{
+  "record_id": "HFV-1001200",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-488-88",
+  "objektart": "marmorbueste",
+  "titel": "Hausarchiv der Grafen von Wulmsburg",
+  "kuenstler": "Anna Regina Walther",
+  "provenienz": [
+    {
+      "besitzer": "Graf Wilhelm von Wulmsburg",
+      "jahr": 1750,
+      "beschreibung": "Erbschaft"
+    },
+    {
+      "besitzer": "Gräfin Sophie von Eisenstadt",
+      "jahr": 1805,
+      "beschreibung": "Ehe mit Grafen Bernhard von Wulmsburg"
+    },
+    {
+      "besitzer": "Prinzessin Luise von Alt-Lippe",
+      "jahr": 1850,
+      "beschreibung": "Erbschaft durch Vererbung des Grafen-Erbe"
+    },
+    {
+      "besitzer": "Herr Baron Friedrich von Schlossberg",
+      "jahr": 1925,
+      "beschreibung": "Eigentumsübernahme durch Erbfolge"
+    },
+    {
+      "besitzer": "Familienstiftung Wulmsburg",
+      "jahr": 1950,
+      "beschreibung": "Übertragung in die Stiftung"
+    }
+  ],
+  "masse_cm": {
+    "height": 204.6,
+    "width": 112.3
+  }
+}

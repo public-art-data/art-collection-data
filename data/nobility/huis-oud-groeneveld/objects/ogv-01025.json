@@ -1,0 +1,34 @@
+{
+  "record_id": "OGV-01025",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-940-23",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Portret van de stichter van het Huis van Valkenburg",
+  "vermoedelijke_maker": "Maria van der Meer, neef van Pieter Coenrade van Aerschot",
+  "eigendomsgeschiedenis": [
+    {
+      "gezin": "Huis van Valkenburg",
+      "lid": "Gerrit II van Valkenburg",
+      "jaren": "1650-1700",
+      "reden": "Erfgename"
+    },
+    {
+      "gezin": "Huis van Valkenburg",
+      "lid": "Adriaan I van Valkenburg",
+      "jaren": "1720-1750",
+      "reden": "Erfgename"
+    },
+    {
+      "gezin": "Huis van Valkenburg",
+      "lid": "Geert van Valkenburg",
+      "jaren": "1800-1850",
+      "reden": "Erfgename"
+    }
+  ],
+  "grootte": {
+    "height": 103.2,
+    "width": 82.0
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle",
+  "marginale_notitie": "dubbele nummering"
+}

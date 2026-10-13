@@ -1,0 +1,35 @@
+{
+  "record_id": "HAG-1001049",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-990-69",
+  "gegenstand": "tafelsilber (teilservice)",
+  "bezeichnung": "Burggrafur der Burg Hohenstein",
+  "zugeschrieben_an": "Götz Friedemann Eisenhauer",
+  "besitzgeschichte": [
+    {
+      "art": "Malerei",
+      "erwerber": "House von Wollheim",
+      "datum": "1700"
+    },
+    {
+      "art": "Schriftstücke",
+      "erwerber": "House von Lüttwitz",
+      "datum": "1750"
+    },
+    {
+      "art": "Gedränge",
+      "erwerber": "House von Schönau",
+      "datum": "1850"
+    },
+    {
+      "art": "Burg Hohenstein",
+      "erwerber": "House von Hohenstein",
+      "datum": "1950"
+    }
+  ],
+  "abmessungen": {
+    "height": 118.7,
+    "width": 189.5
+  },
+  "frueherer_besitzer": "Freiherren von Staufenried"
+}

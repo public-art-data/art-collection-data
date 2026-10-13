@@ -1,0 +1,35 @@
+{
+  "record_id": "OGV-01150",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-504-11",
+  "stuk": "marmeren buste",
+  "omschrijving": "Koningin Beatrix van Amstelstein",
+  "vermoedelijke_maker": "Adriaan Vandermeer",
+  "eigendomsgeschiedenis": {
+    "Eerwaardige heer Frans van Amstelstein (1647-1715)": {
+      "aankoop": null,
+      "geheriteerd van": null
+    },
+    "Prinses Sophia van Amstelstein (1709-1742)": {
+      "geschenkt aan": {
+        "Hertogin Elizabeth van Amstelstein (1731-1795)": {
+          "aankoop": 1750,
+          "geheriteerd van": "Prinses Sophia van Amstelstein (1709-1742)"
+        }
+      },
+      "geheriteerd van": "Prinses Sophia van Amstelstein (1709-1742)"
+    },
+    "Hertogin Elizabeth van Amstelstein (1731-1795)": {
+      "aankoop": 1750,
+      "geheriteerd van": "Hertog Frans van Amstelstein (1765-1837)"
+    },
+    "Prinses Beatrix van Amstelstein (1808-1889)": {
+      "geschenkt aan": null
+    }
+  },
+  "grootte": {
+    "height": 160.2,
+    "width": 108.7
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

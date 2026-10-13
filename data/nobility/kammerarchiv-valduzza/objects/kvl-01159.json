@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01159",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-433-4",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Spel der Vergeten Tijden",
+  "zugeschriebene_werkstatt": "Karel van Gennep",
+  "besitzfolge": [
+    {
+      "eerste_bezoek": "1485",
+      "eigendom_van": "Huis van Vlaardingen"
+    },
+    {
+      "erfgenamen": "1523, wanneer hij trouwde met Adelheid van Heerenberg"
+    },
+    {
+      "verfgenoten": "1575, na zijn dood verfgingen zijn zonen: Jacob en Hendrik van Vlaardingen"
+    }
+  ],
+  "groesse": {
+    "height": 40.4,
+    "width": 72.0
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

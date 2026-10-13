@@ -1,0 +1,27 @@
+{
+  "record_id": "TMB-1001022",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-938-41",
+  "soort": "wandtapijt",
+  "titel": "Privé Samenstelling van Hertogin Beatrix van St. Maerentien",
+  "toegeschreven_aan": "Fleur Laurentien Vande Walle",
+  "herkomstgeschiedenis": [
+    {
+      "aankoop": {
+        "jaar": 1820,
+        "boekhouder": "Jozef Van den Berghe"
+      },
+      "verkoop": {
+        "jaar": 1850
+      }
+    },
+    {
+      "geschenk": {
+        "jaar": 1880,
+        "gegeven_door": "Hertogin Henriëtte van St. Maerentien"
+      }
+    }
+  ],
+  "vroegere_bezitter": "Familie Van Daele-Nuytens",
+  "schatting": 292000
+}

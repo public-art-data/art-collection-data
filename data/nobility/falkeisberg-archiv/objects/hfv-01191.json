@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01191",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-953-38",
+  "objektart": "marmorbueste",
+  "titel": "Privatarkiv der Grafen von Schattenfels",
+  "kuenstler": "Helena Eisenbach",
+  "provenienz": [
+    {
+      "besitzer": "Grafin Luise von Hammerstein",
+      "erbfolge": true,
+      "datum": "1723"
+    },
+    {
+      "besitzer": "König Leopold II. von Württemberg",
+      "kauf": true,
+      "datum": "1848"
+    },
+    {
+      "besitzer": "Gräfin Adelheid von Schattenfels",
+      "erbfolge": true,
+      "datum": "1905"
+    }
+  ],
+  "vorbesitzer": "Grafen von Wassenfeld"
+}

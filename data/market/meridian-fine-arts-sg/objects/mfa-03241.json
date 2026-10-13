@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-03241",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-20",
+  "object_type": "lithograph",
+  "title": "kite at Dusk",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Sold at Soo Kian Estate auction to Lien Hsiu Chong, 1923; Inherited by Wu Jing Xiang estate, 1997",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 137.0,
+    "width": 859.0
+  },
+  "previous_owner": "Meridian Fine Arts Auctioneers",
+  "estimate_sgd": {
+    "low": 20000,
+    "high": 146000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

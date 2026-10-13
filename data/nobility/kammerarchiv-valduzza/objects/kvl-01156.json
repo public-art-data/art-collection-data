@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-01156",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-218-61",
+  "artefakt": "marmorbueste",
+  "werktitel": "Herrin der Nacht",
+  "zugeschriebene_werkstatt": "Lorenza Malus",
+  "besitzfolge": [
+    {
+      "besitzer": "Gräfin Isabella van den Meer",
+      "von": "Graf Harald van den Meer, Ehefrau von Herzog Leopold",
+      "auf": "1650"
+    },
+    {
+      "besitzer": "Graf Harald van den Meer",
+      "vom": "Grafschaft von Geldern, Erbfolge durch Testament"
+    },
+    {
+      "besitzer": "Lorenza Malus",
+      "von": "Gräfin Isabella van den Meer, Vermachtnis",
+      "auf": "1800"
+    }
+  ],
+  "groesse": {
+    "height": 142.0,
+    "width": 123.0
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

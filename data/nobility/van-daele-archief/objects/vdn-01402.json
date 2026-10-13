@@ -1,0 +1,37 @@
+{
+  "record_id": "VDN-01402",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-102-63",
+  "objecttype": "marmeren buste",
+  "benaming": "Graafelijkhuis van Vollenhove",
+  "vermoedelijke_meester": "Geert Jansz van Driel",
+  "provenance": [
+    {
+      "naam": "Heer Jacob van Vollenhove",
+      "jaar": 1650,
+      "aanhef": "zoon van Graaf Willem I van Vollenhove"
+    },
+    {
+      "naam": "Vrouwe Aletta van Driel",
+      "jaar": 1685,
+      "aanhef": "schatgenoot van Heer Jacob van Vollenhove"
+    },
+    {
+      "naam": "Graaf Hendrik van Vollenhove",
+      "jaar": 1750,
+      "aanhef": "zoon van Heer Jacob van Vollenhove"
+    },
+    {
+      "naam": "Vrouwe Elara van Driel",
+      "jaar": 1800,
+      "aanhef": "schatgenoot van Graaf Hendrik van Vollenhove"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 191.4,
+    "width": 26.2
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "schatting": 198000,
+  "staat": "kreuk in perkament"
+}

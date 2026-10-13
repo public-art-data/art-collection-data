@@ -1,0 +1,35 @@
+{
+  "record_id": "TMB-01068",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-962-57",
+  "soort": "tafelzilver (onderdeel)",
+  "titel": "Kunstverzameling Prinses Wilhelmina",
+  "toegeschreven_aan": "Lotte van Oranje-Nassau",
+  "herkomstgeschiedenis": [
+    {
+      "titel": "Erfgoed van Huis ter Afferden",
+      "inbeslaggenomen door": null,
+      "verworven door": "Graaf Constantijn van Nassau-Beugen",
+      "jaar": 1690
+    },
+    {
+      "titel": "Erfgoed van Hertogin Isabella van Oost-Friesland",
+      "overleden door": "Prinses Maria van Oranje-Nassau",
+      "geërfd door": "Graaf Constantijn van Nassau-Beugen"
+    },
+    {
+      "titel": "Erfgoed van Hertogin Wilhelmina van Nassau-Beugen",
+      "overleden door": null,
+      "verworven door": "Prinses Elisabeth van Oranje-Nassau",
+      "jaar": 1810
+    },
+    {
+      "titel": "Erfgoed van Prinses Wilhelmina van Oranje-Nassau",
+      "overleden door": null,
+      "verworven door": "Harenechtige Prinsesse Anna van Nassau-Beugen"
+    }
+  ],
+  "vroegere_bezitter": "Huis van Oud-Groeneveld",
+  "schatting": 321000,
+  "aantekening": "potloodaantekening: 'uit de boedel van 1852'"
+}

@@ -1,0 +1,33 @@
+{
+  "record_id": "HFV-01061",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-978-76",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Hausarchiv der Grafschaft von Eisenburg",
+  "kuenstler": "Adrian Winterscheidt",
+  "provenienz": [
+    {
+      "Person": "Ferdinand von Eisenburg",
+      "Titel": "Graaf van Eisenburg",
+      "Jahr": "1750",
+      "Art": "Erwerb"
+    },
+    {
+      "Person": "Adriane Winterscheidt, Tochter von Ferdinand von Eisenburg",
+      "Titel": "",
+      "Jahr": "1815",
+      "Art": "Erfolg der Erbfolge"
+    },
+    {
+      "Person": "Hermann Winterscheidt, Sohn von Adriane Winterscheidt und Kaiser Ludwig III. van Hohenstein",
+      "Titel": "Präsident des Winterscheidt-Kunst-Stifts",
+      "Jahr": "1910",
+      "Art": "Stiftung"
+    }
+  ],
+  "masse_cm": {
+    "height": 200.6,
+    "width": 159.6
+  },
+  "vorbesitzer": "Herren von Falkeisberg"
+}

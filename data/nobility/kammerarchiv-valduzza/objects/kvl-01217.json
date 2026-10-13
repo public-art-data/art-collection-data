@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01217",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-350-24",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "De Koning van de Duiven",
+  "zugeschriebene_werkstatt": "Pietra Vermeulen",
+  "besitzfolge": [
+    {
+      "geschenket an": "Hertogin Helena van Vlaanderen",
+      "jahr": 1675,
+      "ursprungliches Eigentum": "Rijkshertog Maximiliaan van Habsburg"
+    },
+    {
+      "erfgenaam": "Baronesse Sophia van Oranje-Nassau",
+      "geschenkt durch": "Herenfürstin Elisabeth van Habsburg-Lorraine",
+      "jahr": 1732
+    },
+    {
+      "aufgenommen durch": "Prinz Friedrich van Sachsen-Coburg-Gotha",
+      "jahr": 1868,
+      "ursprungliches Eigentum": "Gräfin Wilhelmina van Nassau-Dietz"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza"
+}

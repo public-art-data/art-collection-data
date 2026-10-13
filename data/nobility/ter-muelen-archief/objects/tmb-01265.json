@@ -1,0 +1,39 @@
+{
+  "record_id": "TMB-01265",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-491-64",
+  "soort": "tafelzilver (onderdeel)",
+  "titel": "Privé-Sammlung Hertogin van Valkenburg",
+  "toegeschreven_aan": "Lilith van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "eerste_eigendom": {
+        "jaren": 1720,
+        "eigenaar": "Prinses Sophia van Oranje-Nassau"
+      },
+      "vererving": [
+        {
+          "jaar": 1755,
+          "geërfen": "Hertog van Valkenburg, Jacob van der Meer"
+        }
+      ]
+    },
+    {
+      "eigendom_tijdens_herstichting": {
+        "jaar": 1850,
+        "eigenaar": "Hertogin Maria van Valkenburg, zus van Jacob"
+      }
+    },
+    {
+      "huidige_eigendom_sinds_1900": {
+        "jaar": 1918,
+        "eigenaar": "Lilith van der Meer, kleindochter van Maria"
+      }
+    }
+  ],
+  "afmetingen": {
+    "height": 55.4,
+    "width": 279.0
+  },
+  "vroegere_bezitter": "Familie Van ter Muelen-Berckel"
+}

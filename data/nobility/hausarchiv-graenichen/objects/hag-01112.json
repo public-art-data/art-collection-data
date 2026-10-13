@@ -1,0 +1,23 @@
+{
+  "record_id": "HAG-01112",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-934-66",
+  "gegenstand": "miniaturportrait",
+  "bezeichnung": "Portrait des Adeligen Frühlings",
+  "zugeschrieben_an": "Erich von Wüstenberg",
+  "besitzgeschichte": [
+    {
+      "name": "Haus von Eisenhütten",
+      "besitzer": "Friedrich von Eisenhütten, Erbfolge 1680"
+    },
+    {
+      "name": "Haus von Rosenburg",
+      "besitzer": "Anna von Rosenburg, Eheschließung mit Wilhelm von Eisenhütten"
+    }
+  ],
+  "abmessungen": {
+    "height": 20.9,
+    "width": 186.2
+  },
+  "bemerkungen": "doppelt nummeriert"
+}

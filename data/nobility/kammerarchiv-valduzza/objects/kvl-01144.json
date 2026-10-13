@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-1144",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-742-52",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt eines jungen Adligen",
+  "zugeschriebene_werkstatt": "Ferdinand Veldwijk",
+  "besitzfolge": {
+    "Gründungsjahr": 1750,
+    "Erstes Eigentum": "Königin Wilhelmina van Oranje-Nassau",
+    "Reinigungseigentümer": [
+      {
+        "Name": "Adelheid van Hertog-Bearn",
+        "Eigenschaftsverkaufsjahr": 1810
+      },
+      {
+        "Name": "Ferdinand van Beaufort",
+        "Erbeuerungsjahr": 1850
+      }
+    ]
+  },
+  "groesse": {
+    "height": 94.0,
+    "width": 195.8
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

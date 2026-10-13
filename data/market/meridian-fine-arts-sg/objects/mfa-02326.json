@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-02326",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-344",
+  "object_type": "bronze figure",
+  "title": "Untitled (fisherman)",
+  "artist": "Ongpiboon",
+  "provenance": "Acquired by Lady Sri Ratna Devi in 1862, later gifted to the estate of Khmeran Indera, passed down through generations until sold at auction in 1979",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 2028.0,
+    "width": 2919.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 12000,
+    "high": 145000
+  },
+  "_artist_dates": "1862-1506"
+}

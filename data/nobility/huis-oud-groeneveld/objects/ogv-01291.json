@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01291",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-812-53",
+  "stuk": "marmeren buste",
+  "omschrijving": "Stilleven met een glazenfles en een muziekstok",
+  "vermoedelijke_maker": "Adriaan van Leeuwen",
+  "eigendomsgeschiedenis": [
+    {
+      "title": "Huis Van der Meer",
+      "ownership_start_year": 1790,
+      "ownership_end_year": null
+    },
+    {
+      "title": "Hertogin van Beerenberg",
+      "ownership_start_year": 1850,
+      "ownership_end_year": 1910
+    },
+    {
+      "title": "Gravin van Ravensloot",
+      "ownership_start_year": 1925,
+      "ownership_end_year": null
+    }
+  ],
+  "grootte": {
+    "height": 27.2,
+    "width": 60.3
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld",
+  "marginale_notitie": "kreuk in perkament"
+}

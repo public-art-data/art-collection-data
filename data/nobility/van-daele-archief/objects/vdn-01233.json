@@ -1,0 +1,34 @@
+{
+  "record_id": "VDN-01233",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-936-1",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Privé-collectie van Hertogin Van der Meer",
+  "vermoedelijke_meester": "Jozef de Valkenier",
+  "provenance": [
+    {
+      "eerste_eigendeur": "Hertogin Anna Van der Meer",
+      "geboorteland": "België",
+      "opkomst_jaar": "1850",
+      "gevolg": "Erfdeugd van haar broer, Hertog Leopold Van der Meer"
+    },
+    {
+      "eerste_eigendoor": "Hertog Leopold Van der Meer",
+      "geboorteland": "België",
+      "opkomst_jaar": "1870",
+      "gevolg": "Erfsuksesie op overlijden van zijn oudere broer, Hertog Hendrik Van der Meer"
+    },
+    {
+      "eerste_eigendoor": "Prinses Beatrix Van der Meer",
+      "geboorteland": "België",
+      "opkomst_jaar": "1900",
+      "gevolg": "Erfsuksesie op overlijden van haar vader, Hertog Leopold Van der Meer"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 150.5,
+    "width": 106.1
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld",
+  "schatting": 230000
+}

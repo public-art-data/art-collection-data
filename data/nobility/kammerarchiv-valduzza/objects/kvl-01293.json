@@ -1,0 +1,35 @@
+{
+  "record_id": "KVL-01293",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-739-31",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt einer Reiternunft",
+  "zugeschriebene_werkstatt": "Ludwig von Schönborn",
+  "besitzfolge": {
+    "Von Arnstein": [
+      {
+        "jahr": 1880,
+        "erbe_in": null
+      },
+      {
+        "jahr": 1905,
+        "vererbung": "sohn, Franz"
+      }
+    ],
+    "von Schönborn": [
+      {
+        "jahr": 1920,
+        "erben": "Tante, Anna von Arnstein"
+      },
+      {
+        "jahr": 1948,
+        "übertragung": "Sohn, Ludwig"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 80.8,
+    "width": 186.2
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

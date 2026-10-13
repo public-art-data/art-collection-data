@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-o1423",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-704-31",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt des Herzogs von Wüstenburg",
+  "zugeschriebene_werkstatt": "Jeanne-Marie LaFleur",
+  "besitzfolge": {
+    "Grundungsjahr": 1700,
+    "Eigentümer": [
+      "Haus Wüstenburg, Gräfin Adelheid von Wüstenburg (1711)",
+      "Haus Wüstenburg, Herzog Ludwig von Wüstenburg (1757)",
+      "Haus Wüstenburg, Prinzessin Sofia von Wüstenburg (1805)",
+      "Haus Wüstenburg, Gräfin Helene von Wüstenburg (1850)",
+      "Haus Wüstenburg, Herzog Erwin von Wüstenburg (1905)"
+    ],
+    "Bewegung": [
+      "Erbeutet bei der Auferstehung des Schlosses 1922",
+      "Verzweigert nach dem Tod des Herzogs 1940"
+    ]
+  },
+  "groesse": {
+    "height": 154.3,
+    "width": 80.5
+  },
+  "kammervermerk": "wachsiegel beschaedigt"
+}

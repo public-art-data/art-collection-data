@@ -1,0 +1,44 @@
+{
+  "record_id": "KVL-01291",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-801-80",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Licht am Meer",
+  "zugeschriebene_werkstatt": "Eva van der Linden",
+  "besitzfolge": {
+    "Grafen von Blankenburg, Grafen zu Schlossberg": [
+      {
+        "Daten": {
+          "Erbfolge": "Vorfahren und Enkelin des Ritters Heinrich Graf von Blankenburg",
+          "Beschreibung": ""
+        },
+        "Datum": "1480"
+      },
+      {
+        "Daten": {
+          "Ehe": "Hausangestammt von Gräfin Adelheid zu Schlossberg",
+          "Beschreibung": ""
+        },
+        "Datum": "1550"
+      }
+    ],
+    "Grafschaft Schlossberg, Haus von Wulfenstein": [
+      {
+        "Daten": {
+          "Erbfolge": "Übergabe des gesamten Erbes an Enkelin Gräfin Elisabeth von Blankenburg",
+          "Beschreibung": ""
+        },
+        "Datum": "1750"
+      }
+    ],
+    "Von der Linde, Haus von Eva van der Linden": [
+      {
+        "Daten": {
+          "Ehe": "Erbschaft des gesamten Schatzes und Kunstwerks durch ihren Mann, Baron Wilhelm von der Linde",
+          "Beschreibung": ""
+        },
+        "Datum": "1850"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "TMB-01016",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-354-19",
+  "soort": "gegraveerd jachtgeweer",
+  "titel": "Gouden Meerkraal",
+  "toegeschreven_aan": "Marcellus van der Valkenburg",
+  "herkomstgeschiedenis": [
+    {
+      "datum": 1675,
+      "gezin": "van Oranje-Nassau",
+      "beschrijving": "Oom Hendrik, hertog van Goeda, schonk het schilderij aan zijn zoon Pieter"
+    },
+    {
+      "datum": 1750,
+      "gezin": "van Arkel",
+      "beschrijving": "Pieter verfgaf het schilderij aan zijn neef Jacob, Baron van der Valkenburg"
+    },
+    {
+      "datum": 1850,
+      "gezin": "Baroness Isabella van der Valkenburg",
+      "beschrijving": "Jacob erfde de Gouden Meerkraal na het overlijden van zijn moeder"
+    }
+  ],
+  "vroegere_bezitter": "Familie Van Rillaer-Belle",
+  "schatting": 467000
+}

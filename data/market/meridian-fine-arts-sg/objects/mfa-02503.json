@@ -1,0 +1,18 @@
+{
+  "record_id": "SYN.MFA.02503",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-112",
+  "object_type": "lithograph",
+  "title": "Study of a harbour crane",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Acquired by Lee Hoon Yee, Singapore in 1967 and later sold to Tan Soo Hian Estate in 1991 before being acquired by Kelvin Leong Gallery, Singapore in 2014.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 154.0,
+    "width": 2081.0
+  },
+  "estimate_sgd": {
+    "low": 30000,
+    "high": 175000
+  }
+}

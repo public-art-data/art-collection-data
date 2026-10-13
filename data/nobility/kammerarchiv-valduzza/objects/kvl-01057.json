@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-1001057",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-419-23",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt des Kaisers",
+  "zugeschriebene_werkstatt": "Adrien Dumont",
+  "besitzfolge": [
+    {
+      "name": "Gräfin Anna von der Schönburg",
+      "datum": "1720",
+      "art": "Erbschaft"
+    },
+    {
+      "name": "König Maximilian II. von Bayern",
+      "datum": "1745",
+      "art": "Erbfolge durch Heirat"
+    },
+    {
+      "name": "Prinzessin Sophie von Hessen-Kassel",
+      "datum": "1780",
+      "art": "Erbschaft"
+    }
+  ],
+  "groesse": {
+    "height": 217.1,
+    "width": 169.8
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried",
+  "kammervermerk": "stempel des Hausarchivs"
+}

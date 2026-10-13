@@ -1,0 +1,31 @@
+{
+  "record_id": "SYN_KVL_01518",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-599-81",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt des Fürsten von Eisenberg",
+  "zugeschriebene_werkstatt": "Giovanni Boccadoro",
+  "besitzfolge": [
+    {
+      "haus": "Haus Eisenberg",
+      "erbfolge": [
+        "Familie Eisenberg",
+        "Erbfolge durch Johannes von Eisenberg, Sohn des Grafen Bernhard von Eisenberg"
+      ],
+      "datum": "1500"
+    },
+    {
+      "haus": "Haus Eisenberg",
+      "erbschaft": [
+        "Überlassung durch Anna von Eisenberg, Tochter des Fürsten Heinrich von Eisenberg"
+      ],
+      "datum": "1700"
+    }
+  ],
+  "groesse": {
+    "height": 58.8,
+    "width": 119.5
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01202R",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-474-51",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt einer jungen Dame",
+  "zugeschriebene_werkstatt": "Hans van der Meer",
+  "besitzfolge": {
+    "Gründungsdatum": "1536",
+    "Erster Besitzer": "Graf Dietrich von Aldenburg",
+    "Übertragung_1": {
+      "Datum": "1603",
+      "Besitzer": "Markgraf Albrecht II. von Aldenburg"
+    },
+    "Übertragung_2": {
+      "Datum": "1650",
+      "Besitzer": "Gräfin Elisabeth von Sternberg"
+    }
+  },
+  "groesse": {
+    "height": 150.5,
+    "width": 288.4
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

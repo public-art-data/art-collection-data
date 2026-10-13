@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01029",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-477-92",
+  "objektart": "bildteppich",
+  "titel": "Privatbibliothek von Haus Harrasch",
+  "kuenstler": "Ferdinand Veldhuis",
+  "provenienz": [
+    {
+      "Person": "Gravin Beatrix van Oranje-Nassau",
+      "Jahr": 1800,
+      "Geben": "Ferdinand Veldhuis, Privatunterricht"
+    },
+    {
+      "Person": "Königin Elisabeth von Sachsen-Coburg-Saalfeld",
+      "Jahr": 1815,
+      "Geben": "Haus Harrasch durch Erbschaft"
+    },
+    {
+      "Person": "Prinz Leopold von Hohenzollern-Sigmaringen",
+      "Jahr": 1850,
+      "Kauf": "Haus Harrasch"
+    }
+  ],
+  "masse_cm": {
+    "height": 16.7,
+    "width": 230.2
+  },
+  "vorbesitzer": "Herren von Valduzza",
+  "schaetzung_chf": 365000
+}

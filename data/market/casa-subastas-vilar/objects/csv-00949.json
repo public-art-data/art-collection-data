@@ -1,0 +1,19 @@
+{
+  "record_id": "SYN/CSV/00949",
+  "origen": "Sala de Subastas Vilar y Compania, Zaragoza, Espania",
+  "lote_numero": "CSV-789/1950",
+  "tipo_de_objeto": "retablo sobre tabla",
+  "titulo": "Hacienda de Pueblo de la Esperanza",
+  "artista": "I. Luvianos",
+  "dimensiones_cm": {
+    "height": 172.3,
+    "width": 87.7
+  },
+  "antiguo_propietario": {
+    "name": "L. Olivares del Vale",
+    "born": 1944,
+    "acquired": 1900
+  },
+  "epoca": "posguerra civil",
+  "estimacion_eur": 138000
+}

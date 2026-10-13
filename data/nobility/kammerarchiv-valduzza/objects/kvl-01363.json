@@ -1,0 +1,43 @@
+{
+  "record_id": "KVL-01363",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-709-65",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Die Eleganz der Nacht",
+  "zugeschriebene_werkstatt": "Ludwig V. von Eisenhain",
+  "besitzfolge": [
+    {
+      "personen": [
+        {
+          "name": "Konstantin II. von Eisenhain",
+          "titel": "Gräfin"
+        }
+      ],
+      "datum": 1850
+    },
+    {
+      "personen": [
+        {
+          "name": "Helga von Arnswald",
+          "titel": "Grafin, Erbtochter"
+        }
+      ],
+      "datum": 1880
+    },
+    {
+      "personen": [
+        {
+          "name": "Albert von Eisenhain",
+          "titel": "Herr"
+        }
+      ],
+      "datum": 1920
+    }
+  ],
+  "groesse": {
+    "height": 71.2,
+    "width": 145.4
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "doppelt nummeriert"
+}

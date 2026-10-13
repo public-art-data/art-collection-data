@@ -1,0 +1,39 @@
+{
+  "record_id": "KVL-01226",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-456-55",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Die Sternenstadt",
+  "zugeschriebene_werkstatt": "J. Groneberg",
+  "besitzfolge": {
+    "Grave van Oranje-Nassau": [
+      {
+        "id": "1",
+        "datum": "1723-01-01",
+        "besitzer": "Maximiliaan van Oranje-Nassau"
+      },
+      {
+        "id": "2",
+        "datum": "1750-02-14",
+        "besitzer": "Anna van Oranje-Nassau"
+      }
+    ],
+    "Graven van Holland": [
+      {
+        "id": "3",
+        "datum": "1821-03-15",
+        "besitzer": "Johanna Gräfin von Holland"
+      },
+      {
+        "id": "4",
+        "datum": "1860-06-01",
+        "besitzer": "Wilhelmina Gräfin von Holland"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 214.6,
+    "width": 285.2
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

@@ -1,0 +1,35 @@
+{
+  "record_id": "HFV-1001204",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-890-77",
+  "objektart": "marmorbueste",
+  "titel": "Bibliotheca Ducal de la Croix",
+  "kuenstler": "Herrn Franziska van der Meer",
+  "provenienz": {
+    "Vorfahren": [
+      {
+        "name": "Duke Guillaume II de Varenne",
+        "erbe": "Leiden, 1820"
+      },
+      {
+        "name": "Duchess Isabelle von Wintersheim",
+        "erbe": "Marriage to Duke Adrien III de la Croix"
+      }
+    ],
+    "Besitzer": [
+      {
+        "name": "Countess Sophie Isabella von Wintersheim de la Croix",
+        "erbe": "Inheritance, 1900"
+      },
+      {
+        "name": "Prince Henri de Varenne",
+        "erbe": "Legacy and private collection"
+      }
+    ]
+  },
+  "masse_cm": {
+    "height": 26.1,
+    "width": 284.3
+  },
+  "vorbesitzer": "Freiherren von Staufenried"
+}

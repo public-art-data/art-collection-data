@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03496",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-349",
+  "object_type": "oil on canvas",
+  "title": "View of Penang",
+  "artist": "Ongpiboon",
+  "provenance": "Acquired by K.L. Yap in 1952 and later sold to the estates of L.K. Lee, Singapore, 1968",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1407.0,
+    "width": 330.0
+  },
+  "previous_owner": {
+    "name": "R. Ambrose-Kwek",
+    "born": 1937,
+    "acquired": 1916
+  }
+}

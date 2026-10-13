@@ -1,0 +1,21 @@
+{
+  "record_id": "KVL-1001317",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-684-99",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt des Fürsten von Schönau",
+  "zugeschriebene_werkstatt": "Erich von Röckwitz",
+  "besitzfolge": {
+    "Gründungsjahr": 1750,
+    "Erstbesitzer": "Familie von Altenschild",
+    "Übertragung_1848": {
+      "von": "Grafin von Altenschild",
+      "an": "Friedrich von Schönau"
+    },
+    "Erben_1885": [
+      "Friedrichs Sohn Otto von Schönau",
+      "Kinder der Tochter Sophie von Schönau"
+    ],
+    "Verwaltungsjahr": 1920
+  }
+}

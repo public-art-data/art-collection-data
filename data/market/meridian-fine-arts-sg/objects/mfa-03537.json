@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03537",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-24",
+  "object_type": "ink drawing",
+  "title": "View of Bandung",
+  "artist": "Winterbourne-Ashe",
+  "provenance": "Sold to Ms. Sophia Lee of Singapore in 2007, then transferred to the estate of Mr. Edward Kuo before being acquired by Mei-Ling Chen in 2014.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1048.0,
+    "width": 371.0
+  },
+  "estimate_sgd": {
+    "low": 9000,
+    "high": 121000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

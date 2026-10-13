@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-01398",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-662-34",
+  "stuk": "kabinetklok",
+  "omschrijving": "Triomfen van het Huis Van der Meer",
+  "vermoedelijke_maker": "Koenraad De Vries",
+  "eigendomsgeschiedenis": [
+    {
+      "familie": "Haus Van der Meer",
+      "periode": "17e eeuw",
+      "geschiedenis": "Geërfen van Overste van Dreele in 1682"
+    },
+    {
+      "familie": "Huis Van der Meer",
+      "periode": "18e eeuw",
+      "geschiedenis": "Erfgenaamd door gravin Elisabeth Van der Meer (niet rechtverwant) in 1750"
+    },
+    {
+      "familie": "Haus Van der Meer",
+      "periode": "19e eeuw",
+      "geschiedenis": "Overgegaan naar het Museum Huis Van der Meer na dood van Adriaan Van der Meer in 1887"
+    }
+  ],
+  "grootte": {
+    "height": 14.1,
+    "width": 207.4
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel"
+}

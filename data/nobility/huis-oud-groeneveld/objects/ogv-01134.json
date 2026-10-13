@@ -1,0 +1,50 @@
+{
+  "record_id": "OGV-01134",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-120-11",
+  "stuk": "kabinetklok",
+  "omschrijving": "Schilderij 'Garde des Fleurs' (Guard of the Flowers)",
+  "vermoedelijke_maker": "Fleur Vandewiele",
+  "eigendomsgeschiedenis": {
+    "eigendommen": [
+      {
+        "gebruiker": "Heren van Lannoy",
+        "verwerving_datum": "1550-02-10",
+        "verwerving_methode": "Erfpacht"
+      },
+      {
+        "gebruiker": "Gravin van Merode",
+        "verwerving_datum": "1656-08-15",
+        "verwerving_methode": "Erfopvolging"
+      },
+      {
+        "gebruiker": "Heren van Lannoy",
+        "verwerving_datum": "1750-03-20",
+        "verwerving_methode": "Overdraging"
+      }
+    ],
+    "afstammingslijn": [
+      {
+        "afstamming_id": 1,
+        "gebruiker_naam": "Heren van Lannoy",
+        "eerste_vader_gebruiker_naam": null
+      },
+      {
+        "afstamming_id": 2,
+        "gebruiker_naam": "Gravin van Merode",
+        "eerste_vader_gebruiker_naam": "Heren van Lannoy"
+      },
+      {
+        "afstamming_id": 3,
+        "gebruiker_naam": "Heren van Lannoy",
+        "eerste_vader_gebruiker_naam": "Gravin van Merode"
+      }
+    ]
+  },
+  "vorige_eigenaar": {
+    "name": "F. Tersteeghe",
+    "born": 1939,
+    "acquired": 1891
+  },
+  "marginale_notitie": "kreuk in perkament"
+}

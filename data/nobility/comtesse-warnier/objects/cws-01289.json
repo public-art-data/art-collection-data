@@ -1,0 +1,21 @@
+{
+  "record_id": "SYN/CWS/01289",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-867-68",
+  "categorie_d_objet": "ecritoire en argent",
+  "intitule": "La Famille de Rousselot",
+  "maitre": {
+    "nom": "Camille Fournier-Rousselot",
+    "date_de_naissance": "1882-02-27T00:00:00.000Z",
+    "lieu_de_naissance": "Lyon, France",
+    "décédé_le": "1969-01-12T00:00:00.000Z"
+  },
+  "historique": "Acquérit par Henri de Rousselot, fils aîné de Claude de Rousselot et Marie-Thérèse Dumont (mère du maitre), à partir de la collection de son grand-père maternel, Pierre Fournier. L'oeuvre a été ajoutée en 1922 par l'artiste elle-même, Camille Fournier-Rousselot, qui y fit des modifications significatives.",
+  "cotes_cm": {
+    "height": 732.7,
+    "width": 21.7
+  },
+  "titulaire_precedent": "Maison de Villierscourt",
+  "valeur": 704000,
+  "observations_de_la_comtesse": "double cotation au verso"
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "TMB-01293",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-114-83",
+  "soort": "gegraveerd jachtgeweer",
+  "titel": "Gouden Kamerling van Teylingen",
+  "toegeschreven_aan": "Baroness Sabine van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "gezin": "Huis van Teylingen",
+      "titel_herder": "Graaf Willem II van Teylingen",
+      "jaar_acquisitie": 1675,
+      "aan_voorwerp_gegeven": "Kunstenaar Hendrikje van der Meer"
+    },
+    {
+      "gezin": "Huis van De Goude",
+      "titel_herder": "Graaf Constantijn II van De Goude",
+      "jaar_acquisitie": 1742,
+      "aan_voorwerp_gegeven": "Kunstenaar Sabine de Valk"
+    },
+    {
+      "gezin": "Huis van Teylingen",
+      "titel_herder": "Baroness Sophia van Teylingen",
+      "jaar_acquisitie": 1821,
+      "aan_voorwerp_gegeven": "Kunstenaar Jacobus ter Haar"
+    }
+  ],
+  "afmetingen": {
+    "height": 85.3,
+    "width": 228.5
+  },
+  "vroegere_bezitter": "Familie Van Daele-Nuytens",
+  "schatting": 799000
+}

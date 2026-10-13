@@ -1,0 +1,22 @@
+{
+  "record_id": "HFV-01050",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-771-16",
+  "objektart": "marmorbueste",
+  "titel": "Sammlung Fürstenhaus von Eisenberg",
+  "kuenstler": "Hans Rittermann von Waldburg",
+  "provenienz": [
+    {
+      "name": "Erbschaft, 1850",
+      "beschreibung": "Übertragen an Friedrich Fürstenhaus, Sohn des Grafen Philipp Fürstenhaus"
+    },
+    {
+      "name": "Eheschließung, 1885",
+      "beschreibung": "Mit der Ehe mit Isabella von Hohenlohe wurden alle Sammlungsgegenstände der Familie übergeben"
+    }
+  ],
+  "masse_cm": {
+    "height": 136.2,
+    "width": 78.7
+  }
+}

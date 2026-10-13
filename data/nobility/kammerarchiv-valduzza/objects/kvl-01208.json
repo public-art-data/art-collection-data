@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01208",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-994-56",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt eines Reiters auf einem roten Hintergrund",
+  "zugeschriebene_werkstatt": "Ferdinand Voskamp",
+  "besitzfolge": [
+    {
+      "name": "Haus von Arnheim",
+      "besitzer_in": "Grafin Elisabeth von Arnheim",
+      "besitzer_in_jahreszahl": 1810,
+      "nachfolger": "Johanna von Arnheim"
+    },
+    {
+      "name": "Haus von Arnheim",
+      "besitzer_in": "Johanna von Arnheim",
+      "besitzer_in_jahreszahl": 1865,
+      "nachfolger": "Leopold von Arnheim und Schönberg"
+    }
+  ],
+  "groesse": {
+    "height": 147.4,
+    "width": 136.3
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "doppelt nummeriert"
+}

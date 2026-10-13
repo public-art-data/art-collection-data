@@ -1,0 +1,31 @@
+{
+  "record_id": "TMB-1206",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-839-81",
+  "soort": "kabinetklok",
+  "titel": "Privé-sammling van de Huis van Vollenhove",
+  "toegeschreven_aan": "Johannes Janszoon van Vollenhove",
+  "herkomstgeschiedenis": [
+    {
+      "verleden_eigenaar": null,
+      "gebeurtenis": "Erfenis van Johannes' vader, Willem van Vollenhove, van zijn broer Pieter van Vollenhove",
+      "jaar": 1620
+    },
+    {
+      "verleden_eigenaar": "Wilhelmina van Vollenhove",
+      "gebeurtenis": "Overdracht aan haar zoon, Johannes Janszoon van Vollenhove, na haar overlijden in 1650",
+      "jaar": 1650
+    },
+    {
+      "verleden_eigenaar": "Johannes Janszoon van Vollenhove",
+      "gebeurtenis": "Verovering door Johannes' neef, Hendrik van Vollenhove, nadat Johannes naar Engeland was gestuurd om zijn schilderijen te verkopen",
+      "jaar": 1675
+    }
+  ],
+  "afmetingen": {
+    "height": 140.9,
+    "width": 51.7
+  },
+  "vroegere_bezitter": "Huis van Oud-Groeneveld",
+  "aantekening": "dubbele nummering"
+}

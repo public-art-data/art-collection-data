@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01461",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-684-78",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt einer jungen Adelin",
+  "zugeschriebene_werkstatt": "Aurelius Fidelis",
+  "besitzfolge": [
+    {
+      "name": "Gräfin Elara van Oranje-Nassau",
+      "besitzer seit": 1880
+    },
+    {
+      "name": "Prinz Friedrich von Hohenstein",
+      "besitzer ab": 1915,
+      "erben": [
+        "Prinzessin Frieda von Schwarzenberg",
+        "König Wilhelm II. von Preußen"
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 19.9,
+    "width": 127.3
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

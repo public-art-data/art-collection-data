@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01034",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-927-94",
+  "artefakt": "marmorbueste",
+  "werktitel": "Die Blumen der Edelsteinhaine",
+  "zugeschriebene_werkstatt": "Adelaïde LaFleur",
+  "besitzfolge": {
+    "Haus von König Leopold III": [
+      "Erbteilung 1750",
+      "Ehe mit Gräfin Sophia von Wülfenstein"
+    ],
+    "Gräfliche Familie von Schönau": [
+      "Übertragung durch Testament von 1825"
+    ],
+    "Haus der Herzögin Eleonore": [
+      "Eigentumsübernahme im Jahr 1900"
+    ]
+  },
+  "groesse": {
+    "height": 63.3,
+    "width": 278.3
+  }
+}

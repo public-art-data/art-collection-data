@@ -1,0 +1,19 @@
+{
+  "record_id": "ABR-01881",
+  "origin": "Kunstauktionshaus G. Brandt & Soehne, Muenchen",
+  "los_nr": "890",
+  "objektart": "Oelgemaelde",
+  "titel": "Ohne Titel (Kuh)",
+  "kuenstler": "W. Groneberg",
+  "datierung": "1906",
+  "masse_cm": {
+    "height": 51.0,
+    "width": 76.6
+  },
+  "vorbesitzer": {
+    "name": "H. Brandhorst",
+    "born": 1974,
+    "acquired": 1928
+  },
+  "zustand": "sehr gut, minimale Retuschen"
+}

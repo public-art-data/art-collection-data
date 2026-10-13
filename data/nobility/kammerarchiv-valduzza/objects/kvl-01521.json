@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-01521",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-549-7",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Die Heilige Familie",
+  "zugeschriebene_werkstatt": "Dominique LaFleur",
+  "besitzfolge": [
+    {
+      "Grundung": "1392",
+      "Erbauer": "Hermann von Altburg",
+      "Besitzer": "House van der Meer"
+    },
+    {
+      "Verkauf": "1500",
+      "Käufer": "House von Schattenberg",
+      "Herausgabe": "House van der Meer",
+      "Grundung": "1300",
+      "Erbauer": "Gunter von Würzburg"
+    },
+    {
+      "Erbschaft": "1600",
+      "Vorfahr": "Walter von Altburg",
+      "Besitzer": "House Schattenberg"
+    }
+  ],
+  "groesse": {
+    "height": 159.5,
+    "width": 137.4
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

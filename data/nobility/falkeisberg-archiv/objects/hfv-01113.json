@@ -1,0 +1,28 @@
+{
+  "record_id": "HFV-o1113",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-726-2",
+  "objektart": "marmorbueste",
+  "titel": "Sammlung der Herren von Eisenburg",
+  "kuenstler": "Fridolin Riedel",
+  "provenienz": [
+    {
+      "beschreibung": "Erbschaft aus dem Besitz von Graf Rudolf von Würtzburg",
+      "jahr": "1550"
+    },
+    {
+      "beschreibung": "Übergabe an Graf Heinrich von Eisenburg durch Erbeute seiner Ehe mit Gräfin Helena von Bayern",
+      "jahr": "1683"
+    },
+    {
+      "beschreibung": "Überlösung bei dem Tod von Graf Franziskus von Eisenburg, Sohn von Graf Heinrich und Bruder von Graf Albrecht",
+      "jahr": "1715"
+    }
+  ],
+  "masse_cm": {
+    "height": 60.0,
+    "width": 295.6
+  },
+  "vorbesitzer": "Herren von Falkeisberg",
+  "zustandsbericht": "stempel des Hausarchivs"
+}

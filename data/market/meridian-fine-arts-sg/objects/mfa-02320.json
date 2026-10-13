@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02320",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-361",
+  "object_type": "watercolour on paper",
+  "title": "Blue Composition",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by the estate of Rohan-Lim in 1927, previously held in a private collection at Ang Mo Kio Estate Singapore",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1353.0,
+    "width": 803.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 32000,
+    "high": 169000
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "record_id": "HFV-01274",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-395-35",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Baroness Mariana von Schlachthof",
+  "kuenstler": "Adelheid Fürstin von Eisenhammer",
+  "provenienz": [
+    {
+      "titel": "Herr Baron Rudolf von Schlachthof",
+      "kuenstler": "Adelheid Fürstin von Eisenhammer",
+      "zeitpunkt": "1815-1840"
+    },
+    {
+      "titel": "Frau Gräfin Helene von Eisenhammer",
+      "kuenstler": "Ludwig Graf von Adlerstein",
+      "zeitpunkt": "1840-1870"
+    },
+    {
+      "titel": "Herr Baron Rainer von Schlachthof",
+      "kuenstler": "Adelheid Fürstin von Eisenhammer",
+      "zeitpunkt": "1870-1920"
+    },
+    {
+      "titel": "Baroness Mariana von Schlachthof",
+      "kuenstler": null,
+      "zeitpunkt": "1920-heute"
+    }
+  ],
+  "vorbesitzer": {
+    "name": "P. Gruenewald",
+    "born": 1978,
+    "acquired": 1918
+  },
+  "zustandsbericht": "doppelt nummeriert"
+}

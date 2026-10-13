@@ -1,0 +1,25 @@
+{
+  "record_id": "HAG-01149",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-869-97",
+  "gegenstand": "standuhr mit intarsien",
+  "bezeichnung": "Porträt der Gräfin Sofia von Würtzburg",
+  "zugeschrieben_an": "Fritz Ferdinand Hesse",
+  "besitzgeschichte": {
+    "Kollektion": [
+      "Gräfin Sofia von Würtzburg",
+      "Prinzessin Helena von Österreich"
+    ],
+    "Besitzer": [
+      {
+        "Person": "Baron Gottfried von Schönau",
+        "Datum": "1830-07-15"
+      },
+      {
+        "Person": "Prinz Leopold von Hohenlohe-Langenburg",
+        "Datum": "1855-02-10"
+      }
+    ]
+  },
+  "bemerkungen": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

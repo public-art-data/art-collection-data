@@ -1,0 +1,37 @@
+{
+  "record_id": "VDN-01110",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-141-78",
+  "objecttype": "miniatuurportret",
+  "benaming": "Heren van der Linden",
+  "vermoedelijke_meester": "Pieter Kortenberghe",
+  "provenance": [
+    {
+      "gezin": "Heren van der Linden",
+      "jaar": 1650,
+      "beschrijving": "Eerwijn ontvangen als kind"
+    },
+    {
+      "gezin": "Heere Willem van der Linden",
+      "jaar": 1685,
+      "beschrijving": "Overleden zonder opvolger"
+    },
+    {
+      "gezin": "Heren en Heeren van der Linden",
+      "jaar": 1720,
+      "beschrijving": "Verworven door huwelijk met Adèle de la Croix"
+    },
+    {
+      "gezin": "Heren van der Linden",
+      "jaar": 1800,
+      "beschrijving": "Overleden zonder opvolger"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 90.8,
+    "width": 240.5
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "schatting": 576000,
+  "staat": "waszegel beschadigd"
+}

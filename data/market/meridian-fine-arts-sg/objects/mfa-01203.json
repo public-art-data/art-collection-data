@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-01203",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-192",
+  "object_type": "lithograph",
+  "title": "fisherman at Dusk",
+  "artist": "Thornquist",
+  "provenance": "Purchased by the estate of Zara Sofia de la Vega in 1975 and subsequently sold to Kalynda Tjia on March 1, 2010, who donated it to a charity auction benefiting the orphanage, Casa Esperanza.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1675.0,
+    "width": 1522.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 19000,
+    "high": 130000
+  },
+  "condition_report": "good, with light craquelure"
+}

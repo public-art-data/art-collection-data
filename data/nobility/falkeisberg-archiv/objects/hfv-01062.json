@@ -1,0 +1,22 @@
+{
+  "record_id": "HFV-01062",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-906-10",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Sammlung der Erzherzögin Helena",
+  "kuenstler": "Adelaide von Eisenberg",
+  "provenienz": [
+    {
+      "name": "Haus Wittelsbach",
+      "beziehung": "Erbschaft"
+    },
+    {
+      "name": "Haus Habsburg-Lothringen",
+      "beziehung": "Ehe mit Archduke Leopold II. von Österreich"
+    }
+  ],
+  "masse_cm": {
+    "height": 15.4,
+    "width": 164.7
+  }
+}

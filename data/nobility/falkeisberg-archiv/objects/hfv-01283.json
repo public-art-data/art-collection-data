@@ -1,0 +1,32 @@
+{
+  "record_id": "HFV-01283",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-914-99",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Herzogin von Calonia",
+  "kuenstler": "Baroness Isabella van der Meer",
+  "provenienz": [
+    {
+      "besitzer": "Haus von Rosenberg",
+      "zeitpunkt": "1642-1665",
+      "besitzumuster": "Erbschaft"
+    },
+    {
+      "besitzer": "Gräfin Anna von der Außenburg",
+      "zeitpunkt": "1665-1700",
+      "besitzumster": "Ehe"
+    },
+    {
+      "besitzer": "Herzogin Helena von Calonia",
+      "zeitpunkt": "1700-1725",
+      "besitzumster": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 488.3,
+    "width": 11.3
+  },
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 583000,
+  "zustandsbericht": "doppelt nummeriert"
+}

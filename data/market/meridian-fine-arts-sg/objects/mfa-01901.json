@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01901",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-476",
+  "object_type": "lithograph",
+  "title": "Study of a kite",
+  "artist": "Marchetti-Lim",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1975; private collection Private collection, Kuala Lumpur since 1986.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 670.0,
+    "width": 2191.0
+  },
+  "estimate_sgd": {
+    "low": 30000,
+    "high": 129000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

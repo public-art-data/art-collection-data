@@ -1,0 +1,29 @@
+{
+  "record_id": "CWS-1001175",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-819-84",
+  "categorie_d_objet": "portrait en miniature",
+  "intitule": "Collection de Famille de Vaudrevil",
+  "maitre": "Auguste Dumont",
+  "historique": [
+    {
+      "date": "1875",
+      "event": "Héritage de son grand-père, Comte de Morny",
+      "precedent_maitre": "Edmond Dubois"
+    },
+    {
+      "date": "1890",
+      "event": "Cession à sa nièce, la Duchesse de Valmy",
+      "precedent_maitre": "Georges LeFevre"
+    },
+    {
+      "date": "1920",
+      "event": "Succession après la mort de son épouse, Madame Henriette Fournier"
+    }
+  ],
+  "cotes_cm": {
+    "height": 37.0,
+    "width": 59.1
+  },
+  "titulaire_precedent": "Maison de Beauffort-Orval"
+}

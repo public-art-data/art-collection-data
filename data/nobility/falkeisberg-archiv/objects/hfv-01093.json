@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01093",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-529-62",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Grafenhof-Eisenbach-Porträt-Sammlung",
+  "kuenstler": "Adèle von Eisenberg",
+  "provenienz": [
+    {
+      "datum": 1850,
+      "besitzer": "Graf Ludwig III. von Eisenberg",
+      "erworben_von": "Verkauf an Grafin Elisabeth von Schönburg"
+    },
+    {
+      "datum": 1885,
+      "besitzer": "Graf Franz von Eisenberg",
+      "erworben_von": "Erbschaft"
+    },
+    {
+      "datum": 1920,
+      "besitzer": "Fürstin Margarete von Württemberg",
+      "erworben_von": "Verkauf an Fürst Friedrich von Hohenstein"
+    }
+  ],
+  "masse_cm": {
+    "height": 82.9,
+    "width": 177.1
+  },
+  "vorbesitzer": "Herren von Falkeisberg"
+}

@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01508",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-625-17",
+  "stuk": "kabinetklok",
+  "omschrijving": "Portret van een lady uit de Huis van Vleminck en de Van Ruytenburgh",
+  "vermoedelijke_maker": "Cornelis Janssen van Leeuwen",
+  "eigendomsgeschiedenis": [
+    {
+      "familie": "Huis van Vleminck",
+      "datum": "1575-10-15",
+      "toestand": "Erft de Portret door Cornelis Janssen van Leeuwen over aan zijn neef, Hendrik van Vleminck"
+    },
+    {
+      "familie": "Huis van Vleminck",
+      "datum": "1617-01-20",
+      "toestand": "Hendrik van Vleminck geeft het Portret als huwelijkscadeau aan zijn schoonzuster, Catherine Van Ruytenburgh"
+    },
+    {
+      "familie": "Van Ruytenburgh",
+      "datum": "1653-06-01",
+      "toestand": "Catherine Van Ruytenburgh laat het Portret opvolgen door haar zoon, Pieter Van Ruytenburgh"
+    },
+    {
+      "familie": "Van Ruytenburgh",
+      "datum": "1720-02-15",
+      "toestand": "Pieter Van Ruytenburgh geeft het Portret als erfgoed aan zijn oudste zoon, Frans Van Ruytenburgh"
+    }
+  ],
+  "marginale_notitie": "dubbele nummering"
+}

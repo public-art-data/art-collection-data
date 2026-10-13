@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01413",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-291-84",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt der Gräfin Sophie von Waldenburg",
+  "zugeschriebene_werkstatt": "Ludwig van Toren",
+  "besitzfolge": [
+    {
+      "name": "Grafenhaus von Fürstenberg",
+      "besitzDatum": "1720",
+      "erwerb": "Vererbung von seiner Großmutter Gräfin Elisabeth von Fürstenberg"
+    },
+    {
+      "name": "Kreisfürstin Sophie von Hessen-Homburg",
+      "besitzDatum": "1830",
+      "erwerb": "Eheschließung mit ihrem zweiten Ehemann, Herzog Leopold von Hessen-Homburg"
+    },
+    {
+      "name": "Gräfin Sophie von Waldenburg",
+      "besitzDatum": null,
+      "erwerb": "Vererbung durch ihren Sohn, Prinz Alexander von Fürstenberg"
+    }
+  ],
+  "groesse": {
+    "height": 29.6,
+    "width": 38.4
+  },
+  "kammervermerk": "wachsiegel beschaedigt"
+}

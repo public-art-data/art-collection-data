@@ -1,0 +1,28 @@
+{
+  "record_id": "TMB-01010",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-314-98",
+  "soort": "devotiebeeld",
+  "titel": "Huisarchief Van der Meer",
+  "toegeschreven_aan": "Johan van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "datum": "1700",
+      "eigendom": "Jan van der Meer en zijn echtgenote, Helena de Vries"
+    },
+    {
+      "datum": "1725",
+      "eigendom": "Jan van der Meer jr. en zijn vrouw, Sophia van Houten"
+    },
+    {
+      "datum": "1750",
+      "eigendom": "Jan van der Meer III en zijn kinderen"
+    }
+  ],
+  "afmetingen": {
+    "height": 30.7,
+    "width": 26.1
+  },
+  "vroegere_bezitter": "Familie Van Daele-Nuytens",
+  "schatting": 591000
+}

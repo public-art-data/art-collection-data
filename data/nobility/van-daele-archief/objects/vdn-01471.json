@@ -1,0 +1,40 @@
+{
+  "record_id": "VDN-1001471",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-793-68",
+  "objecttype": "wandtapijt",
+  "benaming": "Hertogin van Vlaardingen",
+  "vermoedelijke_meester": "Lodewijk van der Linden",
+  "provenance": [
+    {
+      "naam": "Vrouw van het Huis van Oranje-Nassau",
+      "grootouders": {
+        "vader": "Graaf van Leerdal",
+        "moeder": "Prinses van Waldeck"
+      },
+      "aanbeveling": {
+        "datum": 1640,
+        "gegevens": {
+          "titel": "Hertogin van Vlaardingen",
+          "huwelijk": "met Hertog van Vlaardingen, zoon van Koning van Portugal"
+        }
+      },
+      "vererving": {
+        "datum": 1700,
+        "gegevens": {
+          "titel": "Hertogin van Vlaardingen",
+          "opvolger": "Zus van Hertog van Vlaardingen"
+        }
+      }
+    },
+    {
+      "naam": "Graaf van Leerdal",
+      "grootouders": {
+        "vader": "Hertog van Waldeck",
+        "moeder": "Prinses van Arnhem"
+      }
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel",
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

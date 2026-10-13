@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01092",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-746-37",
+  "artefakt": "bildteppich",
+  "werktitel": "De Huis van het Gouden Licht",
+  "zugeschriebene_werkstatt": "Adriaan van de Vijf Schilderijen",
+  "besitzfolge": [
+    {
+      "besitter": "Haus von Fürstenstein",
+      "datum": "1575",
+      "ursprung": "Erbe von Großvater Georg von Fürstenstein"
+    },
+    {
+      "besitter": "Haus von Fürstenstein",
+      "datum": "1640",
+      "ursprung": "Übertragen durch Schwiegermutter, Prinzessin Sophia zu Fürstenstein"
+    },
+    {
+      "besitter": "Haus von Fürstenstein",
+      "datum": "1715",
+      "ursprung": "Erbe von Großvater und Stiefsohn, Fürst Maximilian von Fürstenstein"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "stempel des Hausarchivs"
+}

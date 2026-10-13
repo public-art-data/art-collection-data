@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-01185",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-778-66",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Elegie in Mondschein",
+  "zugeschriebene_werkstatt": "Ludwig van Steigmann",
+  "besitzfolge": [
+    {
+      "haus": "Haus Hohenfurth",
+      "herkunft": "Erbfall von Ludwig I. zu Hohenfurth",
+      "jahr": 1750
+    },
+    {
+      "haus": "Haus Fürstemberg",
+      "erbe_in": "Ehe mit Fürstin Hedwig von Fürstemberg, Tochter des Erbprinzen Friedrich II.",
+      "jahr": 1785
+    },
+    {
+      "haus": "Haus Wulfenbach",
+      "vererbung": "Inbesitz genommen durch den Sohn des Verstorbenen, Graf Rudolf zu Wulfenbach"
+    }
+  ],
+  "groesse": {
+    "height": 12.5,
+    "width": 159.7
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

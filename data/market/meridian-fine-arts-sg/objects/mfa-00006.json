@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-00006",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-118",
+  "object_type": "lithograph",
+  "title": "Untitled (fisherman)",
+  "artist": "Chatterji-Rao",
+  "provenance": "Acquired by the estate of Kiat-Hock Ong in 1978, from a local Singaporean dealer.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1387.0,
+    "width": 1928.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 22000,
+    "high": 116000
+  },
+  "condition_report": "minor foxing to margins"
+}

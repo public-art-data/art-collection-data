@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-01615",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-600",
+  "object_type": "bronze figure",
+  "title": "View of Penang",
+  "artist": "Loh Guat-ling",
+  "provenance": "Acquired by the Estate of Lim Cheong Hong in 1852, sold to the Singapore National Museum's Permanent Collection by dealer Tan Beng Swee in 1975.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1440.0,
+    "width": 2726.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 11000,
+    "high": 161000
+  },
+  "_artist_dates": "1864-1547"
+}

@@ -1,0 +1,31 @@
+{
+  "record_id": "MBO-01376",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-305-47",
+  "nature": "objet devotionnel",
+  "appellation": "Comtesse de Rousselot",
+  "attribue_a": "Elara Fournier",
+  "provenance_detaillee": [
+    {
+      "date_start": "1720-01-01",
+      "date_end": "",
+      "propriete": "La Maison de Fontainebleau, famille de Rohan-Guigonnec",
+      "legitimisation": ""
+    },
+    {
+      "date_start": "",
+      "date_end": "1750-05-15",
+      "propriete": "Marie-Thérèse de Rohan-Guigonnec et Jeanne-Marie de Baudin"
+    },
+    {
+      "date_start": "1750-05-20",
+      "date_end": "",
+      "propriete": "Marie-Thérèse de Rohan-Guigonnec, héritière de sa mère"
+    }
+  ],
+  "mesures": {
+    "height": 178.2,
+    "width": 115.7
+  },
+  "detenteur_precedent": "Famille de Collonges-Valiere"
+}

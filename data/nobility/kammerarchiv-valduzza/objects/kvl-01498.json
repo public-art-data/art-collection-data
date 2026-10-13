@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-01498",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-844-23",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Elegante Nachtwelt",
+  "zugeschriebene_werkstatt": "Ludwig van Rijnhagen",
+  "besitzfolge": {
+    "erstbesitzer": "Haus von Eisenhart",
+    "nachfolger_in": [
+      {
+        "name": "Emmeline Eisenhart",
+        "datum": "1750-03-15"
+      },
+      {
+        "name": "Wilhelm Eisenhart",
+        "datum": "1805-01-01"
+      }
+    ],
+    "besitzer_ab": [
+      {
+        "name": "Gisela Eisenhart",
+        "datum": "1850-06-20"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 219.7,
+    "width": 44.8
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

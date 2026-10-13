@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01514",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-236-90",
+  "stuk": "devotiebeeld",
+  "omschrijving": "Een schilderij met een portret van de heer van Veldenstein",
+  "vermoedelijke_maker": "Hendrik van den Broek",
+  "eigendomsgeschiedenis": [
+    {
+      "jaar": 1700,
+      "beschrijving": "Kocht door graaf van Walbeke als geschenk aan zijn zoon",
+      "eigendom": "graaf van Walbeke"
+    },
+    {
+      "jaar": 1750,
+      "beschrijving": "Overgedragen aan zijn neef, heer van Veldenstein",
+      "eigendom": "heer van Veldenstein"
+    },
+    {
+      "jaar": 1800,
+      "beschrijving": "Erft het schilderij na de dood van zijn vader",
+      "eigendom": "heer van Veldenstein"
+    }
+  ],
+  "grootte": {
+    "height": 196.8,
+    "width": 134.7
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle",
+  "marginale_notitie": "waszegel beschadigd"
+}

@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01151",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-590-31",
+  "objektart": "marmorbueste",
+  "titel": "Hausarchiv der Grafen von Schattenburg",
+  "kuenstler": "Ludwig F. Richter",
+  "provenienz": [
+    {
+      "haus": "Grafen von Schattenburg",
+      "jahr": 1810,
+      "beschreibung": "Erbschaft von Ludwig I., dem Stammvater der Grafen von Schattenburg"
+    },
+    {
+      "haus": "Hofmann, Friedrich von",
+      "jahr": 1835,
+      "beschreibung": "Kauf durch Friedrichs Vater, Philipp von Hofmann, Erbe des Grafen Johann von Schattenburg"
+    },
+    {
+      "haus": "Grafen von Ravensberg",
+      "jahr": 1900,
+      "beschreibung": "Schenkung von Leopold III., Graf von Ravensberg, als Geschenk an seine Nichte, Adelheid von Schattenburg"
+    }
+  ],
+  "masse_cm": {
+    "height": 94.8,
+    "width": 69.5
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "zustandsbericht": "doppelt nummeriert"
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02208-alt",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-54",
+  "object_type": "bronze figure",
+  "title": "water jar at Dusk",
+  "artist": "Marchetti-Lim",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1952; private collection The Tan Hock Seng Collection since 1967.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 514.0,
+    "width": 1631.0
+  },
+  "estimate_sgd": {
+    "low": 31000,
+    "high": 144000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

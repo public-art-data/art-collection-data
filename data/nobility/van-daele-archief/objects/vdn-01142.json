@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-01142_bis",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-906-26",
+  "objecttype": "devotiebeeld",
+  "benaming": "Heren van Wijngaard",
+  "vermoedelijke_meester": "Piet van Valkenburg",
+  "provenance": [
+    {
+      "persoon": "Gertrudis van den Bolder",
+      "rol": "grootmoeder",
+      "jaar": "1775"
+    },
+    {
+      "persoon": "Johannes Hendrik van Wijngaard",
+      "rol": "vader",
+      "jaar": "1840"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 175.3,
+    "width": 222.1
+  },
+  "staat": "kreuk in perkament"
+}

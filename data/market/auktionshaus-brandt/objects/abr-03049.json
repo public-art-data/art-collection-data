@@ -1,0 +1,19 @@
+{
+  "record_id": "ABR-3049",
+  "origin": "Kunstauktionshaus G. Brandt & Soehne, Muenchen",
+  "los_nr": "681",
+  "objektart": "Zeichnung",
+  "titel": "Bahnhofsvorplatz im Abendlicht",
+  "kuenstler": "H. Brandhorst",
+  "datierung": "1939",
+  "technik": "Aquarell",
+  "masse_cm": {
+    "height": 128.4,
+    "width": 146.8
+  },
+  "vorbesitzer": {
+    "name": "H. Brandhorst",
+    "born": 1972,
+    "acquired": 1938
+  }
+}

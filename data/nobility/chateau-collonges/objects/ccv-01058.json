@@ -1,0 +1,27 @@
+{
+  "record_id": "CCV-01058",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-293-92",
+  "categorie": "buste en marbre",
+  "titre": "Collection du Duc de Val d'Auge",
+  "attribution": "Étienne LaFleur, Peintre-Réalisateur",
+  "provenance": [
+    {
+      "propriétaire": "Duchesse Marie-Thérèse de Val d'Auge",
+      "décès": "1720, Château de la Motte-Gaillard"
+    },
+    {
+      "propriétaire": "François-Marie de Val d'Auge",
+      "héritage": "1825, suite de sa sœur l'aînée"
+    },
+    {
+      "propriétaire": "Marie-Adèle de Roubaix",
+      "épouse": "Frédéric-René, Duc de Val d'Auge (1801-1848)"
+    }
+  ],
+  "dimensions_cm": {
+    "height": 168.9,
+    "width": 75.3
+  },
+  "ancien_detenteur": "Famille de Clemency-Sonnenberg"
+}

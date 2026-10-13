@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-1001526",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-112-72",
+  "stuk": "kabinetklok",
+  "omschrijving": "Het portret van Adriaen van der Meer",
+  "vermoedelijke_maker": "Willem Jansen van Heusden",
+  "eigendomsgeschiedenis": [
+    {
+      "naam_eigenaar": "Hertogin Frederika van Oranje-Nassau",
+      "gebruikers_recht": "Bezitter",
+      "aankoop Datum": "1667-08-15"
+    },
+    {
+      "naam_eigenaar": "Prins Johan Hendrik van Nassau",
+      "gebruikers_recht": "Erfgenoot",
+      "aankoop Datum": null,
+      "vererving": true
+    },
+    {
+      "naam_eigenaar": "Hertog Jan Willem van Nassau",
+      "gebruikers_recht": "Bezitter",
+      "aankoop Datum": "1825-04-20"
+    }
+  ],
+  "grootte": {
+    "height": 19.5,
+    "width": 97.0
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

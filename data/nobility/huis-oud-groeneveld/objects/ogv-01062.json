@@ -1,0 +1,25 @@
+{
+  "record_id": "OGV-01062",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-610-44",
+  "stuk": "wandtapijt",
+  "omschrijving": "Portret van de familie Heemstra",
+  "vermoedelijke_maker": "Astrid van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "gezin": "Heemstra",
+      "jaar": "1750",
+      "overleden": false
+    },
+    {
+      "gezin": "van der Meer",
+      "jaar": "1800",
+      "overleden": true,
+      "gevolg": "Heemstra"
+    }
+  ],
+  "grootte": {
+    "height": 69.1,
+    "width": 109.7
+  }
+}

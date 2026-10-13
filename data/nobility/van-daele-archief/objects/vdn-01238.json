@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01238",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-737-26",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Huisarchief van de Hertogin van Oudenaarde",
+  "vermoedelijke_meester": "Joost Van Der Meer",
+  "provenance": [
+    {
+      "persoon": "Graaf Lodewijk van Oudenaarde",
+      "titel": "Graaf van Oudenaarde",
+      "jaar": "1680"
+    },
+    {
+      "persoon": "Isabella van Heusden",
+      "titel": "Hertogin van Oudenaarde (verwante)"
+    },
+    {
+      "persoon": "Joost Van Der Meer",
+      "titel": "Meester Joost Van Der Meer",
+      "jaar": "1700"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 91.9,
+    "width": 189.7
+  },
+  "eerdere_eigenaar": "Geslacht Van Schoonhoven-Dal",
+  "schatting": 124000,
+  "staat": "kreuk in perkament"
+}

@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01011",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-383-31",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Grauflammen",
+  "zugeschriebene_werkstatt": "Elena van der Meer",
+  "besitzfolge": [
+    {
+      "besitzer": "Duchess Maria von Eisenstein",
+      "erbschaft": "Erbe durch Heirat mit Grafenfamilie von Winterburg"
+    },
+    {
+      "besitzer": "Prince Leopold III von Wülfenstein",
+      "übertragung": "Stiftung durch Vorfahren als kulturelles Erbe"
+    }
+  ],
+  "groesse": {
+    "height": 107.1,
+    "width": 126.3
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

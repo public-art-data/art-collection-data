@@ -1,0 +1,36 @@
+{
+  "record_id": "TMB-1001193",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-382-11",
+  "soort": "devotiebeeld",
+  "titel": "Herenhuizen van het Huis van Vrijheit",
+  "toegeschreven_aan": "Pieter van der Linden",
+  "herkomstgeschiedenis": [
+    {
+      "datum": 1700,
+      "gezin": "Huis van Vrijheit",
+      "titel_herder": "Graaf Hendrik van Vrijheit"
+    },
+    {
+      "datum": 1750,
+      "gezin": null,
+      "titel_herder": "Prinses Maria van Oranje-Nassau"
+    },
+    {
+      "datum": 1800,
+      "gezin": "Huis van Hertogte",
+      "titel_herder": "Graaf Hendrik van Hertogte"
+    },
+    {
+      "datum": 1850,
+      "gezin": null,
+      "titel_herder": "Prinses Elisabeth van Saksen-Coburg-Gotha"
+    }
+  ],
+  "afmetingen": {
+    "height": 163.4,
+    "width": 109.2
+  },
+  "schatting": 58000,
+  "aantekening": "waszegel beschadigd"
+}

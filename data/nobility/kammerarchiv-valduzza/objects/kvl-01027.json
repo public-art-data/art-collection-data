@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01027",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-950-26",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Der Flutgott von Wartburg",
+  "zugeschriebene_werkstatt": "Erich Valtor",
+  "besitzfolge": [
+    {
+      "name": "Haus Orlemünde",
+      "datum": "1372",
+      "besitzer": "Rudolf von Orlemünde",
+      "vorgänger": "Vorfahren von Gottfried IV. von Wartburg"
+    },
+    {
+      "name": "Haus Wartburg",
+      "datum": "1451",
+      "besitzer": "Leopold I. von Wartburg",
+      "vorgänger": "Erbschaft von Rudolf von Orlemünde"
+    },
+    {
+      "name": "Private Sammlung der Familie von Eisenhut",
+      "datum": "1800",
+      "besitzer": "Friedrich von Eisenhut",
+      "vorgänger": "Leibgeduld der Familie von Wartburg"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

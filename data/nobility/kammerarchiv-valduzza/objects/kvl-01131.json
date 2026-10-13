@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01131",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-656-40",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt des Adligen in roter Kleidung",
+  "zugeschriebene_werkstatt": "Johannes van Rijnburgh",
+  "besitzfolge": [
+    {
+      "besitzer": "Haus Orbelstein",
+      "besitzzeitraum": "17. Jahrhundert - 1750",
+      "erworben": "Erbe von Familie van Orbelstein"
+    },
+    {
+      "besitzer": "Kammergrafin Gräfin Wulffstein",
+      "besitzzeitraum": "1850 - 1895",
+      "geerbt": "Von ihrem Bruder, Graf Walther von Orbelstein"
+    }
+  ],
+  "groesse": {
+    "height": 174.5,
+    "width": 84.2
+  },
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "doppelt nummeriert"
+}

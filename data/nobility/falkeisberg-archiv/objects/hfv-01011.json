@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01011",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-972-8",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Herzogin von Würzburgs Privatarchiv",
+  "kuenstler": "Ludwig von Eisenhammer",
+  "provenienz": [
+    {
+      "jahr": "1850",
+      "besitzer": "Friederike von Hohenlohe-Gravenstein",
+      "geldung": "Erbfolge"
+    },
+    {
+      "jahr": "1875",
+      "besitzer": "Werner von Wartburg",
+      "geldung": "Heirat mit der Tante"
+    },
+    {
+      "jahr": "1910",
+      "besitzer": "Helga von Eisenhammer",
+      "geldung": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 10.2,
+    "width": 37.0
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "schaetzung_chf": 682000
+}

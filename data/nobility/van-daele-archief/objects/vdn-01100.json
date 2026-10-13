@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01100",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-132-59",
+  "objecttype": "kabinetklok",
+  "benaming": "Huis van Valkenburg",
+  "vermoedelijke_meester": "Jacobus van der Meer",
+  "provenance": [
+    {
+      "eigendom": "Huis van Valkenburg",
+      "jaar": "1640",
+      "omschrijving": "Erfschaft door huwelijk met Elisabeth van Montferland"
+    },
+    {
+      "eigendom": "Hertogin van Arnhem",
+      "jaar": "1798",
+      "omschrijving": "Uittreding uit huwelijk met Jan van Gelre"
+    },
+    {
+      "eigendom": "Burggraaf van Krommenie",
+      "jaar": "1842",
+      "omschrijving": "Erfschaft door testament van moeder, Hertogin van Arnhem"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "waszegel beschadigd"
+}

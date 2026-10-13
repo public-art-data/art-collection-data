@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-1001346",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-423-11",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Lichtkämpferin",
+  "zugeschriebene_werkstatt": "Hélène Dubois",
+  "besitzfolge": [
+    {
+      "herrscher": "Friederike von Arnstein",
+      "jahr": 1845,
+      "besitzer": "Eugen von Arnstein, Sohn"
+    },
+    {
+      "herrscher": "Eugen von Arnstein",
+      "jahr": 1880,
+      "besitzer": "Adelheid von Arnstein, Tochter"
+    },
+    {
+      "herrscher": "Adelheid von Arnstein",
+      "jahr": 1920,
+      "besitzer": "Karl von Arnstein, Enkel"
+    }
+  ],
+  "groesse": {
+    "height": 209.3,
+    "width": 193.3
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

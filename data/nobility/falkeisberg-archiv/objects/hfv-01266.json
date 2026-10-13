@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01266",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-862-67",
+  "objektart": "bildteppich",
+  "titel": "Grafen von Harrasburg",
+  "kuenstler": "Julian von Schönau",
+  "provenienz": [
+    {
+      "datum": "1563",
+      "besitzer": "Harrasburger Familie, Herr Philipp von Harrasburg"
+    },
+    {
+      "datum": "1585",
+      "besitzer": "Herr Gottfried von Harrasburg, Sohn von Philipp"
+    },
+    {
+      "datum": "1620",
+      "besitzer": "Gräfin Helena von Harrasburg, Tochter von Gottfried"
+    },
+    {
+      "datum": "1650",
+      "besitzer": "Graf Johann von Harrasburg, Enkelin von Helena"
+    }
+  ],
+  "masse_cm": {
+    "height": 185.6,
+    "width": 284.4
+  },
+  "vorbesitzer": "Freiherren von Staufenried"
+}

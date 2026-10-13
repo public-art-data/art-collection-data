@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02242",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-467",
+  "object_type": "lithograph",
+  "title": "Riverside, Georgetown",
+  "artist": "Marchetti-Lim",
+  "provenance": "Acquired by Hsien-Hsiung Chou in 1957, later sold to estates of Tan Soo Liong by 1982.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 2173.0,
+    "width": 905.0
+  },
+  "estimate_sgd": {
+    "low": 39000,
+    "high": 77000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

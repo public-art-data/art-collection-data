@@ -1,0 +1,22 @@
+{
+  "record_id": "CCV-o1132",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-305-50",
+  "categorie": "ecritoire en argent",
+  "titre": "Collection de la Maison de Vaudreuil",
+  "attribution": "Pierre LaFleur, 1850-1885",
+  "provenance": [
+    {
+      "nom": "Marie-Thérèse de Vaudreuil",
+      "désignation": "Héritière du trésor paternel",
+      "date": "1820"
+    },
+    {
+      "nom": "Pierre de la Croix",
+      "désignation": "Mariage avec Sophie de Vaudreuil, fille aînée de la Maison de Vaudreuil",
+      "date": "1852"
+    }
+  ],
+  "ancien_detenteur": "Comtes de Rousset-Lavandieres",
+  "valeur_estimee": 55000
+}

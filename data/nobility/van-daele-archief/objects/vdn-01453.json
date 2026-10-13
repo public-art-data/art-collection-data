@@ -1,0 +1,33 @@
+{
+  "record_id": "SYN.VDN.01453",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-738-91",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Prinsesstraat Collectie",
+  "vermoedelijke_meester": "Lavinia van der Meer",
+  "provenance": [
+    {
+      "persoon": "Hertogin Isabella van Oranje-Nassau",
+      "relatie": "Eigendom door erfgoed van haar vader, Hertog Hendrik van Nassau",
+      "jaar": "1700"
+    },
+    {
+      "persoon": "Prins Alexander van Bourbon-Spanje",
+      "relatie": "Overname uit zijn privécollectie",
+      "jaar": "1750"
+    },
+    {
+      "persoon": "Baronesse Sophia van Chastellux",
+      "relatie": "Eigendom door erfgoed van haar overgrootouders",
+      "jaar": "1800"
+    },
+    {
+      "persoon": "Hertog Lodewijk van Bourbon-Parma",
+      "relatie": "Overname uit zijn privécollectie",
+      "jaar": "1900"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "schatting": 601000,
+  "staat": "kreuk in perkament"
+}

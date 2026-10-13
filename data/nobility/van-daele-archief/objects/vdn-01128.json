@@ -1,0 +1,23 @@
+{
+  "record_id": "VDN-01128",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-440-49",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huis van de Lakenhorst",
+  "vermoedelijke_meester": "Marcellus Verbranden",
+  "provenance": [
+    {
+      "persoon": "Aletta van den Bosch",
+      "titel": "Graafin van Lennesteyn",
+      "jaar": 1720,
+      "verband": "geërfd"
+    },
+    {
+      "persoon": "Godfried de Vries",
+      "titel": "Hertog van Westvleteren",
+      "jaar": 1885,
+      "verband": "gehuwd met"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel"
+}

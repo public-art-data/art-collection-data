@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01227",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-788-58",
+  "objecttype": "devotiebeeld",
+  "benaming": "Huis van Oranje-Spijker",
+  "vermoedelijke_meester": "Lodewijk Vannesteijn",
+  "provenance": [
+    {
+      "oorlog": "Eerste Franse Invasie",
+      "eigenaar": "Jan van Oranje-Spijker",
+      "jaar": 1814
+    },
+    {
+      "gebruik": "Huis van Oranje-Spijker",
+      "eigenaar": "Pieter van Oranje-Spijker",
+      "jaar": 1850
+    },
+    {
+      "erfenis": "Jan Pieter van Oranje-Spijker",
+      "opvolger": "Jan van Oranje-Spijker",
+      "jaar": 1900
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

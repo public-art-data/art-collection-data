@@ -1,0 +1,36 @@
+{
+  "record_id": "KVL-01496",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-862-75",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträtsammlung der Herzoginnen von Württenberg",
+  "zugeschriebene_werkstatt": "Hugo Valtor",
+  "besitzfolge": [
+    {
+      "person": "Gräfin Helena von Württemberg",
+      "jahr": 1750,
+      "besitzer_in": [
+        "Familie von Württemberg"
+      ]
+    },
+    {
+      "person": "Königin Eleonora von Württenberg",
+      "jahr": 1800,
+      "besitzer_in": [
+        "Haus Hohenzollern-Sigmaringen"
+      ]
+    },
+    {
+      "person": "Gräfin Maria von Hohenzollern-Sigmaringen",
+      "jahr": 1850,
+      "besitzer_in": [
+        "Familie von Hohenzollern-Sigmaringen"
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 108.1,
+    "width": 296.4
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

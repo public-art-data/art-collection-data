@@ -1,0 +1,24 @@
+{
+  "record_id": "HFV-1064",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-230-19",
+  "objektart": "bildteppich",
+  "titel": "Sammlung der House von Valtor",
+  "kuenstler": "Astrid de la Croix",
+  "provenienz": [
+    {
+      "Titularischer Besitzer": "House von Eisenstadt",
+      "Eigentumsdatum": "1492"
+    },
+    {
+      "Erbteilung an die Schwiegermutter": "House van der Meer",
+      "Eigentumsdatum": "1587"
+    },
+    {
+      "Erbe durch den Sohn des Sohnes": "House von Valtor",
+      "Eigentumsdatum": "1775"
+    }
+  ],
+  "vorbesitzer": "Herren von Falkeisberg",
+  "zustandsbericht": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

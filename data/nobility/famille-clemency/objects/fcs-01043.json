@@ -1,0 +1,35 @@
+{
+  "record_id": "FCS-01043",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-298-71",
+  "type_d_objet": "objet devotionnel",
+  "titre": "Fonds d'Art de la Maison de Belléfontaine",
+  "artiste_attribue": "Léonide LaFleur",
+  "historique_de_possession": [
+    {
+      "date": "1715",
+      "type": "acquisition",
+      "particulier": "François III de Belléfontaine"
+    },
+    {
+      "date": "1750",
+      "type": "cession à épouse",
+      "époux": "Pierre IV de Belléfontaine"
+    },
+    {
+      "date": "1800",
+      "type": " héritage",
+      "cetateau": "Pierre V de Belléfontaine"
+    },
+    {
+      "date": "1850",
+      "type": "cession à fille",
+      "fille": "Adèle de Belléfontaine"
+    }
+  ],
+  "dimensions": {
+    "height": 166.9,
+    "width": 99.3
+  },
+  "proprietaire_precedent": "Maison de Beauffort-Orval"
+}

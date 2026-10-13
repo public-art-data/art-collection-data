@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01469",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-308-54",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Die Schlacht am See von Aalst",
+  "zugeschriebene_werkstatt": "Ludwig van der Meer",
+  "besitzfolge": [
+    {
+      "person": "Gräfin Anna zu Schwarzenberg",
+      "datum": 1880,
+      "erwerbung_merkmale": "Erbschaft von ihrem Vater, Herzog Leopold III. zu Hohenlohe-Langenburg"
+    },
+    {
+      "person": "Friedrich zu Hohenlohe-Langenburg",
+      "datum": 1920,
+      "erwerbung_merkmale": "Schenkung von seiner Großmutter, Gräfin Sophie zu Hohenlohe-Langenburg"
+    }
+  ],
+  "groesse": {
+    "height": 24.9,
+    "width": 275.7
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "stempel des Hausarchivs"
+}

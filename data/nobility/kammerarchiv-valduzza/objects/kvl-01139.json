@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-01139",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-149-15",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt des Herzogs von Velden",
+  "zugeschriebene_werkstatt": "F. Groneberg",
+  "besitzfolge": [
+    {
+      "besitzer": "Baron Friedrich von Falkenstein",
+      "erbschaft": "Erbtochter des Großherzogs Leopold I.",
+      "datum": "1780"
+    },
+    {
+      "besitzer": "Baronin Helga von Falkenstein",
+      "erbschaft": "Ehe mit Baron Friedrich von Falkenstein",
+      "datum": "1805"
+    },
+    {
+      "besitzer": "Friedrich von Falkenstein, junger Sohn des Barons",
+      "erbschaft": "Erbschaft aus der Verwaltung seiner Mutter."
+    }
+  ],
+  "groesse": {
+    "height": 149.0,
+    "width": 196.7
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

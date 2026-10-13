@@ -1,0 +1,43 @@
+{
+  "record_id": "KVL-1001276",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-742-67",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Het Lied van de Sterren",
+  "zugeschriebene_werkstatt": "Aureliana de Vries",
+  "besitzfolge": {
+    "Haus von Schattenburg": [
+      {
+        "jahr": 1650,
+        "verstieg": "Hans von Eisenstadt"
+      },
+      {
+        "jahr": 1705,
+        "erbschaft": "Baronin Sophia Freudenheim"
+      },
+      {
+        "jahr": 1750,
+        "erbschaft": "Prinz Maximilian von Württemberg"
+      },
+      {
+        "jahr": 1850,
+        "erbt": "Dame Gräfin Helene von Eisenstadt"
+      }
+    ],
+    "Haus von Calwitz": [
+      {
+        "jahr": 1800,
+        "verstieg": "Friedrich von Eisenstadt"
+      },
+      {
+        "jahr": 1850,
+        "erbschaft": "Grafenfamilie von Schattenburg"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 189.4,
+    "width": 247.1
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

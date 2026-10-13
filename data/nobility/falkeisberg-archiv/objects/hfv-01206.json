@@ -1,0 +1,32 @@
+{
+  "record_id": "HFV-01206",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-417-57",
+  "objektart": "marmorbueste",
+  "titel": "Duchin der Wächter von Zerzura",
+  "kuenstler": "Adriaan van den Steen",
+  "provenienz": [
+    {
+      "haus": "Graff von Schlieren",
+      "datum": "1618"
+    },
+    {
+      "haus": "Haus von Ravensburg",
+      "datum": "1653"
+    },
+    {
+      "haus": "Graff von Wetterstein",
+      "datum": "1700"
+    },
+    {
+      "haus": "Duchin der Wächter von Zerzura",
+      "datum": "1732"
+    }
+  ],
+  "masse_cm": {
+    "height": 128.2,
+    "width": 171.9
+  },
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 289000
+}

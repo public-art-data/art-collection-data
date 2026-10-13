@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01022",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-380-16",
+  "objecttype": "marmeren buste",
+  "benaming": "Huis van De Lieve",
+  "vermoedelijke_meester": "Lenaert van Heuveld",
+  "provenance": [
+    {
+      "titel": "Grootvader",
+      "naam": "Joris Van der Meer",
+      "relatie": "op erfgoed"
+    },
+    {
+      "titel": "Moeder",
+      "naam": "Ariane De Koninck",
+      "eerder_inhoud": "verworven in huwelijk met Joris Van der Meer"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 153.9,
+    "width": 250.3
+  },
+  "eerdere_eigenaar": "Geslacht Van Schoonhoven-Dal",
+  "staat": "kreuk in perkament"
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02345",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-150",
+  "object_type": "bronze figure",
+  "title": "boat at Dusk",
+  "artist": "Thornquist",
+  "provenance": "Mr. and Mrs. W. Gribble-Hale, acquired 1982; Meridian Fine Arts Auctioneers, lot 474, 1986; thence by descent to Private collection, Kuala Lumpur.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 867.0,
+    "width": 2711.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 29000,
+    "high": 128000
+  }
+}

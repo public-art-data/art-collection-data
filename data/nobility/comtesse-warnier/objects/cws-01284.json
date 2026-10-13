@@ -1,0 +1,32 @@
+{
+  "record_id": "CWS-01284",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-159-8",
+  "categorie_d_objet": "portrait en miniature",
+  "intitule": "Fonds d'État de la Maison de Rousselot",
+  "maitre": {
+    "nom": "Camille de Fleurmont",
+    "date-debut": 1880,
+    "date-fin": null,
+    "provenance": "Acquis par le père, Marcellin de Fleurmont, à l'occasion d'une exposition de la Société des Artistes Modernes"
+  },
+  "historique": [
+    {
+      "maitre": {
+        "nom": "Marcellin de Fleurmont",
+        "date-debut": 1880,
+        "date-fin": null
+      },
+      "provenance": "Hérité de son grand-père, Étienne de Fleurmont"
+    },
+    {
+      "maitre": {
+        "nom": "Élisabeth de Rousselot",
+        "date-debut": 1910,
+        "date-fin": null
+      },
+      "provenance": "Don de son oncle, René de Rousselot"
+    }
+  ],
+  "valeur": 174000
+}

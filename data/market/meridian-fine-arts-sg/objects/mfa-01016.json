@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-01016",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-68",
+  "object_type": "lithograph",
+  "title": "Indigo Composition",
+  "artist": "Loh Guat-ling",
+  "provenance": "Collection of the late Dato' R. Sivanathan, acquired 1981; Meridian Fine Arts Auctioneers, lot 558, 2006; thence by descent to The Tan Hock Seng Collection.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1288.0,
+    "width": 2518.0
+  },
+  "estimate_sgd": {
+    "low": 27000,
+    "high": 115000
+  }
+}

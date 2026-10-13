@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-04296",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-302",
+  "object_type": "ink drawing",
+  "title": "kite at Dusk",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by Rykert Wystan, 1921; subsequently sold to Lyra Fong, 1935; and inherited by the Estate of Elwynn Tng, 1987",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 2124.0,
+    "width": 2674.0
+  },
+  "estimate_sgd": {
+    "low": 4000,
+    "high": 100000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

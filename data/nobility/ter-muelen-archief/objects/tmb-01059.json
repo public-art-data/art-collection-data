@@ -1,0 +1,33 @@
+{
+  "record_id": "TMB-01059",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-339-48",
+  "soort": "kabinetklok",
+  "titel": "Private Collectie van Huis te Steen",
+  "toegeschreven_aan": "Pieter van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "gezin": "Huis te Steen",
+      "person": "Pieter van der Meer",
+      "jaren": 1750,
+      "reden": "Erfschaft"
+    },
+    {
+      "gezin": "Van den Berghe",
+      "person": "Margaretha Van den Berghe",
+      "jaren": 1800,
+      "reden": "Huwelijk met Pieter van der Meer"
+    },
+    {
+      "gezin": "Huis te Steen",
+      "person": "Pieter van der Meer jr.",
+      "jaren": 1850,
+      "reden": "Erfschaft na overlijden van Margaretha Van den Berghe"
+    }
+  ],
+  "afmetingen": {
+    "height": 171.4,
+    "width": 58.8
+  },
+  "vroegere_bezitter": "Familie Van Rillaer-Belle"
+}

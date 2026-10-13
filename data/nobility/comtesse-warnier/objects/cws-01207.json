@@ -1,0 +1,31 @@
+{
+  "record_id": "CWS-01207",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-162-55",
+  "categorie_d_objet": "portrait en miniature",
+  "intitule": "La Collection de la Famille d'Argentier",
+  "maitre": "Élise Roussel",
+  "historique": [
+    {
+      "date": "1815",
+      "dette": {
+        "dation": null,
+        "acquisition": "Marriage with Jean-Baptiste Dumont"
+      },
+      "nom": "Jeanne d'Argentier"
+    },
+    {
+      "date": "1850",
+      "dette": {
+        "dation": null,
+        "acquisition": "Legacy from her great-grandmother, Madame Louise de L'Ardente"
+      },
+      "nom": "Françoise d'Argentier"
+    }
+  ],
+  "cotes_cm": {
+    "height": 181.4,
+    "width": 148.4
+  },
+  "titulaire_precedent": "Comtes de Rousset-Lavandieres"
+}

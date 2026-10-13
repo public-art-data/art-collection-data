@@ -1,0 +1,51 @@
+{
+  "record_id": "HAG-01091",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-869-58",
+  "gegenstand": "bildteppich",
+  "bezeichnung": "Kunstschatz der Gräfin Aurelia von Wartburg",
+  "zugeschrieben_an": "Félix LaFleur",
+  "besitzgeschichte": [
+    {
+      "name": "Gründer",
+      "jahr": 1745,
+      "besitzer": [
+        "Herr Gottfried von Altberg"
+      ]
+    },
+    {
+      "name": "Erbfolge",
+      "jahr": 1773,
+      "besitzer": [
+        "Gräfin Elisabeth von Wartburg, Witwe von Herrn Gottfried"
+      ]
+    },
+    {
+      "name": "Geburt",
+      "jahr": 1815,
+      "besitzer": [
+        "Herr Hugo von Wartburg, Sohn der Gräfin Elisabeth"
+      ]
+    },
+    {
+      "name": "Erbschaft",
+      "jahr": 1850,
+      "besitzer": [
+        "Gräfin Aurelia von Wartburg, Tochter des Herrn Hugo"
+      ]
+    },
+    {
+      "name": "Erbteilung",
+      "jahr": 1885,
+      "besitzer": [
+        "Herr Roderich von Wartburg, Sohn der Gräfin Aurelia"
+      ]
+    }
+  ],
+  "abmessungen": {
+    "height": 24.2,
+    "width": 135.9
+  },
+  "frueherer_besitzer": "Herren von Valduzza",
+  "schaetzung_chf": 470000
+}

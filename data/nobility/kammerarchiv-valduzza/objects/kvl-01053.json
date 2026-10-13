@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01053",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-788-40",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt des Ritterlichen Sohns von Hohenstein",
+  "zugeschriebene_werkstatt": "Johannes van der Meer",
+  "besitzfolge": [
+    {
+      "familie": "von Hohenstein",
+      "besitzer": "Hans von Hohenstein (1542-1613)",
+      "vorgestellt_als": "erbfolgt_von_Hans_von_Hohenstein"
+    },
+    {
+      "familie": "von Württemberg",
+      "besitzer": "Ernst von Württemberg (1567-1630)",
+      "vorgestellt_als": "übernommen_von_Ernst_von_Württemberg"
+    },
+    {
+      "familie": "von Hohenstein",
+      "besitzer": "Dorothea von Hohenstein (1625-1698)",
+      "vorgestellt_als": "erworben_von_Dorothea_von_Hohenstein"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01385",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-698-19",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Die Flüsse von Argentia",
+  "zugeschriebene_werkstatt": "Marcel Valtor",
+  "besitzfolge": [
+    {
+      "datum": "1501-02-15",
+      "besitzer": "Grafin Isabella van Rijn",
+      "beigabe": "Erbschaft von ihrem Großvater, Herzog Reinhard I. von Argentia"
+    },
+    {
+      "datum": "1610-07-10",
+      "besitzer": "Markgraf Johannes II. van Wassenberg",
+      "beigabe": "Ehe mit Markgräfin Helena van Rijn, Tochter der Grafen Isabella und Wilhelm van Rijn"
+    },
+    {
+      "datum": "1700-12-20",
+      "besitzer": "Prinz Carl von Wiedenhausen",
+      "beigabe": "Erbschaft von seinem Vater, Prinz Ludwig von Wiedenhausen"
+    }
+  ],
+  "groesse": {
+    "height": 201.2,
+    "width": 59.8
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

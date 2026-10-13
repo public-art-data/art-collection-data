@@ -1,0 +1,35 @@
+{
+  "record_id": "KVL-01324",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-512-30",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Die Gauklerin",
+  "zugeschriebene_werkstatt": "Adelaide van der Meer",
+  "besitzfolge": {
+    "Grafen von Schattenberg": [
+      {
+        "name": "Ludwig Graf von Schattenberg",
+        "datum": "1700"
+      },
+      {
+        "name": "Helena Elisabeth von Hohenstaufen",
+        "datum": "1750"
+      }
+    ],
+    "Barone von Falkenberg": [
+      {
+        "name": "Johann Friedrich Baron von Falkenberg",
+        "datum": "1820"
+      },
+      {
+        "name": "Friederike Adelheid Baronin von Falkenberg",
+        "datum": "1850"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 183.0,
+    "width": 56.6
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

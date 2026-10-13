@@ -1,0 +1,36 @@
+{
+  "record_id": "OGV-01131",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-182-21",
+  "stuk": "wandtapijt",
+  "omschrijving": "Schilderij met landschap en figuur van een ridders",
+  "vermoedelijke_maker": "Gerrit van Steenwijk",
+  "eigendomsgeschiedenis": [
+    {
+      "familie": "Huis van Vollenhoven",
+      "jaar": 1640,
+      "overdracht_van": null,
+      "overgedragen_op": null
+    },
+    {
+      "familie": "Huis van Valkenburg",
+      "jaar": 1725,
+      "overdracht_van": "Gerrit's nichtje, Adelheid van Vollenhoven",
+      "overgedragen_op": "Adriaen van Valkenburg"
+    },
+    {
+      "familie": "Huis van Valkenburg",
+      "jaar": 1790,
+      "overdracht_van": null,
+      "overgedragen_op": "Koningin Beatrix van Valkenburg"
+    },
+    {
+      "familie": "Privécollectie van Hertoges van Overijssel",
+      "jaar": 1850,
+      "overdracht_van": "Beatrix's zuster, Prinses Frederika van Valkenburg",
+      "overgedragen_op": null
+    }
+  ],
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel",
+  "marginale_notitie": "dubbele nummering"
+}

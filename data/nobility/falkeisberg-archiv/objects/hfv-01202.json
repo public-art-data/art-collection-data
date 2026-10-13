@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01202",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-972-71",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Grafen von Wiesbaden",
+  "kuenstler": "Hans van der Meer",
+  "provenienz": [
+    {
+      "person": "Kaspar von der Pfalz",
+      "zeitraum": "1620",
+      "beziehung": "Erworben als Geschenk"
+    },
+    {
+      "person": "Adelheid von Sachsen-Weimar",
+      "zeitraum": "1650",
+      "beziehung": "Erbtes als Teil ihres Vermächtnisses"
+    },
+    {
+      "person": "Heinrich von Hessen-Darmstadt",
+      "zeitraum": "1750",
+      "beziehung": "Gebucht bei der Kunsthandlung van der Meer"
+    }
+  ],
+  "masse_cm": {
+    "height": 138.1,
+    "width": 185.8
+  },
+  "vorbesitzer": "Herren von Valduzza",
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

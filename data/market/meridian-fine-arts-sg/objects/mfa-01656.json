@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01656",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-32",
+  "object_type": "lithograph",
+  "title": "Riverside, Hoi An",
+  "artist": "Thornquist",
+  "provenance": "Acquired by Madame Hester de Roubaix in 1850, later gifted to the estate of Baroness Isabella Montague in 1895, and eventually sold at Soo Chin Estate Auctions in 2018.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 850.0,
+    "width": 2122.0
+  },
+  "estimate_sgd": {
+    "low": 35000,
+    "high": 86000
+  },
+  "_artist_dates": "1878-1505"
+}

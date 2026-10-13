@@ -1,0 +1,24 @@
+{
+  "record_id": "VDN-01464",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-217-14",
+  "objecttype": "wandtapijt",
+  "benaming": "Huis van de Zeeën",
+  "vermoedelijke_meester": "Izak ter Wilt",
+  "provenance": [
+    {
+      "geslacht": "Van der Meer",
+      "status": "opgekregen als erfgename na het overlijden van haar vader",
+      "jaar": "1750"
+    },
+    {
+      "geslacht": "De Vijveren",
+      "status": "gekocht bij een particuliere verkoop in 1805",
+      "jaar": "1805"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 121.8,
+    "width": 89.9
+  }
+}

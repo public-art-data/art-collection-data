@@ -1,0 +1,31 @@
+{
+  "record_id": "SYN.KVL.01213",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-263-5",
+  "artefakt": "bildteppich",
+  "werktitel": "Der Riese von Eisenhüttenhausen",
+  "zugeschriebene_werkstatt": "Herr Viktor Königsmark",
+  "besitzfolge": [
+    {
+      "name": "Gräfin Elisabeth von Blütenburg",
+      "jahr": 1815,
+      "vorgang": "Erbschaft"
+    },
+    {
+      "name": " Graf Maximilian zu Riesenburg",
+      "jahr": 1848,
+      "vorgang": "Ehe mit Tochter Gräfin Elisabeth"
+    },
+    {
+      "name": "König Leopold von Eisenhüttenhausen",
+      "jahr": 1870,
+      "vorgang": "Erbschaft durch testamentarische Verfügungen des Vaters Graf Maximilian zu Riesenburg"
+    }
+  ],
+  "groesse": {
+    "height": 13.6,
+    "width": 29.1
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

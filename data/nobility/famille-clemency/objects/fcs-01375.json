@@ -1,0 +1,27 @@
+{
+  "record_id": "FCS-01375",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-428-50",
+  "type_d_objet": "service a the en porcelaine",
+  "titre": "Collection de la Maison d'Anjou",
+  "artiste_attribue": "Pierre LaFleur",
+  "historique_de_possession": [
+    {
+      "date": "1600",
+      "propriete": "Inheritance, Léonore d'Anjou"
+    },
+    {
+      "date": "1625",
+      "propriete": "Marriage, Étienne de la Croix"
+    },
+    {
+      "date": "1650",
+      "propriete": "Legacy, Élisabeth de Valois"
+    }
+  ],
+  "dimensions": {
+    "height": 193.7,
+    "width": 101.1
+  },
+  "observations": "entree rayee puis restauree"
+}

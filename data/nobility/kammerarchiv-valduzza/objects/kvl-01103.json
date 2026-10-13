@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-1001103",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-384-76",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Jonge Meid in den Bergen",
+  "zugeschriebene_werkstatt": "Auguste Everstein",
+  "besitzfolge": {
+    "Grafen von Waldburg-Zeil am Rhein": {
+      "Erben": [
+        "Franz Graf von Waldburg-Zeil am Rhein (1691-1724)",
+        "Ludwig Graf von Waldburg-Zeil am Rhein (1725-1750)"
+      ],
+      "Eigentümer seit": "1800",
+      "Herkunft": [
+        "Kunstsammlung seines Vaters, Herzogs Ludwig von Waldburg-Zeil am Rhein (1681-1690)",
+        "Erbschaft seiner Schwester, Gräfin Elisabeth von Waldburg-Zeil am Rhein (1678-1724)"
+      ]
+    },
+    "Gräfin Anna von Altburg": {
+      "Eigentümer seit": "1850",
+      "Herkunft": [
+        "Erfüllung seines Erbes durch seine Cousine, Gräfin Maria von Altburg (1775-1848)",
+        "Übernahme seiner gesamten Sammlung nach seinem Tod"
+      ]
+    }
+  },
+  "groesse": {
+    "height": 98.3,
+    "width": 251.8
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01092",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-154-70",
+  "objektart": "bildteppich",
+  "titel": "Baronies von Falkenburg",
+  "kuenstler": "Erika van der Meer",
+  "provenienz": [
+    {
+      "person": "Herrin Helga von Falkenburg",
+      "datum": "1885",
+      "beschreibung": "Erbschaft aus dem Erbe ihrer Großmutter"
+    },
+    {
+      "person": "Marie von Falkenburg, Prinzessin von Österreich",
+      "datum": "1910",
+      "beschreibung": "Eingewandt durch Heirat mit Prinz Rudolf von Habsburg"
+    },
+    {
+      "person": "Herr Carl von Falkenburg",
+      "datum": "1925",
+      "beschreibung": "Erbschaft aus dem Testament ihres Vaters"
+    }
+  ],
+  "masse_cm": {
+    "height": 107.4,
+    "width": 225.4
+  },
+  "vorbesitzer": "Freiherren von Graenichen"
+}

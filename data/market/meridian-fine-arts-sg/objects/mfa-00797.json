@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00797",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-494",
+  "object_type": "lithograph",
+  "title": "Ochre Composition",
+  "artist": "Vellacott",
+  "provenance": "Acquired by the estates of Elwes & Thistlewaite in 1956, held in their Singapore gallery until sold to Lee Chee Meng in 1982",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 924.0,
+    "width": 2595.0
+  },
+  "estimate_sgd": {
+    "low": 15000,
+    "high": 64000
+  },
+  "condition_report": "good, with light craquelure"
+}

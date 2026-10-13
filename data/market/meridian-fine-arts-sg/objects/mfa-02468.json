@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02468",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-193",
+  "object_type": "oil on canvas",
+  "title": "harbour crane at Dusk",
+  "artist": "Ongpiboon",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1941; private collection Meridian Fine Arts Auctioneers since 1953.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 502.0,
+    "width": 2767.0
+  },
+  "estimate_sgd": {
+    "low": 9000,
+    "high": 131000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

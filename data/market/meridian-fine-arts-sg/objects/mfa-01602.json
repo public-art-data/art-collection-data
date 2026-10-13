@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01602",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-581",
+  "object_type": "bronze figure",
+  "title": "Ochre Composition",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Private collection, Kuala Lumpur, acquired 1977; Meridian Fine Arts Auctioneers, lot 287, 1987; thence by descent to Collection of the late Dato' R. Sivanathan.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 948.0,
+    "width": 140.0
+  },
+  "estimate_sgd": {
+    "low": 34000,
+    "high": 125000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

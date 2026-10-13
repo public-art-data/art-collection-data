@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01063",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-541-68",
+  "artefakt": "marmorbueste",
+  "werktitel": "Elegie in Mondschein",
+  "zugeschriebene_werkstatt": "Adelheid van der Meer",
+  "besitzfolge": [
+    {
+      "name": "Haus van der Meer",
+      "besitzer": "Willem I, Graaf van der Meer"
+    },
+    {
+      "name": "Haus von der Linde",
+      "besitzer": "Adelheid van der Meer (Ehefrau von Reinhard IV, Herzog von der Linde)"
+    },
+    {
+      "name": "Haus van der Meer",
+      "besitzer": "Reinhard V, Herzog von der Linde und Erbfolger von Willem I"
+    }
+  ],
+  "groesse": {
+    "height": 138.9,
+    "width": 27.1
+  },
+  "kammervermerk": "wachsiegel beschaedigt"
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "TMB-01017",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-453-75",
+  "soort": "zilveren schrijfset",
+  "titel": "Brieven en Schilderijen van de Hertogen van Vollenhove",
+  "toegeschreven_aan": "Henrik Verstappen",
+  "herkomstgeschiedenis": [
+    {
+      "soort": "Erfgoed",
+      "gebruiker": "Hertogin Johanna van Vollenhove",
+      "datum": 1750
+    },
+    {
+      "soort": "Ervangeling",
+      "gebruiker": "Hartog Floris van Vollenhove en zijn neef, Baron Jan van Leersum"
+    },
+    {
+      "soort": "Legaat",
+      "gebruiker": "Burggraaf Gerard van Valkenburg"
+    }
+  ],
+  "afmetingen": {
+    "height": 106.6,
+    "width": 91.2
+  },
+  "vroegere_bezitter": "Familie Van Daele-Nuytens",
+  "aantekening": "waszegel beschadigd"
+}

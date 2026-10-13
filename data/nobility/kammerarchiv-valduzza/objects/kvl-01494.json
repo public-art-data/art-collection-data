@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01494",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-872-91",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Bijleveldsche Nachtwacht",
+  "zugeschriebene_werkstatt": "Hendrik van der Meer",
+  "besitzfolge": [
+    {
+      "person": "Graaf Gerard Bijleveld",
+      "datum": "1630-01-01"
+    },
+    {
+      "person": "Prinzessin Anna Bijleveld",
+      "datum": "1650-02-01, Erbe"
+    },
+    {
+      "person": "Herrin Helena Van der Meer",
+      "datum": "1700-03-01, Schenkung"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-03449",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-82",
+  "object_type": "lithograph",
+  "title": "Untitled (water jar)",
+  "artist": "Chatterji-Rao",
+  "provenance": "Acquired by Kavi Devi Estate, 1853; Sold to Ramprasad Patel Gallery, 1922; Inherited by Chandrakant Bhushan's family collection, 1967",
+  "dimensions_mm": {
+    "height": 911.0,
+    "width": 366.0
+  },
+  "estimate_sgd": {
+    "low": 23000,
+    "high": 55000
+  },
+  "_artist_dates": "1870-1535"
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00642_bis",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-521",
+  "object_type": "ink drawing",
+  "title": "Untitled (fisherman)",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by Khong Hooi-Wee in 1978, later sold to Ching Siang-Lim's estate in 2005.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 2053.0,
+    "width": 1927.0
+  },
+  "estimate_sgd": {
+    "low": 3000,
+    "high": 96000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

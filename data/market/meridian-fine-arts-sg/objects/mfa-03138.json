@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03138",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-524",
+  "object_type": "watercolour on paper",
+  "title": "View of Kuching",
+  "artist": "Selvaratnam",
+  "provenance": "Collection of the late Dato' R. Sivanathan, acquired 1995; Meridian Fine Arts Auctioneers, lot 663, 2016; thence by descent to Mr. and Mrs. W. Gribble-Hale.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 365.0,
+    "width": 1014.0
+  },
+  "estimate_sgd": {
+    "low": 20000,
+    "high": 50000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

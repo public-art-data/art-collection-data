@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01264",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-598-35",
+  "objektart": "bildteppich",
+  "titel": "Privatarchiv der Grafen von Schönburg",
+  "kuenstler": "Eugen Wunderstein",
+  "provenienz": [
+    {
+      "datum": "1685",
+      "besitzer": "Graf Philipp von Schönburg (1618-1700)",
+      "besitzgrunde": "Erbschaft"
+    },
+    {
+      "datum": "1710",
+      "besitzer": "Grafin Maria Franziska von Schönburg (1650-1730, Ehefrau von Philipp)",
+      "besitzgrunde": "Erbfolge"
+    },
+    {
+      "datum": "1750",
+      "besitzer": "Hans Heinrich von Schönburg (1725-1790), Sohn von Philipp und Maria Franziska",
+      "besitzgrunde": "Erbschaft"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Graenichen"
+}

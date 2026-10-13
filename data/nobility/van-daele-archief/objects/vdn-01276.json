@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01276",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-831-38",
+  "objecttype": "devotiebeeld",
+  "benaming": "Heren van St. Veldwijk",
+  "vermoedelijke_meester": "Léonidas Vandelberghe",
+  "provenance": [
+    {
+      "persoon": "Adriaan van St. Veldwijk",
+      "relatie": "zoon",
+      "jaar": 1780
+    },
+    {
+      "persoon": "Isabella van Houten",
+      "relatie": "vrouw van Adriaan van St. Veldwijk",
+      "jaar": 1805,
+      "notities": [
+        "overleden 1842"
+      ]
+    },
+    {
+      "persoon": "Gerardus van St. Veldwijk",
+      "relatie": "zoon van Isabella van Houten en Adriaan van St. Veldwijk",
+      "jaar": 1820
+    }
+  ],
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld",
+  "schatting": 307000
+}

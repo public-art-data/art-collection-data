@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-03939",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-62",
+  "object_type": "oil on canvas",
+  "title": "Untitled (boat)",
+  "artist": "Winterbourne-Ashe",
+  "provenance": "Acquired by Tan Sri Lee Kiat Seng in 2015 from the estate of Lim Eng Beng, then sold to Khong Hwee Siu and exhibited at her studio in Singapore in 2019.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 250.0,
+    "width": 444.0
+  },
+  "estimate_sgd": {
+    "low": 26000,
+    "high": 155000
+  }
+}

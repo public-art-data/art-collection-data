@@ -1,0 +1,41 @@
+{
+  "record_id": "VDN-01141",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-457-41",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Huis van Deuren",
+  "vermoedelijke_meester": "Johannes Voskuilen",
+  "provenance": [
+    {
+      "verleden_eigendom": {
+        "eigenaar": "Hertogin Anna van Oranje-Nassau",
+        "jaar": 1720,
+        "toestand": "erfdochter"
+      },
+      "overdracht": {
+        "geefpunt": "huwelijk met Graaf Hendrik van Deuren",
+        "ontvangers": "Graafs van Deuren en Hertogin Anna van Oranje-Nassau"
+      }
+    },
+    {
+      "verleden_eigendom": {
+        "eigenaar": "Graaf Hendrik van Deuren",
+        "jaar": 1800,
+        "toestand": "erfdochter"
+      },
+      "overdracht": {
+        "geefpunt": "legaat aan zoon Adriaan van Deuren",
+        "ontvangers": "Adriaan van Deuren en graafelijk geslacht van Deuren"
+      }
+    },
+    {
+      "verleden_eigendom": {
+        "eigenaar": "Adriaan van Deuren",
+        "jaar": 1850,
+        "toestand": "erfdochter"
+      }
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "staat": "dubbele nummering"
+}

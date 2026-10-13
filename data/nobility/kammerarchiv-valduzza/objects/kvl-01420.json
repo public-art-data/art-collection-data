@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01420",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-605-6",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Die Schwestern der Nacht",
+  "zugeschriebene_werkstatt": "Anna Elara Valois",
+  "besitzfolge": [
+    {
+      "person": "Helena Habsburg-Lottinghausen",
+      "beziehung": "Erbin",
+      "jahr": 1820
+    },
+    {
+      "person": "Karl von Württemberg-München",
+      "beziehung": "Ehemann",
+      "jahr": 1850
+    },
+    {
+      "person": "Elena Habsburg-Lottinghausen-Württemberg",
+      "beziehung": "Erbin",
+      "jahr": 1890
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza"
+}

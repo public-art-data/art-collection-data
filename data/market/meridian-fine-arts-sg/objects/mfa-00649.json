@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00649",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-16",
+  "object_type": "lithograph",
+  "title": "Untitled (water jar)",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by Xanthee Lim in 1967 from the estate of Mei-Ling Tan, a pupil of Merrick-Tan's mentor, Ryker Wong.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 196.0,
+    "width": 1793.0
+  },
+  "estimate_sgd": {
+    "low": 18000,
+    "high": 200000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

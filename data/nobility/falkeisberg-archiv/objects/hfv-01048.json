@@ -1,0 +1,29 @@
+{
+  "record_id": "HFV-o1048",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-251-85",
+  "objektart": "bildteppich",
+  "titel": "Geschlossene Archiv des Adelshauses von Walseck",
+  "kuenstler": "Herrin von Zweibrücken, Amalie zu Fürstenberg",
+  "provenienz": [
+    {
+      "besitzer": "Familie von Zweibrücken, Wilhelm III.",
+      "datum": "1500",
+      "art": "Erbschaft"
+    },
+    {
+      "besitzer": "Haus Hohenzollern-Sigmaringen, Elisabeth zu Salm-Kyrburg",
+      "datum": "1600",
+      "art": "Ehegiften"
+    },
+    {
+      "besitzer": "Familie von Walseck, Wilhelm zu Walseck",
+      "datum": "1800",
+      "art": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 212.4,
+    "width": 114.5
+  }
+}

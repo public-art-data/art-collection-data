@@ -1,0 +1,31 @@
+{
+  "record_id": "TMB-01327",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-310-67",
+  "soort": "wandtapijt",
+  "titel": "Privécollectie van Huis ter Valk",
+  "toegeschreven_aan": "Johannes van Leeuwenhaar, 1810-1875",
+  "herkomstgeschiedenis": [
+    {
+      " jaar": 1648,
+      "gezin": "Vander Linden",
+      "overleden_oom": "Jan Vander Linden, 1610-1650"
+    },
+    {
+      "jaar": 1667,
+      "gezin": "Vander Valk",
+      "verloofd_met": "Anna van Valkenberghe"
+    },
+    {
+      "jaar": 1699,
+      "gezin": "Huis ter Valk",
+      "overleden_vader": "Pieter Huis ter Valk, 1660-1700"
+    }
+  ],
+  "afmetingen": {
+    "height": 210.9,
+    "width": 122.4
+  },
+  "schatting": 419000,
+  "aantekening": "dubbele nummering"
+}

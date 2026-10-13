@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01351",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-235-41",
+  "objecttype": "marmeren buste",
+  "benaming": "Privé-collectie van Hertogin Helena van 't Oranje-Nassau",
+  "vermoedelijke_meester": "Bartolomeus van Gent",
+  "provenance": [
+    {
+      "gezin": "Van Oldenburg",
+      "periode": "16e eeuw",
+      "gebeurtenis": "Overname door Adriaan van Oldenburg"
+    },
+    {
+      "gezin": "Van Nassau",
+      "periode": "17e eeuw",
+      "gebeurtenis": "Huwelijk verbinding met Filips van Nassau, graaf van Arkel"
+    },
+    {
+      "gezin": "Hertogin Helena van 't Oranje-Nassau",
+      "periode": "18e eeuw",
+      "gebeurtenis": "Erfgearving na afstammeling"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "kreuk in perkament"
+}

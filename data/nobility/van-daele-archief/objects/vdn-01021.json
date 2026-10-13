@@ -1,0 +1,35 @@
+{
+  "record_id": "VDN-1001021",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-805-39",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Huisarchief van de Graaf van Valkenburg",
+  "vermoedelijke_meester": "Sofia Kornelijstraat",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van Valkenburg",
+      "titel": "Eerste Baron van Valkenburg",
+      "jaar": "1750"
+    },
+    {
+      "persoon": "Adélina van Valkenburg, weduwe van Graaf Hendrik",
+      "titel": "Vrouwe van Valkenburg",
+      "jaar": "1790"
+    },
+    {
+      "persoon": "Graaf Boudewijn van Valkenburg, zoon van Adélina",
+      "titel": "Eerste Baron van Valkenburg (opnieuw)",
+      "jaar": "1835"
+    },
+    {
+      "persoon": "Prinses Sofia van Valkenburg, dochter van Graaf Boudewijn",
+      "titel": "Koningin-moeder van Valkenburg",
+      "jaar": "1870"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 130.8,
+    "width": 171.5
+  },
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel"
+}

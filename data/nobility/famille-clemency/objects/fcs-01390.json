@@ -1,0 +1,21 @@
+{
+  "record_id": "FCS-01390",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-837-74",
+  "type_d_objet": "portrait en miniature",
+  "titre": "Collection d'Art du Duc de Montmirail",
+  "artiste_attribue": "Marie-Angèle LaFleur",
+  "historique_de_possession": [
+    {
+      "famille_noblesse": "De Montmirail",
+      "date_acquisition": 1720,
+      "motif_acquisition": "Héritage de son père"
+    },
+    {
+      "famille_noblesse": "LaFleur",
+      "date_marriage": 1750,
+      "motif_acquisition": "Mariée au frère de Marie-Angèle"
+    }
+  ],
+  "observations": "double cotation au verso"
+}

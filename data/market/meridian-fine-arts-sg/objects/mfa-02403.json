@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-2403",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-501",
+  "object_type": "lithograph",
+  "title": "Viridian Composition",
+  "artist": "Selvaratnam",
+  "provenance": "Acquired by the late Mr. Kunal Rajkumar in 1957, then sold to the Estate of Prof. J. Anandakrishnan in 1982.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 965.0,
+    "width": 2357.0
+  },
+  "previous_owner": "Estate of Prof. J. Anandakrishnan",
+  "estimate_sgd": {
+    "low": 31000,
+    "high": 111000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

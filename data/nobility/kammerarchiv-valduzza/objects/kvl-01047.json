@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-01047",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-357-23",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Het Gemene Bestand",
+  "zugeschriebene_werkstatt": "Vrouw Adriaen van der Meer",
+  "besitzfolge": [
+    {
+      "titel": "Heren en Vrouwen van het Huis van Rensvliet",
+      "startjaar": 1620,
+      "aanhef": "Erf van haar vader, Heer Joost van Rensvliet"
+    },
+    {
+      "titel": "Adriaen van der Meer, Ridder van de Gulden Sporen",
+      "startjaar": 1650,
+      "aanhef": "Erf van zijn broeder, Heer Pieter van der Meer"
+    },
+    {
+      "titel": "Het Gemene Bestand, Erf van Adriaens zuster",
+      "startjaar": 1700,
+      "aanhef": "Overgedragen aan haar neef, Heer Lodewijk van Rensvliet"
+    },
+    {
+      "titel": "Lodewijk van Rensvliet, Staatsheer der Nederlanden",
+      "startjaar": 1800,
+      "aanhef": "Erf overgedragen aan zijn dochter, Prinses Beatrix van Rensvliet"
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Graenichen",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

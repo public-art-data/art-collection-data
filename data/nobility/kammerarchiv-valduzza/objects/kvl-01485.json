@@ -1,0 +1,47 @@
+{
+  "record_id": "KVL-1001485",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-681-44",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Die verlorene Schlacht von Woldenburg",
+  "zugeschriebene_werkstatt": "Herrin Elara van der Meer",
+  "besitzfolge": {
+    "Grundungsjahr": 1550,
+    "Erster Besitzer": "Graf Hugo van der Meer",
+    "Vermächtnis": [
+      {
+        "Person": "Königin Helena von Schattenberg",
+        "Jahreszahl": 1600
+      },
+      {
+        "Person": "Prinzessin Sofia von Woldenburg",
+        "Jahreszahl": 1650
+      }
+    ],
+    "Erbeuerung": [
+      {
+        "Person": "Baron Karl van der Meer",
+        "Jahreszahl": 1750
+      },
+      {
+        "Person": "Duchess Helena von Woldenburg",
+        "Jahreszahl": 1800
+      }
+    ],
+    "Bewahrung": [
+      {
+        "Person": "Herrin Elara van der Meer",
+        "Jahreszahl": 1850
+      },
+      {
+        "Person": "König Rudolf von Schattenberg",
+        "Jahreszahl": 1900
+      }
+    ]
+  },
+  "groesse": {
+    "height": 30.1,
+    "width": 96.1
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

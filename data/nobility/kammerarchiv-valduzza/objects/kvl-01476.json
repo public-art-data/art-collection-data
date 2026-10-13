@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01476",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-223-4",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Lichtbringer in der Nacht",
+  "zugeschriebene_werkstatt": "Marcellus van Rijn",
+  "besitzfolge": [
+    {
+      "jahr": 1800,
+      "besitzer": "Adelheid von Wülfenbourg"
+    },
+    {
+      "jahr": 1815,
+      "besitzer": "Adelheid von Wülfenbourg, heiratet König Leopold III. von Montenburg",
+      "grundung": true
+    },
+    {
+      "jahr": 1830,
+      "besitzer": "Prinzessin Elisabeth von Montenburg"
+    },
+    {
+      "jahr": 1860,
+      "besitzer": "Duke Ernst II. von Wülfenbourg",
+      "erbschaft": true
+    }
+  ],
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "doppelt nummeriert"
+}

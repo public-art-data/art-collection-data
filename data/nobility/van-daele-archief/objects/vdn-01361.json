@@ -1,0 +1,32 @@
+{
+  "record_id": "VDN-01361",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-257-71",
+  "objecttype": "miniatuurportret",
+  "benaming": "Grootheer van Luttenberg",
+  "vermoedelijke_meester": "Cornelius Wylger",
+  "provenance": [
+    {
+      "naam": "Hertogin Beatrijs van Valkenborg",
+      "eerste_koopjaar": 1673
+    },
+    {
+      "naam": "Graf Jan van Luttenberg",
+      "vererving": true,
+      "eerste_koopjaar": 1716
+    },
+    {
+      "naam": "Prinses Elisabeth van Valkenborg",
+      "erfde_titels": [
+        "Hertogin Beatrijs van Luttenberg"
+      ],
+      "eerste_koopjaar": 1740
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 61.0,
+    "width": 116.4
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "staat": "kreuk in perkament"
+}

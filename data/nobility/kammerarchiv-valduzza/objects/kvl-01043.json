@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-1001043R",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-258-37",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt des Grafen von Schattenburg",
+  "zugeschriebene_werkstatt": "François Delacroix d'Estrées",
+  "besitzfolge": {
+    "Eigentümer": [
+      {
+        "Datum": "1690",
+        "Person": "Graf Philipp von Schattenburg, Erbfolger des Grafen Johann von Schattenburg"
+      },
+      {
+        "Datum": "1723",
+        "Person": "Gräfin Maria von Schattenburg, Schwiegerin des Herzogs Friedrich von Altburg"
+      },
+      {
+        "Datum": "1750",
+        "Person": "Fürst Franz von Schattenburg, Sohn von Gräfin Maria von Schattenburg"
+      }
+    ],
+    "Geschichte": "Das Porträt kam 1690 auf Wunsch des Grafen Philipp von Schattenburg von dem Maler François Delacroix d'Estrées in Auftrag gegeben. Es wurde seitdem bei der Familie Schattenburg im Schloss Burgschatz bewahrt."
+  },
+  "groesse": {
+    "height": 80.4,
+    "width": 216.4
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

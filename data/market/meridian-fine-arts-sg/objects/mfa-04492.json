@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-04492",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-413",
+  "object_type": "watercolour on paper",
+  "title": "Ochre Composition",
+  "artist": "Ongpiboon",
+  "provenance": "Collection of the late Dato' R. Sivanathan, acquired 1931; Meridian Fine Arts Auctioneers, lot 489, 1941; thence by descent to Mr. and Mrs. W. Gribble-Hale.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 1771.0,
+    "width": 583.0
+  },
+  "estimate_sgd": {
+    "low": 16000,
+    "high": 120000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

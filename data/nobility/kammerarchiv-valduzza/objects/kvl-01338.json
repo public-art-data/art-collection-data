@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-2001338",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-957-76",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Het Lied van de Nachtsterren",
+  "zugeschriebene_werkstatt": "Eline de Vries",
+  "besitzfolge": [
+    {
+      "datum": "1740",
+      "besitzer": "Haus von Waltenburg",
+      "verwandte": "Haus von Eisenstein"
+    },
+    {
+      "datum": "1805",
+      "besitzer": "Haus von Eisenstein",
+      "verwandte": "Haus von Calixtus"
+    },
+    {
+      "datum": "1850",
+      "besitzer": "Haus von Calixtus",
+      "erben": "Kinder von Grafen Maximilian von Calixtus und Gräfin Helena von Waldsberg"
+    }
+  ],
+  "groesse": {
+    "height": 133.9,
+    "width": 30.2
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "TMB-01330",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-806-64",
+  "soort": "miniatuurportret",
+  "titel": "Archiv van de Huis te Wieringen",
+  "toegeschreven_aan": "Jan Pieter Verstappen",
+  "herkomstgeschiedenis": [
+    {
+      "persoon": "Hertogin Maria van Wierenburg",
+      "jaar": 1850,
+      "reden": "erfgename"
+    },
+    {
+      "persoon": "Graaf Hendrik van Wieringen",
+      "jaar": 1885,
+      "reden": "gezamenlijke eigendom"
+    },
+    {
+      "persoon": "Prinses Sofia van te Wieringen",
+      "jaar": 1920,
+      "reden": "erfgename"
+    },
+    {
+      "persoon": "Huis te Wieringen",
+      "jaar": 1955,
+      "reden": "gevestigd erfgoed"
+    }
+  ],
+  "afmetingen": {
+    "height": 115.0,
+    "width": 273.3
+  }
+}

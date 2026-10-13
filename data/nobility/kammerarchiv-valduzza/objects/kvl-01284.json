@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-01284",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-845-63",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Die Stille der Nacht",
+  "zugeschriebene_werkstatt": "Ludwig van Ingenheim",
+  "besitzfolge": {
+    "Kaiserliche Hofkammer": [
+      "Erbfreude Kaiserin Beatrix I.",
+      "Übertragung durch Hausregierung von Kaiserin Beatrix II."
+    ],
+    "Hofschloss der Grafschaft Schwarzwald": [
+      "Inheritance from Graf Wilhelm III. through his only child, Prinzessin Helena IV.",
+      "Transfer by testament of Graf Wilhelm V. to seiner Enkelin, Herzogin Katharina VII."
+    ]
+  },
+  "groesse": {
+    "height": 207.8,
+    "width": 76.1
+  }
+}

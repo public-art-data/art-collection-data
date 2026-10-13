@@ -1,0 +1,23 @@
+{
+  "record_id": "HFV-01127",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-520-72",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Gräfin Marianne von der Linden",
+  "kuenstler": "Eleanor Wembly",
+  "provenienz": [
+    {
+      "Titel": "Graf",
+      "Name": "Maximilian Wembly",
+      "Jahr": 1750
+    },
+    {
+      "Titel": "Gräfin Marianne von der Linden",
+      "Name": "Eleanor Wembly",
+      "Jahr": 1850,
+      "Art des Erbteils": "Buchhaltung"
+    }
+  ],
+  "schaetzung_chf": 559000,
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

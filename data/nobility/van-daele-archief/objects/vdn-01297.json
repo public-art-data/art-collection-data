@@ -1,0 +1,28 @@
+{
+  "record_id": "VDN-01297",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-751-62",
+  "objecttype": "marmeren buste",
+  "benaming": "Hertogin van 't Zuiden",
+  "vermoedelijke_meester": "Elianore Querelle",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van der Meer",
+      "rol": "kocht",
+      "datum": 1580,
+      "locatie": "Château de la Rivière"
+    },
+    {
+      "persoon": "Adélaïde van Oranje-Nassau",
+      "rol": "verfijnd door haar echtgenoot",
+      "datum": 1615,
+      "locatie": "Huis Houten"
+    },
+    {
+      "persoon": "Jhr. Johan van Utrecht",
+      "rol": "erfde het werk na de dood van zijn moeder",
+      "datum": 1680,
+      "locatie": "Château de la Rivière"
+    }
+  ]
+}

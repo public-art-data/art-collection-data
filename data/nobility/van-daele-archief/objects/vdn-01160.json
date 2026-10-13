@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01160",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-210-94",
+  "objecttype": "kabinetklok",
+  "benaming": "Prinses Arnhemse collectie",
+  "vermoedelijke_meester": "Karel Vermeiren",
+  "provenance": [
+    {
+      "beschrijving": "Ingebruik genomen door Adelheid van de Valkenburg",
+      "ouder": null,
+      "kind": null
+    },
+    {
+      "beschrijving": "Eenige eigendommen overgedragen aan haar neef, Hendrik van der Meerenburg",
+      "ouder": "Adelheid van de Valkenburg",
+      "kind": "Hendrik van der Meerenburg"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 163.8,
+    "width": 196.1
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "schatting": 19000
+}

@@ -1,0 +1,18 @@
+{
+  "record_id": "GFM-02222",
+  "source": "Galerie Fouquet-Merlan, Paris",
+  "numero_inventaire": "FM-4384",
+  "type_dobjet": "aquarelle",
+  "titre": "Etude de pommes",
+  "artiste": "A. Vercelly",
+  "dimensions_cm": {
+    "height": 140.3,
+    "width": 154.3
+  },
+  "ancien_proprietaire": {
+    "name": "M. Housset",
+    "born": 1940,
+    "acquired": 1917
+  },
+  "periode": "fin du XIXe"
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01006",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-865-2",
+  "stuk": "marmeren buste",
+  "omschrijving": "Portret van de burcht van Waldeck",
+  "vermoedelijke_maker": "Gerrit Jansen van Gent",
+  "eigendomsgeschiedenis": [
+    {
+      "family": "Huis van Pallandt",
+      "overdracht_year": "1625-12-25",
+      "overdracht_type": "Erfvererving"
+    },
+    {
+      "family": "Huis van Bentinck",
+      "overdracht_year": "1680-09-15",
+      "overdracht_type": "Brulogie"
+    },
+    {
+      "family": "Hertogdom Waldeck",
+      "eigendom": "1806-01-01"
+    }
+  ],
+  "grootte": {
+    "height": 88.5,
+    "width": 223.3
+  },
+  "marginale_notitie": "kreuk in perkament"
+}

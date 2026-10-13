@@ -1,0 +1,34 @@
+{
+  "record_id": "KVL-1001211",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-307-27",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt des Grafen von Römerburg",
+  "zugeschriebene_werkstatt": "Hans Werner Klein",
+  "besitzfolge": [
+    {
+      "datum": 1620,
+      "besitzer": "Familie von Trierstein"
+    },
+    {
+      "datum": 1650,
+      "geschenkt_von": "Grafin Helena von Römerburg",
+      "geschenk_beziegelt": true
+    },
+    {
+      "datum": 1750,
+      "vererbt_von": "Graf Karl von Trierstein"
+    },
+    {
+      "datum": 1850,
+      "vererbt_von": "Prinzessin Luise von Römerburg",
+      "nachgeliegen": true
+    }
+  ],
+  "groesse": {
+    "height": 53.7,
+    "width": 15.4
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "doppelt nummeriert"
+}

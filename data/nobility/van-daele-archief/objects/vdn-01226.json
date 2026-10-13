@@ -1,0 +1,57 @@
+{
+  "record_id": "VDN-2001226",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-685-96",
+  "objecttype": "kabinetklok",
+  "benaming": "Groote Huis van de Vijf Sterren",
+  "vermoedelijke_meester": "Aurélien Valtor",
+  "provenance": [
+    {
+      "houders": [
+        {
+          "gezin": [
+            {
+              "naam": "Duchesse Madeleine van Oranje-Nassau",
+              "titel": ""
+            },
+            {
+              "gezin": [
+                {
+                  "naam": "Hertog Floris III van Nassau",
+                  "titel": ""
+                }
+              ]
+            }
+          ],
+          "jaar": 1760
+        },
+        {
+          "houders": [
+            {
+              "gezin": [
+                {
+                  "naam": "Prinses Émilie van Bourbon-Parma",
+                  "titel": ""
+                }
+              ]
+            },
+            {
+              "gezin": [
+                {
+                  "naam": "Duke Maximilian III von Hohenlohe-Langenburg",
+                  "titel": ""
+                }
+              ]
+            }
+          ],
+          "jaar": 1830
+        }
+      ]
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 125.0,
+    "width": 287.3
+  },
+  "eerdere_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

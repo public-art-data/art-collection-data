@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-o1183",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-102-41",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt des Grafen van der Meer",
+  "zugeschriebene_werkstatt": "Aurélien Dumont",
+  "besitzfolge": [
+    {
+      "besitzer": "Grafin Isabella van der Meer",
+      "datum": "1850",
+      "besitzfolge_art": "Erbfolge"
+    },
+    {
+      "besitzer": "Dame Henriette van der Meer",
+      "datum": "1875",
+      "besitzfolge_art": "Eheschließung"
+    },
+    {
+      "besitzer": "Prinzessin Sophie van der Meer",
+      "datum": "1920",
+      "besitzfolge_art": "Erbfolge"
+    }
+  ]
+}

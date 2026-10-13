@@ -1,0 +1,33 @@
+{
+  "record_id": "OGV-01063",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-599-41",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Lichtende Zonnenstael",
+  "vermoedelijke_maker": "Adriaan van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "geschiedenis": "Eenig door verheuring aan de Van der Valk familie overgedragen in 1750.",
+      "familie": {
+        "naam": "Van der Valk",
+        "geslacht": "Baron van der Valk"
+      }
+    },
+    {
+      "geschiedenis": "In 1855 overgenomen door de Hertogin van Amstel, als legaat van haar vader.",
+      "eigendom": "Hertogin van Amstel"
+    },
+    {
+      "geschiedenis": "Door erfenis opgevolgd door haar dochter, de Prinsesse van Koningsberg, in 1920.",
+      "familie": {
+        "naam": "Prinses van Koningsberg",
+        "geslacht": "Hertogin van Koningsberg"
+      }
+    }
+  ],
+  "grootte": {
+    "height": 14.8,
+    "width": 194.1
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

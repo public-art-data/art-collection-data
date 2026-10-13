@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01170",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-407-87",
+  "artefakt": "marmorbueste",
+  "werktitel": "De kasteelportretten",
+  "zugeschriebene_werkstatt": "Hendrika van der Meer",
+  "besitzfolge": [
+    {
+      "houders": "Graven van Oudenaarde",
+      "verhaaltijden": "14e-16e eeuw, erfde het van Hendrik van der Meer"
+    },
+    {
+      "houders": "Prinsessen van Valkenburg",
+      "verhaaltijden": "17e eeuw, erfde het van de weduwe van Johan van Oudenaarde"
+    },
+    {
+      "houders": "Koningin Isabella van Lisse",
+      "verhaaltijden": "19e eeuw, legat geërfd door haar kleindochter"
+    }
+  ],
+  "groesse": {
+    "height": 47.6,
+    "width": 261.8
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "HFV-01073",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-701-40",
+  "objektart": "bildteppich",
+  "titel": "Privatarchiv der Gräfin von Altmarkenburg",
+  "kuenstler": "Ludwig van Riegenbach",
+  "provenienz": [
+    {
+      "Person": "Gräfin Elisabeth von Altmarkenburg",
+      "Beziehung": "Eigentümerin"
+    },
+    {
+      "Person": "Kaiser Leopold II. von Hohenstein",
+      "Beziehung": "Erbschaft"
+    },
+    {
+      "Person": "Prinz Friedrich von Warteburg",
+      "Beziehung": "Erbfolge"
+    },
+    {
+      "Person": "Gräfin Helena von Warteburg",
+      "Beziehung": "Eigentümerin"
+    }
+  ],
+  "vorbesitzer": "Herren von Falkeisberg",
+  "schaetzung_chf": 353000,
+  "zustandsbericht": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

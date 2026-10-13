@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-1001198",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-527-6",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Porträt der Edelsteine",
+  "zugeschriebene_werkstatt": "Lorenza van der Meer",
+  "besitzfolge": [
+    {
+      "grundungsjahr": 1643,
+      "besitzername": "Haus von Blumenberg",
+      "besitzjahr": 1650
+    },
+    {
+      "grundungsjahr": 1665,
+      "besitzername": "Haus von Adlerstein",
+      "besitzjahr": null
+    },
+    {
+      "grundungsjahr": 1703,
+      "besitzername": "Haus von Elsterhof",
+      "besitzjahr": 1720
+    }
+  ],
+  "groesse": {
+    "height": 113.7,
+    "width": 124.2
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

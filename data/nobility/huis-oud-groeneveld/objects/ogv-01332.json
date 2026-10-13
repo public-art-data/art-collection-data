@@ -1,0 +1,33 @@
+{
+  "record_id": "OGV-o1332",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-154-81",
+  "stuk": "devotiebeeld",
+  "omschrijving": "De Meesters van Vollenhove, 'Het Verborgen Riet' (The Hidden Reed)",
+  "vermoedelijke_maker": "Dominicus Van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Graven van Vollenhove",
+      "begindatum": "1565",
+      "eindeDatum": "1630",
+      "beschrijving": "Aankoop door Jacob van Vollenhove als erfgenaam"
+    },
+    {
+      "titel": "Graafessen van Wassenberg",
+      "begindatum": "1680",
+      "eindeDatum": "1750",
+      "beschrijving": "Gevraagd als uitstekende schilder en geschonken door Maria van Wassenberg"
+    },
+    {
+      "titel": "Heren van Middelburg",
+      "begindatum": "1825",
+      "eindeDatum": "1900",
+      "beschrijving": "Geërfd na de dood van Adriaan van Middelburg, zoon van een oudere broer"
+    }
+  ],
+  "grootte": {
+    "height": 176.1,
+    "width": 150.5
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel"
+}

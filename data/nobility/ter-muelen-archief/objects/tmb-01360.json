@@ -1,0 +1,26 @@
+{
+  "record_id": "TMB-01360",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-809-66",
+  "soort": "olieverf op maanstof",
+  "titel": "Grootmeester van 't Groenhof",
+  "toegeschreven_aan": "Lavinia van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "naam": "Vrouwe Isabella van Aersdalsen",
+      "erfgoed": [
+        "Grootmeester van 't Groenhof, 1650"
+      ],
+      "overleden": "1705"
+    },
+    {
+      "naam": "Heer Hendrik van der Meer",
+      "erfgoed": [
+        "Grootmeester van 't Groenhof, 1706"
+      ],
+      "geboortegrond": "Huis van Reethorst"
+    }
+  ],
+  "schatting": 489000,
+  "aantekening": "potloodaantekening: 'uit de boedel van 1852'"
+}

@@ -1,0 +1,25 @@
+{
+  "record_id": "HFV-01118",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-986-80",
+  "objektart": "miniaturportrait",
+  "titel": "Grafschaftsbibliothek",
+  "kuenstler": "Ludwig von Eisenhut",
+  "provenienz": {
+    "Haus Hohenstein": {
+      "Erbschaft": [
+        {
+          "Person": "Hans von Eisenhut",
+          "Jahr": 1750
+        },
+        {
+          "Ehe": {
+            "Parte": "Gräfin Sophie von Württemberg",
+            "Jahr": 1785
+          }
+        }
+      ]
+    }
+  },
+  "vorbesitzer": "Freiherren von Graenichen"
+}

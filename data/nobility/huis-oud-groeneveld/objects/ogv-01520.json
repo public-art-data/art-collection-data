@@ -1,0 +1,43 @@
+{
+  "record_id": "OGV-01520",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-234-99",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "Gouden Lyrische Schaal",
+  "vermoedelijke_maker": "Adrianus van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "houders": [
+        "Heren van Hertogenbroeck"
+      ],
+      "aankoop_jaar": 1708,
+      "aankoop_bedrag": 1000
+    },
+    {
+      "houders": [
+        "Heren van Hertogenbroeck"
+      ],
+      "vereriging_na_ontwerp": "1732",
+      "opslagplaats": "Kast van Hertogenbroeck"
+    },
+    {
+      "houders": [
+        "Hermina van Hertogenbroeck"
+      ],
+      "overdraagbaarheid": 1755,
+      "opslagplaats": "Grootse kamer van Hertogenbroeck"
+    },
+    {
+      "houders": [
+        "Heren van Luytenhaar"
+      ],
+      "verplichting_na_uitbuiting": "1820",
+      "opslagplaats": "Lijst van eigendommen van Luytenhaar"
+    }
+  ],
+  "grootte": {
+    "height": 116.1,
+    "width": 172.4
+  },
+  "marginale_notitie": "dubbele nummering"
+}

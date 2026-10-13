@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01365",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-202-55",
+  "objecttype": "devotiebeeld",
+  "benaming": "Huis van Vollenhoven",
+  "vermoedelijke_meester": "Joris van der Meer",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van Vollenhoven",
+      "jaar": 1720,
+      "omschrijving": "Geërfd van zijn vader Graaf Jan van Vollenhoven"
+    },
+    {
+      "persoon": "Prinses Maria van Vollenhoven",
+      "jaar": 1800,
+      "omschrijving": "Kocht van de velederf van haar grootouders Graaf Hendrik en Gravin Anna van Vollenhoven"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 120.9,
+    "width": 201.4
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "schatting": 418000,
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

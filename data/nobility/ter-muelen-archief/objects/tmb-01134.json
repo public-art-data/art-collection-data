@@ -1,0 +1,27 @@
+{
+  "record_id": "TMB-01134",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-840-6",
+  "soort": "marmeren buste",
+  "titel": "Huisarchief van de graafschap van Oud-Velden",
+  "toegeschreven_aan": "Fritsje de Valkenburg",
+  "herkomstgeschiedenis": [
+    {
+      "tijdperk": "17e eeuw",
+      "gebeurtenis": "Erfgoodkeuring van graaf Willem van Oud-Velden"
+    },
+    {
+      "tijdperk": "18e eeuw",
+      "gebeurtenis": "Vererving van de schilderijen aan zijn zuster, Adelheid van Oud-Velden"
+    },
+    {
+      "tijdperk": "19e eeuw",
+      "gebeurtenis": "Overdracht aan zijn neef, Hendrik van Oud-Velden"
+    }
+  ],
+  "afmetingen": {
+    "height": 157.6,
+    "width": 177.1
+  },
+  "aantekening": "dubbele nummering"
+}

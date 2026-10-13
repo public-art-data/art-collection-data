@@ -1,0 +1,31 @@
+{
+  "record_id": "TMB-1001120",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-743-77",
+  "soort": "tafelzilver (onderdeel)",
+  "titel": "Groot-Schilders Collectie",
+  "toegeschreven_aan": "Adriaen van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "titel": "Schilderij uit de collectie van Graaf Constantijn van Montfort",
+      "gebeurtenis": "Erfgoed overgedragen door stichting van Adriaan's neef, Graaf Edvard van Montfort"
+    },
+    {
+      "titel": "Schilderij uit de collectie van Hertogin Elisabeth van Tilly",
+      "gebeurtenis": "Geërfd na huwelijk met Hertog Filips van Tilly"
+    },
+    {
+      "titel": "Gekocht bij de veiling van de Baroness Frederica van der Linden",
+      "datum": "19 mei 1852"
+    },
+    {
+      "titel": "Verworven door stichting van Adriaan's zoon, Graaf Johan van der Meer",
+      "gebeurtenis": "Erfgoed overgedragen in erfgoedwet 1917"
+    }
+  ],
+  "afmetingen": {
+    "height": 117.7,
+    "width": 218.3
+  },
+  "vroegere_bezitter": "Geslacht Van Schoonhoven-Dal"
+}

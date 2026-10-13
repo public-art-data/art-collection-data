@@ -1,0 +1,18 @@
+{
+  "record_id": "SYN_MFA_01647",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-103",
+  "object_type": "bronze figure",
+  "title": "Study of a water jar",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by Linwood Estate, Singapore in 1959 and held until 1962 when sold to Raffles Dealer's Guild. Sold again to Kian Teo estate by 1976. Finally sold at auction by Ng Thian Meng, Singapore in 2014.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 474.0,
+    "width": 307.0
+  },
+  "estimate_sgd": {
+    "low": 6000,
+    "high": 118000
+  }
+}

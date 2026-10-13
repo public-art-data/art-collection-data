@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-01301",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-732-63",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Herzogin von Schwarzwald",
+  "kuenstler": "Ludwig van Eisenhut",
+  "provenienz": [
+    {
+      "Person": "Grafenhaus",
+      "Titel": "Erbfolge",
+      "Datum": "1750"
+    },
+    {
+      "Person": "Haus von Sternenberg",
+      "Titel": "Heirat",
+      "Datum": "1815"
+    },
+    {
+      "Person": "Herzogin Helga von Schwarzwald",
+      "Titel": "Erbe",
+      "Datum": "1850"
+    }
+  ],
+  "vorbesitzer": "Herren von Valduzza",
+  "schaetzung_chf": 50000
+}

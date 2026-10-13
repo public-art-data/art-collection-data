@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01280",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-627-17",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "De Sterkheid der Eer",
+  "zugeschriebene_werkstatt": "Lysander de Wael",
+  "besitzfolge": [
+    {
+      "name": "Gravin van Oranje-Nassau",
+      "periode": "1685-1690"
+    },
+    {
+      "name": "Prins Maurits van Nassau",
+      "periode": "1690-1710",
+      "verwerving": "erfgoed aan zijn neef, Prins Lodewijk van Oranje-Nassau"
+    },
+    {
+      "name": "Koningin Wilhelmina van Nassau",
+      "periode": "1852-1901",
+      "verwerving": "geërfd door haar zoon, Koning Hendrik van Nassau"
+    }
+  ],
+  "kammervermerk": "stempel des Hausarchivs"
+}

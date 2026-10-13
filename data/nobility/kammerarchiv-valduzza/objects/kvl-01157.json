@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01157",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-290-47",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Verborgene Licht van Ameliasburg",
+  "zugeschriebene_werkstatt": "Kornelia de Vries",
+  "besitzfolge": [
+    {
+      "titel": "Gravin van Ameliasburg",
+      "nachname": "Adelheid von Altenheim"
+    },
+    {
+      "titel": "Hochzeite",
+      "nachname": "Wulfried zu Werlau"
+    },
+    {
+      "titel": "Erbschaft",
+      "nachname": "Gertrud von Lübeck"
+    }
+  ],
+  "groesse": {
+    "height": 198.0,
+    "width": 262.1
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

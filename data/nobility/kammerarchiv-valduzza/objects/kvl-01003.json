@@ -1,0 +1,33 @@
+{
+  "record_id": "KVL-01003",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-497-78",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt eines jungen Adligen in blauer und goldener Uniform",
+  "zugeschriebene_werkstatt": "F. Stielke",
+  "besitzfolge": [
+    {
+      "name": "Grafenhaus von Altberg",
+      "besitzer": "Hans-Albert Graf von Altberg (1680-1749)",
+      "erworben_jahr": 1703,
+      "herkunft": "Erbschaft durch Vater Hans-Ernst Graf von Altberg"
+    },
+    {
+      "name": "Grafenhaus von Wulfenstein",
+      "besitzer": "Karl-Albert Graf von Wulfenstein (1745-1800)",
+      "erworben_jahr": 1764,
+      "herkunft": "Ehe mit Helene Freifrau von Altberg"
+    },
+    {
+      "name": "Grafenhaus von Altberg-Wolfenhagen",
+      "besitzer": "Leopold-Albert Graf von Altberg-Wolfenhagen (1810-1885)",
+      "erworben_jahr": 1851,
+      "herkunft": "Erbschaft durch Verwandte der Wulfenstein-Familie"
+    }
+  ],
+  "groesse": {
+    "height": 40.4,
+    "width": 73.7
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

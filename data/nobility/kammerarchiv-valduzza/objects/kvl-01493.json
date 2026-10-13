@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-01493",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-831-32",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Die Leidenschaft der Elysabeths",
+  "zugeschriebene_werkstatt": "Gundrik van der Meer",
+  "besitzfolge": {
+    "Haus Hohenstein-Sprenk": {
+      "datum": "1700",
+      "nachfolger": "Maximilian von Hohenstein-Sprenk"
+    },
+    "Geschlechtsvermögen der Gräfin von Zweibrücken": {
+      "datum": "1632",
+      "erwerb": "Ehe mit Christian IV von Zweibrücken"
+    }
+  },
+  "groesse": {
+    "height": 37.5,
+    "width": 141.6
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01038",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-270-75",
+  "stuk": "kabinetklok",
+  "omschrijving": "Portret van de Vrijheid",
+  "vermoedelijke_maker": "Sander van Zyl",
+  "eigendomsgeschiedenis": [
+    {
+      "naam": "Huis van Oranje-Nassau-Volharding",
+      "periode": "18e eeuw",
+      "geschiedenis": "Kocht van Sander van Zyl in het jaar 1785"
+    },
+    {
+      "naam": "Hertogin Wilhelmina van Oranje-Nassau-Zuilenstein",
+      "periode": "19e eeuw",
+      "geschiedenis": "Erfde het portret na overlijden van haar vader, Prins Hendrik van Oranje-Nassau-Volharding"
+    },
+    {
+      "naam": "Huis van Oranje-Nassau-Buren",
+      "periode": "20e eeuw",
+      "geschiedenis": "Verhuurde het portret aan de Staatssche Kunstkabinetten Amsterdam in 1925"
+    }
+  ],
+  "grootte": {
+    "height": 216.4,
+    "width": 248.3
+  }
+}

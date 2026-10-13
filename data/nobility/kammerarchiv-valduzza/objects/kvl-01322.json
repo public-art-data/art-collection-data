@@ -1,0 +1,39 @@
+{
+  "record_id": "KVL-1001322",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-989-38",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Porträt eines jungen Mannes im Winter",
+  "zugeschriebene_werkstatt": "Leopold van der Meer",
+  "besitzfolge": {
+    "Grundbesitz": {
+      "von Haus Hohenfels": [
+        {
+          "Erbfolge": "1803",
+          "Besitzer": "Hans von Hohenfels"
+        },
+        {
+          "Ehe": "1810",
+          "Gescheibe": "Karl von Würzburg"
+        }
+      ],
+      "Bestandteil": {
+        "von Haus Schwarzwald": [
+          {
+            "Erbe": "1850",
+            "Nachfolger": "Maximilian von Hohenfels"
+          },
+          {
+            "Ehe": "1875",
+            "Besitzerin": "Anna von Eisenberg"
+          }
+        ]
+      }
+    }
+  },
+  "groesse": {
+    "height": 207.9,
+    "width": 9.4
+  },
+  "kammervermerk": "wachsiegel beschaedigt"
+}

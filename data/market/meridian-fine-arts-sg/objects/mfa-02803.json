@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02803",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-352",
+  "object_type": "lithograph",
+  "title": "Untitled (water jar)",
+  "artist": "Vellacott",
+  "provenance": "Purchased by Dr. Elara Vasquez, 1962; Sold to the estate of Kaelin Hwang, 1998; Acquired by auction at MFA, Singapore, 2024",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1554.0,
+    "width": 2251.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 27000,
+    "high": 128000
+  }
+}

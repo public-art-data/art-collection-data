@@ -1,0 +1,28 @@
+{
+  "record_id": "HAG-01027",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-479-12",
+  "gegenstand": "tafelsilber (teilservice)",
+  "bezeichnung": "Wandgemälde vom König von Alderan",
+  "zugeschrieben_an": "Marcellus Wulfgar",
+  "besitzgeschichte": [
+    {
+      "jahr": 1750,
+      "besitzer": "Familie von Harrasburg",
+      "besitzgrunde": "Erbschaft"
+    },
+    {
+      "jahr": 1775,
+      "besitzer": "Eugen von Schattenhof",
+      "besitzgrunde": "Heirat mit Helga von Harrasburg"
+    },
+    {
+      "jahr": 1800,
+      "besitzer": "Familie von Schattenhof",
+      "besitzgrunde": "Erbe aus dem Tod von Eugen"
+    }
+  ],
+  "frueherer_besitzer": "Grafen von Wassenfeld",
+  "schaetzung_chf": 645000,
+  "bemerkungen": "wachsiegel beschaedigt"
+}

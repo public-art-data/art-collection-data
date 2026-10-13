@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-1001315",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-457-40",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Het Verborgen Kasteel",
+  "zugeschriebene_werkstatt": "Adriaan van de Vijf Bogen",
+  "besitzfolge": [
+    {
+      "titel": "Graf van Wolveindorp",
+      "naam": "Ludwig van Rijnland",
+      "jaar": 1700,
+      "omvang": "Uitgebreid erfgoed"
+    },
+    {
+      "titel": "Prinses van Schiermonnikoog",
+      "naam": "Alida van Oranje-Nassau",
+      "jaar": 1750,
+      "omvang": "Uitgebreide erfenis"
+    },
+    {
+      "titel": "Graf von Werdenburg",
+      "naam": "Theodorus von Werdenburg",
+      "jaar": 1850,
+      "omvang": "Aankoop en overdracht"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "doppelt nummeriert"
+}

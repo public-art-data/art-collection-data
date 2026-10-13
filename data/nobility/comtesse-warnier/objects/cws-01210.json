@@ -1,0 +1,36 @@
+{
+  "record_id": "SYN.CWS.01210",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-923-2",
+  "categorie_d_objet": "tapisserie de haute lisse",
+  "intitule": "L'Héritage de la Comtesse de Montsaurin",
+  "maitre": "Émile Dubois-Guillaume",
+  "historique": [
+    {
+      "personne": "Henri III de Montsaurin",
+      "rôle": "créateur",
+      "date": "1850-1860"
+    },
+    {
+      "personne": "François Ier de Montsaurin et Cie.",
+      "rôle": "acquéteur",
+      "date": "1875-1880"
+    },
+    {
+      "personne": "Pierre II de Montsaurin-Saint-Martin",
+      "rôle": "décideur",
+      "date": "1910-1920"
+    },
+    {
+      "personne": "La Comtesse Isabelle de Montsaurin et les Fils du Baron Henri de Montsaurin",
+      "rôle": "dépositaire",
+      "date": "1950-présent"
+    }
+  ],
+  "cotes_cm": {
+    "height": 175.3,
+    "width": 50.6
+  },
+  "titulaire_precedent": "Vicomtes de Lignieres-en-Bray",
+  "observations_de_la_comtesse": "double cotation au verso"
+}

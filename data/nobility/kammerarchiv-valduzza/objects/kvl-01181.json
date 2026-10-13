@@ -1,0 +1,21 @@
+{
+  "record_id": "KVL-1001181",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-809-97",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "De Geschenk der Sterne",
+  "zugeschriebene_werkstatt": "Adèle Dubois de La Fontaine",
+  "besitzfolge": {
+    "Herren von Wimpelhausen": {
+      "acquisto": "1485",
+      "nachfolger": "Ernst II von Wimpelhausen, 1512"
+    },
+    "Gräfin Sophie von Altweil": {
+      "erben": "1623",
+      "übertragen": "Johann III von Altweil, 1650"
+    },
+    "Herr Karl von Wimpelhausen": {
+      "erbfört": "1878"
+    }
+  }
+}

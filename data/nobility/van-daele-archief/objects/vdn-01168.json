@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-01168",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-540-17",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Heren van de Heerlijkheid van 't Vijfhuizig",
+  "vermoedelijke_meester": "Rene de Valkenburg",
+  "provenance": [
+    {
+      "persoon": "Diana van Oranje-Nassau",
+      "relatie": "zus van Prins Hendrik van Oranje-Nassau",
+      "jaar": 1790
+    },
+    {
+      "persoon": "Prins Frederik van Oranje-Nassau",
+      "relatie": "vader",
+      "jaar": 1850
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 188.3,
+    "width": 161.9
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

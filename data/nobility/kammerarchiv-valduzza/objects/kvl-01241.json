@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-01241",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-918-58",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt eines jungen Adligen in dunkler Kleidung",
+  "zugeschriebene_werkstatt": "Johannes van Hertenberg",
+  "besitzfolge": [
+    {
+      "gruppe": "Haus von Arnstein",
+      "datum": "1620"
+    },
+    {
+      "gruppe": "Familie von Altburg",
+      "datum": "1682 durch Erbschaft"
+    },
+    {
+      "gruppe": "Kunstgalerie Arnstein",
+      "datum": "1904 durch Beschluss der Familie"
+    }
+  ]
+}

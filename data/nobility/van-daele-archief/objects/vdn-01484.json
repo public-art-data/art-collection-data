@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01484",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-879-40",
+  "objecttype": "miniatuurportret",
+  "benaming": "Hertogin van 't IJsselmeer",
+  "vermoedelijke_meester": "Hendrik Valkoen",
+  "provenance": [
+    {
+      "eigenschapper": "Jan van Harenstein",
+      "gekoop_year": 1485,
+      "aankoop_wert": 1000
+    },
+    {
+      "eigenschapper": "Margaretha van Beernhaven",
+      "gekregen_door_her_man": true,
+      "gekregen_jaar": 1553
+    },
+    {
+      "eigenschapper": "Johannes van 't IJsselmeer",
+      "verfde_troonopvolger": true,
+      "overleden_year": 1691
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel"
+}

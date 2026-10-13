@@ -1,0 +1,35 @@
+{
+  "record_id": "CCV-01255",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-693-95",
+  "categorie": "portrait en miniature",
+  "titre": "Collection de la Marquise d'Alcée",
+  "attribution": "Pierre-Paul Dupont",
+  "provenance": {
+    "propriété originale": {
+      "département": "Château de Saint-Loup",
+      "dénomination propriétaire": "Famille de Brichard"
+    },
+    "héritage": [
+      {
+        "type": "héritage",
+        "dénomination propriétaire": "Marie-Thérèse de Brichard"
+      },
+      {
+        "type": "mariage",
+        "époux1": "Pierre de Villeneuve",
+        "époux2": "La Marquise d'Alcée"
+      }
+    ],
+    "décision de vente": {
+      "date décision": "1805",
+      "dénomination propriétaire": "La Marquise d'Alcée"
+    }
+  },
+  "dimensions_cm": {
+    "height": 147.4,
+    "width": 163.8
+  },
+  "ancien_detenteur": "Vicomtes de Lignieres-en-Bray",
+  "valeur_estimee": 677000
+}

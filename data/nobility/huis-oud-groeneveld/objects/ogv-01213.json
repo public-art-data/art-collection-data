@@ -1,0 +1,27 @@
+{
+  "record_id": "OGV-01213",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-781-65",
+  "stuk": "tafelzilver (onderdeel)",
+  "omschrijving": "Verloren Peren van Veldenheer",
+  "vermoedelijke_maker": "Klaas van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "naam": "Huis van Vollenhove",
+      "overleden": "1698"
+    },
+    {
+      "naam": "Gravia van 't Groene Veld",
+      "overleden": "1770, erfde van haar zuster Helena van Vollenhove"
+    },
+    {
+      "naam": "Hertogin Wilhelmina van Veldenheer",
+      "overleden": "1842, erfde van haar moeder Anna van Vollenhove",
+      "gekregen": "Van de testamentaire nalatigheid van haar overgrootmoeder, Prinses Isabella van 't Groene Veld"
+    }
+  ],
+  "grootte": {
+    "height": 211.9,
+    "width": 270.7
+  }
+}

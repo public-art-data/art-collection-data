@@ -1,0 +1,35 @@
+{
+  "record_id": "SYN FCS 01244",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-510-58",
+  "type_d_objet": "service a the en porcelaine",
+  "titre": "Collection de la Maison Dumont",
+  "artiste_attribue": "Pierre Étienne Dupont",
+  "historique_de_possession": [
+    {
+      "date": "1690",
+      "dernier propriétaire": "Marquis de Montfort"
+    },
+    {
+      "date": "1715",
+      "dernier propriétaire": "Marie-Thérèse Dumont, épouse du Marquis de Montfort"
+    },
+    {
+      "date": "1750",
+      "dernier propriétaire": "Ferdinand Dumont, fils du précédent"
+    },
+    {
+      "date": "1800",
+      "dernier propriétaire": "Hortense Dumont, épouse de Julien de Saint-Pierre"
+    },
+    {
+      "date": "1850",
+      "dernier propriétaire": "Hippolyte Dumont, frère cadet du précédent"
+    }
+  ],
+  "dimensions": {
+    "height": 151.3,
+    "width": 98.5
+  },
+  "observations": "cachet de cire brise"
+}

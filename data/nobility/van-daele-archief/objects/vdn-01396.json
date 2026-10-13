@@ -1,0 +1,45 @@
+{
+  "record_id": "VDN-01396",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-424-52",
+  "objecttype": "devotiebeeld",
+  "benaming": "Archief van de Huis van Oranje-Van Gelderen",
+  "vermoedelijke_meester": "Pierre Laurent van der Meer",
+  "provenance": [
+    {
+      "jaar": 1650,
+      "eigendom": "Huis van Oranje-Nassau",
+      "opvolger_eigendom": {
+        "naam": "Hertogin Anna van Nassau",
+        "relatie": "zus"
+      }
+    },
+    {
+      "jaar": 1700,
+      "eigendom": "Hertogin Maria van Oranje-Van Gelderen",
+      "opvolger_eigendom": {
+        "naam": "Prins Hendrik van Oranje-Van Gelderen",
+        "relatie": "zoon"
+      }
+    },
+    {
+      "jaar": 1850,
+      "eigendom": "Hertog Lodewijk van Oranje-Van Gelderen",
+      "opvolger_eigendom": {
+        "naam": "Prinses Sophie van Oranje-Van Gelderen",
+        "relatie": "kleindochter"
+      }
+    },
+    {
+      "jaar": 1920,
+      "eigendom": "Hertogin Anna van Oranje-Van Gelderen",
+      "opvolger_eigendom": null
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 79.6,
+    "width": 191.5
+  },
+  "schatting": 894000,
+  "staat": "kreuk in perkament"
+}

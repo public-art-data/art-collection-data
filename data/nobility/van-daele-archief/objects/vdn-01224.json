@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01224",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-615-1",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Grafelijke Kabinet",
+  "vermoedelijke_meester": "Ludwigus Van der Meer",
+  "provenance": [
+    {
+      "gezin": "Huis van Vollenhoven",
+      "jaar": 1650,
+      "type": "vererving"
+    },
+    {
+      "gezin": "Huis van Berkenrode",
+      "jaar": 1750,
+      "type": "huwelijk"
+    },
+    {
+      "gezin": "Grafelijke Familia Van der Linde",
+      "jaar": 1900,
+      "type": "erfgoed"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel",
+  "staat": "kreuk in perkament"
+}

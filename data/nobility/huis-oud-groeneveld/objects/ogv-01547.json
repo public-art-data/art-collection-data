@@ -1,0 +1,28 @@
+{
+  "record_id": "OGV-01547",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-457-93",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Kennis van de eeuwen: een selectie schilderijen en tekeningen",
+  "vermoedelijke_maker": "Pieter Van Rijnswoldt",
+  "eigendomsgeschiedenis": [
+    {
+      "familienaam_eigendom": "van Oranje-Nassau-Regenstein",
+      "huidige_eigenaar_id": "1",
+      "verloop van eigendommen": [
+        "Pieter van Oranje-Nassau-Regenstein (1720-1792)",
+        "Hendrik van Oranje-Nassau-Regenstein (1750-1838) via dochter Helena"
+      ],
+      "houding_tegenover_eigenaar_id": [
+        {
+          "eerste_verkoper": "Pieter Van Rijnswoldt",
+          "jaar_verkoop": "1785"
+        },
+        {
+          "eerste_koop_aan_bezitter": "Hendrik van Oranje-Nassau-Regenstein",
+          "jaar_koop": "1792"
+        }
+      ]
+    }
+  ]
+}

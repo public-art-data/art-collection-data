@@ -1,0 +1,31 @@
+{
+  "record_id": "CCV-1112",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-605-37",
+  "categorie": "tapisserie de haute lisse",
+  "titre": "Collection de la Maison d'Orléans-Valois",
+  "attribution": "Étienne LaFleur",
+  "provenance": [
+    {
+      "nom": "Maison d'Orléans-Valois",
+      "date": "1680",
+      "décès": null
+    },
+    {
+      "nom": "Marie-Thérèse d'Orléans-Valois",
+      "date": "1725",
+      "décès": "1740"
+    },
+    {
+      "nom": "Le Duc François III de Valois-Montmorency",
+      "date": "1802",
+      "décès": "1825"
+    },
+    {
+      "nom": "La Comtesse Adèle de Valois-Montmorency",
+      "date": "1850",
+      "décès": "1900"
+    }
+  ],
+  "valeur_estimee": 682000
+}

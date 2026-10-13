@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01438",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-374-35",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträtsammlung des Adelsgeschlechts von Schwarzenberg",
+  "zugeschriebene_werkstatt": "Aurélien LaFleur",
+  "besitzfolge": [
+    {
+      "person": "Hedwig von Schwarzenberg",
+      "jahr": 1875,
+      "vorgänger": null
+    },
+    {
+      "person": "Karl von Schwarzenberg",
+      "jahr": 1920,
+      "nachfolger": "Ludwig von Schwarzenberg"
+    },
+    {
+      "person": "Ludwig von Schwarzenberg",
+      "jahr": 1955,
+      "nachfolger": "Franziska von Schwarzenberg-Weissenstein"
+    }
+  ],
+  "kammervermerk": "doppelt nummeriert"
+}

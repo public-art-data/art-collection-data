@@ -1,0 +1,38 @@
+{
+  "record_id": "KVL-01258",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-560-94",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Die Elegante Nacht",
+  "zugeschriebene_werkstatt": "Astrid van der Meer",
+  "besitzfolge": {
+    "Gräfin Helena von Eisenburg": [
+      {
+        "Artfamilie": "Galerie du Lion",
+        "Besitzer": "Baron Jean-Pierre LaFleur"
+      },
+      {
+        "Artfamilie": "Galerie des Fleurs",
+        "Erben": "Gräfin Anna von Eisenberg"
+      }
+    ],
+    "Gräfin Anna von Eisenburg": [
+      {
+        "Artfamilie": "Galerie des Völkchen",
+        "Erben": "Baron Roderick von Wittenstein"
+      },
+      {
+        "Artfamilie": "Galerie des Mondlichts",
+        "Besitzer": "Countess Helga van der Meer"
+      }
+    ],
+    "Countess Helga van der Meer": [
+      {
+        "Artfamilie": "",
+        "Besitzer": "Astrid van der Meer"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen",
+  "kammervermerk": "stempel des Hausarchivs"
+}

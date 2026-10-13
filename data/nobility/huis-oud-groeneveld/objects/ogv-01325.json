@@ -1,0 +1,34 @@
+{
+  "record_id": "OGV-01325",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-124-16",
+  "stuk": "tafelzilver (onderdeel)",
+  "omschrijving": "Kardinaalschilderij van de 'Vrede der Naties'",
+  "vermoedelijke_maker": "Emericus Vexar",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Huis Van der Meer",
+      "jaar": 1650,
+      "beschrijving": "Kocht bij een veiling in Parijs"
+    },
+    {
+      "titel": "Hertogdom Leeflang",
+      "jaar": 1700,
+      "beschrijving": "Erfde van zijn vader, Hertog Willem V."
+    },
+    {
+      "titel": "Koninklijk Huis Oranje-Vlaanderen",
+      "jaar": 1800,
+      "beschrijving": "Kocht bij een veiling in Brussel"
+    },
+    {
+      "titel": "Hertogdom Leeflang",
+      "jaar": 1850,
+      "beschrijving": "Erfde van zijn moeder, Prinses Sophia van Leeflang"
+    }
+  ],
+  "grootte": {
+    "height": 183.0,
+    "width": 81.3
+  }
+}

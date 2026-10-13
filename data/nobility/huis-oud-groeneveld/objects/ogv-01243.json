@@ -1,0 +1,27 @@
+{
+  "record_id": "OGV-01243",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-981-22",
+  "stuk": "tafelzilver (onderdeel)",
+  "omschrijving": "Stilleven met een mand bloemen",
+  "vermoedelijke_maker": "Lysander van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "gezin_id": 1,
+      "gezin_naam": "Huis van Oranje-Van der Meer",
+      "aankoopdatum": "1723-02-10",
+      "aankoopprijs": "500 guilders"
+    },
+    {
+      "gezin_id": 2,
+      "gezin_naam": "Hertogin Isabella van Beieren-Oranje-Van der Meer",
+      "erfgoed_overdracht": true
+    }
+  ],
+  "grootte": {
+    "height": 148.5,
+    "width": 290.3
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel",
+  "marginale_notitie": "potloodaantekening: 'uit de boedel van 1852'"
+}

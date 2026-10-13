@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-01610",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-455",
+  "object_type": "oil on canvas",
+  "title": "Untitled (harbour crane)",
+  "artist": "Selvaratnam",
+  "provenance": "Sold at auction by the estate of Lim Beng Khong in 2018, previously part of the collection of Kheng Swee Teo, acquired from the Singaporean artist collective in 2002.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 908.0,
+    "width": 1993.0
+  },
+  "estimate_sgd": {
+    "low": 20000,
+    "high": 65000
+  }
+}

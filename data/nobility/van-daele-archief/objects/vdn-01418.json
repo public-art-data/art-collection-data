@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01418",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-906-8",
+  "objecttype": "wandtapijt",
+  "benaming": "Privé Collectie Baroness van den Berg",
+  "vermoedelijke_meester": "Maria Helena de Witte",
+  "provenance": [
+    {
+      "persoon": "Baronesse van den Berg (1810-1850)",
+      "gezin": "Huis Van den Berg",
+      "relatie": "opvolger"
+    },
+    {
+      "persoon": "Heer van Rijnswijk (1785-1830)",
+      "gezin": "Huis Van Rijnswijk",
+      "relatie": "huwelijk"
+    },
+    {
+      "persoon": "Maria Helena de Witte (1770-1825)",
+      "gezin": "Huis De Witte",
+      "relatie": "opvolger"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 162.7,
+    "width": 139.7
+  },
+  "schatting": 126000,
+  "staat": "waszegel beschadigd"
+}

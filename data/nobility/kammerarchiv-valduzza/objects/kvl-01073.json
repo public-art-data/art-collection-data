@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01073",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-903-93",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt des Fürsten Johann von Hohenstein",
+  "zugeschriebene_werkstatt": "Ferdinand Rathsack",
+  "besitzfolge": [
+    {
+      "besitzer": "Haus Hohenstein",
+      "besitzszeit": "18. Jahrhundert",
+      "beigaben": [
+        "Nachlass des Großfürsten Johann von Hohenstein",
+        "Erbfolge des Sohnes, Prinz Ludwig von Hohenstein"
+      ]
+    },
+    {
+      "besitzer": "Haus Hohenstein-Altburg",
+      "besitzszeit": "19. Jahrhundert",
+      "beigaben": [
+        "Erbfolge des Enkels, Graf Otto von Hohenstein-Altburg",
+        "Verkauf an den Baron Hans-Joachim von Hohenstein"
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 106.6,
+    "width": 79.3
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

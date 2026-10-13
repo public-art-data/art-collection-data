@@ -1,0 +1,18 @@
+{
+  "record_id": "GFM-C00004",
+  "origin": "Galerie Fouquet-Merlan, Paris, France",
+  "correspondence_type": "digitized_ocr_letter",
+  "ocr_id": "OCR-2020-917-3412",
+  "archive_reference": "Cote 960-4, fol. 139",
+  "ocr_confidence": 0.96,
+  "language": "fr",
+  "letter_date": "1934-02-26",
+  "sender": "Maison Colinet & Fils, Dijon",
+  "recipient": "Depot d'Antiquites Sarteaux-Voinay, Tours",
+  "salutation": "Monsieur,",
+  "body": "La caisse est partie par le chemin(?) de fer, arrivee prevue sous huitaine. Je vous prie de verifier l'etat au deballage en presence du commissionnaire.",
+  "signature": "Colinet",
+  "transcription_notes": [
+    "rousseurs"
+  ]
+}

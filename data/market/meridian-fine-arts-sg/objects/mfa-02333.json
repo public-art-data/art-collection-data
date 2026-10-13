@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-02333",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-112",
+  "object_type": "lithograph",
+  "title": "View of Kuching",
+  "artist": "Loh Guat-ling",
+  "provenance": "Acquired by Tng Kee-sheng in 1923, later sold to Yap Chin-lin's estate in 1987 and eventually donated to Mok Ching-hoi's private collection",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1634.0,
+    "width": 2498.0
+  },
+  "estimate_sgd": {
+    "low": 38000,
+    "high": 177000
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "TMB-01310",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-608-91",
+  "soort": "devotiebeeld",
+  "titel": "Huis Van Oudenaarde",
+  "toegeschreven_aan": "Ludwigus de Vries",
+  "herkomstgeschiedenis": [
+    {
+      "datum": "1550",
+      "persoon": "Graafin van Warenne",
+      "opvolger": {
+        "titel": "Hertogin van Gelderland",
+        "toegeschreven_aan": "Anna van Nassau"
+      }
+    },
+    {
+      "datum": "1700",
+      "persoon": "Hertog Jan van Oudenaarde",
+      "opvolger": {
+        "titel": "Huis Van Oudenaarde (heren)",
+        "toegeschreven_aan": "Johannes van Aalst"
+      }
+    },
+    {
+      "datum": "1850",
+      "persoon": "Burggraaf Johan van Oudenaarde",
+      "opvolger": {
+        "titel": "Hertogin Elisabeth van Oudenaarde (dochter)",
+        "toegeschreven_aan": "Ludwigus de Vries"
+      }
+    }
+  ],
+  "afmetingen": {
+    "height": 26.9,
+    "width": 230.4
+  },
+  "vroegere_bezitter": "Geslacht Van Schoonhoven-Dal",
+  "schatting": 329000,
+  "aantekening": "dubbele nummering"
+}

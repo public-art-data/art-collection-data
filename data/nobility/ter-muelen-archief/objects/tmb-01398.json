@@ -1,0 +1,32 @@
+{
+  "record_id": "TMB-01398",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-930-5",
+  "soort": "devotiebeeld",
+  "titel": "Privé Archief van de Huis van Vleugels",
+  "toegeschreven_aan": "Pietra Fierens",
+  "herkomstgeschiedenis": [
+    {
+      " jaar": 1700,
+      "gezagheider": "Groot-Prins Lodewijk van Vleugels",
+      "opvolger": "Zuster Prinses Anna van Vleugels"
+    },
+    {
+      "jaar": 1750,
+      "gezagheider": "Zuster Prinses Anna van Vleugels",
+      "opvolger": "Herenfysing Johan van der Valkenborgh"
+    },
+    {
+      "jaar": 1800,
+      "gezagheider": "Herenfysing Johan van der Valkenborgh",
+      "opvolger": "Zoon Prins Edvard van Vleugels"
+    }
+  ],
+  "afmetingen": {
+    "height": 157.5,
+    "width": 204.0
+  },
+  "schatting": 507000,
+  "aantekening": "potloodaantekening: 'uit de boedel van 1852'",
+  "_artist_dates": "1877-1515"
+}

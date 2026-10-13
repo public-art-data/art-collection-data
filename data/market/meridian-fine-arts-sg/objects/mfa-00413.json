@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-00413",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-183",
+  "object_type": "lithograph",
+  "title": "View of Bandung",
+  "artist": "Merrick-Tan",
+  "provenance": "Collection of the late Dato' R. Sivanathan, acquired 1929; Meridian Fine Arts Auctioneers, lot 109, 1948; thence by descent to Private collection, Kuala Lumpur.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 548.0,
+    "width": 1256.0
+  },
+  "estimate_sgd": {
+    "low": 31000,
+    "high": 75000
+  }
+}

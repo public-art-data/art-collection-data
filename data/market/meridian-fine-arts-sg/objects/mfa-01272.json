@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01272",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-491",
+  "object_type": "bronze figure",
+  "title": "Riverside, Kuching",
+  "artist": "Hallowquay",
+  "provenance": "Sold by estate of Kiat Yee Wong in 1978 to art dealer Zai Wen Ng, subsequently acquired by the private collection of Lee Kok Hian.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1617.0,
+    "width": 1851.0
+  },
+  "estimate_sgd": {
+    "low": 37000,
+    "high": 187000
+  },
+  "condition_report": "good, with light craquelure"
+}

@@ -1,0 +1,26 @@
+{
+  "record_id": "TMB-01362",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-528-52",
+  "soort": "wandtapijt",
+  "titel": "Privé-Sammlung van Huis ter Duinen",
+  "toegeschreven_aan": "Rafaela van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "datum": "1825",
+      "gezin": "Huis van Leeuwen",
+      "verkoop_op": "privé-verkoping"
+    },
+    {
+      "datum": "1850",
+      "gezin": "Huis ter Duinen",
+      "erfgoed": "geschiedenis"
+    },
+    {
+      "datum": "1880",
+      "gezin": "Huis ter Duinen",
+      "erfgenaam": "Rafaela van der Meer, 4e zusje"
+    }
+  ],
+  "aantekening": "waszegel beschadigd"
+}

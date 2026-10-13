@@ -1,0 +1,20 @@
+{
+  "record_id": "KVL-o1437",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-206-19",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt einer jungen Dame in blauer Kleidung",
+  "zugeschriebene_werkstatt": "Ludwig van der Meer",
+  "besitzfolge": [
+    {
+      "besitzer": "Haus Montaigne",
+      "besitzschnitt": "1803",
+      "besitzgrund": "Erbschaft von Großmutter Mathilde"
+    },
+    {
+      "besitzer": "Haus de la Croix",
+      "besitzschnitt": "1850",
+      "besitzgrund": "Ehe mit Pierre de la Croix, Präsident der Bank de la République"
+    }
+  ]
+}

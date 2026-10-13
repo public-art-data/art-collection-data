@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-1001299",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-988-2",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt eines jungen Mannes im Verkleidungskostüm",
+  "zugeschriebene_werkstatt": "L. Achenbach-Reuter",
+  "besitzfolge": {
+    "Vorfahren": [
+      {
+        "Besitzer": "Rudolf III von Württemberg",
+        "Geschlechtsverbindung": "Ehe"
+      },
+      {
+        "Besitzer": "Benedikt von Bayern",
+        "Geschlechtsverbindung": "Urbefall"
+      },
+      {
+        "Besitzer": "Albrecht I von Hohenzollern",
+        "Geschlechtsverbindung": "Erbfolge"
+      }
+    ]
+  }
+}

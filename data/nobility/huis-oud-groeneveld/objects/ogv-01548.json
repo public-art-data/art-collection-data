@@ -1,0 +1,24 @@
+{
+  "record_id": "OGV-1001548",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-487-29",
+  "stuk": "wandtapijt",
+  "omschrijving": "Het Schildpadvertje van Hertogin Sophia",
+  "vermoedelijke_maker": "Pierre van der Linden",
+  "eigendomsgeschiedenis": [
+    {
+      "gebeurtenis_tijd": 1635,
+      "eigenaar_naam": "Hertogin Sophia van Valkenburg",
+      "overdrachts_recht": "Erfdeel"
+    },
+    {
+      "gebeurtenis_tijd": 1650,
+      "eigenaar_naam": "Gravin Isabella van Valkenburg",
+      "overdrachts_recht": "Erfgooierschap"
+    }
+  ],
+  "grootte": {
+    "height": 98.4,
+    "width": 171.0
+  }
+}

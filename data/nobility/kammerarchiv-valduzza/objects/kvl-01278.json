@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01278",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-565-13",
+  "artefakt": "marmorbueste",
+  "werktitel": "De Schatten van Arkelstein",
+  "zugeschriebene_werkstatt": "Anna Margaretha Vanderwijck",
+  "besitzfolge": [
+    {
+      "jahr": 1750,
+      "besitzer": "Hertogin Anna Margaretha von Orlansburg",
+      "vorgänger": null
+    },
+    {
+      "jahr": 1762,
+      "besitzer": "Herr Graf Heinrich Wilhelm von Schwerdtorf",
+      "vorgänger": "De Schatten van Arkelstein (Anna Margaretha Vanderwijck)"
+    },
+    {
+      "jahr": 1770,
+      "besitzer": "Königin Friederike Amalie von Zietenburg",
+      "vorgänger": "Herr Graf Heinrich Wilhelm von Schwerdtorf"
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

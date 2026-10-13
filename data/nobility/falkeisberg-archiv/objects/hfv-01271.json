@@ -1,0 +1,28 @@
+{
+  "record_id": "HFV-01271",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-491-16",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Privatarchiv der Gräfin von Eisenhammer",
+  "kuenstler": "Adelheid Wolff aus Göttersberg",
+  "provenienz": [
+    {
+      "Person": "Hans Joachim Graf von Eisenhammer",
+      "Beziehung": "Ehemann",
+      "Datum": "1750"
+    },
+    {
+      "Person": "Karl Graf von Eisenhammer",
+      "Beziehung": "Sohn",
+      "Datum": "1785",
+      "Vorgängiger Besitzer": "Hans Joachim Graf von Eisenhammer"
+    },
+    {
+      "Person": "Eva Gräfin von Eisenhammer",
+      "Beziehung": "Tochter",
+      "Datum": "1820",
+      "Vorgängiger Besitzer": "Karl Graf von Eisenhammer"
+    }
+  ],
+  "vorbesitzer": "Herren von Falkeisberg"
+}

@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-o1436",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-918-27",
+  "objecttype": "devotiebeeld",
+  "benaming": "Archief van Huis te Sint-Andries",
+  "vermoedelijke_meester": "Jan van der Meer de Jonge",
+  "provenance": [
+    {
+      "name": "Hertogin Maria van Gelre",
+      "verwerpbaar_tijd": "1615"
+    },
+    {
+      "name": "Graaf Floris van Gelre",
+      "verwerpbaar_tijd": "1632"
+    },
+    {
+      "name": "Graafin Elisabeth van Gelre",
+      "verwerpbaar_tijd": "1675"
+    },
+    {
+      "name": "Hertog Lodewijk van Gelre",
+      "verwerpbaar_tijd": "1720"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 39.9,
+    "width": 41.1
+  }
+}

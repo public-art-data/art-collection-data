@@ -1,0 +1,35 @@
+{
+  "record_id": "KVL-01378",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-203-83",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt des Adligen",
+  "zugeschriebene_werkstatt": "Auguste Laurentien",
+  "besitzfolge": {
+    "Gruppe": "Geschlecht von Schönberg",
+    "Übergang": [
+      {
+        "person": "Barone Franziska van der Meer",
+        "datum": "1723",
+        "grund": "Erbschaft"
+      },
+      {
+        "person": "Königin Friederike Gräfin von Blumenau",
+        "datum": null,
+        "grund": "Ehe mit ihrem Bruder"
+      }
+    ],
+    "Besitzhäfter": [
+      {
+        "person": "Prinzessin Henriette Sophie von Schönberg",
+        "datum": "1850",
+        "grund": "Erbschaft"
+      },
+      {
+        "person": "Gräfin Elisabeth Adelheid von Blumenau",
+        "datum": null,
+        "grund": "Ehe mit ihrem Sohn"
+      }
+    ]
+  }
+}

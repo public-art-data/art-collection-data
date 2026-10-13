@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01421",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-623-55",
+  "objecttype": "wandtapijt",
+  "benaming": "Heren van Dalfsen",
+  "vermoedelijke_meester": "Johan van den Steen",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van Dalfsen",
+      "gebeurtenis": "1550"
+    },
+    {
+      "persoon": "Graaf Hendrik van Dalfsen en zijn echtgenote, Prinses Margaretha van Blankenburgh",
+      "gebeurtenis": "1575, erfde Johan van den Steen de schilderij van Heren van Dalfsen"
+    },
+    {
+      "persoon": "Johan van den Steen en zijn zoon, Pieter van den Steen",
+      "gebeurtenis": "1650, legde het werk aan zijn zoon over"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 35.4,
+    "width": 66.4
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-3001114_bis",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-289-59",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt der Adelsgrafin Louise van Rijn",
+  "zugeschriebene_werkstatt": "J. Brandhorst",
+  "besitzfolge": {
+    "HausvanRijn": {
+      "erbfolge": [
+        "Graf Wilhelm van Rijn (1650-1718)",
+        "Grafin Elisabeth van Rijn (1662-1745)"
+      ],
+      "vermächtnis": "HausvanRijn, 1750"
+    },
+    "GrafschaftVandijk": {
+      "Ermittlung": "Ehe mit Adelheid von Vandijk",
+      "Übertragung": "1850"
+    }
+  },
+  "groesse": {
+    "height": 152.7,
+    "width": 249.9
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "record_id": "VDN-01258",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-602-12",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Huis van Valkenburg",
+  "vermoedelijke_meester": "Jan Vreeswijk",
+  "provenance": [
+    {
+      "gezin": "Huis van Valkenburg",
+      "jaren": [
+        1640,
+        null
+      ]
+    },
+    {
+      "gezin": "Hausen van Vollenhoven",
+      "jaren": [
+        1685,
+        1748
+      ]
+    },
+    {
+      "gezin": "Hertogin Isabella van Gelre",
+      "jaren": [
+        1853,
+        null
+      ]
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 104.5,
+    "width": 132.2
+  },
+  "eerdere_eigenaar": "Geslacht Van Schoonhoven-Dal",
+  "schatting": 467000,
+  "staat": "dubbele nummering"
+}

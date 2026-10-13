@@ -1,0 +1,33 @@
+{
+  "record_id": "OGV-01426",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-687-95",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Lilium Argentum",
+  "vermoedelijke_maker": "Aurelia Valtor",
+  "eigendomsgeschiedenis": [
+    {
+      "naam": "Huis van Oranje-Wieringen",
+      "jaar": 1650,
+      "overdracht_van": "Graaf van Oranje-Wieringen, Johan IV",
+      "aan": "Gravin van Oranje-Wieringen, Johanna III"
+    },
+    {
+      "naam": "Hertogin van Vlaanderen",
+      "jaar": 1750,
+      "overdracht_van": "Graaf van Vlaanderen, Leopold I",
+      "aan": "Prinses van Oranje-Nassau, Wilhelmina"
+    },
+    {
+      "naam": "Huis van Nassau-Weil",
+      "jaar": 1820,
+      "overdracht_van": "Prinses van Nassau, Louise",
+      "aan": "Koningin der Nederlanden, Beatrix I"
+    }
+  ],
+  "grootte": {
+    "height": 169.6,
+    "width": 204.1
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel"
+}

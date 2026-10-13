@@ -1,0 +1,44 @@
+{
+  "record_id": "KVL-01298",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-139-13",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt des Grafen von Eisenwald",
+  "zugeschriebene_werkstatt": "J. Stielke",
+  "besitzfolge": {
+    "Erbe": [
+      "Grafin von Eisenwald, Tochter von Baroness Helga von Schlittenberg und Grafen Franz von Eisenwald",
+      "Kunsthistoriker Dr. Sophia König und Graf Heinrich von Eisenwald"
+    ],
+    "Besitz": [
+      {
+        "Geschlecht": "Männliche Linie",
+        "Name": [
+          "Kaiserin Elisabeth II. von Eisenwald und Graf Karl von Eisenwald",
+          "Gräfin Katharina von Eisenwald und Baron Hans-Joachim von Schlittenberg"
+        ],
+        "Jahr": [
+          1860,
+          1875
+        ],
+        "Besitzgröße": 500
+      },
+      {
+        "Geschlecht": "Weibliche Linie",
+        "Name": [
+          "Kaiserin Elisabeth III. von Eisenwald und Graf Wolfgang von Eisenwald",
+          "Gräfin Anna von Eisenwald und Baroness Helga von Schlittenberg"
+        ],
+        "Jahr": [
+          1900,
+          1925
+        ],
+        "Besitzgröße": 700
+      }
+    ]
+  },
+  "groesse": {
+    "height": 83.0,
+    "width": 12.9
+  }
+}

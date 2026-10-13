@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02004",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-570",
+  "object_type": "oil on canvas",
+  "title": "Untitled (kite)",
+  "artist": "Chatterji-Rao",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1953; private collection Private collection, Kuala Lumpur since 1978.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1029.0,
+    "width": 671.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 30000,
+    "high": 98000
+  }
+}

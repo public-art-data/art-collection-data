@@ -1,0 +1,37 @@
+{
+  "record_id": "KVL-01430",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-227-6",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt einer Gräfin in blauem Samt",
+  "zugeschriebene_werkstatt": "Anna Maria Kornfeld",
+  "besitzfolge": [
+    {
+      "name": "Haus Orlovic",
+      "besitzer": [
+        "Karl von Orlovic",
+        "Karoline von Orlovic, Tochter Karls"
+      ],
+      "jahr": [
+        1800,
+        1830
+      ]
+    },
+    {
+      "name": "Haus Salm-Schönau",
+      "besitzer": [
+        "Gustav von Salm-Schönau",
+        "Erwin von Salm-Schönau, Sohn Gustavs"
+      ],
+      "jahr": [
+        1870,
+        1910
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 67.5,
+    "width": 135.3
+  },
+  "kammervermerk": "doppelt nummeriert"
+}

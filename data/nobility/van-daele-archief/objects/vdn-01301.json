@@ -1,0 +1,23 @@
+{
+  "record_id": "VDN-1001301",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-992-97",
+  "objecttype": "devotiebeeld",
+  "benaming": "Privébibliotheek van Huis ter Meren",
+  "vermoedelijke_meester": "Sibrina de Vries",
+  "provenance": [
+    {
+      "persoon": "Adriaan van der Meer, heer van Huis ter Meren (1595-1635)",
+      "relatie": "gepacht"
+    },
+    {
+      "persoon": "Elisabeth van der Meer, vrouw van Huis ter Meren (1620-1695)",
+      "relatie": "erfdeit"
+    },
+    {
+      "persoon": "Jan Hendrik van der Meer, heer van Huis ter Meren (1650-1710)",
+      "relatie": "verzocht op erfdeit"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

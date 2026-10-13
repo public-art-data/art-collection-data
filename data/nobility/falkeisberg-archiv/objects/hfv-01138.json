@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01138",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-785-41",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Sammlung der Hohenberg",
+  "kuenstler": "Ferdinandus von Eisenbach",
+  "provenienz": {
+    "Titularis Erbe": [
+      {
+        "besitzer": "Herr Graf Johann von Hohenberg",
+        "vergabesdatum": "1725-02-10"
+      },
+      {
+        "besitzer": "Frau Baronin Helene von Hohenberg (geb. von Eisenbach)",
+        "erbschaftsdatum": "1760-05-15"
+      },
+      {
+        "besitzer": "Herr Graf Maximilian von Hohenberg",
+        "vergabesdatum": "1820-08-20"
+      }
+    ]
+  },
+  "masse_cm": {
+    "height": 207.9,
+    "width": 193.2
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "schaetzung_chf": 151000
+}

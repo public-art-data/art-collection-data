@@ -1,0 +1,32 @@
+{
+  "record_id": "VDN-1366",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-201-26",
+  "objecttype": "marmeren buste",
+  "benaming": "Huis van de Vijf Sterren",
+  "vermoedelijke_meester": "Sibille van Aethereia",
+  "provenance": [
+    {
+      "persoon": "Graaf van Zilverstad",
+      "geografie": "Rustenburg",
+      "jaar": 1650
+    },
+    {
+      "persoon": "Gravin van Onderwater",
+      "geografie": "Vlaardingendam",
+      "jaar": 1750,
+      "verband": "huwelijk"
+    },
+    {
+      "persoon": "Prince van Luminaria",
+      "geografie": "Hofstad",
+      "jaar": 1900,
+      "verband": "erfgoed"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 774.4,
+    "width": 31.5
+  },
+  "schatting": 543000
+}

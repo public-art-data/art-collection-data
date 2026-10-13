@@ -1,0 +1,42 @@
+{
+  "record_id": "KVL-01195",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-690-38",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "De Gouden Vrouw van Ermelinde",
+  "zugeschriebene_werkstatt": "Hedwig Van der Meer",
+  "besitzfolge": {
+    "Ermelinde van Oranje-Nassau, Prinzessin von Nassau (1735-1810)": [
+      {
+        "name": "Hedwig Van der Meer",
+        "date": "1780"
+      },
+      {
+        "name": "Prins Alexander van Oranje-Nassau",
+        "date": "1805"
+      }
+    ],
+    "Prins Alexander van Oranje-Nassau, Prinz von Nassau (1792-1869)": [
+      {
+        "name": "Johanna van der Meer",
+        "date": "1830"
+      },
+      {
+        "name": "Kaiserin Elisabeth von Habsburg-Lorraine",
+        "date": "1855"
+      }
+    ],
+    "Kaiserin Elisabeth von Habsburg-Lorraine (1845-1913)": [
+      {
+        "name": "Franziska van der Meer",
+        "date": "1880"
+      },
+      {
+        "name": "König Leopold von Belgien",
+        "date": "1902"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

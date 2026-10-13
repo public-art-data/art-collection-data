@@ -1,0 +1,31 @@
+{
+  "record_id": "SYN HFV 01300",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-524-40",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Graveault-Collection",
+  "kuenstler": "Adelaide Dumont",
+  "provenienz": [
+    {
+      "name": "Marie de Hautvilles",
+      "datum": 1775,
+      "beziehung": "Erbschaft"
+    },
+    {
+      "name": "Honoré de Graveault",
+      "datum": 1820,
+      "beziehung": "Ehe"
+    },
+    {
+      "name": "Élodie de Graveault",
+      "datum": 1850,
+      "beziehung": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 188.4,
+    "width": 276.0
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "schaetzung_chf": 471000
+}

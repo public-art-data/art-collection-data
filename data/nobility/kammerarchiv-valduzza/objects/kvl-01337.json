@@ -1,0 +1,40 @@
+{
+  "record_id": "KVL-1001337",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-388-72",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträtsammlung von Adelheid und Rudolf von Schwarzwald",
+  "zugeschriebene_werkstatt": "Kaspar van der Linden",
+  "besitzfolge": [
+    {
+      "name": "Von Schwarzwald",
+      "rolle": "Gründer",
+      "datum": "1610"
+    },
+    {
+      "name": "Von Walsee",
+      "rolle": "Ehefrau von Adelheit I",
+      "datum": "1645"
+    },
+    {
+      "name": "Von Walsee",
+      "rolle": "Erbin",
+      "datum": "1680"
+    },
+    {
+      "name": "Von Walsee",
+      "rolle": "Königin des Kurfürstentums der Grafschaft Leibstedt",
+      "datum": "1750"
+    },
+    {
+      "name": "Von Schwarzwald",
+      "rolle": "Erbeiter",
+      "datum": "1825"
+    }
+  ],
+  "groesse": {
+    "height": 110.9,
+    "width": 192.5
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

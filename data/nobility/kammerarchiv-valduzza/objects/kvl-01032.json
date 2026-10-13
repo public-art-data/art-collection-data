@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01032",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-539-65",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Het Lyrische Gemalen van Adelheid",
+  "zugeschriebene_werkstatt": "Gisela van Vlaanderen",
+  "besitzfolge": [
+    {
+      "titel": "Hertogin van Brabant",
+      "gevestigd_jaar": 1550,
+      "nachfolger_in": "Margaretha van Habsburg"
+    },
+    {
+      "titel": "Koningin van Frankrijk",
+      "gevestigd_jaar": 1664,
+      "nachfolger_in": "Maurice van Bourbon"
+    },
+    {
+      "titel": "Prinzessin von Bayern",
+      "gevestigd_jaar": 1902,
+      "nachfolger_in": "Friederike von Wittelsbach"
+    }
+  ],
+  "groesse": {
+    "height": 75.9,
+    "width": 268.4
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

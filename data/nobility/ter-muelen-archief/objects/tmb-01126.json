@@ -1,0 +1,30 @@
+{
+  "record_id": "SYN TMB 01126",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-533-28",
+  "soort": "inkt op meteorietensnipper",
+  "titel": "Hertogelijk schilderij van de Graaf van Nijmegen",
+  "toegeschreven_aan": "Ivanko Bijlstra",
+  "herkomstgeschiedenis": [
+    {
+      "jaar": 1700,
+      "eigenaar": "Graaf Hendrik van Nijmegen",
+      "opvolger": "Hertogin Maria van Nijmegen"
+    },
+    {
+      "jaar": 1750,
+      "eigenaar": "Hertog Hendrik van Nijmegen",
+      "opvolger": "Ivanko Bijlstra"
+    },
+    {
+      "jaar": 1850,
+      "eigenaar": "Prins Hendrik van Valkenburg",
+      "opvolger": "Prinsessin Sophie van Valkenburg"
+    }
+  ],
+  "afmetingen": {
+    "height": 55.4,
+    "width": 16.9
+  },
+  "vroegere_bezitter": "Familie Van ter Muelen-Berckel"
+}

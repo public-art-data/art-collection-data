@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01054",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-625-21",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Luminous Oubliette",
+  "zugeschriebene_werkstatt": "Aurélien Dumont",
+  "besitzfolge": [
+    {
+      "besitzer": "House de Roubaix",
+      "besitzszeitpunkt": 1750,
+      "besitzverhältnis": "Erbfolge"
+    },
+    {
+      "besitzer": "Prinzessin Helene von Wied-Neuwid",
+      "besitzszeitpunkt": 1850,
+      "besitzverhältnis": "Ehe"
+    },
+    {
+      "besitzer": "Familie von Arnstein",
+      "besitzszeitpunkt": 1920,
+      "besitzverhältnis": "Erbe"
+    }
+  ],
+  "groesse": {
+    "height": 69.3,
+    "width": 270.9
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

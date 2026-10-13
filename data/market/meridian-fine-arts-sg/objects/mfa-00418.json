@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00418",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-527",
+  "object_type": "oil on canvas",
+  "title": "kite at Dusk",
+  "artist": "Hallowquay",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1945; private collection Estate of Prof. J. Anandakrishnan since 1966.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 100.0,
+    "width": 2580.0
+  },
+  "previous_owner": "Estate of Prof. J. Anandakrishnan",
+  "estimate_sgd": {
+    "low": 15000,
+    "high": 165000
+  }
+}

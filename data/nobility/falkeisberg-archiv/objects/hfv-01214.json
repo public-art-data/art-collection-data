@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01214",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-236-82",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Grafschaftskunstsammlung von Haus Hohenstein",
+  "kuenstler": "Lucius Renzo",
+  "provenienz": [
+    {
+      "familyname": "Hohenstein",
+      "position": "Erbsitzerin",
+      "date": "1610"
+    },
+    {
+      "familyname": "Windsor-Gravesend",
+      "position": "Geschenkeurin",
+      "date": "1655"
+    },
+    {
+      "familyname": "Hohenstein",
+      "position": "Erbsitzerin",
+      "date": "1690"
+    }
+  ],
+  "masse_cm": {
+    "height": 208.4,
+    "width": 71.6
+  },
+  "vorbesitzer": "Grafen von Wassenfeld"
+}

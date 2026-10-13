@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01012",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-765-2",
+  "stuk": "wandtapijt",
+  "omschrijving": "Triumf van de Adelaar",
+  "vermoedelijke_maker": "Aurelia LaFleur",
+  "eigendomsgeschiedenis": [
+    {
+      "persoon": "Graafin VanDerBilt",
+      "jaar": "1776"
+    },
+    {
+      "persoon": "Hertogin Beatrix VanDeVries",
+      "jaar": "1811",
+      "oorlogsmak": true
+    },
+    {
+      "persoon": "Prinses Sophie VanDijk",
+      "jaar": "1850"
+    },
+    {
+      "persoon": "Koning Leopold VanDerMolen",
+      "jaar": "1889",
+      "oorlogsmak": false,
+      "vererving": true
+    }
+  ]
+}

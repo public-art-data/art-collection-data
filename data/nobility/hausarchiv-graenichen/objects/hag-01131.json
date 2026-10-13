@@ -1,0 +1,35 @@
+{
+  "record_id": "HAG-1o01131",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-959-75",
+  "gegenstand": "silbernes schreibzeug",
+  "bezeichnung": "Portrait of Adelheid von Eisenberg",
+  "zugeschrieben_an": "Ludwig Rainer",
+  "besitzgeschichte": [
+    {
+      "name": "Baronin Helga von Eisenberg",
+      "datum": "1880",
+      "art": "Erbfolge"
+    },
+    {
+      "name": "Adelheid von Eisenberg",
+      "datum": "1905",
+      "art": "Erbschaft"
+    },
+    {
+      "name": "Rudolf von Eisenberg",
+      "datum": "1923",
+      "art": "Übertragung"
+    },
+    {
+      "name": "Baronin Helga von Eisenberg",
+      "datum": "1950",
+      "art": "Erbfolge"
+    }
+  ],
+  "abmessungen": {
+    "height": 33.6,
+    "width": 124.7
+  },
+  "frueherer_besitzer": "Herren von Valduzza"
+}

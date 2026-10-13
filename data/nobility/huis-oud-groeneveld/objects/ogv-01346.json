@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-o1346",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-293-35",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Circeana-De Haar Verzameling",
+  "vermoedelijke_maker": "Lysander Van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "eerste_eigenaar": "Hertogin Adriana van De Laar",
+      "jaar": 1650,
+      "reden": "gehuwd aan Lysander Van der Meer"
+    },
+    {
+      "eerste_eigenaar": "Lysander Van der Meer",
+      "jaar": 1700,
+      "reden": "opvolging bij zijn overleden broer"
+    },
+    {
+      "eerste_eigenaar": "Hertogin Elisabeth van De Laar",
+      "jaar": 1750,
+      "reden": "gehuwd aan hertog Lodewijk van De Laar"
+    }
+  ],
+  "grootte": {
+    "height": 28.4,
+    "width": 167.4
+  }
+}

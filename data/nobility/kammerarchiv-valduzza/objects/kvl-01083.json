@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-01083",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-982-7",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Die Verwandlung der Elysiums",
+  "zugeschriebene_werkstatt": "Marcella de Vries",
+  "besitzfolge": [
+    {
+      "besitzer": "Adelheid von Hohenstein",
+      "datum_erbauung": "1550-1565"
+    },
+    {
+      "besitzer": "Karl von Eisenhartenstein",
+      "datum_erwerbung": "1650",
+      "besitzfolge_bemerkung": "Gewünschtes Werk für die Kapelle des Schlosses Eisenhain"
+    },
+    {
+      "besitzer": "Werner von Münsterberg",
+      "datum_erbauung": "1750-1775"
+    }
+  ],
+  "groesse": {
+    "height": 134.2,
+    "width": 35.5
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "stempel des Hausarchivs"
+}

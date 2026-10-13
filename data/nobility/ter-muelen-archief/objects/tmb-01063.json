@@ -1,0 +1,40 @@
+{
+  "record_id": "TMB-1001063",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-304-45",
+  "soort": "gegraveerd jachtgeweer",
+  "titel": "Privé-archief van de Familie van Oranje-Nassau",
+  "toegeschreven_aan": "Jhr. Pieter Keldermans",
+  "herkomstgeschiedenis": [
+    {
+      "jaar": 1625,
+      "eigenaar": "Hertogin Helena van Lotharingen",
+      "overleden_eigenaar_id": null
+    },
+    {
+      "jaar": 1650,
+      "eigenaar": "Prins Hendrik van Oranje-Nassau",
+      "overleden_eigenaar_id": 1
+    },
+    {
+      "jaar": 1700,
+      "eigenaar": "Graafin Adriana van Nassau",
+      "overleden_eigenaar_id": 2
+    },
+    {
+      "jaar": 1750,
+      "eigenaar": "Prins Floris van Oranje-Nassau",
+      "overleden_eigenaar_id": 3
+    },
+    {
+      "jaar": 1850,
+      "eigenaar": "Hr. Pieter van Nassau",
+      "overleden_eigenaar_id": 4
+    }
+  ],
+  "afmetingen": {
+    "height": 121.5,
+    "width": 282.7
+  },
+  "vroegere_bezitter": "Familie Van Rillaer-Belle"
+}

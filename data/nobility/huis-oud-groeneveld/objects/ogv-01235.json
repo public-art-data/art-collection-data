@@ -1,0 +1,28 @@
+{
+  "record_id": "OGV-1001235",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-803-50",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Vloedverheerlijke landschap met kustlijn en schier",
+  "vermoedelijke_maker": "Rodericus van Zeldert",
+  "eigendomsgeschiedenis": [
+    {
+      "eerste_eigenaar": "Heren van Oudtshaven",
+      "gebruikstijd": "17de-18de eeuw"
+    },
+    {
+      "eerste_eigenaar": "Graaf Hendrik van Overloon",
+      "vererving_van_kinderen": true,
+      "opvolger": "Heren van Zundert"
+    },
+    {
+      "eerste_eigenaar": "Adriaan van Zundert",
+      "gebruikstijd": "19de eeuw"
+    }
+  ],
+  "grootte": {
+    "height": 142.6,
+    "width": 207.0
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel"
+}

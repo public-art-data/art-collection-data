@@ -1,0 +1,24 @@
+{
+  "record_id": "TMB-01273",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-379-52",
+  "soort": "miniatuurportret",
+  "titel": "Kasteel van Oversteinde",
+  "toegeschreven_aan": "Constantijn van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "jaar": 1650,
+      "verleend aan": "Hertogin Elisabeth van Valkenburg"
+    },
+    {
+      "jaar": 1685,
+      "geërfd door": "Dame Maria van der Meer",
+      "opvolger": "Heer Hendrik van der Meer"
+    },
+    {
+      "jaar": 1750,
+      "geërfd door": "Heren Hendrik en Constantijn van der Meer"
+    }
+  ],
+  "schatting": 73000
+}

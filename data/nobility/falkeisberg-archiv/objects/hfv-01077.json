@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01077",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-889-68",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Grafenhausen-Kunstgeschichtliche Sammlung",
+  "kuenstler": "Felicita Fahrenholz",
+  "provenienz": [
+    {
+      "besitzer": "Haus Graf von Windish-Gleiwitz",
+      "jahr": 1775,
+      "beschreibung": "Erbschaft"
+    },
+    {
+      "besitzer": "Adelheid Freifrau von Sprechenberg",
+      "jahr": 1820,
+      "beschreibung": "Ehe mit Grafen Hans von Windish-Gleiwitz"
+    },
+    {
+      "besitzer": "Ferdinand Graf von Hausberg und Falkenberg",
+      "jahr": 1855,
+      "beschreibung": "Erbschaft"
+    }
+  ],
+  "zustandsbericht": "stempel des Hausarchivs"
+}

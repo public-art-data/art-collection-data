@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03227",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-166",
+  "object_type": "oil on canvas",
+  "title": "kite at Dusk",
+  "artist": "Ongpiboon",
+  "provenance": "Sold by W. Hallowquay in 1933, later acquired by the estate of Tze-Yuen Lee, Singapore, and exhibited at the Yip Sing Building Gallery in 1945.",
+  "medium": "lithograph on wove paper",
+  "previous_owner": {
+    "name": "W. Hallowquay",
+    "born": 1957,
+    "acquired": 1933
+  },
+  "estimate_sgd": {
+    "low": 12000,
+    "high": 177000
+  }
+}

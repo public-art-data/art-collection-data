@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01422",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-308-86",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Porträt eines Adligen in schwarzen Kleidern",
+  "zugeschriebene_werkstatt": "Félix LaPierre",
+  "besitzfolge": [
+    {
+      "name": "Gräfin Elisabeth von Hohenburg",
+      "datum": "1765",
+      "erwerbung": "Erbe"
+    },
+    {
+      "name": "Fürst Friedrich von Wiesbaden",
+      "datum": "1810",
+      "erwerbung": "Eheschließung"
+    },
+    {
+      "name": "Hausmuseum Schloss Ruhleben",
+      "datum": "1932",
+      "verwaltung": "Erbe"
+    }
+  ],
+  "groesse": {
+    "height": 127.7,
+    "width": 195.3
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

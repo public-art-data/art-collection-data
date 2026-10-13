@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-1001151",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-961-10",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Porträts der Familie von Schattenburg",
+  "zugeschriebene_werkstatt": "F. H. Eisenhauer",
+  "besitzfolge": [
+    {
+      "besitzer": "Baronin Anna Schattenburg",
+      "erworben_jahr": 1820,
+      "herkunft": "Erbe aus dem Besitz ihres Vaters, Grafen Johann Schattenburg"
+    },
+    {
+      "besitzer": "Friedrich von Schottenstein",
+      "erworben_jahr": 1850,
+      "herkunft": "Geschäftliche Vereinbarung mit seiner Schwägerin, Baronin Anna Schattenburg"
+    },
+    {
+      "besitzer": "Königin Elisabeth von Württemberg",
+      "erworben_jahr": 1880,
+      "herkunft": "Schenkung durch ihren Sohn, Fürst Karl von Württemberg"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "stempel des Hausarchivs"
+}

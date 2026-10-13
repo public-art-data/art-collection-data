@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00029",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-136",
+  "object_type": "lithograph",
+  "title": "Riverside, Malacca",
+  "artist": "Loh Guat-ling",
+  "provenance": "Acquired by the Estate of Tan Kok-ting in 1973, later sold to Lien Hsiu-min's private collection before auction at the Singapore Art Society in 1988.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 1783.0,
+    "width": 1554.0
+  },
+  "estimate_sgd": {
+    "low": 12000,
+    "high": 124000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

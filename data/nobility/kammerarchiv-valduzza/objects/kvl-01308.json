@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01308",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-187-30",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Porträt des Grafen von Würzburg",
+  "zugeschriebene_werkstatt": "Lucas van Meerendonk",
+  "besitzfolge": [
+    {
+      "besitzer": "Grafenhaus von Schönau",
+      "besitzdauer": "1680-1705"
+    },
+    {
+      "besitzer": "Gräfin Isabella von Würzburg",
+      "besitzdauer": "1705-1750"
+    },
+    {
+      "besitzer": "Prinz Eugen von Schönau",
+      "besitzdauer": "1750-1810"
+    }
+  ],
+  "groesse": {
+    "height": 154.1,
+    "width": 241.3
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

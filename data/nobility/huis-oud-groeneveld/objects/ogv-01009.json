@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01009",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-670-45",
+  "stuk": "wandtapijt",
+  "omschrijving": "Portret van Adriaen van Voorburg",
+  "vermoedelijke_maker": "Jan Jansz. Voskens",
+  "eigendomsgeschiedenis": [
+    {
+      "gezin": "Huis van der Meer",
+      "rol": "Verkrijger en overnemer",
+      "jaar": "1628"
+    },
+    {
+      "gezin": "Huis van der Meer",
+      "rol": "Erfgenoot en erfdochter",
+      "jaar": "1653",
+      "toestand": "overleden",
+      "opvolger": "Jan Jansz. Voskens' neef, Pieter Jansz. Voskens"
+    },
+    {
+      "gezin": "Huis van der Meer",
+      "rol": "Overnemer en erfdochter",
+      "jaar": "1750",
+      "toestand": "erfgenoot",
+      "opvolger": "Jan Jansz. Voskens' kleinzoon, Jan Hendrik Jansz."
+    }
+  ],
+  "vorige_eigenaar": "Huis van Oud-Groeneveld",
+  "marginale_notitie": "waszegel beschadigd"
+}

@@ -1,0 +1,32 @@
+{
+  "record_id": "VDN-01112",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-121-74",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huis van de Vijf Vaderen",
+  "vermoedelijke_meester": "Johan van der Meerendonk",
+  "provenance": [
+    {
+      "persoon": "Pieter van der Meerendonk",
+      "relatie": "zoon"
+    },
+    {
+      "persoon": "Adriaan van der Meerendonk",
+      "relatie": "broer"
+    },
+    {
+      "persoon": "Gerrit van der Meerendonk",
+      "relatie": "omzeerder"
+    },
+    {
+      "persoon": "Maria van der Meerendonk",
+      "relatie": "zwanginrijke"
+    },
+    {
+      "persoon": "Jan van der Meerendonk",
+      "relatie": "leigereerder"
+    }
+  ],
+  "eerdere_eigenaar": "Geslacht Van Schoonhoven-Dal",
+  "schatting": 350000
+}

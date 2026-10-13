@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-02288",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-436",
+  "object_type": "lithograph",
+  "title": "Viridian Composition",
+  "artist": "Loh Guat-ling",
+  "provenance": "Acquired by the Singaporean government in 1947, then transferred to the estate of Tng Mei-ling in 1985, later sold at auction to Wong Kai-jen's family art foundation in 2003.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 1970.0,
+    "width": 2689.0
+  },
+  "estimate_sgd": {
+    "low": 11000,
+    "high": 97000
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01290",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-812-63",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Porträt einer Adligen",
+  "zugeschriebene_werkstatt": "Friedrich von Hohenstein",
+  "besitzfolge": [
+    {
+      "persoon": "Adelheid von Eisenberg",
+      "overleden": "1500"
+    },
+    {
+      "persoon": "Hermann von Eisenberg",
+      "overleden": "1552",
+      "bezoldigung": "Eisenberger Erbfolge"
+    },
+    {
+      "persoon": "Margaretha von Eisenberg",
+      "gehuwd_met": "Johannes van Veldensteijn"
+    },
+    {
+      "persoon": "Jan van Veldensteijn",
+      "overleden": "1605",
+      "bezoldigung": "Veldensteynische Erbfolge"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

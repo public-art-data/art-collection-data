@@ -1,0 +1,45 @@
+{
+  "record_id": "MBO-1001073",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-443-42",
+  "nature": "service a the en porcelaine",
+  "appellation": "Comtesse de Roussel",
+  "attribue_a": "Édouard Dubois",
+  "provenance_detaillee": [
+    {
+      "date": "1710",
+      "event": "Héritage",
+      "personne": {
+        "nom": "Louis LeFleur"
+      }
+    },
+    {
+      "date": "1747",
+      "event": "Mariage avec Madame de Beauvoir",
+      "personne": {
+        "nom": "Pierre de Roussel"
+      }
+    },
+    {
+      "date": "1790",
+      "event": "Conseiller en Cour des Comtes de Roussel",
+      "personne": {
+        "nom": "Jacqueline Dumont-Desrousiers"
+      }
+    },
+    {
+      "date": "1850",
+      "event": "Héritage",
+      "personne": {
+        "nom": "Ferdinand de Roussel"
+      }
+    },
+    {
+      "date": "1875",
+      "event": "Achat à la veuve Dupont",
+      "personne": {
+        "nom": "Alexandre de Roussel"
+      }
+    }
+  ]
+}

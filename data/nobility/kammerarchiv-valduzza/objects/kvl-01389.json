@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01389",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-352-45",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "De Gouden Pijp",
+  "zugeschriebene_werkstatt": "Karel Voskuilen",
+  "besitzfolge": [
+    {
+      "id": "Grafenfeld_1",
+      "besitzer": "Herr zu Grafenfeld",
+      "datum": "1723-10-01"
+    },
+    {
+      "id": "Baroness_van_d_Rijk",
+      "besitzer": "Frau von dem Riesling",
+      "datum": "1767-02-15",
+      "nachfolger": "Grafenfeld_2"
+    },
+    {
+      "id": "Herr_von_Grafenfeld_3",
+      "besitzer": "Herr zu Grafenfeld 2",
+      "datum": "1815-03-20"
+    }
+  ],
+  "groesse": {
+    "height": 151.4,
+    "width": 219.0
+  },
+  "kammervermerk": "doppelt nummeriert"
+}

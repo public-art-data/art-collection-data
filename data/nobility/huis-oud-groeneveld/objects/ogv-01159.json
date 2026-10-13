@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-1001159",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-740-79",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Koningin's Regentenfederatie",
+  "vermoedelijke_maker": "Eline van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "title": "Huis van de Valkenhorst",
+      "begin_jaar": 1700,
+      "eigenaar": "Graaf Floris II van de Valkenhorst"
+    },
+    {
+      "title": "Hertogin Frederika van Montferland",
+      "begin_jaar": 1750,
+      "overleden_eigenaar": "Graaf Floris II van de Valkenhorst"
+    },
+    {
+      "title": "Koningin Wilhelmina III van Oost-Eldrida",
+      "begin_jaar": 1850,
+      "overleden_eigenaar": "Hertogin Frederika van Montferland"
+    }
+  ],
+  "grootte": {
+    "height": 83.6,
+    "width": 9.5
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

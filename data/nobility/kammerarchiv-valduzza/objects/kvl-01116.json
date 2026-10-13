@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-1001116",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-725-65",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt des Grafen von Wüstenau",
+  "zugeschriebene_werkstatt": "Eleanor van der Meer",
+  "besitzfolge": [
+    {
+      "datum": "1662-09-15",
+      "besitzer": "Grafschaft Wüstenau (Kasimir von Wüstenau)",
+      "beigabe": "Erbschaft"
+    },
+    {
+      "datum": "1700-02-10",
+      "besitzer": "Gräfin Anna von Eisenstadt (Tochter von Kasimir von Wüstenau)",
+      "beigabe": "Erbrecht"
+    },
+    {
+      "datum": "1755-06-20",
+      "besitzer": "Kurfürstin Sofia von Alt-Sachsen (Grafschaft Wüstenau, Sohn von Anna von Eisenstadt)",
+      "beigabe": "Schenkung"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

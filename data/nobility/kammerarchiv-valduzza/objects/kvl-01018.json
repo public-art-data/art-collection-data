@@ -1,0 +1,34 @@
+{
+  "record_id": "KVL-01018",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-537-64",
+  "artefakt": "marmorbueste",
+  "werktitel": "De Grote Porträtgalerie van Hertogin Isabella",
+  "zugeschriebene_werkstatt": "Herr Kasper von Welschenburg",
+  "besitzfolge": {
+    "erben": [
+      {
+        "Person": "Dame Anna van Oranje-Nassau",
+        "Jahr": 1800,
+        "Grund": "Erbteilung"
+      },
+      {
+        "Person": "Herr Koenraad van Hertogarijs",
+        "Jahr": 1825,
+        "Grund": "Verheirlichung"
+      }
+    ],
+    "Geschichtsschreiber": [
+      {
+        "Person": "Ritter Johann van Schouten",
+        "Jahr": 1850
+      }
+    ]
+  },
+  "groesse": {
+    "height": 54.8,
+    "width": 203.4
+  },
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "stempel des Hausarchivs"
+}

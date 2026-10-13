@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01144",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-882-24",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Archiv der Grafen von Hohenfels",
+  "kuenstler": "Roderick Vesper",
+  "provenienz": [
+    {
+      "datum": "1650",
+      "besitzer": "Graf Ulrich von Hohenfels"
+    },
+    {
+      "datum": "1685",
+      "besitzer": "Grafin Sophie von Hohenfels (eheliche Witwe von Graf Ulrich)",
+      "geschichte": "Erworben bei einer Heirat mit einem wohlhabenden Kaufmann, Herrn Johann Schmidt"
+    },
+    {
+      "datum": "1720",
+      "besitzer": "Graf Ludwig von Hohenfels (Sohn von Graf Ulrich und Grafin Sophie)",
+      "geschichte": "Erworben durch Erbschaft nach dem Tod seiner Eltern"
+    }
+  ],
+  "masse_cm": {
+    "height": 111.3,
+    "width": 145.5
+  },
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 611000
+}

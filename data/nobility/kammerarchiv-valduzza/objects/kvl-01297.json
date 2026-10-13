@@ -1,0 +1,20 @@
+{
+  "record_id": "KVL-01297",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-843-7",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "De Eerste Zon",
+  "zugeschriebene_werkstatt": "Astrid van der Meer",
+  "besitzfolge": [
+    {
+      "familie": "Huis van Oranje-Nassau",
+      "opvolger": null,
+      "datum": "1789"
+    },
+    {
+      "familie": "Haus von Schönburg-Glauchau",
+      "opvolger": null,
+      "datum": "1918"
+    }
+  ]
+}

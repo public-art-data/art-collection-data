@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-1001379",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-665-50",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt einer Dame mit einem Blumenkränz",
+  "zugeschriebene_werkstatt": "Aurélien Dumont",
+  "besitzfolge": [
+    {
+      "name": "Gräfin Eleonore von Württemberg-Hohenneuffen",
+      "erwerbung_jahr": 1787,
+      "erbe_aus": "Vorfahre Gräfin Sophie von Württemberg-Würzburg"
+    },
+    {
+      "name": "Herr Baron Leopold von Bärenfels",
+      "erwerbung_jahr": 1832,
+      "erbe_aus": "Ehefrau Gräfin Eleonore von Württemberg-Hohenneuffen"
+    },
+    {
+      "name": "Gräfin Sophie von Württemberg-Würzburg",
+      "erwerbung_jahr": 1765,
+      "herkunft": "Geliehen von ihrem Großvater, Herzog Albrecht von Bayern-Landshut"
+    }
+  ],
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "doppelt nummeriert"
+}

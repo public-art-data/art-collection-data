@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01077",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-879-30",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Portret van de voogdin Helena van Beieren",
+  "vermoedelijke_maker": "Johannes van Leiden",
+  "eigendomsgeschiedenis": [
+    {
+      "geslachtsnaam_eigendom": "van Oranje-Nassau",
+      "geboortejaar_eigendom": 1632,
+      "aankoopjaar_eigendom": 1685
+    },
+    {
+      "geslachtsnaam_eigendom": "van der Bilt",
+      "geboortejaar_eigendom": 1776,
+      "verhuwingsjaar_eigendom": 1832
+    },
+    {
+      "geslachtsnaam_eigendom": "Hertzog van Utrecht",
+      "geboortejaar_eigendom": 1815,
+      "erfgoed_jaar_eigendom": 1912
+    }
+  ],
+  "grootte": {
+    "height": 13.5,
+    "width": 154.9
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal",
+  "marginale_notitie": "waszegel beschadigd"
+}

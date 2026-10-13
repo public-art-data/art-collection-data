@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01515",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-832-92",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Die Jungfrau der Vergangenheit",
+  "zugeschriebene_werkstatt": "Ludwig von Schattenberg",
+  "besitzfolge": [
+    {
+      "erstes_Inhaber": "Graf Wilhelm von Wiedenbrunn",
+      "verkaufsjahr": 1682,
+      "neuer_Inhaber": "Friedrich, Herzog von Eisenhüttenstein"
+    },
+    {
+      "erstes_Inhaber": "Kurfürstin Helene von Rosenburg",
+      "übertragungsjahr": 1765,
+      "neuer_Inhaber": "Prinz Friedrich Wilhelm von Altensachsen"
+    }
+  ],
+  "groesse": {
+    "height": 58.3,
+    "width": 258.3
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

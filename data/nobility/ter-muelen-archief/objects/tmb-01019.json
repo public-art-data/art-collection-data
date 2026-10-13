@@ -1,0 +1,32 @@
+{
+  "record_id": "SYN/TMB/01019",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-997-44",
+  "soort": "marmeren buste",
+  "titel": "Privé Samenstelling Van De Valkenburg",
+  "toegeschreven_aan": "Alette Vreeswijk",
+  "herkomstgeschiedenis": [
+    {
+      "tijdperk": "16e eeuw",
+      "gebeurtenis": "Erfenis van graaf Willem Van De Valkenburg en zijn weduwe, Margaretha Van De Meerendonck"
+    },
+    {
+      "tijdperk": "17e eeuw",
+      "gebeurtenis": "Vererfd door erfgenaam Pieter Van De Valkenburg aan zijn zuster, Catharina Van Der Putte"
+    },
+    {
+      "tijdperk": "18e eeuw",
+      "gebeurtenis": "Ondertekend overgedragen van Catharina Van Der Putte aan haar neef, Lucas Van De Valkenburg"
+    },
+    {
+      "tijdperk": "19e eeuw",
+      "gebeurtenis": "Eigendom verkocht aan Alette Vreeswijk, die het sindsdien als privécollectie bewaart"
+    }
+  ],
+  "afmetingen": {
+    "height": 85.7,
+    "width": 123.4
+  },
+  "vroegere_bezitter": "Familie Van Rillaer-Belle",
+  "schatting": 605000
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-01121",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-855-89",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Baronin von Schönwolfsburg",
+  "kuenstler": "Elisabetha van der Meer",
+  "provenienz": [
+    {
+      "Name": "Baron Leopold von Schönwolfsburg",
+      "Datum": 1750,
+      "Beschreibung": "Erbt von Vater"
+    },
+    {
+      "Name": "Gräfin Adelheid von Schönwolfsburg",
+      "Datum": 1805,
+      "Beschreibung": "Gefüllt durch Ehe mit Grafen Heinrich von Schönwolfsburg"
+    },
+    {
+      "Name": "Baronin Sophie von Schönwolfsburg",
+      "Datum": 1850,
+      "Beschreibung": "Übergangen an Enkelin"
+    }
+  ],
+  "vorbesitzer": "Grafen von Wassenfeld",
+  "zustandsbericht": "stempel des Hausarchivs"
+}

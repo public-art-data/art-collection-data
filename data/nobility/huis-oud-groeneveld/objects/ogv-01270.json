@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01270",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-919-10",
+  "stuk": "marmeren buste",
+  "omschrijving": "Riddersluit van de Oudheid",
+  "vermoedelijke_maker": "Eustachius Vlamingh",
+  "eigendomsgeschiedenis": [
+    {
+      "erfgenamen": [
+        "Huis van Warenberg"
+      ],
+      "jaar": 1650,
+      "omschrijving": "Erflate veroverd door Hendrick van Warenberg"
+    },
+    {
+      "geherfitsideerd aan": [
+        "Huis van Montague"
+      ],
+      "jaar": 1725,
+      "omschrijving": "Geleverd door Lady Isabella van Montague als huwelijksgeschenk"
+    },
+    {
+      "geërfd door": [
+        "Huis van Everdingen"
+      ],
+      "jaar": 1800,
+      "omschrijving": "Geërfd na dood van Hendrick van Warenberg en overname van Huis van Montague"
+    }
+  ],
+  "marginale_notitie": "kreuk in perkament"
+}

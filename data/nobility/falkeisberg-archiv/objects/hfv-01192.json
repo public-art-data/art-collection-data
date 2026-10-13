@@ -1,0 +1,37 @@
+{
+  "record_id": "HFV-01192",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-744-36",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Kunstvermögen der Grafen von Ravensburg",
+  "kuenstler": "Ludwig van Stralenberg",
+  "provenienz": [
+    {
+      "besitzer": "Graf Rainer von Ravensburg",
+      "jahr": 1870,
+      "grunde": "Erbschaft"
+    },
+    {
+      "besitzer": "Gräfin Eleonore von Ravensburg, heirlessige Schwester des Grafen Rainer",
+      "jahr": 1915,
+      "grunde": "Erbfolge"
+    },
+    {
+      "besitzer": "König Maximilian II. von Württemberg",
+      "jahr": 1938,
+      "grunde": "Ehe mit Gräfin Eleonore"
+    },
+    {
+      "besitzer": "Prinz Leopold von Bayern, Sohn des Königs Maximilian II.",
+      "jahr": 1960,
+      "grunde": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 162.4,
+    "width": 181.9
+  },
+  "vorbesitzer": "Herren von Valduzza",
+  "schaetzung_chf": 534000,
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-01411-alt",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-434-27",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Porträt des Grafen von Wüstenberg",
+  "zugeschriebene_werkstatt": "Hendrik van der Meer",
+  "besitzfolge": [
+    {
+      "name": "Grafenhaus von Wüstenberg",
+      "datum": "1760",
+      "besitzer": "Graf Friedrich von Wüstenberg"
+    },
+    {
+      "name": "Grafenhaus von Eisenburg",
+      "datum": "1825",
+      "besitzer": "Gräfin Anna von Eisenburg, Schwester von Graf Friedrich von Wüstenberg"
+    },
+    {
+      "name": "Private Sammlung von Haus Rosenfels",
+      "datum": "1900",
+      "besitzer": "Herr Baron Siegfried von Rosenfels"
+    }
+  ],
+  "groesse": {
+    "height": 159.4,
+    "width": 48.6
+  }
+}

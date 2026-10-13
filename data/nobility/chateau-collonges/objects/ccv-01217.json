@@ -1,0 +1,27 @@
+{
+  "record_id": "CCV-01217",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-309-81",
+  "categorie": "service a the en porcelaine",
+  "titre": "Collection de la Famille de Roussy",
+  "attribution": "Jean-Louis LaFleur",
+  "provenance": [
+    {
+      "nom": "Marie-Rosaline de Roussy",
+      "année": 1800,
+      "famille": "de Roussy"
+    },
+    {
+      "nom": "Pierre-Etienne Dumont",
+      "année": 1840,
+      "famille": "Dumont, marquis de Miremont"
+    },
+    {
+      "nom": "Charlotte-Ambroise de Roussy-Dumont",
+      "année": 1875,
+      "famille": "de Roussy-Dumont"
+    }
+  ],
+  "ancien_detenteur": "Comtesse de Warnier-Saint-Servais",
+  "valeur_estimee": 538000
+}

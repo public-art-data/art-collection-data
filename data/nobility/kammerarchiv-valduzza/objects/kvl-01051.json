@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01051",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-651-88",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "De Koningin van het Noorderlicht",
+  "zugeschriebene_werkstatt": "L. Stielke",
+  "besitzfolge": [
+    {
+      "tijdperk": "1815",
+      "eigendom": "Huis Oranje-Nassau"
+    },
+    {
+      "tijdperk": "1850",
+      "erfgearneerde_eigendom": "Hertogin van Buren-Westerborg"
+    },
+    {
+      "tijdperk": "1885",
+      "verfijnd_eigendom": "Prinses Isabella van Oranje-Nassau"
+    }
+  ],
+  "kammervermerk": "stempel des Hausarchivs"
+}

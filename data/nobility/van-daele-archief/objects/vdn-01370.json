@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-o1370",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-745-36",
+  "objecttype": "wandtapijt",
+  "benaming": "Huis van Vrieswijk",
+  "vermoedelijke_meester": "Maria van der Meer",
+  "provenance": [
+    {
+      "gezin": "Van Vrieswijk",
+      "opvolging": null,
+      "huwelijken": [
+        {
+          "partner": "Jan van den Berghe"
+        }
+      ],
+      "erfenis": true
+    },
+    {
+      "gezin": "Burggraaf van Leijenhorst",
+      "opvolging": null,
+      "huwelijken": [
+        {
+          "partner": "Maria van der Meer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "ABR-1001115",
+  "origin": "Kunstauktionshaus G. Brandt & Soehne, Muenchen",
+  "los_nr": "871",
+  "objektart": "Bronzeskulptur",
+  "titel": "Blick auf die Stadt",
+  "kuenstler": "F. Gruber",
+  "provenienz": "Der Kunstsammler Baron Friedrich von Altmark erworben im Jahr 1907, bevor die Skulptur von seinem Nachbarn, dem Hofrat Otto Wilhelm Schmid, 1909 übergeben wurde.",
+  "datierung": "1909",
+  "technik": "Bronzeskulptur",
+  "masse_cm": {
+    "height": 102.2,
+    "width": 124.1
+  },
+  "vorbesitzer": {
+    "name": "H. Brandhorst",
+    "born": 1953,
+    "acquired": 1923
+  }
+}

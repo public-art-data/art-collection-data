@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-1651",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-266",
+  "object_type": "lithograph",
+  "title": "View of Punggol",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Acquired by Lee Hui Fen in 1843, later sold to Lim Ah Kong Estate.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 1010.0,
+    "width": 224.0
+  },
+  "estimate_sgd": {
+    "low": 37000,
+    "high": 64000
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-00002",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-306",
+  "object_type": "bronze figure",
+  "title": "Untitled (water jar)",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by the estate of Elara Vex in 1923, subsequently sold to dealer Kaidō Katsuragi and later transferred to the collection of Lyra Wellesley, who donated it to Meridian Fine Arts Auctioneers",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 891.0,
+    "width": 616.0
+  },
+  "estimate_sgd": {
+    "low": 16000,
+    "high": 182000
+  }
+}

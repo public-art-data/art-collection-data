@@ -1,0 +1,28 @@
+{
+  "record_id": "HFV-01037",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-535-64",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Grave Collectie",
+  "kuenstler": "Aurélien LaFleur",
+  "provenienz": [
+    {
+      "eerste bezitter": "Heren van de Vijf Eikenbomen",
+      "verandering": "erfgearving van 1803"
+    },
+    {
+      "eerste bezitter": "Lorenzo van de Gouden Kogel",
+      "verandering": "overname door huwelijk in 1850 met Elisabeth van de Vijf Eikenbomen"
+    },
+    {
+      "eerste bezitter": "Lorenzo van de Gouden Kogel",
+      "verandering": "erfgearving van 1901"
+    }
+  ],
+  "masse_cm": {
+    "height": 164.2,
+    "width": 163.4
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "schaetzung_chf": 35000
+}

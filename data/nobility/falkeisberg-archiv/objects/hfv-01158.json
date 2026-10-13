@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01158",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-696-68",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Hausarchiv der Grafen von Württemberg",
+  "kuenstler": "Euphemia Eisenstadt",
+  "provenienz": [
+    {
+      "besitzer": "Graf Hermann II von Württemberg",
+      "jahreszahl": 1800,
+      "besitzart": "Erbschaft"
+    },
+    {
+      "besitzer": "Gräfin Elisabeth von Württemberg (Ehefrau von Graf Friedrich)",
+      "jahreszahl": 1815,
+      "besitzart": "Hingabe durch Erbe"
+    },
+    {
+      "besitzer": "Graf Leopold von Württemberg",
+      "jahreszahl": 1830,
+      "besitzart": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 125.1,
+    "width": 159.7
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "zustandsbericht": "doppelt nummeriert"
+}

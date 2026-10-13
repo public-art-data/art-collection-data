@@ -1,0 +1,36 @@
+{
+  "record_id": "SYN_KVL_01008",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-371-98",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Die Ewigkeit im Spiegel",
+  "zugeschriebene_werkstatt": "Hortensia Van der Meer",
+  "besitzfolge": {
+    "Grafenhaus von Schönburg": {
+      "Erbfolge": [
+        {
+          "Person": "Anna Gräfin Schönburg",
+          "Datum": "1660"
+        },
+        {
+          "Person": "Karl Graf Schönburg",
+          "Datum": "1720"
+        }
+      ]
+    },
+    "Haus von Hardegen": {
+      "Erbteilung": [
+        {
+          "Person": "Wilhelmine Freifrau Hardegen",
+          "Datum": "1755"
+        }
+      ],
+      "Verkauf": [
+        {
+          "Person": "Franziska Gräfin Schönburg",
+          "Datum": "1830"
+        }
+      ]
+    }
+  }
+}

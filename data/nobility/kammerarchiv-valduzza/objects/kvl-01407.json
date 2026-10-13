@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-01407",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-596-11",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Porträt des Hohen Adlers",
+  "zugeschriebene_werkstatt": "Baroness Margarete von der Linde",
+  "besitzfolge": {
+    "Grundungsjahr": 1880,
+    "Eigentümer_innen": [
+      {
+        "Name": "Herr Baron Gottfried von der Linde",
+        "Jahreszahl": 1880
+      },
+      {
+        "Name": "Frau Baronin Helga von der Linde",
+        "Jahreszahl": 1920,
+        "Besitzübernahme": "Erbschaft"
+      },
+      {
+        "Name": "Herr Graf Leopold von der Linde",
+        "Jahreszahl": 1950,
+        "Besitzübernahme": "Ehe"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 67.3,
+    "width": 251.7
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "VDN-01249",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-304-97",
+  "objecttype": "wandtapijt",
+  "benaming": "Groothof van Heuveld",
+  "vermoedelijke_meester": "Quintus Vrieselingh",
+  "provenance": [
+    {
+      "family": "van Heuveld",
+      "title": "Eerste Baron",
+      "ownership_start_date": "1620"
+    },
+    {
+      "family": "Ravensteyn",
+      "title": "Gouverneur",
+      "inheritance_reason": "Overleden van Grootvader"
+    },
+    {
+      "family": "De Valkenburg",
+      "title": "Baronesse",
+      "marriage_title": "geëerd de weduwes van Baron Heuveld"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 131.7,
+    "width": 20.5
+  },
+  "eerdere_eigenaar": {
+    "name": "A. Rijpkema",
+    "born": 1959,
+    "acquired": 1918
+  }
+}

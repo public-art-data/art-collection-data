@@ -1,0 +1,26 @@
+{
+  "record_id": "FCS-01408",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-195-23",
+  "type_d_objet": "ecritoire en argent",
+  "titre": "Chevalier de la Fontaine",
+  "artiste_attribue": "Pierre-Paul Dupont",
+  "historique_de_possession": {
+    "début_de_possession": "1600",
+    "proprieteur_initial": "Famille de Roubaix",
+    "successeur": [
+      {
+        "nom_succeur": "Marie-Thérèse de Lorraine",
+        "annee_sucec": 1632
+      }
+    ],
+    "dette_historique": {
+      "achats_notables": [
+        "Prix d'achat de 10 000 livres en 1615"
+      ],
+      "donations_receues": [
+        "Don de son frère, Jacques Dupont, en 1620"
+      ]
+    }
+  }
+}

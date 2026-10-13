@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01055",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-975-45",
+  "objektart": "silbernes schreibzeug",
+  "titel": "Privatbibliothek von Haus Hohenstein",
+  "kuenstler": "Aurélien Dumont",
+  "provenienz": [
+    {
+      "person": "Hans von Wulfenstein",
+      "rolle": "Urgangsbesitzer",
+      "datum": "1530"
+    },
+    {
+      "person": "Elisabeth von Hohenstein",
+      "rolle": "Erbin",
+      "datum": "1585, durch Erbfolge von ihrem Vater"
+    },
+    {
+      "person": "Maximilian von Wulfenstein",
+      "rolle": "Ehemann",
+      "datum": "1620, durch Heirat mit Elisabeth"
+    }
+  ],
+  "masse_cm": {
+    "height": 197.7,
+    "width": 176.8
+  },
+  "vorbesitzer": "Grafen von Wassenfeld"
+}

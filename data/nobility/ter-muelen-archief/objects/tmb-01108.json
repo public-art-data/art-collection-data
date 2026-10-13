@@ -1,0 +1,27 @@
+{
+  "record_id": "TMB-01108",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-951-1",
+  "soort": "wandtapijt",
+  "titel": "Privéverzameling van Huis te Breda",
+  "toegeschreven_aan": "Pietra Verstappen",
+  "herkomstgeschiedenis": [
+    {
+      "datum": "1700",
+      "gezin": "Huis ter Beke"
+    },
+    {
+      "datum": "1750",
+      "gezin": "Huis te Breda (verwerving door verhuwding van Wilhelmina van Huis ter Beke naar haar zuster, Anna van Huis te Breda)"
+    },
+    {
+      "datum": "1800",
+      "gezin": "Huis te Breda (opvolging door dochter, Sophia van Huis te Breda)"
+    }
+  ],
+  "afmetingen": {
+    "height": 164.6,
+    "width": 270.0
+  },
+  "aantekening": "dubbele nummering"
+}

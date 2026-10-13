@@ -1,0 +1,23 @@
+{
+  "record_id": "SYN.MFA.01995",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-120",
+  "object_type": "lithograph",
+  "title": "Riverside, Penang",
+  "artist": "Selvaratnam",
+  "provenance": "Acquired by the estate of T. Ang-Hian, 1956; sold to S. Lim-Mun, 1971; subsequently owned by the late L. Wong-Poh, Singapore, until its sale at Meridian Fine Arts Auctioneers, Singapore in 2020.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 562.0,
+    "width": 571.0
+  },
+  "previous_owner": {
+    "name": "R. Ambrose-Kwek",
+    "born": 1931,
+    "acquired": 1903
+  },
+  "estimate_sgd": {
+    "low": 9000,
+    "high": 155000
+  }
+}

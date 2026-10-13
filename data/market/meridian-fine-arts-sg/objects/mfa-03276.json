@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03276",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-78",
+  "object_type": "ink drawing",
+  "title": "Viridian Composition",
+  "artist": "Ongpiboon",
+  "provenance": "Acquired by the K. Lian Estate in 1978, held privately until 2023 when sold at auction.",
+  "dimensions_mm": {
+    "height": 1563.0,
+    "width": 683.0
+  },
+  "previous_owner": "Mr. and Mrs. W. Gribble-Hale",
+  "estimate_sgd": {
+    "low": 7000,
+    "high": 198000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

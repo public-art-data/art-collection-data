@@ -1,0 +1,30 @@
+{
+  "record_id": "MBO-01109",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-129-92",
+  "nature": "ecritoire en argent",
+  "appellation": "Comtesse de Brionne",
+  "attribue_a": "Eloise Lefleur",
+  "provenance_detaillee": [
+    {
+      "propriete": "Chateau de Brionne",
+      "proprietaire": "La Comtesse Anne de Brionne (1690-1745)",
+      "legitimation": "Héritage maternel"
+    },
+    {
+      "propriete": "Chateau de Brionne",
+      "proprietaire": "Le Comte Pierre de Brionne (1735-1795)",
+      "legitimation": "Inheritance"
+    },
+    {
+      "propriete": "Musee de la Comtesse",
+      "proprietaire": "La Duchesse Sophie de Brionne (1810-1880)",
+      "legitimation": "Legacy"
+    }
+  ],
+  "mesures": {
+    "height": 167.2,
+    "width": 35.7
+  },
+  "detenteur_precedent": "Comtes de Rousset-Lavandieres"
+}

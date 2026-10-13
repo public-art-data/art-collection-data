@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01267",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-975-81",
+  "objecttype": "miniatuurportret",
+  "benaming": "Kasteel van Stellenberg",
+  "vermoedelijke_meester": "Pietera van der Meerkat",
+  "provenance": [
+    {
+      "eigendom": "Heren van Stellenberg",
+      "jaar": 1600,
+      "oorzaak_eigendom": "Eerste weddewezen van Hendrik van Stellenberg en Colette de Valkenburgh"
+    },
+    {
+      "eigendom": "Colette de Valkenburgh",
+      "jaar": 1635,
+      "oorzaak_eigendom": "Eerstovererving van Colette nadat haar vader overleden was"
+    },
+    {
+      "eigendom": "Heren van Stellenberg",
+      "jaar": 1650,
+      "oorzaak_eigendom": "Inname door Hendrik van Stellenberg na zijn huwelijk met Adelheid de Leyn"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 86.1,
+    "width": 106.0
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "dubbele nummering"
+}

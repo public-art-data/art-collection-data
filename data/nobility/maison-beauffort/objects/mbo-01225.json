@@ -1,0 +1,31 @@
+{
+  "record_id": "MBO-01225",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-651-12",
+  "nature": "vitrail d'atelier",
+  "appellation": "Comtesse de Valmarie",
+  "attribue_a": "Fleur Delacroix",
+  "provenance_detaillee": [
+    {
+      "propriete": "Château de Marais",
+      "proprietaire": "Duchesse Sophie Isabelle de la Croix",
+      "date_achat": "1785"
+    },
+    {
+      "propriete": "Héritage de l'Ancien Roi Henri III",
+      "proprietaire": "Marie-Thérèse de Fontenelle",
+      "date_achat": null
+    },
+    {
+      "propriete": "Légat de Fleur Delacroix, épouse du Comte de Valmarie",
+      "proprietaire": "Camille-François de Valmarie",
+      "date_achat": null
+    }
+  ],
+  "mesures": {
+    "height": 167.9,
+    "width": 192.9
+  },
+  "detenteur_precedent": "Maison de Villierscourt",
+  "cachets": "entree rayee puis restauree"
+}

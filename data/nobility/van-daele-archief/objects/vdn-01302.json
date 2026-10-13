@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01302",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-703-81",
+  "objecttype": "devotiebeeld",
+  "benaming": "Hertogin van 't Goude Haar",
+  "vermoedelijke_meester": "Hendrik de Slingerschilder",
+  "provenance": [
+    {
+      "titel": "Erfgename van Nijenburg",
+      "naam": "Gwijfrita van den Eyck",
+      "jaar": "1300"
+    },
+    {
+      "titel": "Voorname van Kellertsberg",
+      "naam": "Walter van Larenstein",
+      "jaar": "1400"
+    },
+    {
+      "titel": "Hertogin van 't Goude Haar",
+      "naam": null,
+      "jaar": "1500"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 210.8,
+    "width": 279.7
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld",
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

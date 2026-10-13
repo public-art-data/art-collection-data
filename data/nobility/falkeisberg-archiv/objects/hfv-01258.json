@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-01258",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-680-46",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Hausarchiv der Grafschaft von Walenburg",
+  "kuenstler": "Adrian van der Meer",
+  "provenienz": [
+    {
+      "besitzer": "Grafschaft von Walenburg (Familie Schleswig)",
+      "dauer": "1700-1750",
+      "beschreibung": "Erbtl. durch Verheiratung mit Adelheid von Ravensburg"
+    },
+    {
+      "besitzer": "Hofamt des Grafen Karl von Walenburg",
+      "dauer": "1750-1800",
+      "beschreibung": "Nachlass von Adelheid van der Meer, Tochter von Adrian van der Meer"
+    },
+    {
+      "besitzer": "Familie Schleswig (Grafschaft von Walenburg)",
+      "dauer": "1800-heute",
+      "beschreibung": "Erbschl. durch Erbfolge gemäß Testament des Grafen Karl von Walenburg"
+    }
+  ],
+  "schaetzung_chf": 576000,
+  "zustandsbericht": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

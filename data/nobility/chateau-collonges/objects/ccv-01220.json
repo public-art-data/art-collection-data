@@ -1,0 +1,27 @@
+{
+  "record_id": "CCV-01220",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-695-61",
+  "categorie": "buste en marbre",
+  "titre": "Collection de la Famille d'Alberouze",
+  "attribution": "Pierre Émile Dumont",
+  "provenance": [
+    {
+      "nom_famille": "D'Alberouze",
+      "date_arrivée": "1680"
+    },
+    {
+      "nom_mariage": "Marie d'Alberouze de Montigny",
+      "époux": "Guillaume Dupont de Maubuisson"
+    },
+    {
+      "héritage": "Léon de Alberouze",
+      "date_héritage": "1850"
+    }
+  ],
+  "dimensions_cm": {
+    "height": 71.8,
+    "width": 295.5
+  },
+  "notes_archivistiques": "annotation au crayon: 'donne en 1848'"
+}

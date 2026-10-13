@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-00540",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-543",
+  "object_type": "lithograph",
+  "title": "Riverside, Georgetown",
+  "artist": "Vellacott",
+  "provenance": "Acquired by the Hua Jia International Estate, 2015; previously held by the Foo Chong Meng Gallery.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 829.0,
+    "width": 1289.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 8000,
+    "high": 136000
+  },
+  "condition_report": "minor foxing to margins"
+}

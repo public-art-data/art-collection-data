@@ -1,0 +1,41 @@
+{
+  "record_id": "HAG-01020",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-964-60",
+  "gegenstand": "jagdwaffe mit gravur",
+  "bezeichnung": "Landschaft mit Weiden und Brunnen",
+  "zugeschrieben_an": "Herr August Friedrich von Schönburg",
+  "besitzgeschichte": {
+    "Schönburg": {
+      "Stammbaum": [
+        {
+          "name": "Herr Maximilian Friedrich von Schönburg",
+          "Jahr": 1750,
+          "Eigentümer": "Herrin Anna Maria von Schönburg"
+        },
+        {
+          "name": "Herr Philipp von Schönburg",
+          "Jahr": 1825,
+          "Eigentümer": "Herr Hans Joachim von Schönburg"
+        }
+      ],
+      "Erbschaften": [
+        {
+          "Art": "Malerei",
+          "Besitzer": "Herr Friedrich Otto von Schönburg",
+          "Jahr": 1850
+        },
+        {
+          "Art": "Schutzschilder",
+          "Besitzer": "Frau Adelheid von Schönburg",
+          "Jahr": 1880
+        }
+      ]
+    }
+  },
+  "abmessungen": {
+    "height": 214.3,
+    "width": 115.7
+  },
+  "frueherer_besitzer": "Herren von Valduzza"
+}

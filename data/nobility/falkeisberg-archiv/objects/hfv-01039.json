@@ -1,0 +1,54 @@
+{
+  "record_id": "HFV-01039",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-633-87",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Baroness Amalia van der Meer's Familienarchiv",
+  "kuenstler": "Lilitha von Wintersberg",
+  "provenienz": [
+    {
+      "titel": null,
+      "kuenstler": null,
+      "person": {
+        "name": "Baron Karl van der Meer",
+        "titel": "Baron van der Meer",
+        "provenienz": [
+          "Lilitha von Wintersberg"
+        ]
+      },
+      "jahr": 1850
+    },
+    {
+      "titel": null,
+      "kuenstler": null,
+      "person": {
+        "name": "Gräfin Liselotte van der Meer",
+        "titel": "Gräfin von der Meer",
+        "provenienz": [
+          "Baron Karl van der Meer",
+          "Lilitha von Wintersberg"
+        ]
+      },
+      "jahr": 1875
+    },
+    {
+      "titel": null,
+      "kuenstler": null,
+      "person": {
+        "name": "Duchess Helena van der Meer",
+        "titel": "Duchess von der Meer",
+        "provenienz": [
+          "Gräfin Liselotte van der Meer",
+          "Lilitha von Wintersberg"
+        ]
+      },
+      "jahr": 1900
+    }
+  ],
+  "masse_cm": {
+    "height": 41.6,
+    "width": 171.5
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

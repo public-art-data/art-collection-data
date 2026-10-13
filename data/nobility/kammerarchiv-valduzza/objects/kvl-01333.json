@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01333",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-325-64",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt einer Göttin",
+  "zugeschriebene_werkstatt": "Johannes Valtor",
+  "besitzfolge": [
+    {
+      "datum": 1650,
+      "besitzer": "Haus Edelvogel von Eisenberg"
+    },
+    {
+      "datum": 1700,
+      "besitzer": "Frau Helena Edelvogel von Eisenberg",
+      "erben": "Sohn Anton Edelvogel von Eisenberg"
+    },
+    {
+      "datum": 1800,
+      "besitzer": "Haus Edelvogel von Eisenberg",
+      "nachfolger": "Sohn Franziska Edelvogel von Eisenberg"
+    }
+  ],
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

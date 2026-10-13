@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01400",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-162-80",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Het Pasgeboren Vliegend Verdriet (The Born Fledgling Sorrows)",
+  "zugeschriebene_werkstatt": "Anna van der Meerwijk",
+  "besitzfolge": [
+    {
+      "geschaftet_an": "Huis Hertogin Isabella van Utrecht",
+      "datum": "1667-04-15"
+    },
+    {
+      "erfd_door": "Haus Veringe van Bergen",
+      "datum": "1722-01-10",
+      "beschrijving": "Durch Erbfolge des Verstorbenen Grafen Hendrik Veringe van Bergen"
+    }
+  ],
+  "groesse": {
+    "height": 93.1,
+    "width": 79.8
+  }
+}

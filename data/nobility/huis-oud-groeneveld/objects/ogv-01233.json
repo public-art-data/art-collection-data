@@ -1,0 +1,36 @@
+{
+  "record_id": "OGV-1001233",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-664-79",
+  "stuk": "kabinetklok",
+  "omschrijving": "Portret van een bonte reeuw",
+  "vermoedelijke_maker": "Adriaan van der Meer",
+  "eigendomsgeschiedenis": {
+    "Begin": {
+      "jaar": 1620,
+      "eigendoms_verhaal": "Kocht door graaf Hendrik van Leeuwenborch in opdracht voor zijn zoon, prins Floris van Leeuwenborch"
+    },
+    "Eerste eigenaar": [
+      {
+        "jaar": 1650,
+        "eigendoms_verhaal": "Erfgename Aletta van Leeuwenborch erfde het schilderij na overlijden van haar vader graaf Hendrik van Leeuwenborch"
+      }
+    ],
+    "Eenheid_uit_marriage": [
+      {
+        "jaar": 1700,
+        "eigendoms_verhaal": "Verhuisd naar het kasteel van Graaf Jan van Nassau en eigendom verkregen door zijn echtgenote, prinses Sophia van Nassau"
+      }
+    ],
+    "Vererving": [
+      {
+        "jaar": 1750,
+        "eigendoms_verhaal": "Overgedragen aan haar neef graaf Jan-Bernardus van Nassau op basis van een erfverdrag"
+      }
+    ]
+  },
+  "grootte": {
+    "height": 161.5,
+    "width": 255.1
+  }
+}

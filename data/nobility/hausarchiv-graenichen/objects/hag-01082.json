@@ -1,0 +1,28 @@
+{
+  "record_id": "HAG-01082",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-357-26",
+  "gegenstand": "bildteppich",
+  "bezeichnung": "Gesamtwerk - Porträtsammlung",
+  "zugeschrieben_an": "Ferdinand Riedelmann",
+  "besitzgeschichte": [
+    {
+      "bezeichnung": "Erben von Herzogin Sophia von Schwerin",
+      "jahreszahl": "1820-1850"
+    },
+    {
+      "bezeichnung": "Erbe von Grafen Heinrich von Fürstenberg",
+      "jahreszahl": "1850-1900"
+    },
+    {
+      "bezeichnung": "Vererbt durch seine Tochter, Gräfin Helga von Fürstenberg",
+      "jahreszahl": "1900-1935"
+    },
+    {
+      "bezeichnung": "Kauf von Herrn Rainer Schneider, Kunstsammler aus Düsseldorf",
+      "jahreszahl": "1935-1960"
+    }
+  ],
+  "frueherer_besitzer": "Grafen von Wassenfeld",
+  "schaetzung_chf": 567000
+}

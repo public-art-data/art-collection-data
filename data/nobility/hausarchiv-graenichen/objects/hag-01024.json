@@ -1,0 +1,30 @@
+{
+  "record_id": "HAG-1001024",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-651-93",
+  "gegenstand": "miniaturportrait",
+  "bezeichnung": "Grafschaftsbesitz",
+  "zugeschrieben_an": "Herrn Hans Christoph von Schleisswig",
+  "besitzgeschichte": [
+    {
+      "von": "Hans Christoph von Schleisswig",
+      "zu": "Johanna von Harrach",
+      "Jahr": 1785,
+      "Grund": "Ermäßigung"
+    },
+    {
+      "von": "Johanna von Harrach",
+      "zu": "Karl von Sickingen",
+      "Jahr": 1810,
+      "Grund": "Erbteilung"
+    },
+    {
+      "von": "Karl von Sickingen",
+      "zu": "Emma von Füssen",
+      "Jahr": 1850,
+      "Grund": "Ehe"
+    }
+  ],
+  "frueherer_besitzer": "Herren von Falkeisberg",
+  "bemerkungen": "doppelt nummeriert"
+}

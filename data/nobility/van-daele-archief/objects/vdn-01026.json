@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-01026",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-553-61",
+  "objecttype": "miniatuurportret",
+  "benaming": "Hertogin van Valkenburg",
+  "vermoedelijke_meester": "Marcella van der Meer",
+  "provenance": [
+    {
+      "naam": "Van Eyck van Valkenburg",
+      "gezin": "Dames van Valkenburg",
+      "relatie": "gezinslegatum"
+    },
+    {
+      "naam": "Lieve van der Poel",
+      "gezin": "Heren van der Poel",
+      "relatie": "huwelijk"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 75.3,
+    "width": 47.3
+  },
+  "staat": "kreuk in perkament"
+}

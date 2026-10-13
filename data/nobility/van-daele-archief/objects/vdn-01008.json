@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01008",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-701-74",
+  "objecttype": "kabinetklok",
+  "benaming": "Graafschap Van den Bergh",
+  "vermoedelijke_meester": "Rene van den Steen",
+  "provenance": [
+    {
+      "naam": "Graafsche Familie Van den Steen",
+      "jaar": 1750,
+      "beschrijving": "Eerste eigendom van graaf Pieter III Van den Steen"
+    },
+    {
+      "naam": "Hertogin Adela van der Meer",
+      "jaar": 1800,
+      "beschrijving": "Geërfd na huwelijk met hertog Hendrik van der Meer"
+    },
+    {
+      "naam": "Graafsche Familie Van der Meer",
+      "jaar": 1850,
+      "beschrijving": "Overdraaid aan graaf Jan II Van der Meer door testament van zijn vader, hertog Hendrik"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 27.0,
+    "width": 118.9
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "staat": "waszegel beschadigd"
+}

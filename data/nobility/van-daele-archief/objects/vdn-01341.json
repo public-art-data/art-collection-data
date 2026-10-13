@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-01341",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-205-38",
+  "objecttype": "marmeren buste",
+  "benaming": "Huis van de Loven",
+  "vermoedelijke_meester": "Jozef Vermeiren",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van der Meer",
+      "titel": "Graaf",
+      "jaar": "1750"
+    },
+    {
+      "persoon": "Adelaïde Loven",
+      "titel": null,
+      "jaar": "1800"
+    },
+    {
+      "persoon": "Baron Constantijn van der Meer",
+      "titel": "Baron",
+      "jaar": "1850"
+    }
+  ]
+}

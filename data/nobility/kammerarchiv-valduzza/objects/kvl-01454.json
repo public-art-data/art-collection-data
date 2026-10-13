@@ -1,0 +1,41 @@
+{
+  "record_id": "KVL-1001454",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-870-31",
+  "artefakt": "marmorbueste",
+  "werktitel": "De Adelheid des Lichts",
+  "zugeschriebene_werkstatt": "Ludwigus Magnus von Eisenstein",
+  "besitzfolge": {
+    "Grundungsjahr": 1750,
+    "Eigentümer_innen_1": [
+      {
+        "Person": "Friederike von Schwarzenberg",
+        "Beschreibung": "Urenkelin des Kaisers Leopold I."
+      },
+      {
+        "Person": "Karl von Eisenstein",
+        "Beschreibung": "Herr der Familie und Hofmaler des Hofes von Schwarzenberg."
+      }
+    ],
+    "Eigentümer_innen_2": [
+      {
+        "Person": "Marie von Eisenstein",
+        "Beschreibung": "Witwe von Karl von Eisenstein"
+      },
+      {
+        "Person": "Rudolf von Eisenstein",
+        "Beschreibung": "Sohn von Ludwigus Magnus von Eisenstein"
+      }
+    ],
+    "Erwerb_jahre": [
+      1800,
+      1850
+    ]
+  },
+  "groesse": {
+    "height": 176.9,
+    "width": 175.4
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

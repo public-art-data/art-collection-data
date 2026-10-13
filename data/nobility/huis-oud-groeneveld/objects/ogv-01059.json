@@ -1,0 +1,40 @@
+{
+  "record_id": "OGV-1001059",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-273-90",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Gouden Spiegel van Valkenburg",
+  "vermoedelijke_maker": "Maria de Vries",
+  "eigendomsgeschiedenis": [
+    {
+      "persoon": "Hertogin Elizabeth van Valkenburg",
+      "jaar": 1690,
+      "status": "bezitting"
+    },
+    {
+      "persoon": "Koningin Maria van Nassau",
+      "jaar": 1750,
+      "status": "erfdochter"
+    },
+    {
+      "persoon": "Prinses Anna van Oranje-Nassau",
+      "jaar": 1800,
+      "status": "verwerving"
+    },
+    {
+      "persoon": "Hertog Willem van Valkenburg",
+      "jaar": 1850,
+      "status": "erfopvolger"
+    },
+    {
+      "persoon": "Prinses Sophie van Waldeck-Pyrmont",
+      "jaar": 1900,
+      "status": "verhuwelijk"
+    }
+  ],
+  "grootte": {
+    "height": 36.0,
+    "width": 211.1
+  },
+  "vorige_eigenaar": "Familie Van Daele-Nuytens"
+}

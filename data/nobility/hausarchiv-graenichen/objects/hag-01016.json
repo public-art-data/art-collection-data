@@ -1,0 +1,33 @@
+{
+  "record_id": "HAG-01016",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-520-66",
+  "gegenstand": "miniaturportrait",
+  "bezeichnung": "Erbfolge des Blutstempels von Haus Schattenfels",
+  "zugeschrieben_an": "Aurora Wynter",
+  "besitzgeschichte": [
+    {
+      "art": "Malerei",
+      "besitzer": "Haus Schattenfels",
+      "zeitraum": "18. Jahrhundert"
+    },
+    {
+      "art": "Schriftstücke",
+      "besitzer": "Erbin von Schattenfels und ihre Ehefrau, Helga von Eisenwolf",
+      "zeitraum": "19. Jahrhundert"
+    },
+    {
+      "art": "Gesichtsmalerei",
+      "besitzer": "Helga von Eisenwolf nach ihrem Tod an ihren Enkel, Leonhard von Schattenfels",
+      "zeitraum": "20. Jahrhundert"
+    },
+    {
+      "art": "Säulenreliefs",
+      "besitzer": "Leonhard von Schattenfels und seine Frau, Adela von Dornenwand",
+      "zeitraum": "21. Jahrhundert"
+    }
+  ],
+  "frueherer_besitzer": "Herren von Falkeisberg",
+  "schaetzung_chf": 765000,
+  "bemerkungen": "stempel des Hausarchivs"
+}

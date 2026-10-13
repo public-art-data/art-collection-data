@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01549",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-438-96",
+  "stuk": "kabinetklok",
+  "omschrijving": "Coeur de la Reine",
+  "vermoedelijke_maker": "Adriaan van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      " eigendom_id": 1,
+      " familia_Herstelhouder ": "Heren van Vlaanderen"
+    },
+    {
+      " eigendom_id": 2,
+      " familia_Herstelhouder ": "Heren van Valkenburg",
+      " overdracht_methode": "Gevraagd"
+    },
+    {
+      " eigendom_id": 3,
+      " familia_Herstelhouder ": "Heren van Montague",
+      " erfenis_methode": "Erfgearingsregeling"
+    }
+  ],
+  "grootte": {
+    "height": 13.6,
+    "width": 94.0
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

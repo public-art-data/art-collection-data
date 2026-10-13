@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01116",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-510-72",
+  "objektart": "marmorbueste",
+  "titel": "Sammlung der House von Wolsfeld",
+  "kuenstler": "Herrin Astrid Eisenfels",
+  "provenienz": [
+    {
+      "besitzer": "House von Schönborn",
+      "datum": "1500",
+      "art": "Erbe"
+    },
+    {
+      "besitzer": "House von Wolsfeld (Graf von Wolsfeld)",
+      "datum": "1625",
+      "art": "Ehe"
+    },
+    {
+      "besitzer": "House von Wolsfeld (Fürstinin Sophia Elisabeth Wolsfeld)",
+      "datum": "1850",
+      "art": "Erbe"
+    }
+  ],
+  "masse_cm": {
+    "height": 45.5,
+    "width": 193.3
+  },
+  "vorbesitzer": "Herren von Falkeisberg",
+  "schaetzung_chf": 512000
+}

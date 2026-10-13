@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01060",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-543-50",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Porträt einer Königin im Frühlingsgarten",
+  "zugeschriebene_werkstatt": "Ludwig van Veltenberg",
+  "besitzfolge": {
+    "Vorlesse von Ehrenburg": {
+      "erworben_jahre": 1850,
+      "verkaufte_jahre": null
+    },
+    "Ehrenburger Grafen von Woldenburg": {
+      "erworben_jahre": 1875,
+      "verkaufte_jahre": 1921
+    }
+  },
+  "groesse": {
+    "height": 62.2,
+    "width": 243.4
+  },
+  "kammervermerk": "doppelt nummeriert"
+}

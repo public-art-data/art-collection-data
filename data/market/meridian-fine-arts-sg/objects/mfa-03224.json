@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03224",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-254",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Punggol",
+  "artist": "Chatterji-Rao",
+  "provenance": "Acquired by Lee Kwan Yee in 1978, later sold to estate of Dr. S. Ravindran",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 2102.0,
+    "width": 683.0
+  },
+  "previous_owner": "Estate of Prof. J. Anandakrishnan",
+  "estimate_sgd": {
+    "low": 40000,
+    "high": 103000
+  }
+}

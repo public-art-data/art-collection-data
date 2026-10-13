@@ -1,0 +1,24 @@
+{
+  "record_id": "SYN/MFA/00692",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-95",
+  "object_type": "oil on canvas",
+  "title": "Untitled (boat)",
+  "artist": "Ongpiboon",
+  "provenance": "Estate of Prof. J. Anandakrishnan, acquired 1902; Meridian Fine Arts Auctioneers, lot 534, 1932; thence by descent to The Tan Hock Seng Collection.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1676.0,
+    "width": 356.0
+  },
+  "previous_owner": {
+    "name": "J. Selvaratnam",
+    "born": 1932,
+    "acquired": 1877
+  },
+  "estimate_sgd": {
+    "low": 9000,
+    "high": 57000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

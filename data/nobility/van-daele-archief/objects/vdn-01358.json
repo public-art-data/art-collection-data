@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01358",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-179-70",
+  "objecttype": "devotiebeeld",
+  "benaming": "Huis van Wijk",
+  "vermoedelijke_meester": "Johanna Kelderink van Utrecht",
+  "provenance": [
+    {
+      "gezin": "Van der Meer",
+      "rol": "grootouder",
+      "jaar": 1680
+    },
+    {
+      "gezin": "Van Uitenhage",
+      "rol": "zwager",
+      "jaar": 1705,
+      "opvolging": true
+    },
+    {
+      "gezin": "Wijk",
+      "rol": "erfgenaam",
+      "jaar": 1750
+    }
+  ]
+}

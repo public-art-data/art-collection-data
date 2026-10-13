@@ -1,0 +1,29 @@
+{
+  "record_id": "SYN_OGV_01145",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-362-59",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Ridderskade met historische schilderingen",
+  "vermoedelijke_maker": "Maarten Van der Meer",
+  "eigendomsgeschiedenis": {
+    "begin_jaar": 1623,
+    "eigenaar_eerste": "Hertogin Maria van Wittenburg",
+    "gevolg_inhoud": [
+      {
+        "jaar": 1650,
+        "eigenaar_tweede": "Prins Hendrik van Wittenburg",
+        "overleden": false
+      },
+      {
+        "jaar": 1705,
+        "eigenaar_tweede": "Hertogin Elisabeth van Wittenburg",
+        "geërf_en_overgedragen": true
+      }
+    ]
+  },
+  "grootte": {
+    "height": 160.6,
+    "width": 252.1
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

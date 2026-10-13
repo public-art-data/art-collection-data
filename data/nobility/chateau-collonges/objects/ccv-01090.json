@@ -1,0 +1,21 @@
+{
+  "record_id": "CCV-01090",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-165-62",
+  "categorie": "vitrail d'atelier",
+  "titre": "Collection de la Maison d'Argent",
+  "attribution": "Pierre Émile Dumont",
+  "provenance": {
+    "histoire du titre": "Acquise en 1820 par Pierre Émile Dumont à partir de son père, Jean-Baptiste Dumont.",
+    "inventions": [
+      "Cédée en 1860 à sa fille, Sophie Dumont, qui la passa ensuite à son fils, Henri Dumont.",
+      "Légitimée par Henri Dumont en 1905 après avoir été léguée à sa sœur, Marie Dumont."
+    ]
+  },
+  "dimensions_cm": {
+    "height": 167.5,
+    "width": 180.4
+  },
+  "ancien_detenteur": "Famille de Collonges-Valiere",
+  "valeur_estimee": 481000
+}

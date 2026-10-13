@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-01221",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-745-52",
+  "objecttype": "kabinetklok",
+  "benaming": "Hertoginnenkabinet",
+  "vermoedelijke_meester": "Anna van der Meer",
+  "provenance": [
+    {
+      "naam": "Huis Beersdijk",
+      "geschiedenis": "Acquired in 1780 through marriage to Baron Jan Pieter van Beersdijk"
+    },
+    {
+      "naam": "Hertogin Isabella van Wijck",
+      "geschiedenis": "Bequeathed to her daughter, Prinses Anna van Beersdijk, in 1835"
+    },
+    {
+      "naam": "Prinses Anna van Beersdijk",
+      "geschiedenis": "Passed down to her son, Graaf Floris van Wijck, upon her death in 1870"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 57.2,
+    "width": 146.5
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "schatting": 836000,
+  "staat": "dubbele nummering"
+}

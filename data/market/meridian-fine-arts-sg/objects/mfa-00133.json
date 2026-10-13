@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-00133",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-137",
+  "object_type": "lithograph",
+  "title": "Riverside, Kuching",
+  "artist": "Winterbourne-Ashe",
+  "provenance": "The Tan Hock Seng Collection, acquired 1908; Meridian Fine Arts Auctioneers, lot 390, 1933; thence by descent to Collection of the late Dato' R. Sivanathan.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 649.0,
+    "width": 1560.0
+  },
+  "estimate_sgd": {
+    "low": 27000,
+    "high": 191000
+  }
+}

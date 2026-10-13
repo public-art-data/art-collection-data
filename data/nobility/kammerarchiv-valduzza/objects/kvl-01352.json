@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01352",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-572-16",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "De Nachtwacht der Baroness van Wijk",
+  "zugeschriebene_werkstatt": "Adriaan van Meerdt",
+  "besitzfolge": [
+    {
+      "besitzer": "Haus van Wijk",
+      "jahr": "1750",
+      "erbe": "von Vrouw Van der Meerdt"
+    },
+    {
+      "besitzer": "Haus van Wijk",
+      "jahr": "1800",
+      "geschenk": "von Prinzinje Leonora van der Meerdt an ihre Schwester Baroness Isabella van Wijk"
+    }
+  ],
+  "groesse": {
+    "height": 214.7,
+    "width": 158.5
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

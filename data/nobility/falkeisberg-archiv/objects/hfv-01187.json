@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-1001187",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-370-10",
+  "objektart": "silbernes schreibzeug",
+  "titel": "Hausarchiv der Familie von Blumenburg",
+  "kuenstler": "Astrid Eisenhut",
+  "provenienz": [
+    {
+      "Titel": "Erbfolge 1750",
+      "Beschreibung": "Übergabe des Gemäldes an Prinzessin Sophia von Blumenburg"
+    },
+    {
+      "Titel": "Ehe 1820",
+      "Beschreibung": "Vermögensübertragung von Königin Luise von Blumenburg an ihren Sohn, Herzog Heinrich von Blumenburg"
+    },
+    {
+      "Titel": "Erbschaft 1885",
+      "Beschreibung": "Übernahme des Gemäldes durch Familie von Schattenburg nach dem Tod des Großvaters, Graf Maximilian von Schattenburg"
+    }
+  ],
+  "masse_cm": {
+    "height": 57.0,
+    "width": 174.5
+  }
+}

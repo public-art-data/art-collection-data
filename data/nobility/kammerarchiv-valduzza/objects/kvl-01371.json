@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-o1371",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-118-35",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Königliche Allegorie",
+  "zugeschriebene_werkstatt": "Erika von Helios",
+  "besitzfolge": {
+    "Haus der Schatten": {
+      "ursprünglicher_Eigentümer": "Grafin Beatrix von Eisenstein",
+      "Übertragung_und_Verbauung": "Durch Verkauf an Haus der Wärme im Jahr 1923"
+    },
+    "Haus der Wärme": {
+      "ursprünglicher_Eigentümer": "Graf Rudolf von Helios",
+      "Übertragung_und_Verbauung": "Durch Erbschaft nach dem Tod seiner Schwester, Gräfin Beatrix von Eisenstein"
+    },
+    "Haus der Eisenstein": {
+      "ursprünglicher_Eigentümer": "Friedrich II. von Eisenstein",
+      "Übertragung_und_Verbauung": "Durch Erbfolge nach dem Tod seines Vaters, Graf Friedrich I. von Eisenstein"
+    }
+  }
+}

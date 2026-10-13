@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-03832",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-34",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Penang",
+  "artist": "Selvaratnam",
+  "provenance": "Acquired by the estate of Tengku Fatimah, Penang in 1923; thence by inheritance to the collection of Tan Sri Wong Meng Kiong, Kuala Lumpur, in 1957",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 1032.0,
+    "width": 441.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 22000,
+    "high": 61000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

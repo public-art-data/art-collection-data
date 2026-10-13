@@ -1,0 +1,27 @@
+{
+  "record_id": "CRL-01228",
+  "registre_de_la_chambre": "Registre de la Chambre des Comtes de Rousset-Lavandieres, Vendomois, France",
+  "folio": "CRL-469-67",
+  "nature_de_piece": "vitrail d'atelier",
+  "denomination": "Collection Comtesse de Brindille",
+  "maitre_attribue": "Camille Fournier-Dejean",
+  "histoire_de_la_piece": {
+    "origine": "Acquise par Camille Fournier-Dejean en 1875 à une vente aux enchères chez Mme Dupont, Paris.",
+    "heritage": [
+      {
+        "noble_family": "Comtesse de Brindille",
+        "date_of_transfer": "1918"
+      },
+      {
+        "noble_family": "Marquis de Roubaix",
+        "date_of_transfer": "1924"
+      },
+      {
+        "noble_family": "Duchesse de Marais",
+        "date_of_transfer": "1952"
+      }
+    ],
+    "provenance_doubteuse": "Une ancienne copie, vraisemblablement faite au 19ème siècle, mais l'original perdu en 1960."
+  },
+  "detenteur_anterieur": "Maison de Beauffort-Orval"
+}

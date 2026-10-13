@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-1001450",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-839-68",
+  "objecttype": "devotiebeeld",
+  "benaming": "Huisarchief van de Baronessen Van der Meer",
+  "vermoedelijke_meester": "Karel Dekker",
+  "provenance": [
+    {
+      "persoon": "Baronesse Adriaan Van der Meer",
+      "geslacht": "Van der Meer",
+      "titel": "Eerste Barones van de Meerstede",
+      "jaar": 1750,
+      "reden": "Erfgebruik"
+    },
+    {
+      "persoon": "Hertogin Isabella Van der Meer",
+      "geslacht": "Van der Meer",
+      "titel": "Koningin-Regente van Nederlandse Gebieden",
+      "jaar": 1825,
+      "reden": "Erfgebruik"
+    },
+    {
+      "persoon": "Prinses Beatrix Van der Meer",
+      "geslacht": "Van der Meer",
+      "titel": "Dames van de Orde van het Zonnetje",
+      "jaar": 1850,
+      "reden": "Erfgebruik"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01509",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-767-41",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt einer weisen Frau",
+  "zugeschriebene_werkstatt": "Katharina van Oranje-Nassau",
+  "besitzfolge": [
+    {
+      "name": "Huis van Vlaanderen",
+      "besitzer": "Willem I van Vlaenderen, Graaf van Vlaanderen"
+    },
+    {
+      "name": "Hertogin van Lotharingen",
+      "besitzer": "Mauritz van Oranje-Nassau, Hertog van Lotharingen und Brabant"
+    },
+    {
+      "name": "Huis van Vlaenderen",
+      "besitzer": "Isabella van Vlaanderen, Erzherzin von Österreich"
+    }
+  ],
+  "groesse": {
+    "height": 31.0,
+    "width": 90.8
+  },
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "doppelt nummeriert"
+}

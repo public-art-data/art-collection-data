@@ -1,0 +1,32 @@
+{
+  "record_id": "SYN.VDN.01260",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-346-22",
+  "objecttype": "miniatuurportret",
+  "benaming": "Gravenheer van 't Vijfde Huis",
+  "vermoedelijke_meester": "Gerrit Janszoon Zwaartschild",
+  "provenance": [
+    {
+      "titel": "Voorvader",
+      "naam": "Herman van Oranje-Zuiderling"
+    },
+    {
+      "titel": "Overleden stiefbroeder",
+      "naam": "Willem van Rijnvelt-Lutjeburen"
+    },
+    {
+      "titel": "Verzending aan de stichter",
+      "naam": "Gerard van 't Vijfde Huis"
+    },
+    {
+      "titel": "Geërfd van vader",
+      "naam": "Johan van Oranje-Zuiderling"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 10.3,
+    "width": 80.0
+  },
+  "schatting": 370000,
+  "staat": "dubbele nummering"
+}

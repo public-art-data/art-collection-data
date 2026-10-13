@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01035",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-310-4",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Grafenhaus-Archiv",
+  "kuenstler": "Herrin von Schattenberg",
+  "provenienz": [
+    {
+      "datum": "1623-01-01",
+      "besitzer": "House of Valtor",
+      "besitzart": "Erbschaft"
+    },
+    {
+      "datum": "1667-06-15",
+      "besitzer": "House of Schwarzwald",
+      "besitzart": "Eheschließung, Erbfolge"
+    },
+    {
+      "datum": "1745-02-20",
+      "besitzer": "House of Falkenstein",
+      "besitzart": "Erbschaft"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Graenichen"
+}

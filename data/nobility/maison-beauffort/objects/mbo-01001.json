@@ -1,0 +1,24 @@
+{
+  "record_id": "MBO-01001",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-685-36",
+  "nature": "pendule en bronze dore",
+  "appellation": "Baron de la Fleurie",
+  "attribue_a": "Léonidas LaFleur",
+  "provenance_detaillee": [
+    {
+      "date": "1670",
+      "dernier proprietaire": "Henri II de Bréguet",
+      "premier proprietaire": "Louis Ier de la Fleurie"
+    },
+    {
+      "date": "1825",
+      "dernier proprietaire": "François IV de Bréguet",
+      "premier proprietaire": "Marie-Françoise de la Fleurie, épouse d'Étienne III de Bréguet"
+    }
+  ],
+  "mesures": {
+    "height": 84.5,
+    "width": 59.2
+  }
+}

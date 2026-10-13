@@ -1,0 +1,40 @@
+{
+  "record_id": "KVL-1001334",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-857-57",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt einer Adeligen auf dem Pferd",
+  "zugeschriebene_werkstatt": "Eustachius Florentinus",
+  "besitzfolge": {
+    "Erbteilung": [
+      {
+        "name": "Duchin von Württemberg",
+        "Datum": "1675"
+      },
+      {
+        "name": "Marie von Hessen-Darmstadt",
+        "Datum": "1710"
+      }
+    ],
+    "Erbfolge": [
+      {
+        "name": "Rudolf von Österreich-Tuscany",
+        "Datum": "1750"
+      },
+      {
+        "name": "Franziska von Bayern-Württemberg",
+        "Datum": "1800"
+      }
+    ],
+    "Stiftung": {
+      "name": "Kaiserin Maria-Theresia der Habsburger",
+      "Datum": "1850"
+    }
+  },
+  "groesse": {
+    "height": 101.5,
+    "width": 29.4
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen",
+  "kammervermerk": "doppelt nummeriert"
+}

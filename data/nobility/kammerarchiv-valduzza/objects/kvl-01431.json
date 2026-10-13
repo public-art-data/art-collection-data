@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01431",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-968-49",
+  "artefakt": "marmorbueste",
+  "werktitel": "Grote Oceaanstroomen",
+  "zugeschriebene_werkstatt": "Johannes van Valkenburg",
+  "besitzfolge": [
+    {
+      "persoon": "Adriaan van Oranje-Nassau",
+      "beslissing": "Erft Grote Oceaanstroomen als erfgename"
+    },
+    {
+      "persoon": "Luitgarden van Barneveldt",
+      "beslissing": "Overdracht aan Luitgarden als trouwelijk erfgename"
+    },
+    {
+      "persoon": "Johannes van Valkenburg",
+      "beslissing": "Kocht Grote Oceaanstroomen op een verkoop van de schepen van Adriaan van Oranje-Nassau"
+    }
+  ],
+  "groesse": {
+    "height": 113.0,
+    "width": 274.1
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "stempel des Hausarchivs"
+}

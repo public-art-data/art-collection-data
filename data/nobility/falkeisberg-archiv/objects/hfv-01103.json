@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-01103",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-545-62",
+  "objektart": "miniaturportrait",
+  "titel": "Gräfin Anna von Eisenstein",
+  "kuenstler": "Anna von der Linde",
+  "provenienz": [
+    {
+      "person": "Herr Baron Georg zu Wülfingen",
+      "besitzort": "Schloss Wülfingen, Württemberg",
+      "datum": "1850"
+    },
+    {
+      "person": "Gräfin Anna zu Eisenstein",
+      "besitzort": "Schloss Eisenstein, Hessen",
+      "datum": "1875 (erbschaft)"
+    },
+    {
+      "person": "Herr Graf Leopold zu Eisenstein",
+      "besitzort": "Schloss Eisenstein, Hessen",
+      "datum": "1900 (Erbeutung von Anna zu Eisenstein's Ehegatte)"
+    }
+  ],
+  "vorbesitzer": "Herren von Valduzza",
+  "zustandsbericht": "doppelt nummeriert"
+}

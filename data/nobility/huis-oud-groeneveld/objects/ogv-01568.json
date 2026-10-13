@@ -1,0 +1,24 @@
+{
+  "record_id": "OGV-01568",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-654-21",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Portret van een hertogin",
+  "vermoedelijke_maker": "Bartholomeus Wierix II",
+  "eigendomsgeschiedenis": [
+    {
+      "naam": "Huis Van Oranje-Nassau",
+      "beschrijving": "Ingehuwd bij prins Hendrik van Nassau",
+      "jaar": 1620
+    },
+    {
+      "naam": "Hertogin Maria van Oostenrijk",
+      "beschrijving": "Ook eigendom geweest van Hertog Leopold I van Oostenrijk",
+      "jaar": 1615
+    }
+  ],
+  "grootte": {
+    "height": 191.0,
+    "width": 16.5
+  }
+}

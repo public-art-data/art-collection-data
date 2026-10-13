@@ -1,0 +1,21 @@
+{
+  "record_id": "TMB-01093",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-770-61",
+  "soort": "gegraveerd jachtgeweer",
+  "titel": "Privé-Sammlung van Hertogin Beatrix van der Meer",
+  "toegeschreven_aan": "Lucas Vanderzee",
+  "herkomstgeschiedenis": [
+    {
+      "gezin_id": "MEER_0001",
+      "afkomst_van": "Hertogin Beatrix van der Meer (1750-1810)",
+      "overleden_tijd": "1815"
+    },
+    {
+      "gezin_id": "VANDERZEE_0001",
+      "afkomst_van": "Lucas Vanderzee, zoon van Hendrik Vanderzee (1800-1850)",
+      "overleden_tijd": "1870"
+    }
+  ],
+  "aantekening": "dubbele nummering"
+}

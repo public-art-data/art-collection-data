@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01257",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-484-57",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Porträt einer Dogenin aus Venedig",
+  "zugeschriebene_werkstatt": "Lorenzo Vitali",
+  "besitzfolge": {
+    "Gründungsjahr": 1650,
+    "Besitzer": [
+      {
+        "Name": "Anna Maria Contarini",
+        "Titel": "Doge-Prinzessin von Venedig",
+        "Vorgänger": null
+      },
+      {
+        "Name": "Giovanna dei Rossi",
+        "Titel": "Gräfin von Ferrara",
+        "Vorgänger": {
+          "Name": "Anna Maria Contarini",
+          "Titel": "Doge-Prinzessin von Venedig"
+        }
+      }
+    ]
+  },
+  "groesse": {
+    "height": 73.8,
+    "width": 151.2
+  }
+}

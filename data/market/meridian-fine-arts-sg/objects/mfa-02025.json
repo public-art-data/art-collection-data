@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-2025",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-314",
+  "object_type": "bronze figure",
+  "title": "water jar at Dusk",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Acquired by Lady Fatima Tan of Johor in 1923; later sold to Singapore estate, Tan-Hwang estate, in 1985.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 356.0,
+    "width": 2615.0
+  },
+  "estimate_sgd": {
+    "low": 30000,
+    "high": 97000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

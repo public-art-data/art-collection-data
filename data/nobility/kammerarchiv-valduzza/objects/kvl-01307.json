@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01307",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-464-62",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "De Groene Meerkat",
+  "zugeschriebene_werkstatt": "Hendrik van der Meer",
+  "besitzfolge": [
+    {
+      "name": "Huis van Oranje-Nassau",
+      "titel": "Erbfolge von 1850"
+    },
+    {
+      "name": "Grafen zu Eisenstadt",
+      "titel": "Erworben durch Heirat mit Prinzessin Frieda von Eisenstadt (1865)"
+    },
+    {
+      "name": "Hertogin van Vlaanderen",
+      "titel": "Vererbt durch Erbfolge von 1920"
+    }
+  ],
+  "groesse": {
+    "height": 155.1,
+    "width": 126.3
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

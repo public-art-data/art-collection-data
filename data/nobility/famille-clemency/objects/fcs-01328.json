@@ -1,0 +1,27 @@
+{
+  "record_id": "FCS-1001328",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-858-24",
+  "type_d_objet": "tapisserie de haute lisse",
+  "titre": "Galerie d'Héritage de la Maison de Bellvue",
+  "artiste_attribue": "Claire LaFleur",
+  "historique_de_possession": [
+    {
+      "date": "1712-1720",
+      "detteur": "Maison de Bellvue, Marquis de Montecristo"
+    },
+    {
+      "date": "1750-1775",
+      "detteur": "Marie-Thérèse de Roubaix, épouse de Philippe LaFleur"
+    },
+    {
+      "date": "1795-1810",
+      "detteur": "Maison de Bellvue, comte de Bellvue et fils"
+    }
+  ],
+  "dimensions": {
+    "height": 211.9,
+    "width": 120.6
+  },
+  "observations": "annotation au crayon: 'donne en 1848'"
+}

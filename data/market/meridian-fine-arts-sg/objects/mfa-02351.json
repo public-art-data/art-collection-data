@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02351",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-508",
+  "object_type": "ink drawing",
+  "title": "Untitled (water jar)",
+  "artist": "Thornquist",
+  "provenance": "Acquired by Hiram Wong in 1992, sold to Wanda Kao Estate in 2014, part of the Kao Collection since.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 1931.0,
+    "width": 2774.0
+  },
+  "estimate_sgd": {
+    "low": 33000,
+    "high": 107000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

@@ -1,0 +1,31 @@
+{
+  "record_id": "MBO-01391",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-979-42",
+  "nature": "portrait en miniature",
+  "appellation": "Duc de Saint-Laurent",
+  "attribue_a": "Pierre LaFleur",
+  "provenance_detaillee": [
+    {
+      "date": "1645",
+      "event": "Enheritance du père",
+      "dette": "Propriété familiale depuis la fondation de la maison de Saint-Laurent en 1550 par Pierre's aïeul, Henri de Saint-Laurent"
+    },
+    {
+      "date": "1682",
+      "event": "Mariage avec Adèle de Roubaix",
+      "dette": "Adèle a acquis cette collection lors de son mariage avec le Duc en 1660 et l'a augmentée de plusieurs œuvres"
+    },
+    {
+      "date": "1721",
+      "event": "Décès du fils",
+      "dette": "Le Duc a hérité de la collection après la mort de son fils, Étienne de Saint-Laurent, en 1705"
+    }
+  ],
+  "mesures": {
+    "height": 181.7,
+    "width": 198.0
+  },
+  "detenteur_precedent": "Maison de Villierscourt",
+  "cachets": "entree rayee puis restauree"
+}

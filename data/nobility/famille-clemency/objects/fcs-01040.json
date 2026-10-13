@@ -1,0 +1,23 @@
+{
+  "record_id": "FCS-01040",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-141-46",
+  "type_d_objet": "buste en marbre",
+  "titre": "Collection d'Armes et Objets de Famille",
+  "artiste_attribue": "Léon LeFleur",
+  "historique_de_possession": [
+    {
+      "date": "1723",
+      "acte_nobiliare": "Héritage de sa grand-mère paternelle, Madame Adèle Dupont de Varenne"
+    },
+    {
+      "date": "1750",
+      "mariage": "Ensuite rachetée par son époux, le Comte Étienne LeFleur, descendant du même noble lignée"
+    },
+    {
+      "date": "1825",
+      "légitimisation": "Par ordonnance royale, les armes de la famille ont été reconnues et entérinées dans le grand palais de Paris"
+    }
+  ],
+  "proprietaire_precedent": "Maison de Villierscourt"
+}

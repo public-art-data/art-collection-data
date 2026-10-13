@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01144",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-100-67",
+  "objecttype": "kabinetklok",
+  "benaming": "Huis Van Oudenaarde",
+  "vermoedelijke_meester": "Marcellus Koenig",
+  "provenance": [
+    {
+      "naam": "Graaf van Leefde",
+      "persoon": "Godfried III van Leefde",
+      "jaar": "1645"
+    },
+    {
+      "naam": "Vrouwe Van Oudenaarde",
+      "persoon": "Isabella II van Leefde",
+      "jaar": "1650"
+    },
+    {
+      "naam": "Hertogin Van Oudenaarde",
+      "persoon": "Helena I van Oudenaarde",
+      "jaar": "1680"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 98.1,
+    "width": 62.9
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

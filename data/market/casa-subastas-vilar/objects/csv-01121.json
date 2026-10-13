@@ -1,0 +1,20 @@
+{
+  "record_id": "CSV-01121",
+  "origen": "Sala de Subastas Vilar y Compania, Zaragoza, Espania",
+  "lote_numero": "CSV-863/1993",
+  "tipo_de_objeto": "acuarela",
+  "titulo": "Vista de Hacienda de la Soledad",
+  "artista": "I. Mancera-Solis",
+  "dimensiones_cm": {
+    "height": 23.8,
+    "width": 43.4
+  },
+  "antiguo_propietario": {
+    "name": "J. Zavala-Obregon",
+    "born": 1974,
+    "acquired": 1940
+  },
+  "epoca": "posguerra civil",
+  "estimacion_eur": 376000,
+  "informe_de_estado": "desgarro antiguo restaurado"
+}

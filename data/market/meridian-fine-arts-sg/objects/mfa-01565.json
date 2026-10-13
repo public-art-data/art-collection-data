@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-01565",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-541",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Kuching",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by Yeo Soon Liang in 1995, from the estate of Lim Choon Hock's art collection. Provenance was further confirmed through documentation by curator Elara Vex at the Teo Tiong Pian Estate Gallery.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 2015.0,
+    "width": 2971.0
+  },
+  "estimate_sgd": {
+    "low": 11000,
+    "high": 136000
+  }
+}

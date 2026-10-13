@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-01523",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-375-69",
+  "artefakt": "marmorbueste",
+  "werktitel": "Die Nacht des Leuchtturms",
+  "zugeschriebene_werkstatt": "L. Stielke",
+  "besitzfolge": [
+    {
+      "person": "Herrin van Oranje-Nassau",
+      "datum": "1645-02-14",
+      "beziehung": "Erbfall"
+    },
+    {
+      "person": "Fräulein Sophie von Bayern",
+      "datum": "1680-10-20",
+      "beziehung": "Ehe"
+    },
+    {
+      "person": "Herr Gottfried van Oranje-Nassau",
+      "datum": "1705-03-15",
+      "beziehung": "Erbfall"
+    },
+    {
+      "person": "Gräfin Adelaide von Württemberg",
+      "datum": "1780-07-01",
+      "beziehung": "Ehe"
+    }
+  ],
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "stempel des Hausarchivs"
+}

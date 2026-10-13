@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01205",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-336-96",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Der Ritter von der Sternen Nacht",
+  "zugeschriebene_werkstatt": "Adrian van der Meer",
+  "besitzfolge": {
+    "Erbfolge": [
+      {
+        "Familienmitglied": "Herrin Helena von Falkenstein",
+        "Vorfahren": [
+          "Graf Johann von Falkenstein",
+          "Gräfin Isabella von Württemberg"
+        ]
+      },
+      {
+        "Familienmitglied": "Johannes von Falkenstein",
+        "Vorfahren": [
+          "Herrn Heinrich von Falkenstein",
+          "Frau Ursula von Schwarzwald"
+        ]
+      }
+    ]
+  },
+  "groesse": {
+    "height": 219.8,
+    "width": 201.6
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

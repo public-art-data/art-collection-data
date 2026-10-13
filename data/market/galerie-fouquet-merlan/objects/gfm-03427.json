@@ -1,0 +1,18 @@
+{
+  "record_id": "GFM-03427R",
+  "source": "Galerie Fouquet-Merlan, Paris",
+  "numero_inventaire": "FM-8676",
+  "type_dobjet": "estampe",
+  "titre": "Sans titre (vache)",
+  "artiste": "M. Housset",
+  "dimensions_cm": {
+    "height": 42.3,
+    "width": 140.8
+  },
+  "ancien_proprietaire": {
+    "name": "A. Denoir",
+    "born": 1983,
+    "acquired": 1936
+  },
+  "cote": "b2"
+}

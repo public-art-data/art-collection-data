@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00667",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-309",
+  "object_type": "lithograph",
+  "title": "Riverside, Penang",
+  "artist": "Winterbourne-Ashe",
+  "provenance": "Acquired by Lee Kwan Yip Estate in 1972, previously held by Wong Fong Meng's private collection.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1215.0,
+    "width": 2860.0
+  },
+  "estimate_sgd": {
+    "low": 38000,
+    "high": 77000
+  },
+  "condition_report": "good, with light craquelure"
+}

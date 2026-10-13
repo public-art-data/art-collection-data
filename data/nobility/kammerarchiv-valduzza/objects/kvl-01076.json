@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01076",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-632-60",
+  "artefakt": "marmorbueste",
+  "werktitel": "Het Kabinetskamerlied",
+  "zugeschriebene_werkstatt": "Admiraal van der Meer",
+  "besitzfolge": {
+    "Huis Hohenberg": {
+      "uitgangsdatum": "1661",
+      "overleden": "Adriaan II Hohenberg"
+    },
+    "Huis van der Linden": {
+      "erfgename": "Rafael van der Linden, zoon van Adriaan II Hohenberg's nicht",
+      "uitgangsdatum": "1725"
+    }
+  },
+  "groesse": {
+    "height": 21.7,
+    "width": 21.8
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

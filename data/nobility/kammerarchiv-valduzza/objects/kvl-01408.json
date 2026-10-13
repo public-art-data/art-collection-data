@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01408",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-248-50",
+  "artefakt": "bildteppich",
+  "werktitel": "Kunstwerk der Nacht",
+  "zugeschriebene_werkstatt": "Duchesse Elisabeth von Waldburg-Zeil und Herren von Montbazon",
+  "besitzfolge": [
+    {
+      "datum": "1695",
+      "besitzer": "Herr Philipp II. von Metternich-Sondershausen und Familie"
+    },
+    {
+      "datum": "1720",
+      "besitzer": "Frau Elisabeth von Waldburg-Zeil"
+    },
+    {
+      "datum": "1750",
+      "erben": "Söhne von Herrn Philipp II. von Metternich-Sondershausen, Baron Leopold von Hohenfels und Graf Gottfried von Schönau"
+    },
+    {
+      "datum": "1805",
+      "vererbt": "Herrin Anna von Waldburg-Zeil und Familie"
+    },
+    {
+      "datum": "1830",
+      "besitzer": "Familie von Montbazon, Erbfürst Franz-Albrecht von Montbazon"
+    }
+  ]
+}

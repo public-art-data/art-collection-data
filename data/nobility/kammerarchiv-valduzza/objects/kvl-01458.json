@@ -1,0 +1,43 @@
+{
+  "record_id": "KVL-1001458",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-954-90",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Porträt des Grafen von Wüstungen",
+  "zugeschriebene_werkstatt": "Hans von Schattenberg",
+  "besitzfolge": {
+    "Herren von Eisenhammer": [
+      {
+        "datum": "1570",
+        "grund": "Erbschaft"
+      },
+      {
+        "datum": "1620",
+        "grund": "Eheschließung mit Anna von Hammerstein",
+        "neuer Besitzer": {
+          "familienname": "Herren von Eisenhammer",
+          "vorheriger_Besitzer": [
+            "Hans von Schattenberg"
+          ]
+        }
+      }
+    ],
+    "Barone von Wolfenbach": [
+      {
+        "datum": "1900",
+        "grund": "Erbfolge nach Tod von Grafen Karl von Eisenhammer",
+        "neuer_Besitzer": {
+          "familienname": "Herren von Eisenhammer",
+          "vorheriger_Besitzer": [
+            "Anna von Hammerstein (als Verweserin)"
+          ]
+        }
+      }
+    ]
+  },
+  "groesse": {
+    "height": 46.8,
+    "width": 196.6
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-1001375",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-656-76",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt der Familie von Schlossberg",
+  "zugeschriebene_werkstatt": "Johannes Fabriek",
+  "besitzfolge": {
+    "Erstbesitzer": "Hans von Schlossberg, Graf von Schlossberg (1375-1423)",
+    "Eigentümer seit": "1400",
+    "Vergleichbar mit": [
+      {
+        "Erwerber": "Ludwig von Wiesbaden, Herzog von Wiesbaden (1478-1527)",
+        "Besitz übernommen": "1515"
+      },
+      {
+        "Erbe": "Katharina von Schlossberg, Tochter von Ludwig von Wiesbaden",
+        "Erbschaft": "1560"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 201.9,
+    "width": 215.2
+  },
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

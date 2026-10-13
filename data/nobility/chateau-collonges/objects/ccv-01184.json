@@ -1,0 +1,27 @@
+{
+  "record_id": "CCV-01184",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-700-85",
+  "categorie": "objet devotionnel",
+  "titre": "Collection de Famille de Vandeloup",
+  "attribution": "Pierre Laroche",
+  "provenance": [
+    {
+      "titre": "Famille de Vandeloup",
+      "proprietaire": "Marie de Vandeloup (1520-1565)",
+      "date-debut": 1550
+    },
+    {
+      "titre": "Héritage de Pierre Laroche",
+      "proprietaire": "Pierre III Laroche (1650-1718)",
+      "date-debut": 1690,
+      "acquisition": "Légataire universel de Marie de Vandeloup"
+    },
+    {
+      "titre": "Succession de Jacques-René de Laroche",
+      "proprietaire": "Jacques-François de Laroche (1800-1860)",
+      "date-debut": 1820,
+      "acquisition": "Héritage de Pierre III Laroche"
+    }
+  ]
+}

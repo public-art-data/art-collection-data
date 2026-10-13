@@ -1,0 +1,27 @@
+{
+  "record_id": "OGV-o1183",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-327-1",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "De Verloren Schreef",
+  "vermoedelijke_maker": "Marcellus Vandelinden",
+  "eigendomsgeschiedenis": [
+    {
+      "persoon": "Hertogin Helena van Oranje-Nassau",
+      "geachte_naam": "Heren van Oosterveld",
+      "aankoop_jaar": 1750
+    },
+    {
+      "persoon": "Prins Lodewijk van Nassau-Zutphen",
+      "geachte_naam": "Heren van Wijck",
+      "erfgood_vererving": true,
+      "aanmerking": "Verwijderd na de zakenrechtsstreep van 1830"
+    },
+    {
+      "persoon": "Prinses Amalia van Oranje-Nassau",
+      "geachte_naam": "Heren van Heemstede",
+      "aankoop_jaar": 1850,
+      "overleden_van": "1812"
+    }
+  ]
+}

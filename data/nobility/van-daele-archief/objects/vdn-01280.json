@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01280",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-829-58",
+  "objecttype": "kabinetklok",
+  "benaming": "Huisarchief van de van Oranje-Beugniet",
+  "vermoedelijke_meester": "Maarten van Valkenburg",
+  "provenance": [
+    {
+      "tijdperk": "17e eeuw",
+      "persoon": "Alessandro van der Meer, zoon van Lucas van der Meer",
+      "relatie": "gepacht door Alessandro"
+    },
+    {
+      "tijdperk": "18e eeuw",
+      "persoon": "Elisabeth van Oranje-Nassau, dochter van Willem V van Oranje-Nassau",
+      "relatie": "opgekocht met haar trouwdoteren"
+    },
+    {
+      "tijdperk": "19e eeuw",
+      "persoon": "Gaston van Beugniet, zoon van Hendrik van Beugniet",
+      "relatie": "geërfd na zijn overlijden"
+    }
+  ],
+  "eerdere_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-01325",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-533-36",
+  "objecttype": "miniatuurportret",
+  "benaming": "Heren van de Weert",
+  "vermoedelijke_meester": "Pieter van Leek",
+  "provenance": [
+    {
+      "persoon": "Gerrit van de Weert",
+      "jaar": 1650,
+      "reden": "geërfd"
+    },
+    {
+      "persoon": "Elsabe van der Meer",
+      "jaar": 1705,
+      "reden": "geërfd door huwelijk"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 44.4,
+    "width": 9.3
+  },
+  "schatting": 549000
+}

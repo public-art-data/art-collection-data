@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01371",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-698-22",
+  "objecttype": "miniatuurportret",
+  "benaming": "Privé Archieven van Hertoginne Adelina",
+  "vermoedelijke_meester": "Pieter van Oudenaarde",
+  "provenance": [
+    {
+      "persoon": "Hertoginne Elisabeth van Houtland",
+      "toestand": "Eigendom, erfde van haar vader",
+      "jaar": "1800"
+    },
+    {
+      "persoon": "Baron Frans van Leuvenburg",
+      "toestand": "Kocht bij verkoop",
+      "jaar": "1825"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 29.7,
+    "width": 24.8
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "kreuk in perkament"
+}

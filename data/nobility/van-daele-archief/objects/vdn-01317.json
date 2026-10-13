@@ -1,0 +1,33 @@
+{
+  "record_id": "VDN-01317-alt",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-320-85",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huisarchief van de Baronessen van Wiltewijk",
+  "vermoedelijke_meester": "Pieter van Leeuwenstein",
+  "provenance": [
+    {
+      "owner": "Graaf Jan van Wijck",
+      "acquired_from": null,
+      "year_acquired": 1650,
+      "reason_for_acquisition": "Erbuitleg"
+    },
+    {
+      "owner": "Hertogin Maria van Reigersbergen",
+      "acquired_from": "Huisarchief van de Baronessen van Wijck",
+      "year_acquired": 1700,
+      "reason_for_acquisition": "Erfschaft"
+    },
+    {
+      "owner": "Baroness Helena van Reigersbergen",
+      "acquired_from": "Hertogin Maria van Reigersbergen",
+      "year_acquired": 1750,
+      "reason_for_acquisition": "Erbuitleg"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 171.6,
+    "width": 237.0
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle"
+}

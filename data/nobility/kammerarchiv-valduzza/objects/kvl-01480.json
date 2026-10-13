@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01480",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-319-56",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Elegie in G",
+  "zugeschriebene_werkstatt": "Katarina van der Meer",
+  "besitzfolge": {
+    "Huis Terwijn van Ameise": [
+      {
+        "datum": "1742",
+        "nachfolger_in": "Prinsesse Lisabet van Ameise"
+      },
+      {
+        "datum": "1750",
+        "nachfolger_in": "Baroness Adriaan van Ameise, Katarina's Nichte"
+      }
+    ],
+    "Huis Terwijn van Amstel": [
+      {
+        "datum": "1792",
+        "nachfolger_in": "Prinsesse Wilhelmine van Terwijn"
+      },
+      {
+        "datum": "1810",
+        "nachfolger_in": "Hertogin Margaretha van Amstel, Katarina's Enkelin"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01135",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-190-76",
+  "stuk": "wandtapijt",
+  "omschrijving": "Portret van een herenfamilie in opkomend stand",
+  "vermoedelijke_maker": "Hugo van de Vijlder",
+  "eigendomsgeschiedenis": [
+    {
+      "periode": "18e eeuw",
+      "eigendom": "Huis te Valkenburg, familie Van der Meer"
+    },
+    {
+      "periode": "19e eeuw",
+      "verhuurd": "Kasteel van 't Vlees, familie De Leek"
+    },
+    {
+      "periode": "20e eeuw",
+      "geërfen": "Familie Van der Meer, erfgenamen"
+    }
+  ],
+  "grootte": {
+    "height": 105.7,
+    "width": 132.6
+  },
+  "vorige_eigenaar": {
+    "name": "B. Oudshoorn",
+    "born": 1934,
+    "acquired": 1877
+  },
+  "marginale_notitie": "waszegel beschadigd"
+}

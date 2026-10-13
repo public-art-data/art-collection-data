@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01160",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-112-36",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Die Schlacht von St. Christophoro",
+  "zugeschriebene_werkstatt": "Anna de Vries",
+  "besitzfolge": [
+    {
+      "datum": "1625",
+      "erben": [
+        "Haus Grafenhausen",
+        "Haus der Linde"
+      ]
+    },
+    {
+      "datum": "1650",
+      "vererbet": [
+        "Haus der Linde",
+        "Haus von Schönberg"
+      ]
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

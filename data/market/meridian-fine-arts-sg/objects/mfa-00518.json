@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00518",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-388",
+  "object_type": "bronze figure",
+  "title": "Riverside, Bandung",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by the estate of Mei-Ling Lin in 1887, formerly part of the collection of Jie-Ho Chen's jade workshop.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 782.0,
+    "width": 2339.0
+  },
+  "estimate_sgd": {
+    "low": 24000,
+    "high": 137000
+  },
+  "_artist_dates": "1860-1516"
+}

@@ -1,0 +1,24 @@
+{
+  "record_id": "HFV-01063",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-376-40",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Grafschaft von Woldenburg",
+  "kuenstler": "Adriana de Sassenheim",
+  "provenienz": [
+    {
+      "besitzer": "Haus von Altburg",
+      "jahr": "1592-1620"
+    },
+    {
+      "besitzer": "Grafschaft von Woldenburg",
+      "jahr": "1620-1650"
+    },
+    {
+      "besitzer": "Herzogin Isabella von Lichtenberg",
+      "jahr": "1650-1700"
+    }
+  ],
+  "vorbesitzer": "Herren von Falkeisberg",
+  "schaetzung_chf": 10000
+}

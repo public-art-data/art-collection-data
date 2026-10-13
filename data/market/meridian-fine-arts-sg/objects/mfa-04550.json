@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-04550",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-6",
+  "object_type": "bronze figure",
+  "title": "Riverside, Kuching",
+  "artist": "Vellacott",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1911; private collection The Tan Hock Seng Collection since 1940.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1285.0,
+    "width": 2052.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 19000,
+    "high": 134000
+  }
+}

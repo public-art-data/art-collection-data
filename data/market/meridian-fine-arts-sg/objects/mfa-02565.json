@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02565",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-39",
+  "object_type": "lithograph",
+  "title": "water jar at Dusk",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by the estate of Tan Hock Seng in 1937, previously held by his wife, Mei-Ling Tan, who obtained it from the artist, Merrick-Tan, at a private exhibition in 1935.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1025.0,
+    "width": 926.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 18000,
+    "high": 178000
+  }
+}

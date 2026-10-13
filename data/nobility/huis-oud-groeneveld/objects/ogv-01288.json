@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01288",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-201-31",
+  "stuk": "kabinetklok",
+  "omschrijving": "De familiegalerij van Hertogin Wilhelmina van Vlaanderen",
+  "vermoedelijke_maker": "Astrid de Wange",
+  "eigendomsgeschiedenis": [
+    {
+      "periode": "17e eeuw",
+      "eigenaar": "Hertog Jan van Brabant",
+      "aanpak": "aankoop"
+    },
+    {
+      "periode": "18e eeuw",
+      "eigenaar": "Prinsesse Adelheid van Limburg",
+      "aanpak": "erfgoed"
+    },
+    {
+      "periode": "20e eeuw",
+      "eigenaar": "Hertogin Wilhelmina van Vlaanderen",
+      "aanpak": "vererving"
+    }
+  ],
+  "grootte": {
+    "height": 192.8,
+    "width": 236.8
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle",
+  "marginale_notitie": "dubbele nummering"
+}

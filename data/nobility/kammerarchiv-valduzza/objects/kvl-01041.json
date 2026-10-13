@@ -1,0 +1,20 @@
+{
+  "record_id": "KVL-01041a",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-897-20",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Geschenk van de Zon",
+  "zugeschriebene_werkstatt": "Ludwig van Valkenburg",
+  "besitzfolge": [
+    {
+      "besitter": "Huis Graaf van Oranje-Nassau",
+      "Datum": "1642",
+      "Ursprung": "Erficht durch den Vater, graaf Hendrik van Oranje-Nassau"
+    },
+    {
+      "besitter": "Familie van der Meer-Lichtenberg",
+      "Datum": "1716",
+      "Ursprung": "Erfolgt durch Eheschließung mit Elisabeth van Oranje-Nassau"
+    }
+  ]
+}

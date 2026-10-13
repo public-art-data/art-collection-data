@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-o1316",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-262-61",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Die Schatten der Adelskinder",
+  "zugeschriebene_werkstatt": "Aurelia van der Meer",
+  "besitzfolge": [
+    {
+      "bezeichnung": "Gegründet durch Vererbung",
+      "besitzer": "Haus von Eisenhaupt"
+    },
+    {
+      "bezeichnung": "Übernommen durch Heirat",
+      "besitzer": "Gräfin Helga von Eisenhaupt",
+      "erwerbner": "Baron Roderick von Wölfsberg"
+    },
+    {
+      "bezeichnung": "Erworben durch Erbschaft",
+      "besitzer": "Herrin Ursula von Eisenhaupt",
+      "erwerber": "Haus von Sternberg"
+    }
+  ],
+  "groesse": {
+    "height": 13.4,
+    "width": 262.6
+  }
+}

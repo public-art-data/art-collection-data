@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-1138",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-580-41",
+  "objecttype": "miniatuurportret",
+  "benaming": "Graafelijk Huis van Oranje-Waard",
+  "vermoedelijke_meester": "Maria de Passe",
+  "provenance": [
+    {
+      "persoon": "Johan van Oranje-Waard",
+      "rol": "eigendom"
+    },
+    {
+      "persoon": "Adelaide van Oranje-Waard",
+      "rol": "erfdeel"
+    },
+    {
+      "persoon": "Willem van Waard",
+      "rol": "weduwen en erfopvolger"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "schatting": 268000,
+  "staat": "kreuk in perkament"
+}

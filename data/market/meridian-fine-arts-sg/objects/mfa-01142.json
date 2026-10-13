@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01142",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-423",
+  "object_type": "bronze figure",
+  "title": "kite at Dusk",
+  "artist": "Vellacott",
+  "provenance": "Acquired by the Singapore estate of Reginald Pembroke, 1952; sold at MFA Galleries, Kuala Lumpur, to collector Edwin Thistlewaite in 1969.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 423.0,
+    "width": 2816.0
+  },
+  "estimate_sgd": {
+    "low": 5000,
+    "high": 124000
+  },
+  "condition_report": "good, with light craquelure"
+}

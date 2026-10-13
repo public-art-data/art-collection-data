@@ -1,0 +1,28 @@
+{
+  "record_id": "FCS-01391",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-575-56",
+  "type_d_objet": "tapisserie de haute lisse",
+  "titre": "Musée de la Maison d'Albigny",
+  "artiste_attribue": "Élise Dumont-Garlande",
+  "historique_de_possession": [
+    {
+      "personne": "Marie-Thérèse Albigny",
+      "année": "1780"
+    },
+    {
+      "personne": "Félicité de la Croix",
+      "annee_marriage": "1815"
+    },
+    {
+      "personne": "Émilie d'Albigny-Garlande",
+      "année_décès": "1902"
+    }
+  ],
+  "dimensions": {
+    "height": 29.3,
+    "width": 237.5
+  },
+  "proprietaire_precedent": "Famille de Collonges-Valiere",
+  "observations": "double cotation au verso"
+}

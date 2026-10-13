@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-04325",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-393",
+  "object_type": "ink drawing",
+  "title": "Viridian Composition",
+  "artist": "Selvaratnam",
+  "provenance": "Acquired by S. A. Vasquez in 1902, subsequently sold to E. R. Singh's estate in 1979 and later auctioned off by B. K. Rao's gallery in 2015",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 860.0,
+    "width": 1968.0
+  },
+  "previous_owner": {
+    "name": "W. Hallowquay",
+    "born": 1988,
+    "acquired": 1968
+  }
+}

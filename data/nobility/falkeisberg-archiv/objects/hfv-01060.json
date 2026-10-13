@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01060",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-807-77",
+  "objektart": "miniaturportrait",
+  "titel": "Gräfin Adelheid von Arnstadt",
+  "kuenstler": "Lilja Rostova",
+  "provenienz": [
+    {
+      "haus": "Grafen von Alt-Rudolstadt",
+      "jahr": 1850,
+      "beschreibung": "Erbschaft"
+    },
+    {
+      "husband": "Baron Maximilian von Arnstadt",
+      "jahr": 1875,
+      "beschreibung": "Ehe"
+    },
+    {
+      "erbeinstitut": "Gräfin Adelheid von Arnstadt",
+      "jahr": 1920,
+      "beschreibung": "Testament"
+    }
+  ],
+  "schaetzung_chf": 518000
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02312",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-183",
+  "object_type": "lithograph",
+  "title": "Riverside, Kuching",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by Teng & Tan Gallery in 1979 and later sold to the estate of Khoo Beng Chye in 1992.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 520.0,
+    "width": 2379.0
+  },
+  "previous_owner": "Collection of the late Dato' R. Sivanathan",
+  "estimate_sgd": {
+    "low": 29000,
+    "high": 102000
+  }
+}

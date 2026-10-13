@@ -1,0 +1,36 @@
+{
+  "record_id": "TMB-01358",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-592-34",
+  "soort": "marmeren buste",
+  "titel": "Privé Samenstelling van de Hertogin van Amersfoort",
+  "toegeschreven_aan": "Maria Isabella Koster",
+  "herkomstgeschiedenis": [
+    {
+      "jaar": 1680,
+      "eigendom": "Geboren bij haar oudere zusje, Helena Koster",
+      "volgende_eigendom": null
+    },
+    {
+      "jaar": 1705,
+      "eigendom": "Geërfd van haar moeder, Anna van der Meer",
+      "volgende_eigendom": "Herman van Amersfoort"
+    },
+    {
+      "jaar": 1750,
+      "eigendom": "Overleden aan haar zoon, Hendrik van Amersfoort",
+      "volgende_eigendom": "Johanna van der Valk (verwantly aan de Van Amersfoorts)"
+    },
+    {
+      "jaar": 1800,
+      "eigendom": "Overleden na het sterven van haar zoon, Hendrik van Amersfoort",
+      "volgende_eigendom": "Filips van der Valk (zus van Johanna)"
+    }
+  ],
+  "afmetingen": {
+    "height": 109.5,
+    "width": 119.1
+  },
+  "vroegere_bezitter": "Familie Van Daele-Nuytens",
+  "schatting": 871000
+}

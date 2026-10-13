@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-01305R",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-607-10",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Das letzte Licht von Elyria",
+  "zugeschriebene_werkstatt": "Adrien Dumont",
+  "besitzfolge": {
+    "herrenvonSchlossWinkelburg": [
+      "Friedrich von Schleswig-Holstein-Sonderburg-Glücksburg, 1723-1748",
+      "Karl Friedrich von Schleswig-Holstein-Sonderburg-Lippe, 1748-1775"
+    ],
+    "vonSchleissheim-Breitwein": [
+      "Leopold von Schleissheim-Breitwein, 1775-1803",
+      "Anna Helena von Schleissheim-Breitwein, 1803-1820 (Erbin)"
+    ]
+  },
+  "groesse": {
+    "height": 210.9,
+    "width": 123.6
+  }
+}

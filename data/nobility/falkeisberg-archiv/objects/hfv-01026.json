@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01026",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-356-51",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Grafen von Schönburg",
+  "kuenstler": "Adrian Kriegsberg",
+  "provenienz": [
+    {
+      "jahr": 1760,
+      "besitzer": "Familie von Fürstenberg",
+      "besitzart": "Erbschaft"
+    },
+    {
+      "jahr": 1802,
+      "besitzer": "Familie von Schönburg",
+      "besitzart": "Ehe mit Gräfin Henriette von Schönburg"
+    },
+    {
+      "jahr": 1850,
+      "besitzer": "Grafin Adelheid von Schönburg",
+      "besitzart": "Erbschaft"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Staufenried"
+}

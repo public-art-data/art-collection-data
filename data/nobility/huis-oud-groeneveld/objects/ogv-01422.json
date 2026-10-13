@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01422",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-667-91",
+  "stuk": "tafelzilver (onderdeel)",
+  "omschrijving": "Portret van een Hertogin",
+  "vermoedelijke_maker": "Ariana Van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "geschiedenis_id": 1,
+      "persoon_id": null,
+      "begin_datum": "1550-01-01T00:00:00.000Z",
+      "eind_datum": "1650-01-01T00:00:00.000Z",
+      "geschiedenis_naam": "Hertogin Maria van Oudenaarde"
+    },
+    {
+      "geschiedenis_id": 2,
+      "persoon_id": 1,
+      "begin_datum": "1650-01-01T00:00:00.000Z",
+      "eind_datum": "1750-01-01T00:00:00.000Z",
+      "geschiedenis_naam": "Hertogin Maria van Oudenaarde (dochter)"
+    },
+    {
+      "geschiedenis_id": 3,
+      "persoon_id": 2,
+      "begin_datum": "1750-01-01T00:00:00.000Z",
+      "eind_datum": "1850-01-01T00:00:00.000Z",
+      "geschiedenis_naam": "Prinses Maria van Oudenaarde (dochter)"
+    }
+  ],
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

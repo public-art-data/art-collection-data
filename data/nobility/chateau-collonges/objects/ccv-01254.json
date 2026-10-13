@@ -1,0 +1,31 @@
+{
+  "record_id": "CCV-01254",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-431-67",
+  "categorie": "service a the en porcelaine",
+  "titre": "Collection de la Maison d'Argent",
+  "attribution": "Élise Delacroix",
+  "provenance": [
+    {
+      "type": "inheritance",
+      "date": "1775",
+      "predecessor": {
+        "titre": "Collection de la Maison de Fleurieu",
+        "attribution": "Pierre Dupont"
+      }
+    },
+    {
+      "type": "marriage",
+      "date": "1800",
+      "spouse": {
+        "titre": "Maison d'Argent",
+        "attribution": "Henri Argent"
+      }
+    }
+  ],
+  "dimensions_cm": {
+    "height": 25.1,
+    "width": 12.9
+  },
+  "ancien_detenteur": "Maison de Beauffort-Orval"
+}

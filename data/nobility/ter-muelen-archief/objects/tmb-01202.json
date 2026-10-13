@@ -1,0 +1,30 @@
+{
+  "record_id": "TMB-1202",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-627-92",
+  "soort": "zilveren schrijfset",
+  "titel": "Privé Samenstelling van Huis te Velden",
+  "toegeschreven_aan": "Hendrik Vermeulen",
+  "herkomstgeschiedenis": [
+    {
+      "jahr": 1685,
+      "eigenaar": "Graaf Hendrick van Wijnbergen"
+    },
+    {
+      "jahr": 1723,
+      "eigenaar": "Vrouwe Charlotte van Merenberg",
+      "overleden_eigenaar_id": 1
+    },
+    {
+      "jahr": 1750,
+      "eigenaar": "Hertog Hendrik van Vollenhoven",
+      "gehuwd_met_overleden_eigenaar_id": 2
+    }
+  ],
+  "afmetingen": {
+    "height": 80.8,
+    "width": 193.9
+  },
+  "schatting": 256000,
+  "aantekening": "dubbele nummering"
+}

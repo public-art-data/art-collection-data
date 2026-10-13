@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-02717",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-328",
+  "object_type": "lithograph",
+  "title": "Indigo Composition",
+  "artist": "Thornquist",
+  "provenance": "Acquired by Madame Lin in 1927, passed to her estate in 1956 and bequeathed to the Lian Estate Art Foundation.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 563.0,
+    "width": 218.0
+  },
+  "estimate_sgd": {
+    "low": 5000,
+    "high": 118000
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03772",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-201",
+  "object_type": "lithograph",
+  "title": "Riverside, Hoi An",
+  "artist": "Loh Guat-ling",
+  "provenance": "Acquired by Kuo Wen-jen in 2017 and exhibited at his estate, the Jasmine Villa.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 800.0,
+    "width": 1124.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 22000,
+    "high": 157000
+  }
+}

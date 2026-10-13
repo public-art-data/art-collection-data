@@ -1,0 +1,33 @@
+{
+  "record_id": "KVL-01358",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-922-46",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt des Herzogs von Würtzburg",
+  "zugeschriebene_werkstatt": "Ella Van Der Meer",
+  "besitzfolge": [
+    {
+      "datum": "1750",
+      "besitzer": "Haus Grafenhausen"
+    },
+    {
+      "datum": "1785",
+      "erben": [
+        "Baroness Isabella von Schlossberg",
+        "Baron Karl von Würtzburg"
+      ]
+    },
+    {
+      "datum": "1850",
+      "erben": [
+        "Prinzessin Helena von Fürstenstein",
+        "Johann Heinrich von Hausen"
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 70.0,
+    "width": 209.0
+  },
+  "kammervermerk": "doppelt nummeriert"
+}

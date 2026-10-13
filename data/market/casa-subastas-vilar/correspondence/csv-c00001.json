@@ -1,0 +1,15 @@
+{
+  "record_id": "CSV-C00001",
+  "origin": "Sala de Subastas Vilar y Compania, Zaragoza, Espania",
+  "correspondence_type": "digitized_ocr_letter",
+  "ocr_id": "OCR-2017-915-4140",
+  "archive_reference": "Caja 5, carpeta 57, folio 211",
+  "ocr_confidence": 0.96,
+  "language": "es",
+  "letter_date": "1922-??-??",
+  "sender": "Sala de Ventas Bolanos y Cia, Sevilla",
+  "recipient": "Deposito de Antiguedades Robles-Villamil, Zaragoza",
+  "salutation": "Estimado senor Robles-Villamil,",
+  "body": "le confirmo la recepcion de la dibujo a lapiz que usted me remitio el 8. junio 1918. El estado parece satisfactorio, no obstante el precio de 1000 pesefas me parece excesivo. Le propongo 605.",
+  "signature": "Bolanos"
+}

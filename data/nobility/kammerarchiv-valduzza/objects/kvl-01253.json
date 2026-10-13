@@ -1,0 +1,36 @@
+{
+  "record_id": "KVL-01253",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-461-76",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "De Glorieuze Jagt van de Gouden Reus",
+  "zugeschriebene_werkstatt": "Bartholomeus Van der Meer",
+  "besitzfolge": {
+    "Graven van Vollenhoven": [
+      {
+        "datum": 1700,
+        "herkomst": "Bartholomeus Van der Meer - Geschenk van de Graft van Oranje-Nassau"
+      },
+      {
+        "datum": 1730,
+        "vererfd": "Ludwig van Vollenhoven - Erbfrecht"
+      },
+      {
+        "datum": 1800,
+        "geërfd": "Johanna van Vollenhoven - Successie na huwelijk met Prins Hendrik van Bourbon-Parma"
+      }
+    ],
+    "Prinses Beatrix van Oranje-Nassau": [
+      {
+        "datum": 1905,
+        "verbezold": "Graven van Vollenhoven - Verkocht op beurt"
+      },
+      {
+        "datum": 1930,
+        "geërfd": "Beatrix van Oranje-Nassau - Erfde op beurten van Vader en Moeder"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "stempel des Hausarchivs"
+}

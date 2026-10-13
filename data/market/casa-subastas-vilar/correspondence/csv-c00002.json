@@ -1,0 +1,18 @@
+{
+  "record_id": "CSV-C00002",
+  "origin": "Sala de Subastas Vilar y Compania, Zaragoza, Espania",
+  "correspondence_type": "digitized_ocr_letter",
+  "ocr_id": "OCR-2020-862-9054",
+  "archive_reference": "Caja 62, carpeta 77, folio 108",
+  "ocr_confidence": 0.88,
+  "language": "es",
+  "letter_date": "1925-12-03",
+  "sender": "Sala de Ventas Bolanos y Cia, Sevilla",
+  "recipient": "Deposito de Antiguedades Robles-Villamil, Zaragoza",
+  "salutation": "[ilegible] senor Robles-Villamil,",
+  "body": "le(?) confirmo la recepcion de la acuarela que usted me remitio el 15. mayo 1961. El estado parece satisfactorio, no obstante el precio de 5500 pesetas me parece excesivo. Le propongo 3103.",
+  "signature": "Bolanos",
+  "transcription_notes": [
+    "pasaje ilegible al margen"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-01416",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-517-34",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt des Fürsten von Tarnow",
+  "zugeschriebene_werkstatt": "Kasimir Fjodorovich Wolkowski",
+  "besitzfolge": {
+    "Gründung": "1742, durch Erbschaft von Königin Elisabeth von Hohenstein",
+    "Besitzer": [
+      {
+        "Name": "Ferdinand von Tarnow",
+        "Jahr": 1800
+      },
+      {
+        "Name": "Konstantin von Tarnow",
+        "Jahr": 1850
+      },
+      {
+        "Name": "Walter von Tarnow",
+        "Jahr": 1925
+      }
+    ],
+    "Erbschaft": [
+      {
+        "Erbeiter": "Markgraf Maximilian von Schwarzenburg",
+        "Jahr": 1887
+      }
+    ]
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

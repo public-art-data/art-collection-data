@@ -1,0 +1,22 @@
+{
+  "record_id": "TMB-01185",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-363-8",
+  "soort": "devotiebeeld",
+  "titel": "Privé-verzameling van Huis te Velde",
+  "toegeschreven_aan": "Ludwigus Pictorus VandeLeer",
+  "herkomstgeschiedenis": [
+    {
+      "titel": "",
+      "toegeschreven_aan": "Hertogin Elisabeth van Heusden",
+      "herkomstgeschiedenis_id": null
+    },
+    {
+      "titel": "Erfgarasde Van Renswinkel",
+      "toegeschreven_aan": "Ludwigus Pictorus VandeLeer (vader)",
+      "herkomstgeschiedenis_id": 1
+    }
+  ],
+  "vroegere_bezitter": "Familie Van Rillaer-Belle",
+  "aantekening": "potloodaantekening: 'uit de boedel van 1852'"
+}

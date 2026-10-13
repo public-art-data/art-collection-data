@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01046",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-804-47",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Privatarchiv der Familie von Altburg",
+  "kuenstler": "Anna von Meerwinkel",
+  "provenienz": [
+    {
+      "name": "Anna von Meerwinkel",
+      "jahr": 1810,
+      "beschreibung": "Ersterwerb durch Anna von Meerwinkels Vater, Graf Philipp von Meerwinkel"
+    },
+    {
+      "name": "Hans von Altburg",
+      "jahr": 1850,
+      "beschreibung": "Übernahme als Erbe des 2. Grafen Hans von Altburg durch Anna von Meerwinkel"
+    },
+    {
+      "name": "Adelheid von Altburg",
+      "jahr": 1920,
+      "beschreibung": "Erben von Anna von Meerwinkel, welche 1885 Adelheid von Altburg heiratete"
+    }
+  ],
+  "schaetzung_chf": 204000
+}

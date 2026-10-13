@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01502-alt",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-713-91",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Graue Madonna von Zerbst",
+  "zugeschriebene_werkstatt": "M. Brandhorst",
+  "besitzfolge": {
+    "Haus": [
+      {
+        "Grundungsjahr": 1410,
+        "Urbesitzer": "Rudolf von Wolfenstein"
+      },
+      {
+        "Heiratsvertrag": 1495,
+        "Ehepartner": "Elisabeth von Schwarzenberg"
+      },
+      {
+        "Erbschaft": 1552,
+        "Vergleichter": "Gustav von Lindenhof"
+      }
+    ]
+  },
+  "kammervermerk": "doppelt nummeriert",
+  "_artist_dates": "1856-1524"
+}

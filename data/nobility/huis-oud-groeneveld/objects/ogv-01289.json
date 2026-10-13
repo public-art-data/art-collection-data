@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01289",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-546-10",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Bijzondere schilderij met stilistische verwantschingen met de werken van Xantus Vander Meer",
+  "vermoedelijke_maker": "Aurélien LaFleur",
+  "eigendomsgeschiedenis": [
+    {
+      "gezin_id": "VAN DEN BERG 01",
+      "gezin_naam": "VAN DEN BERG",
+      "toestand_eigendom": "beheerder"
+    },
+    {
+      "gezin_id": "LA FLEUR 02",
+      "gezin_naam": "LA FLEUR",
+      "verloop_tijd_eigendom": [
+        {
+          "jaar": 1750,
+          "toestand_eigendom": "erfgenaam"
+        },
+        {
+          "jaar": 1820,
+          "toestand_eigendom": "gehuwd met van den berg"
+        }
+      ]
+    }
+  ]
+}

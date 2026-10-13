@@ -1,0 +1,33 @@
+{
+  "record_id": "OGV-01517",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-748-91",
+  "stuk": "kabinetklok",
+  "omschrijving": "Brevet van het Belegd Koninklijk Wapen van Vlaardingen",
+  "vermoedelijke_maker": "Lysander van Rijn",
+  "eigendomsgeschiedenis": [
+    {
+      "geslacht": "Vlaardingen",
+      "titel": "Koningin",
+      "jaar": 1650,
+      "beschrijving": "Erft de kunstwerk na haar overlijden"
+    },
+    {
+      "geslacht": "de Heeren van Merwede",
+      "titel": "Prins",
+      "jaar": 1725,
+      "beschrijving": "Erfd door zijn broer en neef"
+    },
+    {
+      "geslacht": "Vlaardingen",
+      "titel": "Koningin",
+      "jaar": 1820,
+      "beschrijving": "Erfd door haar neef, de zoon van haar vader"
+    }
+  ],
+  "grootte": {
+    "height": 100.5,
+    "width": 205.3
+  },
+  "vorige_eigenaar": "Familie Van Daele-Nuytens"
+}

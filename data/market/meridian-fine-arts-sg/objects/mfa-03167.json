@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-03167",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-274",
+  "object_type": "lithograph",
+  "title": "Riverside, Georgetown",
+  "artist": "Marchetti-Lim",
+  "provenance": "Acquired by the Lee Yoke Keng Estate in 1967 and subsequently sold to MFA in 2024.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 358.0,
+    "width": 2220.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 22000,
+    "high": 55000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

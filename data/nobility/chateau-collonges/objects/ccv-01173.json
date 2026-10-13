@@ -1,0 +1,23 @@
+{
+  "record_id": "CCV-01173",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-845-98",
+  "categorie": "pendule en bronze dore",
+  "titre": "Collection du Comte de Roubaix",
+  "attribution": "Pierre LaFleur, peintre académique",
+  "provenance": [
+    {
+      "titre": "Propriété personnelle du Duc de Bruneval",
+      "département": "Bibliothèque privée",
+      "lieu": "Château de Chantilly"
+    },
+    {
+      "titre": "Héritage familial, légataire de Madame Adèle de Roubaix",
+      "département": "Étapes successives de la famille",
+      "lieu": "Maison familiale de Roubaix"
+    }
+  ],
+  "ancien_detenteur": "Maison de Villierscourt",
+  "valeur_estimee": 330000,
+  "notes_archivistiques": "double cotation au verso"
+}

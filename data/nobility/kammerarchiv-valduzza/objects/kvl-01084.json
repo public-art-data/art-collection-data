@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-2001084",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-633-14",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt der Baronin Isabella van der Meer",
+  "zugeschriebene_werkstatt": "Aurélien Dumont",
+  "besitzfolge": [
+    {
+      "datum": "1640",
+      "besitzer": "Haus Grafen von Würgenstein"
+    },
+    {
+      "datum": "1658",
+      "besitzer": "Haus von Schönau und Herrenstein",
+      "übertragung": "Ehe mit Baron Otto van der Meer"
+    },
+    {
+      "datum": "1723",
+      "besitzer": "Familie Grafen von Würgenstein",
+      "erbe": "Nach dem Tod von Baronin Isabella van der Meer"
+    }
+  ],
+  "groesse": {
+    "height": 39.1,
+    "width": 39.0
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

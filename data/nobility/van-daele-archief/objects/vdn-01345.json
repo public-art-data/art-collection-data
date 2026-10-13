@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01345",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-806-98",
+  "objecttype": "kabinetklok",
+  "benaming": "Kasteelarchief van Hertogin Van der Meer",
+  "vermoedelijke_meester": "Pieter de Waelen",
+  "provenance": [
+    {
+      "persoon": "Hertog Leopold Van der Meer",
+      "relatie": "Eigendom",
+      "jaar": 1750
+    },
+    {
+      "persoon": "Prinses Elisabeth Van der Meer",
+      "relatie": "Erfopvolging",
+      "jaar": 1800
+    },
+    {
+      "persoon": "Hertogin Charlotte Van der Meer",
+      "relatie": "Legaat",
+      "jaar": 1850
+    }
+  ],
+  "staat": "dubbele nummering"
+}

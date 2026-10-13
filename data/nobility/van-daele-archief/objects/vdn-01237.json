@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-01237",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-483-5",
+  "objecttype": "wandtapijt",
+  "benaming": "Hertoginnenkabinet",
+  "vermoedelijke_meester": "Maria van Houten",
+  "provenance": [
+    {
+      "naam": "Gravin van Oranje-Nassau",
+      "titel": "Vrouw van Prins Hendrik van Oranje-Nassau",
+      "jaar": "1670",
+      "reden": "Erfgenaam"
+    },
+    {
+      "naam": "Prinses Wilhelmina van Oranje-Nassau",
+      "titel": "Hertogin van Gelderland",
+      "jaar": "1705",
+      "reden": "Legaat"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 193.4,
+    "width": 39.8
+  },
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel",
+  "schatting": 410000,
+  "staat": "waszegel beschadigd"
+}

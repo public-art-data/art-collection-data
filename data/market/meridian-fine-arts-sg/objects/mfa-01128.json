@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-01128",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-560",
+  "object_type": "lithograph",
+  "title": "Riverside, Penang",
+  "artist": "Ongpiboon",
+  "provenance": "Collection of the late Dato' R. Sivanathan, acquired 1923; Meridian Fine Arts Auctioneers, lot 397, 1938; thence by descent to Meridian Fine Arts Auctioneers.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 2047.0,
+    "width": 904.0
+  },
+  "estimate_sgd": {
+    "low": 21000,
+    "high": 78000
+  }
+}

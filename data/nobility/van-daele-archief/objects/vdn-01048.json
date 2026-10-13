@@ -1,0 +1,23 @@
+{
+  "record_id": "VDN-01048",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-778-14",
+  "objecttype": "marmeren buste",
+  "benaming": "Heren van Winkelhaven",
+  "vermoedelijke_meester": "Gerrit Jansz van der Meer",
+  "provenance": [
+    {
+      "huis": "Winkelhaven",
+      "leerling": false,
+      "gebruiker": "Heren van Winkelhaven (1500-1600)",
+      "geërfen": true
+    },
+    {
+      "huis": "Vanderbeek",
+      "leerling": true,
+      "gebruiker": "Heren van Vanderbeek (1200-1300)",
+      "geërfen": false
+    }
+  ],
+  "staat": "kreuk in perkament"
+}

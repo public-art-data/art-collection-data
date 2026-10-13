@@ -1,0 +1,24 @@
+{
+  "record_id": "VDN-01430",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-447-70",
+  "objecttype": "marmeren buste",
+  "benaming": "Kasteel van Oudrijn",
+  "vermoedelijke_meester": "Geertruida de Valkenhorst",
+  "provenance": [
+    {
+      "besitter": "Hertogin Beatrix van 't Horne",
+      "jaar": 1800,
+      "reden": "Erfde van haar vader, Hertog Floris I van 't Horne"
+    },
+    {
+      "besitter": "Prinses Elisabeth van 't Horne",
+      "jaar": 1850,
+      "reden": "Erfde van haar moeder, Hertogin Beatrix van 't Horne"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 38.4,
+    "width": 276.3
+  }
+}

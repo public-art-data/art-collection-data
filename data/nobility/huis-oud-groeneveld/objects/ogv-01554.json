@@ -1,0 +1,34 @@
+{
+  "record_id": "OGV-01554",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-499-79",
+  "stuk": "wandtapijt",
+  "omschrijving": "Portret van een hovenschouder",
+  "vermoedelijke_maker": "Elsje van Oranje-Nassau-Weert",
+  "eigendomsgeschiedenis": [
+    {
+      "naam": "Huis van Nassau-Weert",
+      "jaar": 1650,
+      "beschrijving": "Geërfd van de vader"
+    },
+    {
+      "naam": "Hertogin Anna van Nassau-Weert",
+      "jaar": 1700,
+      "beschrijving": "Overgedragen aan haar zuster"
+    },
+    {
+      "naam": "Prinses Margaretha van Nassau-Weert",
+      "jaar": 1750,
+      "beschrijving": "Geërfd van haar overleden broer"
+    }
+  ],
+  "grootte": {
+    "height": 74.0,
+    "width": 159.2
+  },
+  "vorige_eigenaar": {
+    "name": "A. Rijpkema",
+    "born": 1974,
+    "acquired": 1925
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02442",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-133",
+  "object_type": "lithograph",
+  "title": "Study of a boat",
+  "artist": "Winterbourne-Ashe",
+  "provenance": "Purchased by the estate of Aurélien Dumont, Paris in 1969, then sold to Madame LeFleur's private collection, Lyon in 1987 and finally acquired by Kao Hsiu Liang, Singapore in 2015",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 2054.0,
+    "width": 803.0
+  },
+  "estimate_sgd": {
+    "low": 5000,
+    "high": 133000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

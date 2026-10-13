@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-01672",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-41",
+  "object_type": "ink drawing",
+  "title": "View of Georgetown",
+  "artist": "Thornquist",
+  "provenance": "Estate of Meridian Fine Arts Auctioneers; offered at Meridian Fine Arts Auctioneers in 1933.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 2016.0,
+    "width": 1566.0
+  },
+  "estimate_sgd": {
+    "low": 1000,
+    "high": 120000
+  },
+  "condition_report": "good, with light craquelure",
+  "_artist_dates": "1889-1521"
+}

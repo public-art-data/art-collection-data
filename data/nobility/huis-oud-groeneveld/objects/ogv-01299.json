@@ -1,0 +1,30 @@
+{
+  "record_id": "SYN/OGV/01299",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-117-13",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Gouden Kast met schilderingen van de Hertogin van Vlaanderen",
+  "vermoedelijke_maker": "Marcella Vandenberghe",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Hertogin van Vlaanderen, Maria van Montigny",
+      "geboortejaar": 1720,
+      "overledenjaar": 1792
+    },
+    {
+      "titel": "Vrouwe van Holland, Elisabeth van Beieren",
+      "geboortejaar": 1785,
+      "gehuwdMet": "Hertog Lodewijk van Brabant"
+    },
+    {
+      "titel": "Prinses van Oranje, Adelheid van Nassau",
+      "geboortejaar": 1850,
+      "erfdeVan": "Hertogin Hendrik van Holland"
+    }
+  ],
+  "grootte": {
+    "height": 212.7,
+    "width": 49.1
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

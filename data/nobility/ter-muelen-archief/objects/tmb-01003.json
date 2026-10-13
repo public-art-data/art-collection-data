@@ -1,0 +1,29 @@
+{
+  "record_id": "TMB-1001003",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-596-2",
+  "soort": "tafelzilver (onderdeel)",
+  "titel": "Kerksche Erfgoed",
+  "toegeschreven_aan": "Maria van der Meerendonk",
+  "herkomstgeschiedenis": [
+    {
+      "persoon": "Jacobus van der Meerendonk",
+      "tijdperk": "18e eeuw",
+      "overdracht_op": "verdiensten op kerkschepen"
+    },
+    {
+      "persoon": "Adriana van der Meerendonk",
+      "tijdperk": "19e eeuw",
+      "overdracht_op": "erfenis van haar grootouders"
+    },
+    {
+      "persoon": "Maria van der Meerendonk",
+      "tijdperk": "20e eeuw",
+      "overdracht_op": "gebruik en beheer van de familiekerk"
+    }
+  ],
+  "afmetingen": {
+    "height": 172.9,
+    "width": 152.3
+  }
+}

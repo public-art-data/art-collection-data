@@ -1,0 +1,21 @@
+{
+  "record_id": "KVL-01384",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-312-15",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Die Hymne des Vardenhof",
+  "zugeschriebene_werkstatt": "L. Stielke",
+  "besitzfolge": [
+    {
+      "besitzer": "House Römer von Aldenburg",
+      "erwerbungsdatum": "11. Mai 1882",
+      "vererbungsberechtigung": "Vaterlichen Erbe"
+    },
+    {
+      "besitzer": "House Fürstenberg-Schönau",
+      "erwerbungsdatum": "26. Februar 1915",
+      "vererbungsberechtigung": "Ehemännlicher Besitz"
+    }
+  ],
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

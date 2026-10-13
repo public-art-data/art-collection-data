@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01000",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-107-18",
+  "objecttype": "devotiebeeld",
+  "benaming": "Heren van Hertoghe",
+  "vermoedelijke_meester": "Geerd Veldenstein",
+  "provenance": [
+    {
+      "titel": "Eerste Baron van Hertoghe",
+      "persoon": "Willem van Hertoghe",
+      "jaar": 1650
+    },
+    {
+      "titel": "Hertogin van Hertoghe",
+      "persoon": "Anna van Hertoghe",
+      "jaar": 1750,
+      "overleden": true
+    },
+    {
+      "titel": "Heren van Hertoghe, Graaf van Anderne",
+      "persoon": "Petrus van Hertoghe",
+      "jaar": 1800
+    }
+  ],
+  "staat": "dubbele nummering"
+}

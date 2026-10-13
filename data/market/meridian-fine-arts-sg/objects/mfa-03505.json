@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-03505",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-195",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Kuching",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by the Tan family in 1947, subsequently sold to merchant collector Teo Hian Soon by 1962.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 2124.0,
+    "width": 842.0
+  },
+  "estimate_sgd": {
+    "low": 38000,
+    "high": 97000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

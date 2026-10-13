@@ -1,0 +1,37 @@
+{
+  "record_id": "CCV-01093",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-138-39",
+  "categorie": "pendule en bronze dore",
+  "titre": "Collection du Duc de Vaudmont",
+  "attribution": "Marcel LeFleur",
+  "provenance": [
+    {
+      "nom": "Duc et Duchesse de Vaudmont",
+      "annee": "1750"
+    },
+    {
+      "nom": "Hérédité en ligne masculine",
+      "annee": "1800"
+    },
+    {
+      "nom": "Marie-Antoinette, Madame de la Fleur des Fleurs",
+      "annee": "1850"
+    },
+    {
+      "nom": "Léonore, Vicomtesse de Châtillon-sur-Mer",
+      "annee": "1900"
+    },
+    {
+      "nom": "Henri-Victor, Duc de Vaudmont",
+      "annee": "1950"
+    }
+  ],
+  "dimensions_cm": {
+    "height": 82.8,
+    "width": 194.5
+  },
+  "ancien_detenteur": "Famille de Collonges-Valiere",
+  "valeur_estimee": 192000,
+  "notes_archivistiques": "entree rayee puis restauree"
+}

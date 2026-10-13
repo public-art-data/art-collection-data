@@ -1,0 +1,25 @@
+{
+  "record_id": "SYN.HFV.1001052",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-824-17",
+  "objektart": "silbernes schreibzeug",
+  "titel": "Hausarchiv der Familie von Schwarzkreuz",
+  "kuenstler": "Adrian van Oranje",
+  "provenienz": {
+    "Geschlecht": [
+      {
+        "Person": "Karl von Schwarzkreuz",
+        "Datum": "1780"
+      },
+      {
+        "Person": "Anna von Schwarzkreuz",
+        "Datum": "1805, Erbschaft"
+      },
+      {
+        "Person": "Hans von Oranje-Schwarzkreuz",
+        "Datum": "1850, Ehe mit Elisabeth von Schwarzkreuz"
+      }
+    ]
+  },
+  "vorbesitzer": "Herren von Valduzza"
+}

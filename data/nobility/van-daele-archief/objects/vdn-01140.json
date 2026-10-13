@@ -1,0 +1,33 @@
+{
+  "record_id": "VDN-01140",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-854-6",
+  "objecttype": "marmeren buste",
+  "benaming": "Grafelijke Familie van Aelst",
+  "vermoedelijke_meester": "Jan van de Molen",
+  "provenance": [
+    {
+      "naam": "Familie van Aalberse",
+      "opdrachtgever": null,
+      "transmissie": "erfgoed na overlijden van baron Jan Aalberse II (1718-1756)",
+      "volgende_eigenaar": "Grafelijke Familie van Aelst"
+    },
+    {
+      "naam": "Grafelijke Familie van Aelst",
+      "opdrachtgever": null,
+      "transmissie": "erfgoed gekregen bij huwelijk met Baroness Anne-Marie van Berkel (1756-1793)",
+      "volgende_eigenaar": "Grafelijke Familie van Aelst"
+    },
+    {
+      "naam": "Grafelijke Familie van Aelst",
+      "opdrachtgever": null,
+      "transmissie": "erfgoed vererfd door Graf Adriaan van Aelst (1850-1902)",
+      "volgende_eigenaar": "Grafelijke Familie van Aelst"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 174.5,
+    "width": 114.6
+  },
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel"
+}

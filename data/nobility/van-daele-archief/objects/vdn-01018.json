@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-01018",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-429-87",
+  "objecttype": "kabinetklok",
+  "benaming": "Huis van de Valkenburgh",
+  "vermoedelijke_meester": "Jan Voskens",
+  "provenance": [
+    {
+      "datum": "1642-01-15",
+      "naam": "Jacob van der Meer, kleindochter van Baroness Sophia van der Meer"
+    },
+    {
+      "datum": "1650-07-20",
+      "naam": "Jan van der Meer, zoon van Jacob van der Meer"
+    },
+    {
+      "datum": "1705-03-25",
+      "naam": "Koningin Elisabeth van Oranje-Nassau, dochter van Koning Hendrik van Nassau"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 96.8,
+    "width": 38.7
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld",
+  "schatting": 804000,
+  "staat": "waszegel beschadigd"
+}

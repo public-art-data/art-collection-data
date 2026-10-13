@@ -1,0 +1,47 @@
+{
+  "record_id": "TMB-01446",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-810-20",
+  "soort": "kabinetklok",
+  "titel": "Huisarchief Van Oranje-Nassau",
+  "toegeschreven_aan": "Bijvoet van Pallandt",
+  "herkomstgeschiedenis": [
+    {
+      "titel": "",
+      "toegeschreven_aan": "Willem V van Nassau",
+      "herkomstgeschiedenis": [
+        "Van Nassau",
+        "Huisarchief Nassau"
+      ]
+    },
+    {
+      "titel": "Huisarchief Van Oranje-Nassau",
+      "toegeschreven_aan": "Margaretha van Pallandt",
+      "herkomstgeschiedenis": [
+        {
+          "titel": "",
+          "toegeschreven_aan": "Willem IV van Nassau",
+          "herkomstgeschiedenis": [
+            "Van Nassau",
+            "Huisarchief Nassau"
+          ]
+        },
+        {
+          "titel": "",
+          "toegeschreven_aan": "Maria van Bentinck",
+          "herkomstgeschiedenis": [
+            "Van Oranje-Nassau",
+            "Huisarchief Van Oranje-Nassau"
+          ]
+        }
+      ]
+    }
+  ],
+  "afmetingen": {
+    "height": 196.1,
+    "width": 95.5
+  },
+  "vroegere_bezitter": "Familie Van ter Muelen-Berckel",
+  "schatting": 404000,
+  "aantekening": "waszegel beschadigd"
+}

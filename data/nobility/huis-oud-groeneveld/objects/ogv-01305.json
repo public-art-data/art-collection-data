@@ -1,0 +1,40 @@
+{
+  "record_id": "OGV-01305",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-784-12",
+  "stuk": "tafelzilver (onderdeel)",
+  "omschrijving": "Bergenraadstapel van de Graaf van Willemsland",
+  "vermoedelijke_maker": "Arnhem de Jonge",
+  "eigendomsgeschiedenis": [
+    {
+      "geslacht": "Graaf van Willemsland",
+      "jaar": 1750,
+      "aantal": 1
+    },
+    {
+      "geslacht": "Hertogin van Overijssel",
+      "jaar": 1800,
+      "aantal": 2
+    },
+    {
+      "geslacht": "Prinses van Holland",
+      "jaar": 1850,
+      "aantal": 3
+    },
+    {
+      "geslacht": "Markies van Leeuwensteinsky",
+      "jaar": 1900,
+      "aantal": 4
+    },
+    {
+      "geslacht": "Hertogin van Utrecht",
+      "jaar": 1950,
+      "aantal": 5
+    }
+  ],
+  "grootte": {
+    "height": 194.9,
+    "width": 85.7
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

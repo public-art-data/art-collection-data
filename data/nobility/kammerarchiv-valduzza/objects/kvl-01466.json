@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01466",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-717-23",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt des Herzoges von Walsee",
+  "zugeschriebene_werkstatt": "Giacomo della Luna",
+  "besitzfolge": {
+    "Erbstück": "Fürstentum von Ersfeld",
+    " Besitzer": [
+      {
+        "Name": "Anna von Walsee",
+        "Jahr": 1750
+      },
+      {
+        "Name": "Maximilian von Walsee",
+        "Jahr": 1800,
+        "Titel": "Graf"
+      },
+      {
+        "Name": "Hedwig von Ersfeld",
+        "Jahr": 1850,
+        "Titel": "Gräfin"
+      }
+    ]
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

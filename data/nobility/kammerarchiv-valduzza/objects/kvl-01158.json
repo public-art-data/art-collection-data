@@ -1,0 +1,35 @@
+{
+  "record_id": "KVL-01158",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-111-76",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Het Oosterse Vluchteling",
+  "zugeschriebene_werkstatt": "Hector Van Meerendonk",
+  "besitzfolge": [
+    {
+      "personen": [
+        "Ferdinand van Aardenne",
+        "Katharina van der Meer"
+      ],
+      "jaar": 1850,
+      "overig": ""
+    },
+    {
+      "personen": [
+        "Willemijn Van Duuren",
+        "Pieter Hendriksz. Van Der Bruggh"
+      ],
+      "jaar": 1885,
+      "overig": "Koude erfgoed verhandeld"
+    },
+    {
+      "personen": [
+        "Lodewijk Van Der Valk",
+        "Gertrude Van Aersdalen"
+      ],
+      "jaar": 1920,
+      "overig": "Erfgenaamd op erf genaamd"
+    }
+  ],
+  "kammervermerk": "stempel des Hausarchivs"
+}

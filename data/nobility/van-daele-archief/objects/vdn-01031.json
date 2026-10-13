@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01031",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-156-53",
+  "objecttype": "marmeren buste",
+  "benaming": "Prinses Arnhemse Erfgoed",
+  "vermoedelijke_meester": "Meermin Vermeulen",
+  "provenance": [
+    {
+      "persoon": "Ferdinand van der Meer",
+      "titel": "Prins van 't Gelders Land",
+      "jaar": "1850"
+    },
+    {
+      "persoon": "Sophia van Oranje-Nassau",
+      "titel": "Hertogin van 's-Hertogenbosch",
+      "jaar": "1875"
+    },
+    {
+      "persoon": "Jacob van der Meer",
+      "titel": "Prins van Arnhem en Nijmegen",
+      "jaar": "1920"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 75.1,
+    "width": 66.9
+  },
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel"
+}

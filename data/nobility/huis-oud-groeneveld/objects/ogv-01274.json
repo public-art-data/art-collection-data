@@ -1,0 +1,38 @@
+{
+  "record_id": "OGV-01274",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-538-27",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "Verloren kado van de Graven van Waveren",
+  "vermoedelijke_maker": "Elianore Querius",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Graven van Waveren",
+      "persoon": "Graaf Everhard van Waveren",
+      "jaar": 1650,
+      "beschrijving": "Kocht bij auction aan het Huis van Bommels"
+    },
+    {
+      "titel": "Hertogin van Vlaanderen",
+      "persoon": "Hertogin Alethea van Waveren",
+      "jaar": 1700,
+      "beschrijving": "Erfde het kunstwerk na de dood van haar vader"
+    },
+    {
+      "titel": "Prinses van Gementingen",
+      "persoon": "Prinses Sabine van Waveren",
+      "jaar": 1750,
+      "beschrijving": "Erfde het kunstwerk na de dood van haar moeder"
+    },
+    {
+      "titel": "Koningin der Nederlandse Oost-Indiërs",
+      "persoon": "Koningin Wilhelmina van Waveren",
+      "jaar": 1850,
+      "beschrijving": "Overdroeg het kunstwerk aan haar zuster"
+    }
+  ],
+  "grootte": {
+    "height": 187.8,
+    "width": 37.3
+  }
+}

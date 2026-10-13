@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-02452",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-511",
+  "object_type": "lithograph",
+  "title": "View of Malacca",
+  "artist": "Merrick-Tan",
+  "provenance": "Purchased by Yee Kim Hock, 1957, and sold to the estate of Lee Ming Kee in 1972",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 556.0,
+    "width": 2103.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 9000,
+    "high": 102000
+  },
+  "condition_report": "good, with light craquelure"
+}

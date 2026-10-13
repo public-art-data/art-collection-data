@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01354",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-974-30",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "De Stille Nacht am Meer",
+  "zugeschriebene_werkstatt": "Hugo Van der Meer",
+  "besitzfolge": [
+    {
+      "besitzer": "Duchess Sophia van Oranje-Nassau",
+      "kaufjahr": 1825,
+      "verkocht": null
+    },
+    {
+      "besitzer": "Prince Henri van Bourbon-Paris",
+      "kaufjahr": 1850,
+      "verkocht": "to Grand Duchess Maria Alexandrovna Romanov via marriage settlement in 1875"
+    },
+    {
+      "besitzer": "Grand Duke Ludwig van Hessen-Darmstadt",
+      "kaufjahr": null,
+      "verkocht": "to Princess Eugenie of Saxony-Coburg-Gotha via inheritance in 1902"
+    }
+  ],
+  "kammervermerk": "stempel des Hausarchivs"
+}

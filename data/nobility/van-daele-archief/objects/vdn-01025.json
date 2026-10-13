@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-1025",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-698-11",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huisarchief van Hertogin Beatrix van Oranje-Nassau",
+  "vermoedelijke_meester": "Klaas Jansz van 't Loo",
+  "provenance": [
+    {
+      "persoon": "Hertog Lodewijk van Oranje-Nassau",
+      "jaar": 1650,
+      "relatie": "geërfd"
+    },
+    {
+      "persoon": "Prinses Elizabeth van Nassau",
+      "jaar": 1700,
+      "relatie": "geërfen door haar dochter"
+    },
+    {
+      "persoon": "Hertog Jan van Oranje-Nassau",
+      "jaar": 1750,
+      "relatie": "geërfd door zijn zoon"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 111.1,
+    "width": 128.4
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01277",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-591-65",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "De Erfenis van de Edelen van Valkenburg",
+  "zugeschriebene_werkstatt": "Johannes Van Der Meer",
+  "besitzfolge": {
+    "herkomst": "Erfgenamen door haar grootvader, Hendrik van Valkenburg, in het jaar 1850.",
+    "verervingen": [
+      {
+        "datum": "1885",
+        "opvolger": "Johanna van Valkenburg, weduwe van Jan Van der Meer"
+      },
+      {
+        "datum": "1920",
+        "opvolger": "Jan van Valkenburg, zoon van Hendrik van Valkenburg"
+      }
+    ],
+    "beheerders": [
+      "Hedwig van Valkenburg",
+      "Benedictus van Valkenburg"
+    ]
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

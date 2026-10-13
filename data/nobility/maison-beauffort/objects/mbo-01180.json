@@ -1,0 +1,27 @@
+{
+  "record_id": "MBO-01180",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-168-99",
+  "nature": "portrait en miniature",
+  "appellation": "Duc de Calmeval",
+  "attribue_a": "Pierre LaFleur",
+  "provenance_detaillee": [
+    {
+      "vendeur": "Honoré de Sainte-Marie",
+      "dotation_2000": true
+    },
+    {
+      "acquéreur": "François III, Duc de Calmeval",
+      "heritage_familial": true
+    },
+    {
+      "attribué": "Marie-Antoinette de Montfort",
+      "dote_luivre_1910": true
+    }
+  ],
+  "mesures": {
+    "height": 22.7,
+    "width": 281.7
+  },
+  "detenteur_precedent": "Comtesse de Warnier-Saint-Servais"
+}

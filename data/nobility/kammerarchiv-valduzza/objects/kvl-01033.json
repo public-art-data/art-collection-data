@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01033",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-268-97",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt einer Landschaft mit weitem Hause",
+  "zugeschriebene_werkstatt": "Anna van der Meer",
+  "besitzfolge": {
+    "Familie van Rijnvelt (1792-1868)": [
+      {
+        "beginn": 1820,
+        "ende": 1835
+      },
+      {
+        "beginn": 1846,
+        "ende": 1852
+      }
+    ],
+    "Familie van der Meer (1880-1947)": [
+      {
+        "beginn": 1895,
+        "ende": 1910
+      },
+      {
+        "beginn": 1923,
+        "ende": 1938
+      }
+    ]
+  },
+  "einstiger_besitzer": "Herren von Valduzza"
+}

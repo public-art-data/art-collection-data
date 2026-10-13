@@ -1,0 +1,39 @@
+{
+  "record_id": "KVL-01328",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-503-33",
+  "artefakt": "bildteppich",
+  "werktitel": "Königliche Hingabe des Kriegsliedes",
+  "zugeschriebene_werkstatt": "Dominikus Ruckert",
+  "besitzfolge": {
+    "Gründungsdatum": "1647-10-15",
+    "besitzer": [
+      {
+        "name": "Graf Adam von Eisenhart",
+        "titel": "Kriegsminister",
+        "Datum": "1655-01-01"
+      },
+      {
+        "name": "Prinzessin Helene von Walsegg",
+        "titel": "Gräfin der Gauernitz",
+        "Datum": "1683-02-15"
+      }
+    ],
+    "erbschaft": [
+      {
+        "besitzer": "Graf Adam von Eisenhart",
+        "erbe": "Königin Elisabeth von Walsegg-Eisenhart"
+      },
+      {
+        "besitzer": "König Leopold III. von Walsegg-Eisenhart",
+        "erbe": "Prinzessin Sofia von Walsegg-Gauernitz"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 159.4,
+    "width": 181.0
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

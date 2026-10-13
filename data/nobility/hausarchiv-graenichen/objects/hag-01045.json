@@ -1,0 +1,28 @@
+{
+  "record_id": "HAG-01045",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-516-61",
+  "gegenstand": "bildteppich",
+  "bezeichnung": "Dame in Blau",
+  "zugeschrieben_an": "Adelheid von Eisenhut",
+  "besitzgeschichte": [
+    {
+      "name": "Haus Eisenhut",
+      "besitzer": "Kaiserin Helena von Eisenhut",
+      "jahr": 1600
+    },
+    {
+      "name": "Haus Schwarzburg",
+      "besitzer": "Kurfürst Friedrich von Schwarzburg",
+      "jahr": 1650,
+      "besitzschluss": "Heirat"
+    },
+    {
+      "name": "Haus Wiedenhofer",
+      "besitzer": "Prinzessin Sophia von Wiedenhofer",
+      "jahr": 1750
+    }
+  ],
+  "frueherer_besitzer": "Freiherren von Graenichen",
+  "schaetzung_chf": 436000
+}

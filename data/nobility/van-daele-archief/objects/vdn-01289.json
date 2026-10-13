@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-1289",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-505-21",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Heren van de Vijf Burchten",
+  "vermoedelijke_meester": "Aldo de Vries",
+  "provenance": [
+    {
+      "type": "erfpacht",
+      "datum": "1667",
+      "gezin": "House van de Leijenhorst"
+    },
+    {
+      "type": "erfpacht",
+      "datum": "1700",
+      "gezin": "Huis van de Borghers"
+    },
+    {
+      "type": "gebruik",
+      "datum": "1815",
+      "persoon": "Graaf Constantijn van de Vijf Burchten"
+    },
+    {
+      "type": "erfopvolging",
+      "datum": "1830",
+      "gezin": "Huis van de Vijf Burchten"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

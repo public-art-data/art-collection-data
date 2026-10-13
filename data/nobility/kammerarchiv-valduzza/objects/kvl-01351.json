@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01351",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-855-49",
+  "artefakt": "marmorbueste",
+  "werktitel": "Bijdrage aan het ontwerp van 'De bloemstempel'",
+  "zugeschriebene_werkstatt": "Fleur de Marne, Gentenaar en landskunstenaar",
+  "besitzfolge": {
+    "erfgenamen": [
+      {
+        "name": "Hertogin Isabella van Monteforte",
+        "titel": "Erve van Monteforte"
+      },
+      {
+        "name": "Graaf Hendrik van Hertogenheim",
+        "titel": "Ere van Hertogenheim"
+      }
+    ],
+    "gepasseerd_van": [
+      "Fleur de Marne"
+    ],
+    "opvolging_van": null
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01024",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-105-12",
+  "objektart": "bildteppich",
+  "titel": "Privatbesitz des Adelsgeschlechts von Riedenburg",
+  "kuenstler": "Eva Morwen",
+  "provenienz": [
+    {
+      "person": "Hans-Joachim von Riedenburg",
+      "besitzer": "Privatbesitz des Adelsgeschlechts von Riedenburg"
+    },
+    {
+      "person": "Helga von Riedenburg (née von Schönau)",
+      "besitzer": "Privatbesitz des Adelsgeschlechts von Riedenburg",
+      "beigabe": "Kunstwerk erworben bei der Versteigerung von Baronin Sophia von Friesenstein"
+    },
+    {
+      "person": "Julius von Riedenburg (sohn)",
+      "besitzer": "Privatbesitz des Adelsgeschlechts von Riedenburg",
+      "erbschaft": "Erbte Kunstwerk von Vater Hans-Joachim"
+    }
+  ],
+  "masse_cm": {
+    "height": 55.2,
+    "width": 93.2
+  },
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 412000
+}

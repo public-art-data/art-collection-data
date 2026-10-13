@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01552",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-617-17",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Schilderij 'De Gezelle in de Tuin'",
+  "vermoedelijke_maker": "Willem van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "houding": "Eigendom",
+      "persoon": "Hertogin Maria van Oranje-Nassau",
+      "jaar": 1820
+    },
+    {
+      "houding": "Erfgoed",
+      "persoon": "Herenfysikus Hendrik van Limburg",
+      "jaar": 1865,
+      "verband": "Scheidt van Maria van Oranje-Nassau"
+    },
+    {
+      "houding": "Eigendom",
+      "persoon": "Prinses Sophia van Holland-Anhalt",
+      "jaar": 1950
+    }
+  ],
+  "grootte": {
+    "height": 114.2,
+    "width": 22.9
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel",
+  "marginale_notitie": "dubbele nummering"
+}

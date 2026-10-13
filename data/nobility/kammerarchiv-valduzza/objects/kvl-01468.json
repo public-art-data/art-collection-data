@@ -1,0 +1,27 @@
+{
+  "record_id": "SYN/KVL/01468",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-415-88",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt des Grafen von Würzburg",
+  "zugeschriebene_werkstatt": "Lorenzo Ferrarese",
+  "besitzfolge": [
+    {
+      "titel": "Graf zu Würzburg",
+      "herkunft": "Verwandtschaft mit dem Hause Fugger"
+    },
+    {
+      "titel": "Kontoinstanz im Hofe des Fürsters von Ortenburg",
+      "dauer": "1575-1582"
+    },
+    {
+      "titel": "Erbschaft durch Heirat mit der Tochter des Herzogs von Bayern",
+      "dauer": "1590-1660"
+    }
+  ],
+  "groesse": {
+    "height": 87.4,
+    "width": 267.3
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

@@ -1,0 +1,32 @@
+{
+  "record_id": "CCV-1001",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-301-39",
+  "categorie": "service a the en porcelaine",
+  "titre": "La Collection de la Maison Dumont",
+  "attribution": "Léonard du Château",
+  "provenance": [
+    {
+      "nom": "Maison Dumont",
+      "lieu": "Château de Montmartre",
+      "date": "1618-1642"
+    },
+    {
+      "nom": "Marie-Thérèse Dumont",
+      "lieu": "Hôtel Rambouillet",
+      "date": "1764-1793"
+    },
+    {
+      "nom": "Marie-Amélie Dumont",
+      "lieu": "Palais de Vincennes",
+      "date": "1825-1867"
+    },
+    {
+      "nom": "Édouard Dumont",
+      "lieu": "Hôtel Matignon",
+      "date": "1870-1923"
+    }
+  ],
+  "ancien_detenteur": "Comtes de Rousset-Lavandieres",
+  "notes_archivistiques": "double cotation au verso"
+}

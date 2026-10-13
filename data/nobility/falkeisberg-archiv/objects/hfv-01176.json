@@ -1,0 +1,44 @@
+{
+  "record_id": "HFV-01176-alt",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-215-37",
+  "objektart": "marmorbueste",
+  "titel": "Grafenhaus der Schattenberg",
+  "kuenstler": "Emmeline LaFleur",
+  "provenienz": {
+    "-Erbe und Vermächtnis des Grafen Leonhard von Schattenberg (1345-1392)": [
+      {
+        "Name": "Anna von Schattenberg",
+        "Titel": "Grafin"
+      },
+      {
+        "Name": "Ludwig von Wittenberg",
+        "Titel": "Kurfürst"
+      }
+    ],
+    "-Übergabe an die Enkelin der Grafen von Schattenberg (1400)": [
+      {
+        "Name": "Elisabeth Schattenberg",
+        "Titel": "Grafin"
+      }
+    ],
+    "-Erwerb durch Heirat mit dem Herzog von Ravensburg (1600)": [
+      {
+        "Name": "Katharina von Ravensburg",
+        "Titel": "Gräfin"
+      }
+    ],
+    "-Leihgabe an den Staatlichen Kunstsammlungen von Düsseldorf (1955)": [
+      {
+        "Name": "Hansjörg Schattenberg",
+        "Titel": "Bundespräsident"
+      }
+    ]
+  },
+  "masse_cm": {
+    "height": 163.2,
+    "width": 113.7
+  },
+  "vorbesitzer": "Herren von Valduzza",
+  "schaetzung_chf": 671000
+}

@@ -1,0 +1,24 @@
+{
+  "record_id": "VDN-01240_bis",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-119-77",
+  "objecttype": "miniatuurportret",
+  "benaming": "Hertogen van Salmoe",
+  "vermoedelijke_meester": "Jan van Oostrijke",
+  "provenance": [
+    {
+      "familie": "van der Meer",
+      "rol": "gekocht van Hertog Jan van Maerlant",
+      "jaar": 1650
+    },
+    {
+      "familie": "Hertogen van Salmoe",
+      "rol": "geërfd van hun voorganger, Hertog Johan van Maerlant"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 53.5,
+    "width": 134.5
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

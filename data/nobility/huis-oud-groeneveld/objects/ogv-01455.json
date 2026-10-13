@@ -1,0 +1,37 @@
+{
+  "record_id": "OGV-o1455",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-968-50",
+  "stuk": "marmeren buste",
+  "omschrijving": "Twee Reusachtige Looden met Houtsnijwerk",
+  "vermoedelijke_maker": "Lysander Veldhuizen",
+  "eigendomsgeschiedenis": {
+    "naam_eigenaar": [
+      {
+        "naam": "Heren van Arentsberg",
+        "jaren": [
+          1660,
+          1723
+        ]
+      },
+      {
+        "naam": "Heren van der Meer",
+        "jaren": [
+          1723,
+          1806
+        ]
+      }
+    ],
+    "gebeurtenissen": [
+      {
+        "gebeurtenis": "Arentsberg erfde het kunstwerk van zijn ooms",
+        "datum": "1725-01-15"
+      },
+      {
+        "gebeurtenis": "Heren van der Meer kocht het kunstwerk van Hertogin Isabella van Arentsberg",
+        "datum": "1790-06-20"
+      }
+    ]
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

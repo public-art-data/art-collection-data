@@ -1,0 +1,31 @@
+{
+  "record_id": "FCS-01357",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-596-39",
+  "type_d_objet": "portrait en miniature",
+  "titre": "Collection du Ducs de Valmy",
+  "artiste_attribue": "Léonie Lacroix",
+  "historique_de_possession": [
+    {
+      "date": "1685",
+      "domicile": "Château de Belleville, Valmy"
+    },
+    {
+      "date": "1700",
+      "successeur": "Marie-Thérèse de Hautpoulain"
+    },
+    {
+      "date": "1730",
+      "domicile": "Château de Valmy, Valmy"
+    },
+    {
+      "date": "1750",
+      "successeur": "Pierre-Antoine de Valmy"
+    },
+    {
+      "date": "1795",
+      "domicile": " Maison de la Bourdonnais, Paris"
+    }
+  ],
+  "proprietaire_precedent": "Maison de Beauffort-Orval"
+}

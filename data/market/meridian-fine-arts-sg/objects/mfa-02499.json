@@ -1,0 +1,19 @@
+{
+  "record_id": "SYN MFA 02499",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-357",
+  "object_type": "watercolour on paper",
+  "title": "Study of a kite",
+  "artist": "Vellacott",
+  "provenance": "Acquired by the estate of Lady Elara Pereira in 1937, later sold to the dealership of Aurélien Laurent in 1982 and eventually passed into the collection of Dr. Kavita Vasudev.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 1732.0,
+    "width": 1260.0
+  },
+  "estimate_sgd": {
+    "low": 18000,
+    "high": 61000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

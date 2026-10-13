@@ -1,0 +1,32 @@
+{
+  "record_id": "HFV-01311",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-555-65",
+  "objektart": "bildteppich",
+  "titel": "Privatarchive van de Valkenburgen",
+  "kuenstler": "Ludwig von Hirschfeld",
+  "provenienz": [
+    {
+      "datum": "18. Juli 1800",
+      "besitzer": "Hans-Josef von Valkenburg",
+      "grundung": "Erbschaft"
+    },
+    {
+      "datum": "1835",
+      "besitzer": "Baroness Adelheid von Falkenberg",
+      "grundung": "Eheschließung zu Hans-Josef von Falkenberg"
+    },
+    {
+      "datum": "1890",
+      "besitzer": "Ludwig von Hirschfeld",
+      "grundung": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 190.4,
+    "width": 284.3
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "schaetzung_chf": 681000,
+  "zustandsbericht": "stempel des Hausarchivs"
+}

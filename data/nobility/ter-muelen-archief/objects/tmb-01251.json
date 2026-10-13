@@ -1,0 +1,41 @@
+{
+  "record_id": "TMB-1o01251",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-882-55",
+  "soort": "tafelzilver (onderdeel)",
+  "titel": "Bijzondere schilderkunstcollectie van de Hertogin van Zuidburg",
+  "toegeschreven_aan": "Elara Vlaanderen",
+  "herkomstgeschiedenis": [
+    {
+      "titel": "Eerwijn van Oudenaarde",
+      "toegeschreven_aan": "Gillis van Leefde",
+      "herkomstgeschiedenis": [
+        "Leefdekens",
+        "Hertogin van Arkel"
+      ]
+    },
+    {
+      "titel": "Bijzondere schilderkunstcollectie van de Hertogin van Arkel",
+      "toegeschreven_aan": "Constantijn van Darmouth",
+      "herkomstgeschiedenis": [
+        "Gillis van Leefde",
+        "Hertogin van Gent"
+      ]
+    },
+    {
+      "titel": "Bijzondere schilderkunstcollectie van de Hertogin van Gent",
+      "toegeschreven_aan": "Elena van Merum",
+      "herkomstgeschiedenis": [
+        "Constantijn van Darmouth",
+        "Hertogin van Zuidburg"
+      ]
+    }
+  ],
+  "afmetingen": {
+    "height": 180.5,
+    "width": 32.2
+  },
+  "vroegere_bezitter": "Familie Van ter Muelen-Berckel",
+  "schatting": 635000,
+  "aantekening": "waszegel beschadigd"
+}

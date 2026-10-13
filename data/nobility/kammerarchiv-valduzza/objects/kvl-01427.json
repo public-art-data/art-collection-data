@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01427",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-965-24",
+  "artefakt": "marmorbueste",
+  "werktitel": "Jonge Nacht op de Wijze Heren",
+  "zugeschriebene_werkstatt": "Pieter van de Vijfde Sterren",
+  "besitzfolge": [
+    {
+      "erfgeneer": "Hertogin Isabella van Oranje-Vlaanderen",
+      "gekocht_van": "Schatmeester François Brouwer (Dienst der Prinses Elisabeth)",
+      "datum_koop": "1577-12-15"
+    },
+    {
+      "erfgeneer": "Hertog Jan van Nassau",
+      "geërfd_van": "Zijne Hoge Mogendheid de Prinses Margareta van Oranje-Nassau",
+      "datum_erf": "1612-06-01"
+    },
+    {
+      "verkocht_aan": "Kardinal Lodewijk van Bourbon",
+      "datum_verkoop": "1668-02-25"
+    }
+  ]
+}

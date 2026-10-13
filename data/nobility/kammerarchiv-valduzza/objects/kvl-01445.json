@@ -1,0 +1,37 @@
+{
+  "record_id": "KVL-01445",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-537-88",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "De Nachtwacht van Graafin Isabella de Jonge",
+  "zugeschriebene_werkstatt": "Ludwigus van der Kaste",
+  "besitzfolge": [
+    {
+      "erbelein": true,
+      "opvolger": null,
+      "personen": [
+        {
+          "name": "Graafin Isabella de Jonge",
+          "geboortejaar": 1700,
+          "overledenjaar": 1765
+        },
+        {
+          "name": "Hertogin Elisabeth van Oranje-Nassau",
+          "geboortejaar": 1725,
+          "overledenjaar": 1810
+        }
+      ]
+    },
+    {
+      "erbelein": false,
+      "opvolger": true,
+      "personen": [
+        {
+          "name": "Hertog Hendrik van Oranje-Nassau",
+          "geboortejaar": 1750,
+          "overledenjaar": 1825
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01088",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-772-5",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Privatbibliothek des Hauses von Waldburg",
+  "kuenstler": "Ferdinand von der Linden",
+  "provenienz": {
+    "Geschichte": "Erworben 1865 durch Erbfolge von Grafen Friedrich Wilhelm von Waldburg. 1890 an Baronin Helena von Schnitzel gegeben, als Teil ihres Vermächtnisses.",
+    "Besitzer": [
+      {
+        "Name": "Grafen von Waldburg",
+        "Jahr": 1865
+      },
+      {
+        "Name": "Baronin Helena von Schnitzel",
+        "Jahr": 1890
+      },
+      {
+        "Name": "Herr Hugo von Schönau",
+        "Jahr": 1923
+      }
+    ]
+  },
+  "vorbesitzer": "Herren von Valduzza"
+}

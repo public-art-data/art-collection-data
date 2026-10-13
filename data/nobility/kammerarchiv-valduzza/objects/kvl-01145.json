@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-1001145",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-489-8",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Porträt des Adlers",
+  "zugeschriebene_werkstatt": "F. Trautmann",
+  "besitzfolge": [
+    {
+      "datum": "1687-01-15",
+      "besitzer": "Haus von Harraschau"
+    },
+    {
+      "datum": "1692-05-10",
+      "besitzer": "Anna Helena van Harraschau, Erbin"
+    },
+    {
+      "datum": "1705-03-20",
+      "besitzer": "Graf von Harraschau und Königstein, Carl Wilhelm I."
+    }
+  ],
+  "kammervermerk": "doppelt nummeriert"
+}

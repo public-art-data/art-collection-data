@@ -1,0 +1,34 @@
+{
+  "record_id": "KVL-01182",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-411-12",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Die Eleganz der Nacht",
+  "zugeschriebene_werkstatt": "Ludwig van Hagenheim",
+  "besitzfolge": {
+    "Erstbesitzer": "Familie von Altburg",
+    "Vorfahren": [
+      {
+        "Name": "Hermann von Altburg",
+        "Jahr": 1700
+      },
+      {
+        "Name": "Elisabeth von Altburg",
+        "Jahr": 1750,
+        "Geschlecht": "Ehefrau von Karl von Schlossau"
+      }
+    ],
+    "Besitzübergang": [
+      {
+        "Vom": "Karl von Schlossau",
+        "Zu": "Familie von Altburg",
+        "Jahr": 1850
+      }
+    ]
+  },
+  "groesse": {
+    "height": 184.4,
+    "width": 165.8
+  },
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

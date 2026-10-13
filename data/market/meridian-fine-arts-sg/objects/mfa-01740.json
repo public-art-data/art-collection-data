@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-01740",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-211",
+  "object_type": "lithograph",
+  "title": "Riverside, Hoi An",
+  "artist": "Chatterji-Rao",
+  "provenance": "Collection of the late Dato' R. Sivanathan, acquired 1948; Meridian Fine Arts Auctioneers, lot 199, 1972; thence by descent to Collection of the late Dato' R. Sivanathan.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1521.0,
+    "width": 2081.0
+  },
+  "estimate_sgd": {
+    "low": 24000,
+    "high": 150000
+  }
+}

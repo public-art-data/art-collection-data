@@ -1,0 +1,35 @@
+{
+  "record_id": "OGV-01184",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-770-89",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Triomfele Galerij",
+  "vermoedelijke_maker": "Dominique Dumont",
+  "eigendomsgeschiedenis": [
+    {
+      "gebeurtenis": "Erfopvolging",
+      "jaar": 1740,
+      "eigenaar": "Baroness Elara van der Meer"
+    },
+    {
+      "gebeurtenis": "Omgift",
+      "jaar": 1803,
+      "eigenaar": "Prince Floris van den Berghe"
+    },
+    {
+      "gebeurtenis": "Erfscheiding",
+      "jaar": 1880,
+      "eigenaar": "Prinsessin Isabella van den Berghe"
+    },
+    {
+      "gebeurtenis": "Legaat",
+      "jaar": 1920,
+      "eigenaar": "Hertogin Beatrix van Leeuw"
+    }
+  ],
+  "grootte": {
+    "height": 140.0,
+    "width": 237.1
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

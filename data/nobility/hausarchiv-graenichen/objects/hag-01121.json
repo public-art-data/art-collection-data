@@ -1,0 +1,28 @@
+{
+  "record_id": "HAG-01121",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-802-63",
+  "gegenstand": "silbernes schreibzeug",
+  "bezeichnung": "Duchess Marie-Thérèse von Helios",
+  "zugeschrieben_an": "Élisabeth LaFleur",
+  "besitzgeschichte": [
+    {
+      "jahr": 1770,
+      "besitzer": "Grafin von Sternberg"
+    },
+    {
+      "jahr": 1785,
+      "besitzer": "Fürstin von Waldenburg"
+    },
+    {
+      "jahr": 1810,
+      "besitzer": "Duchess Maria Anna von Helios"
+    },
+    {
+      "jahr": 1830,
+      "besitzer": "Élisabeth LaFleur"
+    }
+  ],
+  "frueherer_besitzer": "Herren von Falkeisberg",
+  "schaetzung_chf": 441000
+}

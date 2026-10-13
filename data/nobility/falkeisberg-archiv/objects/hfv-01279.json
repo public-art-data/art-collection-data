@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01279",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-214-22",
+  "objektart": "bildteppich",
+  "titel": "Privatbibliothek der Grafen von Waldenburg",
+  "kuenstler": "Ludwig von Hohenstein",
+  "provenienz": [
+    {
+      "herkunft": "Ludwig von Hohenstein",
+      "datum": "1740",
+      "beschreibung": "Geboren in Göttingen, Sohn von Graf Friedrich von Hohenstein und Gräfin Sophia von Schleswig-Holstein"
+    },
+    {
+      "herkunft": "Gräfin Anna von Waldenburg",
+      "datum": "1765",
+      "beschreibung": "Gefühlt heiratet mit Graf Wilhelm von Waldenburg, Sohn von Graf Johann von Waldenburg und Gräfin Elisabeth von Württemberg"
+    },
+    {
+      "herkunft": "Graf Wilhelm von Waldenburg",
+      "datum": "1785",
+      "beschreibung": "Übernahm die Privatbibliothek von seinem Vater Graf Johann von Waldenburg, der sie von seiner Großmutter Gräfin Sophia von Schleswig-Holstein geerbt hatte"
+    }
+  ],
+  "masse_cm": {
+    "height": 115.6,
+    "width": 157.7
+  },
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 7000
+}

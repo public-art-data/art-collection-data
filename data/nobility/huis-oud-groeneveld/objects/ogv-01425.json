@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01425",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-187-3",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Schilderij 'De zonsondergang op de tuin van de Huis van Vollenhove'",
+  "vermoedelijke_maker": "Klaas Jansz van Middelburg",
+  "eigendomsgeschiedenis": [
+    {
+      "begin_jaar": 1650,
+      "eigendoms_naam": "Hertogin Maria van Vollenhove",
+      "overdracht_van": "Heren van Eijk en Brouwer"
+    },
+    {
+      "begin_jaar": 1685,
+      "eigendoms_naam": "Prins Lodewijk van Vollenhove",
+      "overdracht_van": "Zijn moeder, Hertogin Maria"
+    },
+    {
+      "begin_jaar": 1750,
+      "eigendoms_naam": "Gravin Anna van Vollenhove",
+      "overdracht_van": "Heren van Montfoort en Beijer"
+    }
+  ],
+  "grootte": {
+    "height": 17.9,
+    "width": 166.5
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel",
+  "marginale_notitie": "kreuk in perkament"
+}

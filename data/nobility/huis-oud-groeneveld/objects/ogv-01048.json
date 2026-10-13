@@ -1,0 +1,25 @@
+{
+  "record_id": "OGV-01048",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-912-27",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Porselein Portret van Adelaïde van Hertogin",
+  "vermoedelijke_maker": "Eline De Vries",
+  "eigendomsgeschiedenis": [
+    {
+      "datum": "1785",
+      "eigenaar": "Hertogin Beatrix van Brabant",
+      "toevallende_aankoop": true
+    },
+    {
+      "datum": "1810",
+      "eigenaar": "Gravin Elara van Oudenaarde",
+      "opgevolgd_door": false
+    },
+    {
+      "datum": "1850",
+      "eigenaar": "Herenfamilie Van Der Meer",
+      "overgedragen_op": true
+    }
+  ]
+}

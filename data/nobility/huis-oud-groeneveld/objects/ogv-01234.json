@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01234",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-992-43",
+  "stuk": "devotiebeeld",
+  "omschrijving": "De Zeevaarder",
+  "vermoedelijke_maker": "Lysander van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "periode": "16e eeuw",
+      "eigenaar": "Hertogin Isabella van Valkenburg",
+      "opvolging": "Gezegend door haar erfgenamen, de Van der Meer-familie"
+    },
+    {
+      "periode": "17e eeuw",
+      "eigenaar": "Luitenant-generaal Pieter van der Meer",
+      "opvolging": "Overgedragen aan zijn zoon, Lysander van der Meer, op wie de titel naast de schilderij geëerd wordt"
+    },
+    {
+      "periode": "18e eeuw",
+      "eigenaar": "Prinses Sophia van Valkenburg",
+      "opvolging": "Opgelegd aan haar neef, Hendrik van der Meer, die hem later als erfgenaam aannam"
+    }
+  ],
+  "grootte": {
+    "height": 113.5,
+    "width": 129.9
+  }
+}

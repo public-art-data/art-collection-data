@@ -1,0 +1,31 @@
+{
+  "record_id": "TMB-01225",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-480-68",
+  "soort": "tafelzilver (onderdeel)",
+  "titel": "Privé-Sammlung van de Hertoginnen van Valkenburg",
+  "toegeschreven_aan": "Lysander De Wijnvogel",
+  "herkomstgeschiedenis": [
+    {
+      "persoon": "Adriaan van der Meer",
+      "gebeurtenis": "Overname van de collectie door Adriaan van der Meer in 1663",
+      "toestand": "Niet verkocht"
+    },
+    {
+      "persoon": "Helena van Valkenburg",
+      "gebeurtenis": "Vererving van de collectie na het overlijden van Adriaan van der Meer in 1700",
+      "toestand": "Overgedragen aan Helena"
+    },
+    {
+      "persoon": "Leonardus van Valkenburg",
+      "gebeurtenis": "Acquisitie door Leonardus van Valkenburg via huwelijk met Helena van Valkenburg in 1720",
+      "toestand": "Niet verkocht"
+    }
+  ],
+  "afmetingen": {
+    "height": 12.3,
+    "width": 83.6
+  },
+  "vroegere_bezitter": "Familie Van ter Muelen-Berckel",
+  "aantekening": "waszegel beschadigd"
+}

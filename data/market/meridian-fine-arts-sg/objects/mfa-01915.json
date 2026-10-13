@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01915",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-292",
+  "object_type": "lithograph",
+  "title": "Riverside, Punggol",
+  "artist": "Thornquist",
+  "provenance": "Sold to Elara Vex in 2017 by estate of Kaida Yamato and prior sale to dealer Haruo Nakamura",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 728.0,
+    "width": 2316.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 36000,
+    "high": 82000
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-1001486",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-918-99",
+  "objecttype": "miniatuurportret",
+  "benaming": "Huis van de Valkenburgh",
+  "vermoedelijke_meester": "Quintus Vandermeeren",
+  "provenance": [
+    {
+      "naam": "Huis van de Valkenburgh",
+      "jaar": 1675,
+      "geschenk": "Van haar moeder, Gravin Constantia van der Meer"
+    },
+    {
+      "naam": "Gravin Constantia van der Meer",
+      "jaar": 1650,
+      "gebruikt": "Als erfgenaam van haar vader, Prins Edvard van der Meer"
+    },
+    {
+      "naam": "Prins Edvard van der Meer",
+      "jaar": 1625,
+      "opkocht": "Van zijn ooms, Hertogin Helena van de Valkenburgh"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 121.9,
+    "width": 137.4
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

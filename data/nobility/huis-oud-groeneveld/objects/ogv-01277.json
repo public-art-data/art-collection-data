@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-1o01277",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-497-55",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "Schilderij 'De storm op zezeen'",
+  "vermoedelijke_maker": "Hendrik van den Duinen",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Huis Van der Meer",
+      "beschrijving": "Privé-verzameling",
+      "jaar": 1700,
+      "gevolgd door": [
+        {
+          "titel": "Hertogin Isabella van Montague",
+          "beschrijving": "Erfgename",
+          "jaar": 1750
+        },
+        {
+          "titel": "Koning Filips II van Vlaanderen",
+          "beschrijving": "Vererfde",
+          "jaar": 1850
+        }
+      ]
+    }
+  ],
+  "grootte": {
+    "height": 113.2,
+    "width": 298.7
+  },
+  "marginale_notitie": "dubbele nummering"
+}

@@ -1,0 +1,35 @@
+{
+  "record_id": "HFV-1001205",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-215-28",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Familienarchiv der Grafen von Schattenburg",
+  "kuenstler": "Juliane Ritterlinge",
+  "provenienz": [
+    {
+      "person": "Graf Philipp von Schattenburg (1735-1800)",
+      "date": "1760",
+      "event": "Erbschaft"
+    },
+    {
+      "person": "Gräfin Maria Eleonore zu Wolfenhagen (1773-1842)",
+      "date": "1790",
+      "event": "Ehe mit Grafen von Schattenburg"
+    },
+    {
+      "person": "Graf Franz Joseph von Schattenburg (1805-1870)",
+      "date": "1820",
+      "event": "Erbschaft"
+    },
+    {
+      "person": "Gräfin Adelheid zu Hohenstaufen (1845-1923)",
+      "date": "1865",
+      "event": "Ehe mit Grafen von Schattenburg"
+    }
+  ],
+  "masse_cm": {
+    "height": 67.9,
+    "width": 101.8
+  },
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

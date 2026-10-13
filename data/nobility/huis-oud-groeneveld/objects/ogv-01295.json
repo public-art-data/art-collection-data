@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01295",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-587-96",
+  "stuk": "miniatuurportret",
+  "omschrijving": "De 'Gouden Lente' schilderij",
+  "vermoedelijke_maker": "Hendrik van den Berg",
+  "eigendomsgeschiedenis": [
+    {
+      "gezin": "Huis van Oranje-Nassau-Zwijndrecht",
+      "vergeten_koop_van": null,
+      "gebruiker": "Prins Constantijn van Oranje-Nassau-Zwijndrecht"
+    },
+    {
+      "gezin": "Hertogin Elisabeth van Hohenlohe-Langenburg",
+      "gegeven_op": 1750,
+      "vergeten_koop_van": null
+    },
+    {
+      "gezin": "Graf Hendrik van Merenberg-Ensch",
+      "vergeten_koop_van": 1785,
+      "vergeleken_met": "De 'Zonsondergang' schilderij",
+      "gebruiker": "Prins Willem van Oranje-Nassau-Zwijndrecht"
+    }
+  ],
+  "grootte": {
+    "height": 181.8,
+    "width": 122.1
+  },
+  "vorige_eigenaar": "Familie Van Daele-Nuytens",
+  "marginale_notitie": "potloodaantekening: 'uit de boedel van 1852'"
+}

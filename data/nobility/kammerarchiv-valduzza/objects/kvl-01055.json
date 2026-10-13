@@ -1,0 +1,33 @@
+{
+  "record_id": "KVL-01055",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-667-20",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Porträt der Gräfin Elisabeth von Wartenberg",
+  "zugeschriebene_werkstatt": "Ferdinand van der Meer",
+  "besitzfolge": {
+    "Erstbesitzer": {
+      "Name": "Rudolf von Wachenheim",
+      "Titel": " Graf"
+    },
+    "Übertragung": [
+      {
+        "Datum": "1648",
+        "Beschreibung": "Nach dem Tod von Graf Rudolf von Wachenheim wurde der Porträt der Gräfin Elisabeth von Wartenberg an seine Tochter, die Gräfin Anna von Wachenheim, gegeben."
+      },
+      {
+        "Datum": "1682",
+        "Beschreibung": "Gräfin Anna von Wachenheim vermählte sich mit Graf Maximilian von Hohenburg und übertrug den Porträt an ihren Bruder Graf Heinrich von Wachenheim als Erbfolge."
+      }
+    ],
+    "aktuelle_Eigentümerin": {
+      "Name": "Gräfin Sofia von Wachtenheim",
+      "Titel": "Gräfin"
+    }
+  },
+  "groesse": {
+    "height": 88.2,
+    "width": 107.1
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

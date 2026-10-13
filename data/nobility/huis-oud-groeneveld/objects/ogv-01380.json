@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-01380",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-855-34",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Portret van een Adelaar",
+  "vermoedelijke_maker": "Lysander de Vries",
+  "eigendomsgeschiedenis": [
+    {
+      " naam": "Huis Oranje-Nassau",
+      " jaar": 1650,
+      "beschrijving": "Kocht door Staat van Oranje"
+    },
+    {
+      " naam": "Staats van Oranje",
+      " jaar": 1750,
+      "beschrijving": "Erfdeelt het schilderij aan Huis Bentheim"
+    },
+    {
+      " naam": "Huis Bentheim",
+      " jaar": 1850,
+      "beschrijving": "Erft het schilderij van Staat van Oranje door huwelijk"
+    }
+  ],
+  "grootte": {
+    "height": 84.6,
+    "width": 182.0
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

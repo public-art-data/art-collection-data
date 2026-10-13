@@ -1,0 +1,40 @@
+{
+  "record_id": "OGV-01306",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-796-26",
+  "stuk": "miniatuurportret",
+  "omschrijving": "De Kasteelzalen van de Huis Van den Bergen",
+  "vermoedelijke_maker": "Karel van Steenwijk",
+  "eigendomsgeschiedenis": [
+    {
+      "datum": "1723",
+      "eigenaar": "Adriaan Van den Bergen"
+    },
+    {
+      "datum": "1750",
+      "gebruikster": "Maria Magdalena Van den Bergen (vrouw van Hendrik Van den Bergen)"
+    },
+    {
+      "datum": "1785",
+      "eigenaar": "Hendrik Van den Bergen"
+    },
+    {
+      "datum": "1815",
+      "eigenaar": "Philippa Van den Bergen (vrouw van Pieter Van den Bergen)"
+    },
+    {
+      "datum": "1830",
+      "eigenaar": "Pieter Van den Bergen"
+    },
+    {
+      "datum": "1860",
+      "eigenaar": "Maria Isabella Van den Bergen (nietje van Hendrik Van der Linden)"
+    }
+  ],
+  "grootte": {
+    "height": 24.5,
+    "width": 35.6
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel",
+  "marginale_notitie": "kreuk in perkament"
+}

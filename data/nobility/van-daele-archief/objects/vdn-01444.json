@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-01444",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-405-46",
+  "objecttype": "kabinetklok",
+  "benaming": "Kunstverzameling van Graaf Hendrik de Vries",
+  "vermoedelijke_meester": "Pieter van der Meulen",
+  "provenance": [
+    {
+      "geslacht": "Graaf Hendrik de Vries",
+      "jaar": 1650,
+      "omstandigheden": "Erfde van zijn vader"
+    },
+    {
+      "geslacht": "Hertogin Beatrix van Oranje-Nassau",
+      "jaar": 1750,
+      "omstandigheden": "Spuurde bij huwelijk met Graaf Lodewijk van Limburg"
+    },
+    {
+      "geslacht": "Prinses Adelaïde van Saksen-Coburg en Gotha",
+      "jaar": 1900,
+      "omstandigheden": "Erfde van haar overleden zoon"
+    }
+  ]
+}

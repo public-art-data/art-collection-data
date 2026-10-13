@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01201",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-448-81",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Bibliothek des Adeligen Hauses von Eisenhart",
+  "kuenstler": "Eva Lysander",
+  "provenienz": [
+    {
+      "besitzer": "Adelin von Eisenhart",
+      "Datum": "1500-01-01"
+    },
+    {
+      "besitzer": "Werner II. von Eisenhart",
+      "Datum": "1700-06-15",
+      "Vergleichtung": "Erbe"
+    },
+    {
+      "besitzer": "Elara Eisenhart",
+      "Datum": "1750-08-20",
+      "Vergleichtung": "Ehe"
+    }
+  ],
+  "masse_cm": {
+    "height": 182.8,
+    "width": 152.9
+  },
+  "vorbesitzer": "Grafen von Wassenfeld",
+  "schaetzung_chf": 650000
+}

@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01517",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-894-83",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Das Fünfsterne-Nacht",
+  "zugeschriebene_werkstatt": "Dame Adélaïde LaFleur",
+  "besitzfolge": {
+    "Haus von Wülfendorf": [
+      {
+        "besitzer": "Friedrich, Herzog von Wülfendorf",
+        "jahr": 1850
+      },
+      {
+        "besitzer": "Adelheid, Herzogin von Wülfendorf",
+        "jahr": 1885
+      }
+    ],
+    "Geschlecht von Schattenberg": [
+      {
+        "erbe": "Ludwig, Graf von Schattenberg",
+        "jahr": 1900
+      },
+      {
+        "besitzer": "Hedwig, Gräfin von Schattenberg",
+        "jahr": 1920
+      }
+    ]
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

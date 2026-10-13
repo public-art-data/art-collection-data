@@ -1,0 +1,17 @@
+{
+  "record_id": "CSV-00060",
+  "origen": "Sala de Subastas Vilar y Compania, Zaragoza, Espania",
+  "lote_numero": "CSV-144/1987",
+  "tipo_de_objeto": "escultura en cantera",
+  "titulo": "Estudio de maguey",
+  "artista": "L. Iturbe-Quevedo",
+  "dimensiones_cm": {
+    "height": 134.7,
+    "width": 129.0
+  },
+  "antiguo_propietario": {
+    "name": "L. Olivares del Vale",
+    "born": 1939,
+    "acquired": 1907
+  }
+}

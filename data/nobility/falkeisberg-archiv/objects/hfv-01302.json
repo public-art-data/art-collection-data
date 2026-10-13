@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-1001302",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-238-69",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Familienarchiv der Grafen von Schönau",
+  "kuenstler": "Ludwig von Eisenstadt",
+  "provenienz": [
+    {
+      "person": "Hermann, Graf von Schönau",
+      "beigebung": "1860"
+    },
+    {
+      "person": "Marie, Gräfinin von Schönau (Tochter Hermanns)",
+      "beigebung": "1885"
+    },
+    {
+      "person": "Johannes, Graf von Schönau (Sohn Marie's)",
+      "beigebung": "1910"
+    }
+  ],
+  "masse_cm": {
+    "height": 104.8,
+    "width": 243.4
+  },
+  "vorbesitzer": "Freiherren von Staufenried"
+}

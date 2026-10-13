@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-01097",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-692-40",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt des Grafen von Eisenstadt",
+  "zugeschriebene_werkstatt": "Ferdinand Wüst",
+  "besitzfolge": [
+    {
+      "besitzer": "Haus Harthausen",
+      "besitzbeginn": "18. Jahrhundert"
+    },
+    {
+      "besitzer": "Haus Eisenstadt",
+      "besitzübertragung": "Erbe von Grafen Adalbert Harthausen"
+    }
+  ],
+  "groesse": {
+    "height": 101.8,
+    "width": 104.0
+  }
+}

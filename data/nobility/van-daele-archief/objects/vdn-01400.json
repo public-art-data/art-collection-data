@@ -1,0 +1,28 @@
+{
+  "record_id": "VDN-01400",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-446-77",
+  "objecttype": "kabinetklok",
+  "benaming": "Kastiel van Wyck",
+  "vermoedelijke_meester": "Willem Valkenburg",
+  "provenance": [
+    {
+      "dateraad": "1723-1800",
+      "eigendomsoordelaar": "Hertogin van Valkenberg, Catharina van Wyck"
+    },
+    {
+      "dateraad": "1800-1900",
+      "eigendomsoordelaar": "Baron van Valkenberg, Lucas van Wyck"
+    },
+    {
+      "dateraad": "1900-1950",
+      "eigendomsoordelaar": "Heer van Valkenberg, Gerard van Wyck"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 133.2,
+    "width": 285.8
+  },
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel",
+  "schatting": 523000
+}

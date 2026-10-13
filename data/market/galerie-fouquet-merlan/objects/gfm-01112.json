@@ -1,0 +1,18 @@
+{
+  "record_id": "GFM-01112",
+  "source": "Galerie Fouquet-Merlan, Paris",
+  "numero_inventaire": "FM-1828",
+  "type_dobjet": "technique mixte",
+  "titre": "Sans titre (lavandiere)",
+  "artiste": "C. Ferrand-Brivazac",
+  "dimensions_cm": {
+    "height": 58.3,
+    "width": 103.1
+  },
+  "ancien_proprietaire": {
+    "name": "M. Housset",
+    "born": 1942,
+    "acquired": 1887
+  },
+  "periode": "fin du XIXe"
+}

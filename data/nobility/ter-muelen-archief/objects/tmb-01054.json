@@ -1,0 +1,33 @@
+{
+  "record_id": "TMB-01054",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-411-29",
+  "soort": "tafelzilver (onderdeel)",
+  "titel": "Hertoghelijk archief van de familie Van der Meer",
+  "toegeschreven_aan": "Lena van der Meer-Kolkers",
+  "herkomstgeschiedenis": [
+    {
+      "titel": "Ingepind in het hertogelijk archief van Van der Meer",
+      "toegeschreven_aan": null,
+      "herkomstgeschiedenis": [
+        "Erftoorname van Hertoch van Wieringen, 1750"
+      ]
+    },
+    {
+      "titel": "Overschoven naar het archief van de familie Van der Meer-Kolkers",
+      "toegeschreven_aan": null,
+      "herkomstgeschiedenis": [
+        "Echteling van Koningin Beatrix I, 1850"
+      ]
+    },
+    {
+      "titel": "Geërfen van Hertogin Wilhelmina II",
+      "toegeschreven_aan": "Lena van der Meer-Kolkers",
+      "herkomstgeschiedenis": [
+        "Erftoorname, 1900"
+      ]
+    }
+  ],
+  "vroegere_bezitter": "Familie Van Daele-Nuytens",
+  "schatting": 212000
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "CCV-01015",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-730-11",
+  "categorie": "objet devotionnel",
+  "titre": "Collection de la Maison de Roubaix",
+  "attribution": "Pierre Léon Étienne",
+  "provenance": [
+    {
+      "date": "1720",
+      "propriétaire": "François LeFleur, 1er Comte de Roubaix"
+    },
+    {
+      "date": "1735",
+      "propriétaire": "Françoise LeFleur, épouse du comte"
+    },
+    {
+      "date": "1750",
+      "héritage": "LeFleur, Jacques, fils du comte"
+    },
+    {
+      "date": "1780",
+      "héritage": "LeFleur, Henri, frère de Jacques"
+    }
+  ],
+  "ancien_detenteur": "Maison de Villierscourt"
+}

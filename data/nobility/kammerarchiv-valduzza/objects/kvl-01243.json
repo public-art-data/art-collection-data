@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-2001243",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-271-87",
+  "artefakt": "bildteppich",
+  "werktitel": "Die Sternenstadt",
+  "zugeschriebene_werkstatt": "Ludwig von Eisenhut",
+  "besitzfolge": [
+    {
+      "name": "Haus Schönberg",
+      "besitzer": "Leopold Schönberg, Erbfürst"
+    },
+    {
+      "name": "Haus Schönberg",
+      "besitzer": "Helene von Schönberg, Witwe"
+    },
+    {
+      "name": "Haus von Eisenhut",
+      "besitzer": "Ludwig von Eisenhut, Sohn des Erbfolger"
+    }
+  ],
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

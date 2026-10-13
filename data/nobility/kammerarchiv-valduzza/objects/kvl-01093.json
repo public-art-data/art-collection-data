@@ -1,0 +1,33 @@
+{
+  "record_id": "KVL-01093",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-872-70",
+  "artefakt": "miniaturportrait",
+  "werktitel": "De Tijl van 't Land",
+  "zugeschriebene_werkstatt": "Lucien Vannequin",
+  "besitzfolge": {
+    "Erstes Eigentum": [
+      {
+        "datum": "1677",
+        "besitzer": "Graafin van Beieren-Regensburg, Adelheid zu Württemberg"
+      },
+      {
+        "datum": "1692",
+        "erben": "Karl I., Markgraf von Baden-Durlach und seine Gemahlin, Gräfin Maria Anna von Lobenstein"
+      },
+      {
+        "datum": "1738",
+        "vererbt": "Ferdinand III., Herzog zu Braunschweig-Wolfenbüttel und sein Erbe"
+      },
+      {
+        "datum": "1835",
+        "vererbt": "Rudolf I., Baron von Römerstein und seine Schwiegerin, Gräfin Eugenie zu Stolberg-Gedern"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 111.4,
+    "width": 134.6
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

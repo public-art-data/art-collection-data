@@ -1,0 +1,31 @@
+{
+  "record_id": "FCS-01320",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-871-82",
+  "type_d_objet": "objet devotionnel",
+  "titre": "Collection des Chevaliers d'Arpente",
+  "artiste_attribue": "Claude Laurent LeFleur",
+  "historique_de_possession": [
+    {
+      "date": 1721,
+      "nom_du_noble": "Baron de Rousselmont",
+      "commentaire": "Acquisition initiale par le Baron de Rousselmont, fils d'Antoine LeFleur"
+    },
+    {
+      "date": 1750,
+      "nom_du_noble": "Comte de Valmy-Montigny",
+      "commentaire": "Achat du tableau par le Comte de Valmy-Montigny, marié à la fille aînée du Baron de Rousselmont"
+    },
+    {
+      "date": 1850,
+      "nom_du_noble": "Marquis de Varennes-Lesbos",
+      "commentaire": "Héritage perpétuel par le Marquis de Varennes-Lesbos, fils du Comte de Valmy-Montigny"
+    },
+    {
+      "date": 1920,
+      "nom_du_noble": "Duc de Montauban-Royères",
+      "commentaire": "Achat par le Duc de Montauban-Royères, grand-père du Marquis de Varennes-Lesbos"
+    }
+  ],
+  "proprietaire_precedent": "Maison de Villierscourt"
+}

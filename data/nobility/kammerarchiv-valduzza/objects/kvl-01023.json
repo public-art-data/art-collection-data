@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-1001023",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-479-52",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträtsaal des Hauses von Harrach-Weissenburg",
+  "zugeschriebene_werkstatt": "Katharina Müller und Söhne",
+  "besitzfolge": {
+    "Harrach-Weissenburg (1775 - 1820)": [
+      "Herrn Franz von Harrach-Weissenburg (1775)",
+      "Erbfreundin Gräfin Sophie von Hohenberg (1797)",
+      "Nachkommen der Familie von Harrach-Weissenburg"
+    ],
+    "Gräfin Sophie von Hohenberg (1820 - 1850)": [
+      "Herrn Philipp zu Stolberg-Stolzenburg (1832)",
+      "Erbfreundin Gräfin Friederike von Schönberg-Hassfurt (1865)"
+    ],
+    "Gräfin Friederike von Schönberg-Hassfurt (1850 - 1880)": [
+      "Herrn Konrad zu Bärenfels-Lichtenau (1872)",
+      "Nachkommen der Familie von Schönberg-Hassfurt"
+    ]
+  },
+  "groesse": {
+    "height": 64.3,
+    "width": 130.9
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

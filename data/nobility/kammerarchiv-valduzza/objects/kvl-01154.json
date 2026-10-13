@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01154",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-262-80",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt des Herzogs von Eisenheim",
+  "zugeschriebene_werkstatt": "Kaija Valtanen",
+  "besitzfolge": [
+    {
+      "hersteller": "Die Grafen von Windsburg",
+      "erwerbung_jahr": 1702,
+      "beschreibung": "Erworben durch den Sohn des ersten Besitzers, Graf Johann von Windsburg"
+    },
+    {
+      "hersteller": "Die Markgräfinen von Hohenfels",
+      "übertragung_jahr": 1754,
+      "beschreibung": "Übertragen als Teil ihrer Erbschaft an ihre Tochter, die Herzogin von Eisenheim"
+    }
+  ],
+  "groesse": {
+    "height": 106.6,
+    "width": 243.0
+  }
+}

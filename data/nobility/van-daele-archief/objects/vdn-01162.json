@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-1001162",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-933-10",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Heren van Vollenhove",
+  "vermoedelijke_meester": "Joost van der Molen",
+  "provenance": [
+    {
+      "datum": 1600,
+      "eigenaar": "Graaf Hendrik van Vollenhove"
+    },
+    {
+      "datum": 1650,
+      "eigenaar": "Hertogin Elisabeth van Vollenhove (ouderzijn van Graaf Hendrik's zuster)"
+    },
+    {
+      "datum": 1750,
+      "eigenaar": "Prins Lodewijk van Vollenhove"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 194.4,
+    "width": 108.1
+  }
+}

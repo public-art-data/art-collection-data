@@ -1,0 +1,32 @@
+{
+  "record_id": "HAG-01039",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-645-91",
+  "gegenstand": "andachtsbild in rahmen",
+  "bezeichnung": "Diana-Portrait",
+  "zugeschrieben_an": "Helena Wüstendörffer",
+  "besitzgeschichte": [
+    {
+      "haus": "Schloss Friedenstein",
+      "person": "Leopold von Schwerin",
+      "zeitraum": "1690-1720"
+    },
+    {
+      "haus": "Schloss Friedenstein",
+      "person": "Helga von Schwerin",
+      "zeitraum": "1720-1750"
+    },
+    {
+      "haus": "Schloss Friedenstein",
+      "person": "Gottfried von Schwerin",
+      "zeitraum": "1750-1800"
+    },
+    {
+      "haus": "Schloss Friedenstein",
+      "person": "Adelheid von Schwerin",
+      "zeitraum": "1800-1850"
+    }
+  ],
+  "schaetzung_chf": 739000,
+  "bemerkungen": "doppelt nummeriert"
+}

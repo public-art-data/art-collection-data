@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01180",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-472-88",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Elegie an die Stille Nacht",
+  "zugeschriebene_werkstatt": "F. Kesselring",
+  "besitzfolge": [
+    {
+      "grundung": "1820",
+      "erstverwaltung": "Haus Hohenkronstein",
+      "nachfolger_in": "Familie von Eisenhardt"
+    },
+    {
+      "grundung": "1860",
+      "erstverwaltung": "Familie von Eisenhardt",
+      "nachfolger_in": "Gräfin Adelheid von Wilmont"
+    },
+    {
+      "grundung": "1912",
+      "erstverwaltung": "Gräfin Adelheit von Wilmont",
+      "nachfolger_in": "Baronin Margarethe von Schlossberg"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

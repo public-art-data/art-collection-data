@@ -1,0 +1,39 @@
+{
+  "record_id": "KVL-01148",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-656-83",
+  "artefakt": "miniaturportrait",
+  "werktitel": "De Schonheid der Nacht",
+  "zugeschriebene_werkstatt": "Aurelius Wystan",
+  "besitzfolge": [
+    {
+      "titel": "Kontoinstitut zu Schönburg",
+      "erben_in": [
+        {
+          "name": "Prinzessin Helga von Hohenstein",
+          "beziehung": "Ehefrau"
+        },
+        {
+          "name": "Prinz Rudolf von Sickingen",
+          "beziehung": "Ehemann"
+        }
+      ],
+      "besitz_vorher": [
+        {
+          "name": "Kontoinstitut zu Ehrenburg",
+          "erben_in": [
+            {
+              "name": "Adelheid von Hohenstein",
+              "beziehung": "Enkelin"
+            }
+          ]
+        },
+        {
+          "name": "Werkstatt der Familie Schönburg",
+          "erben_in": []
+        }
+      ]
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza"
+}

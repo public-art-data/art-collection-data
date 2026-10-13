@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01107",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-235-60",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Baroness-Adelheid-von-Höhnberg",
+  "kuenstler": "Elisabeth-Isabella-Wulff",
+  "provenienz": [
+    {
+      "besitzer": "Familie von Eisenhut",
+      "datum": "1750",
+      "grunde": "Erbteilung durch Vater, Graf Friedrich von Eisenhut"
+    },
+    {
+      "besitzer": "Baroness Helene-von-Höhnberg",
+      "datum": "1815",
+      "grande": "Erbe unter Scheidung"
+    },
+    {
+      "besitzer": "Familie von Höhnberg",
+      "datum": "1850",
+      "grunde": "Erbteilung durch Großmutter, Gräfin Anna-von-Höhnberg"
+    }
+  ],
+  "masse_cm": {
+    "height": 208.3,
+    "width": 274.8
+  },
+  "schaetzung_chf": 445000
+}

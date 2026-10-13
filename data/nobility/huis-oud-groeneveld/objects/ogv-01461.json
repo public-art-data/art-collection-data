@@ -1,0 +1,30 @@
+{
+  "record_id": "SYN OGV 01461",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-676-13",
+  "stuk": "marmeren buste",
+  "omschrijving": "De Lichte Kerkhof",
+  "vermoedelijke_maker": "Marcel Verhaeghe",
+  "eigendomsgeschiedenis": [
+    {
+      "tijdperk": "18e eeuw",
+      "eigendomsnaam": "Huis van de Heeren van Leuvenberg",
+      "beschrijving": "Acquiratie door Leopold van Leuvenberg"
+    },
+    {
+      "tijdperk": "19e eeuw",
+      "eigendomsnaam": "Hertogin Elizabeth van Vlaanderen",
+      "beschrijving": "Erfdienst van haar neef, graaf Constantijn van Leuvenberg"
+    },
+    {
+      "tijdperk": "20e eeuw",
+      "eigendomsnaam": "Prinses Maria van Artesia",
+      "beschrijving": "Eerfgeboren bezitting"
+    }
+  ],
+  "grootte": {
+    "height": 117.6,
+    "width": 107.5
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

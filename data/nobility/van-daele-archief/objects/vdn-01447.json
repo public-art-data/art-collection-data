@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-2001447",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-745-24",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Prinses Jemilka van Oranje-Nassau",
+  "vermoedelijke_meester": "Ludwigus Valtorius",
+  "provenance": [
+    {
+      "titel": "Erf van Valkenburg",
+      "persoon": "Koningin Beatrix van Oranje-Nassau",
+      "jaar": 1870
+    },
+    {
+      "titel": "Erf van Zorgvrijheid",
+      "persoon": "Prins Hendrik van Oranje-Nassau",
+      "jaar": 1912
+    },
+    {
+      "titel": "Erve van de Blauwe Poort",
+      "persoon": "Prinses Jemilka van Oranje-Nassau",
+      "jaar": 1945
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 78.2,
+    "width": 142.2
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "kreuk in perkament"
+}

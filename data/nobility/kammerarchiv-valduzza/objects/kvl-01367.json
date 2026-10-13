@@ -1,0 +1,40 @@
+{
+  "record_id": "KVL-01367",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-540-27",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Pasgezinde Geschenk",
+  "zugeschriebene_werkstatt": "Emilia van der Meer",
+  "besitzfolge": [
+    {
+      "datum": "1545",
+      "besitter": "Heren Van der Meer",
+      "verbleemming": "Overgedragen aan hun zoondochter, Adela van der Meer"
+    },
+    {
+      "datum": "1560",
+      "besitter": "Adela van der Meer",
+      "verbleemming": "Verleend aan haar neef, Pieter de Rudder"
+    },
+    {
+      "datum": "1599",
+      "besitter": "Pieter de Rudder",
+      "verbleemming": "Overgedragen aan zijn zoon, Willem de Rudder"
+    },
+    {
+      "datum": "1632",
+      "besitter": "Willem de Rudder",
+      "verbleemming": "Verleend aan zijn neef, Maarten van der Meer"
+    },
+    {
+      "datum": "1660",
+      "besitter": "Maarten van der Meer",
+      "verbleemming": "Overgedragen aan zijn oudere zoontochter, Elisabeth van der Meer"
+    }
+  ],
+  "groesse": {
+    "height": 117.9,
+    "width": 146.8
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

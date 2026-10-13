@@ -1,0 +1,37 @@
+{
+  "record_id": "MBO-01119",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-364-25",
+  "nature": "objet devotionnel",
+  "appellation": "Comtesse de Saint-Pierre",
+  "attribue_a": "Marie-Aurore Dumont",
+  "provenance_detaillee": [
+    {
+      "date_de_creation": "1750",
+      "proprietaire": {
+        "nom_pere": "Pierre de La Roche",
+        "nom_mere": "Isabelle de Roubaix"
+      }
+    },
+    {
+      "date_de_succession": "1805",
+      "proprietaire": {
+        "nom_pere": "Alexandre Dupont",
+        "nom_mere": "Marie-Therese de Saint-Pierre"
+      }
+    },
+    {
+      "date_de_dedication": "1850",
+      "proprietaire": {
+        "nom_pere": "Francois-Xavier de Roubaix",
+        "nom_mere": "Adelaide de La Roche"
+      }
+    }
+  ],
+  "mesures": {
+    "height": 57.0,
+    "width": 83.3
+  },
+  "detenteur_precedent": "Comtes de Rousset-Lavandieres",
+  "cachets": "cachet de cire brise"
+}

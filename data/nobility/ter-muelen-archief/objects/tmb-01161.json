@@ -1,0 +1,30 @@
+{
+  "record_id": "TMB-01161",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-660-44",
+  "soort": "devotiebeeld",
+  "titel": "Privé Samen-collectie van Huis te Venne",
+  "toegeschreven_aan": "Koningin Helena van Oranje-Nassau",
+  "herkomstgeschiedenis": [
+    {
+      "vorige_eigenaar": "Hertogin Frederica van Gelre",
+      "overdracht_gedurende": 1815,
+      "oorzaak_overdracht": "Erfgensrechtelijke overname"
+    },
+    {
+      "vorige_eigenaar": "Koning Lodewijk van Oranje-Nassau",
+      "overdracht_gedurende": 1840,
+      "oorzaak_overdracht": "Gezamenlijke bequestie"
+    },
+    {
+      "vorige_eigenaar": "Prinses Beatrix van Oranje-Nassau",
+      "overdracht_gedurende": 1895,
+      "oorzaak_overdracht": "Erfopvolging"
+    }
+  ],
+  "afmetingen": {
+    "height": 82.1,
+    "width": 130.5
+  },
+  "vroegere_bezitter": "Geslacht Van Schoonhoven-Dal"
+}

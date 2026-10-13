@@ -1,0 +1,19 @@
+{
+  "record_id": "SYN_MFA_03015",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-28",
+  "object_type": "oil on canvas",
+  "title": "Blue Composition",
+  "artist": "Vellacott",
+  "provenance": "Acquired by Rameshwar Lall, Mumbai in 1985 and sold to estate of Varun Kapur, Bombay in 2002",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 831.0,
+    "width": 2819.0
+  },
+  "estimate_sgd": {
+    "low": 17000,
+    "high": 134000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

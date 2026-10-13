@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00430",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-344",
+  "object_type": "lithograph",
+  "title": "Riverside, Malacca",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Estate of Collection of the late Dato' R. Sivanathan; offered at Meridian Fine Arts Auctioneers in 1966.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1799.0,
+    "width": 2665.0
+  },
+  "previous_owner": "Collection of the late Dato' R. Sivanathan",
+  "estimate_sgd": {
+    "low": 30000,
+    "high": 112000
+  }
+}

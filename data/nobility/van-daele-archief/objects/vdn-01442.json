@@ -1,0 +1,22 @@
+{
+  "record_id": "SYN VDN 01442",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-913-86",
+  "objecttype": "marmeren buste",
+  "benaming": "Herenfamilie van Veldhuisen",
+  "vermoedelijke_meester": "Sibranda de Molenmaker",
+  "provenance": [
+    {
+      "persoon": "Herman van Veldhuisen, erfgenaam",
+      "gebeurtenis": "Erfde van zijn vader Hendrik van Veldhuisen in 1585"
+    },
+    {
+      "persoon": "Maria van Oranje-Nassau",
+      "gebeurtenis": "Kocht de schilderij in haar huwelijk met Hendrik van Veldhuisen in 1602"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 214.7,
+    "width": 272.6
+  }
+}

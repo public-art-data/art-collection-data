@@ -1,0 +1,40 @@
+{
+  "record_id": "KVL-1001497",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-153-30",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "De Grote Oudheden",
+  "zugeschriebene_werkstatt": "Marcelle Laurentien",
+  "besitzfolge": [
+    {
+      "id": "Gravin van Heemstra",
+      "verdeling": [
+        "Bij het overlijden van haar vader, graaf Jean-Pierre van Heemstra in 1750"
+      ]
+    },
+    {
+      "id": "Comtesse Adèle de Roubaix",
+      "verdeling": [
+        "Door erfenis na de dood van haar moeder, duchesse Marie-Thérèse de Roubaix in 1820"
+      ]
+    },
+    {
+      "id": "Marquise Sophie du Pont",
+      "verdeling": [
+        "Door huwelijk met marquis Henri-François du Pont in 1850"
+      ]
+    },
+    {
+      "id": "Dame Émilie van der Meer",
+      "verdeling": [
+        "Door erfenis na de dood van haar zuster, duchesse Isabelle van der Meer, in 1960"
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 172.7,
+    "width": 45.9
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "doppelt nummeriert"
+}

@@ -1,0 +1,38 @@
+{
+  "record_id": "VDN-1001348",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-210-88",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huisarchief van de Van der Meer",
+  "vermoedelijke_meester": "Pieterje Voskens",
+  "provenance": [
+    {
+      "naam": "Van der Meer",
+      "titel": "Baron van Waveren",
+      "jaar": "1750",
+      "eerste_eigenaar": true
+    },
+    {
+      "naam": "Van der Meer",
+      "titel": "Hertogin van 's-Hertogenbosch",
+      "jaar": "1825",
+      "eerste_eigenaar": false,
+      "vergeving_naam": "Baron van Waveren",
+      "vergeving_jaar": 1750
+    },
+    {
+      "naam": "Van der Meer",
+      "titel": "Hertogin van 's-Hertogenbosch",
+      "jaar": "1850",
+      "eerste_eigenaar": true,
+      "vergeving_naam": "Hertogin van Maastrecht",
+      "vergeving_jaar": 1825
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 118.5,
+    "width": 28.2
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld",
+  "schatting": 165000
+}

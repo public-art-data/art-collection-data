@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01134",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-225-3",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Gravett Collection",
+  "kuenstler": "Bartholomäus Riemann",
+  "provenienz": {
+    "herkunft": [
+      {
+        "name": "Duke Franz von Gravett",
+        "datum": "1850"
+      },
+      {
+        "name": "Marie von Wartburg",
+        "datum": "1875"
+      }
+    ],
+    "verwaltung": [
+      {
+        "name": "Lady Charlotte von Gravett",
+        "datum": "1920-1945"
+      },
+      {
+        "name": "Baron Friedrich von Gravett",
+        "datum": "1950-Present"
+      }
+    ]
+  },
+  "vorbesitzer": "Grafen von Wassenfeld"
+}

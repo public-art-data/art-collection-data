@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-01196",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-644-7",
+  "objektart": "marmorbueste",
+  "titel": "Archiv der Grafen von Ravensburg",
+  "kuenstler": "Friedrich Kessler",
+  "provenienz": [
+    {
+      "besitzer": "Graf Philipp von Ravensburg",
+      "datum": "1750"
+    },
+    {
+      "besitzer": "Gräfin Sophia von Fürstenberg",
+      "datum": "1800",
+      "grund": "Ehe mit Grafenhaus Ravensburg"
+    },
+    {
+      "besitzer": "Hausmeister Johann Müller",
+      "datum": "1825",
+      "grund": "Erbfolge und Verkauf an private Sammler"
+    }
+  ],
+  "vorbesitzer": "Herren von Falkeisberg",
+  "schaetzung_chf": 302000,
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

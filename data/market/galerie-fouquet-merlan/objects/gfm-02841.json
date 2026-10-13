@@ -1,0 +1,18 @@
+{
+  "record_id": "GFM-02841",
+  "source": "Galerie Fouquet-Merlan, Paris",
+  "numero_inventaire": "FM-2392",
+  "type_dobjet": "aquarelle",
+  "titre": "Etude de cruche",
+  "artiste": "A. Morliat",
+  "dimensions_cm": {
+    "height": 49.0,
+    "width": 258.5
+  },
+  "ancien_proprietaire": {
+    "name": "A. Denoir",
+    "born": 1943,
+    "acquired": 1920
+  },
+  "cote": "b6"
+}

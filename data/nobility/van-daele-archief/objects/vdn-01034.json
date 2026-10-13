@@ -1,0 +1,32 @@
+{
+  "record_id": "SYN_VDN_01034",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-450-28",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huis van de Vollenhoven",
+  "vermoedelijke_meester": "Karel Van der Meer",
+  "provenance": [
+    {
+      "titel": "Overleden Vader",
+      "naam": "Edward Van der Meer",
+      "jaar": 1750
+    },
+    {
+      "titel": "Gezegend Erfgood",
+      "naam": "Florentien Van de Velde",
+      "jaar": 1850
+    },
+    {
+      "titel": "Eigendom Geërfd",
+      "naam": "Alfried Van der Meer",
+      "jaar": 1900
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 209.2,
+    "width": 205.7
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld",
+  "schatting": 556000,
+  "staat": "dubbele nummering"
+}

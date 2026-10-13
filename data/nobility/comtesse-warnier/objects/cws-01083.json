@@ -1,0 +1,28 @@
+{
+  "record_id": "CWS-1001083",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-859-77",
+  "categorie_d_objet": "objet devotionnel",
+  "intitule": "Musée de la Maison d'Albermarque",
+  "maitre": "Alexandre Dumont-Rivière",
+  "historique": [
+    {
+      "date": "1765-1798",
+      "propriétaire": "Marie-Antoine d'Albermarque"
+    },
+    {
+      "date": "1800-1832",
+      "propriétaire": "Frédéric d'Albermarque"
+    },
+    {
+      "date": "1840-1884",
+      "propriétaire": "Guillaume de La Croix-Maupin (époux de Sophie d'Albermarque)"
+    },
+    {
+      "date": "1912-present",
+      "propriétaire": "Gabrielle de La Croix-Maupin"
+    }
+  ],
+  "titulaire_precedent": "Famille de Collonges-Valiere",
+  "valeur": 55000
+}

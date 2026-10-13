@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01952",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-260",
+  "object_type": "lithograph",
+  "title": "Riverside, Punggol",
+  "artist": "Thornquist",
+  "provenance": "Estate of Estate of Prof. J. Anandakrishnan; offered at Meridian Fine Arts Auctioneers in 1906.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 869.0,
+    "width": 426.0
+  },
+  "previous_owner": {
+    "name": "R. Ambrose-Kwek",
+    "born": 1932,
+    "acquired": 1900
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "KVL-01332",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-240-56",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträtsammlung van Oranje-Nassau",
+  "zugeschriebene_werkstatt": "Elsker Vanequin",
+  "besitzfolge": {
+    "Gebiet": "Nederland",
+    "Besitzer": [
+      {
+        "Persoon": "Henne van Oranje-Nassau",
+        "Datum": "1765",
+        "Geburtstag": "1720-02-10",
+        "Todestag": "1799-08-25"
+      },
+      {
+        "Persoon": "Wilhelmina van Oranje-Nassau",
+        "Datum": "1804",
+        "Geburtstag": "1780-05-01",
+        "Todestag": "1856-03-20"
+      }
+    ],
+    "Erbe": [
+      {
+        "Persoon": "Wilhelmina van Nassau",
+        "Datum": "1861",
+        "Geburtstag": "1825-07-15",
+        "Todestag": "1898-11-18"
+      },
+      {
+        "Persoon": "Ludwig van Oranje-Nassau",
+        "Datum": "1912",
+        "Geburtstag": "1870-02-20",
+        "Todestag": "1949-12-31"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

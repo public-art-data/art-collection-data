@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-1001162",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-992-99",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Gravin von der Schattenberg",
+  "kuenstler": "Adriane Dumont",
+  "provenienz": [
+    {
+      "familyname": "von der Schattenberg",
+      "beschreibung": "Erbfreundin von Gräfin Elisabeth von der Schattenberg, Tochter von Graf Heinrich und Frau Baronin Anna von der Schattenberg",
+      "jahr": 1820
+    },
+    {
+      "familyname": "von Hohenlohe-Unterwald",
+      "beschreibung": "Gebürtig Frau Anna von Hohenlohe-Unterwald, Tochter von Herzog Friedrich und Frau Fürstin Hedwig von Hohenlohe-Unterwald",
+      "jahr": 1915
+    },
+    {
+      "familyname": "von der Schattenberg",
+      "beschreibung": "Erbe von Gräfin Helene von der Schattenberg, Tochter von Graf Albrecht und Frau Baronin Maria von der Schattenberg",
+      "jahr": 1960
+    }
+  ],
+  "vorbesitzer": "Freiherren von Graenichen"
+}

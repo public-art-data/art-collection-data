@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01270",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-565-45",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Das Meer von Schatten",
+  "zugeschriebene_werkstatt": "Bartholomew Wystan",
+  "besitzfolge": [
+    {
+      "name": "Haus von Altenburg",
+      "beziehung": "Erbschaft"
+    },
+    {
+      "name": "Gräfin Sofia von Schönberg",
+      "beziehung": "Eigentumsübertragung"
+    },
+    {
+      "name": "Herr Ludwig von Altroy",
+      "beziehung": "Eigentümer"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

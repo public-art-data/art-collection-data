@@ -1,0 +1,30 @@
+{
+  "record_id": "TMB-01216",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-670-96",
+  "soort": "miniatuurportret",
+  "titel": "Geschilderij van de Hertogin van Vlaanderen",
+  "toegeschreven_aan": "Elara van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "naam": "Huis van Vlaanderen",
+      "gezin": "Hertog Hendrik III en Hertogin Beatrix van Vlaanderen",
+      "jaar": "1650"
+    },
+    {
+      "naam": "Huis van Oudenaarde",
+      "gezin": "Hertog Hendrick I en Hertogin Margaretha van Oudenaarde",
+      "jaar": "1750"
+    },
+    {
+      "naam": "Van der Meer",
+      "gezin": "Hertog Pieter I en Hertogin Anna van der Meer",
+      "jaar": "1850"
+    }
+  ],
+  "afmetingen": {
+    "height": 73.4,
+    "width": 105.9
+  },
+  "schatting": 540000
+}

@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01116",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-298-99",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "De verloren Portret van de Hertogin van Vlaanderen",
+  "vermoedelijke_maker": "Emilia van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "persoon": "Diederik van den Bosch",
+      "titel": "Hertog van Vlaanderen",
+      "jaar": 1650
+    },
+    {
+      "persoon": "Wilhelmina van Lennep",
+      "titel": "Vrouwe van Vlaanderen",
+      "jaar": 1720,
+      "omgeving": "Erfenis"
+    },
+    {
+      "persoon": "Adriaan van der Meer",
+      "titel": "Baron van den Bosch",
+      "jaar": 1850,
+      "omgeving": "Erfopvolging"
+    }
+  ],
+  "grootte": {
+    "height": 206.3,
+    "width": 177.4
+  },
+  "marginale_notitie": "potloodaantekening: 'uit de boedel van 1852'"
+}

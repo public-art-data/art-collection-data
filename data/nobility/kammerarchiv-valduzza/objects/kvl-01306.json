@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01306",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-969-54",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Die Nacht der Schatten",
+  "zugeschriebene_werkstatt": "Aurélien LaFleur",
+  "besitzfolge": [
+    {
+      "name": "Haus von Hohenstein",
+      "dauer": "18. Jahrhundert - 19. Jahrhundert"
+    },
+    {
+      "name": "Erbe von Grafin Sophie von Schönau",
+      "dauer": "19. Jahrhundert - heute"
+    },
+    {
+      "name": "Kunstverwaltung des Grafen Hubert von Hohenstein",
+      "dauer": "heute"
+    }
+  ],
+  "groesse": {
+    "height": 46.6,
+    "width": 143.6
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "record_id": "VDN-01422",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-384-62",
+  "objecttype": "kabinetklok",
+  "benaming": "Huisarchief van Hertogin van Oudenaarde",
+  "vermoedelijke_meester": "Johanna de Vijfde van der Beek",
+  "provenance": [
+    {
+      "naam": "Eerwaadigheid van Geraard III van der Breyde",
+      "jaar": 1350,
+      "relatie": "gekocht"
+    },
+    {
+      "naam": "Hertogin Elisabeth I van Oudenaarde",
+      "jaar": 1420,
+      "relatie": "erfgename"
+    },
+    {
+      "naam": "Hertog Filips van Oudenaarde",
+      "jaar": 1475,
+      "relatie": "geërfd"
+    },
+    {
+      "naam": "Koning Lodewijk II van Valois-Beauvais",
+      "jaar": 1500,
+      "relatie": "geleend"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 187.4,
+    "width": 125.0
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

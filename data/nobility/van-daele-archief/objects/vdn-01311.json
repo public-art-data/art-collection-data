@@ -1,0 +1,23 @@
+{
+  "record_id": "SYN/VDN/01311",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-512-34",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huis van Rhenen",
+  "vermoedelijke_meester": "Cornelis Janszoon de Kerkhof",
+  "provenance": [
+    {
+      "geslacht": "van Rhenen",
+      "beschrijving": "Erfgenuigde van de stichter van het Huis van Rhenen, zijn neef van de zuster van Willem van Montfoort"
+    },
+    {
+      "geslacht": "van der Meer",
+      "beschrijving": "Overleden echte voogd van hun zoon Jacob van der Meer"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 15.8,
+    "width": 106.3
+  },
+  "staat": "kreuk in perkament"
+}

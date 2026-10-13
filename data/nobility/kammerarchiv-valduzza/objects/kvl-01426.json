@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01426-alt",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-909-55",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Der Aufstieg des Schattenkönigs",
+  "zugeschriebene_werkstatt": "Ludwig von Eisenstadt",
+  "besitzfolge": {
+    "Haus Hohenkrone": [
+      "Geboren in der Hofschule des Hoftappers, Würzburg",
+      "Erhielt 1850 die Kunstkabinett-Bestellung von Herzog Friedrich von Schwarzwald",
+      "Übergabe 1865 an Sohn Erzherzog Leopold von Hohenkrone"
+    ],
+    "Haus Schwarzenhof": [
+      "In 1900 übernommen durch Erzherzogin Elisabeth von Hohenkrone",
+      "Erhielt 1918 das Werk aus der Nachfolge des Hoftappers-Ateliers in Weimar"
+    ]
+  },
+  "groesse": {
+    "height": 152.7,
+    "width": 253.8
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "stempel des Hausarchivs"
+}

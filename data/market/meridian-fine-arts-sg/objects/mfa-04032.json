@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-04032",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-237",
+  "object_type": "lithograph",
+  "title": "View of Punggol",
+  "artist": "Thornquist",
+  "provenance": "Acquired by Tan Siew Chin, Kuala Lumpur in 1967; subsequently sold to the estate of Dr. Lee Soon Hian, Singapore in 1985.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 193.0,
+    "width": 2405.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 32000,
+    "high": 155000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "VDN-01414",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-805-12",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Kunstverzameling Prinses Isabella",
+  "vermoedelijke_meester": "Lucien Van Houten",
+  "provenance": [
+    {
+      "persoon": "Prins Edwert van Oranje",
+      "titel": "",
+      "jaar": 1700,
+      "gebeurteis": "Erfde Kunstcollectie"
+    },
+    {
+      "persoon": "Prinses Isabella van Oranje",
+      "titel": "",
+      "jaar": 1750,
+      "gebeurteis": "Verminderde Erf"
+    },
+    {
+      "persoon": "Gravin Maria van Bourbon-Parma",
+      "titel": "",
+      "jaar": 1850,
+      "gebeurteis": "Erfde Kunstcollectie"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 160.9,
+    "width": 231.0
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "dubbele nummering"
+}

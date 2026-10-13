@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-1001302",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-166-84",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Het Groene Licht",
+  "zugeschriebene_werkstatt": "Adrian van der Meer",
+  "besitzfolge": [
+    {
+      "name": "Haus von Waldburg-Rodach",
+      "geschenk": "Ursula, Gräfin von Waldburg-Rodach (1562-1618)"
+    },
+    {
+      "name": "Gräfin Anna von Königsmark",
+      "erbe": "Sohn, Georg Friedrich von Königsmark"
+    },
+    {
+      "name": "Hofjagdmeister Baron Johann Friedrich von der Schulenburg",
+      "pacht": "1795-1815"
+    }
+  ],
+  "groesse": {
+    "height": 161.2,
+    "width": 141.8
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

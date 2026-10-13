@@ -1,0 +1,27 @@
+{
+  "record_id": "VDN-01281",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-363-69",
+  "objecttype": "wandtapijt",
+  "benaming": "Huis van Oranje-Vecht",
+  "vermoedelijke_meester": "Johannes van Rijnberg",
+  "provenance": [
+    {
+      "persoon": "Graaf Floris III van Oranje-Nassau",
+      "jaar": 1700
+    },
+    {
+      "persoon": "Gevrouw Johanna van Nassau",
+      "jaar": 1745,
+      "omschrijving": "Vermeld door haar testament"
+    },
+    {
+      "persoon": "Prins Hendrik van Oranje-Vecht",
+      "jaar": 1820
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 213.7,
+    "width": 298.2
+  }
+}

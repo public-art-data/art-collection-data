@@ -1,0 +1,23 @@
+{
+  "record_id": "HAG-01070",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-533-24",
+  "gegenstand": "bildteppich",
+  "bezeichnung": "Lichtkunstfamilienalbum",
+  "zugeschrieben_an": "Helena von Strindwitz",
+  "besitzgeschichte": [
+    {
+      "von": "Grafen von Schlossheim",
+      "bis": "1800"
+    },
+    {
+      "von": "Prinzessin Sophie von Wiesenburg",
+      "bis": "1820 durch Erbe"
+    },
+    {
+      "von": "Herr und Frau von Steinburg",
+      "bis": "1945 durch Vermachtnis"
+    }
+  ],
+  "frueherer_besitzer": "Freiherren von Graenichen"
+}

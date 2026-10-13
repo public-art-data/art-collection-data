@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01123",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-278-89",
+  "objecttype": "miniatuurportret",
+  "benaming": "Huisarchief van de Hertogen van Waveren",
+  "vermoedelijke_meester": "Jan Veldhuis",
+  "provenance": [
+    {
+      "tijdperk": "14e eeuw",
+      "gezin": "Huis van Gelre",
+      "inheems_chiel": "Graaf Floris V van Gelre"
+    },
+    {
+      "tijdperk": "15e eeuw",
+      "gezin": "Hertogdom Waveren",
+      "inheems_chiel": "Hertog Jan I van Waveren"
+    },
+    {
+      "tijdperk": "17e eeuw",
+      "gezin": "Hertogdom Waveren",
+      "inheems_chiel": "Hertog Maximiliaan II van Waveren"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 48.6,
+    "width": 160.7
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

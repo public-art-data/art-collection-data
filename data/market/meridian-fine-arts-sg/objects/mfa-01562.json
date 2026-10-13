@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-01562",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-503",
+  "object_type": "mixed media assemblage",
+  "title": "Untitled (fisherman)",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by renowned art patron, Sophia Leong in 2015 and later bequeathed to the estate of her cousin, Victor Lee in 2020",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 528.0,
+    "width": 102.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 10000,
+    "high": 50000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

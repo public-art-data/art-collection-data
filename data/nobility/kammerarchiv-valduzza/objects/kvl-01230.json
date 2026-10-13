@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01230a",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-948-32",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "De Geschenkte Blumen",
+  "zugeschriebene_werkstatt": "Adèle Vandermarkt",
+  "besitzfolge": [
+    {
+      "haus": "Haus von Schlachter",
+      "jahr": 1720,
+      "besitzer": "Karl Graf von Wenden"
+    },
+    {
+      "huß": "Schloss Morgenau",
+      "jahr": 1805,
+      "besitzer": "Elisabeth Gräfin von Schattenburg, eheliche Enkelin von Karl Graf von Wenden"
+    },
+    {
+      "zweigstelle": "Galerie der Prinzessin",
+      "jahr": 1850,
+      "besitzer": "Ludwig Fürst von Eisenfels, Schwiegervater von Elisabeth Gräfin von Schattenburg"
+    }
+  ],
+  "groesse": {
+    "height": 201.3,
+    "width": 146.1
+  },
+  "kammervermerk": "doppelt nummeriert"
+}

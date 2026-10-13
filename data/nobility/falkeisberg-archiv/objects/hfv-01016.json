@@ -1,0 +1,36 @@
+{
+  "record_id": "HFV-01016",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-597-55",
+  "objektart": "silbernes schreibzeug",
+  "titel": "Adelsarchiv der Grafschaft von Everstein",
+  "kuenstler": "Ludwig van den Berg",
+  "provenienz": {
+    "Erbfolge": [
+      {
+        "person": "Freiherr Maximilian Everstein",
+        "datum": "1750"
+      },
+      {
+        "person": "Friederike von Wülfingen",
+        "datum": "1785"
+      },
+      {
+        "person": "Karl Ludwig Everstein",
+        "datum": "1810"
+      }
+    ],
+    "Eheschließung": [
+      {
+        "person": "Ludwig van den Berg",
+        "datum": "1850"
+      },
+      {
+        "person": "Adelheid von Everstein",
+        "datum": "1875"
+      }
+    ]
+  },
+  "vorbesitzer": "Grafen von Wassenfeld",
+  "schaetzung_chf": 719000
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-04020",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-80",
+  "object_type": "lithograph",
+  "title": "Indigo Composition",
+  "artist": "Selvaratnam",
+  "provenance": "Acquired by the estate of Prof. J. Anandakrishnan in 1975, previously exhibited at the Kuala Lumpur Art Gallery from 1968 to 1974.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 650.0,
+    "width": 2816.0
+  },
+  "previous_owner": "Estate of Prof. J. Anandakrishnan",
+  "estimate_sgd": {
+    "low": 34000,
+    "high": 156000
+  }
+}

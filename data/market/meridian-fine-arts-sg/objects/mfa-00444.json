@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00444",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-583",
+  "object_type": "ink drawing",
+  "title": "harbour crane at Dusk",
+  "artist": "Thornquist",
+  "provenance": "Acquired by the estate of Kavita Vasu in 1987; previously owned by dealer Rohan Chandra and sold at auction to the private collection, Kuala Lumpur in 1992.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1931.0,
+    "width": 1581.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 12000,
+    "high": 115000
+  }
+}

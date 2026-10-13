@@ -1,0 +1,32 @@
+{
+  "record_id": "VDN-01269",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-549-19",
+  "objecttype": "gegraveerd jachtgeweer",
+  "benaming": "Huisarchief Van der Meer",
+  "vermoedelijke_meester": "Johannes Vlaanderen van Leeuwen",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van der Meer",
+      "jaar": 1700,
+      "soort": "ontvangs"
+    },
+    {
+      "persoon": "Baronesse Elisabeth van der Meer",
+      "jaar": 1750,
+      "soort": "erfgooien"
+    },
+    {
+      "persoon": "Koningin Wilhelmina van der Meer",
+      "jaar": 1850,
+      "soort": "erfbelasting"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 23.1,
+    "width": 263.3
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "schatting": 488000,
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

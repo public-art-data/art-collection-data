@@ -1,0 +1,28 @@
+{
+  "record_id": "HFV-01034",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-277-98",
+  "objektart": "miniaturportrait",
+  "titel": "Privatarchiv der Familie von Schwarzenburg",
+  "kuenstler": "Ludwig Erwin Wulfenbach",
+  "provenienz": [
+    {
+      "haus": "Haus von Hohenstein",
+      "jahr": 1860,
+      "besitzer": "Friedrich von Hohenstein und sein Bruder Otto"
+    },
+    {
+      "haus": "Grafschaft zu Wolffenbüttel",
+      "jahr": 1905,
+      "besitzer": "Maximilian von Wolffenbüttel, Erbfolge durch seine Nichte Helga"
+    },
+    {
+      "haus": "Schloss Schwarzenburg",
+      "jahr": 1950,
+      "besitzer": "Hermann von Schwarzenburg, persönliche Sammlung"
+    }
+  ],
+  "vorbesitzer": "Grafen von Wassenfeld",
+  "schaetzung_chf": 389000,
+  "zustandsbericht": "stempel des Hausarchivs"
+}

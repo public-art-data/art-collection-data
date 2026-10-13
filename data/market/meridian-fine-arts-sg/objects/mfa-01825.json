@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-01825",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-146",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Georgetown",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by the estate of Zara Aliyah in 2015, previously part of a collection curated by dealer Ramesh Velmurugan at the Kuala Lumpur Art Gallery between 2009 and 2014.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1973.0,
+    "width": 1430.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 17000,
+    "high": 70000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

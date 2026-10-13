@@ -1,0 +1,22 @@
+{
+  "record_id": "MFA-03039",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-148",
+  "object_type": "mixed media assemblage",
+  "title": "View of Punggol",
+  "artist": "Hallowquay",
+  "provenance": "Estate of Collection of the late Dato' R. Sivanathan; offered at Meridian Fine Arts Auctioneers in 1986.",
+  "dimensions_mm": {
+    "height": 2129.0,
+    "width": 2652.0
+  },
+  "previous_owner": {
+    "name": "R. Ambrose-Kwek",
+    "born": 1969,
+    "acquired": 1927
+  },
+  "estimate_sgd": {
+    "low": 24000,
+    "high": 190000
+  }
+}

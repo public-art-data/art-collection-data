@@ -1,0 +1,28 @@
+{
+  "record_id": "SYN MBO 01111",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-884-36",
+  "nature": "ecritoire en argent",
+  "appellation": "Comtesse de Chambord",
+  "attribue_a": "Laure Dumas",
+  "provenance_detaillee": [
+    {
+      "date": "1721",
+      "histoire": "Acquise par Comtesse Odette de Montfort lors de son mariage avec le Comte François de Chambord"
+    },
+    {
+      "date": "1750",
+      "histoire": "Cedée à sa fille, Comtesse Marguerite de Chambord, suite à la mort du Comte François."
+    },
+    {
+      "date": "1775",
+      "histoire": "Lis et cédée à son neveu, Comte Pierre de Montfort, legataire testamentaire de sa mère."
+    }
+  ],
+  "detenteur_precedent": {
+    "name": "C. Vercelly",
+    "born": 1940,
+    "acquired": 1882
+  },
+  "cachets": "annotation au crayon: 'donne en 1848'"
+}

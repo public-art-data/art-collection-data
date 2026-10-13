@@ -1,0 +1,35 @@
+{
+  "record_id": "OGV-01292",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-768-56",
+  "stuk": "wandtapijt",
+  "omschrijving": "Verloren Verliefdheid",
+  "vermoedelijke_maker": "Astrid Voskuilen",
+  "eigendomsgeschiedenis": [
+    {
+      "persoon": "Duchess Sophia van Oranje-Nassau",
+      "periode": "1750-1775",
+      "beschrijving": "Overtrok de kunst na haar huwelijk met Prince Hendrik van Nassau"
+    },
+    {
+      "persoon": "Prince Hendrik van Nassau",
+      "periode": "1775-1810",
+      "beschrijving": "Gaf het schilderij aan zijn zuster, Princess Wilhelmina van Oranje-Nassau, als erfgoed"
+    },
+    {
+      "persoon": "Princess Wilhelmina van Oranje-Nassau",
+      "periode": "1810-1840",
+      "beschrijving": "Geef het schilderij aan haar erfgenamen en overhandigde het aan haar neef, Count Maarten van Oranje-Nassau"
+    },
+    {
+      "persoon": "Count Maarten van Oranje-Nassau",
+      "periode": "1840-1900",
+      "beschrijving": "Hield het schilderij in zijn privécollectie tot hij overleed"
+    }
+  ],
+  "grootte": {
+    "height": 204.7,
+    "width": 17.8
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel"
+}

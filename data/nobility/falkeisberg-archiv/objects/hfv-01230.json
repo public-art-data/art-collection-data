@@ -1,0 +1,25 @@
+{
+  "record_id": "HFV-01230",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-257-71",
+  "objektart": "miniaturportrait",
+  "titel": "Privatbibliothek des Graafschaps von Wintersberg",
+  "kuenstler": "Frieda van der Meer",
+  "provenienz": [
+    {
+      "Person": "Katharina von Wintersberg",
+      "Beziehung": "Ehefrau"
+    },
+    {
+      "Person": "Heinrich Graaf van Wintersberg",
+      "Beziehung": "Vater"
+    },
+    {
+      "Person": "Ludwig Graf zu Lichtenberg",
+      "Beziehung": "Onkel"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 34000,
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

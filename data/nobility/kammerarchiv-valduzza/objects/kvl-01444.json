@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-1001444",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-238-4",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt des Grafen von Schönau",
+  "zugeschriebene_werkstatt": "Kunstschule der Grafen von Schwarzenstein",
+  "besitzfolge": [
+    {
+      "person": "Hans von Würtzburg",
+      "datum": "1550",
+      "besitzgründe": "Erbschaft"
+    },
+    {
+      "person": "Elisabeth von Hohenzollern-Sigmaringen",
+      "datum": "1600",
+      "besitzgründe": "Ehevertrag"
+    },
+    {
+      "person": "Johann Graf von Schönau",
+      "datum": null,
+      "besitzgründe": "Erbschaft und Leiblicher Besitz"
+    }
+  ],
+  "groesse": {
+    "height": 48.3,
+    "width": 271.1
+  }
+}

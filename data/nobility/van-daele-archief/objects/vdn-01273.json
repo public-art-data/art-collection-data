@@ -1,0 +1,33 @@
+{
+  "record_id": "VDN-01273",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-574-62",
+  "objecttype": "kabinetklok",
+  "benaming": "Huis van de Zeeuwten",
+  "vermoedelijke_meester": "Gerrit van Oudenaarden",
+  "provenance": [
+    {
+      "persoon": "Aletta van der Meer",
+      "titel": "Zuster van graaf Hendrik van der Meer",
+      "jaar": 1670,
+      "verband": "Erfgood"
+    },
+    {
+      "persoon": "Hendrik van Oudenaarden",
+      "titel": "Eenvoudige broer van Gerrit van Oudenaarden",
+      "jaar": 1715,
+      "verband": "Ervengood"
+    },
+    {
+      "persoon": "Catharina Zeeuwten",
+      "titel": "Weduwe van graaf Lodewijk Zeeuwten",
+      "jaar": 1800,
+      "verband": "Legacie"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 19.7,
+    "width": 93.2
+  },
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

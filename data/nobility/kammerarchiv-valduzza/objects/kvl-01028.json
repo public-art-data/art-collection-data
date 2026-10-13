@@ -1,0 +1,45 @@
+{
+  "record_id": "KVL-01028",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-709-67",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt einer jungen Dame",
+  "zugeschriebene_werkstatt": "François Bignon",
+  "besitzfolge": {
+    "Grundung": [
+      {
+        "person": "Ernst van der Meer",
+        "datum": "1750-01-01"
+      }
+    ],
+    "Übertragung": [
+      {
+        "person": "Helena van der Meer",
+        "besitztitel": "Erbschaft nach dem Tod ihres Vaters",
+        "datum": "1800-06-15"
+      },
+      {
+        "person": "Adrian van der Meer",
+        "besitztitel": "Ehefrau",
+        "datum": "1825-02-10"
+      }
+    ],
+    "Besitzer": [
+      {
+        "person": "Albert van der Meer",
+        "besitztitel": "Erbschaft nach dem Tod seiner Schwester",
+        "datum": "1850-08-20"
+      },
+      {
+        "person": "Sophia van der Meer",
+        "besitztitel": "Erbe durch Testamente",
+        "datum": "1900-01-01"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 106.2,
+    "width": 142.3
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

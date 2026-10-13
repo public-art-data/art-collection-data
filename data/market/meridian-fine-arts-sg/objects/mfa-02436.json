@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-02436",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-475",
+  "object_type": "lithograph",
+  "title": "Riverside, Georgetown",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Acquired by Kow Yoon Lee in 1965 from the estate of Mr. and Mrs. W. Gribble-Hale, formerly owned by the late Sir Tan Sri Teh Koon.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1745.0,
+    "width": 640.0
+  },
+  "previous_owner": "Mr. and Mrs. W. Gribble-Hale",
+  "estimate_sgd": {
+    "low": 35000,
+    "high": 67000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

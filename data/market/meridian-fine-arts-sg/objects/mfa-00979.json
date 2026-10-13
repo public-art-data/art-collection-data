@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-00979",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-103",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Punggol",
+  "artist": "Hallowquay",
+  "provenance": "Purchased from Soo Kwan's estate in 2018, then sold to Lim Chee Ming at auction in 2020.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1160.0,
+    "width": 1469.0
+  },
+  "estimate_sgd": {
+    "low": 22000,
+    "high": 159000
+  }
+}

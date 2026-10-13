@@ -1,0 +1,33 @@
+{
+  "record_id": "HFV-o1215",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-910-83",
+  "objektart": "marmorbueste",
+  "titel": "Grafenhaus-Erfindberg",
+  "kuenstler": "Anna Wulfgangsdochter",
+  "provenienz": [
+    {
+      "titel": "",
+      "kuenstler": "Anna Wulfgangsdochter",
+      "jahr": 1800,
+      "besitzer": "Familie Erwin von Schattenburg"
+    },
+    {
+      "titel": "Grafenhaus-Erfindberg",
+      "kuenstler": "Anna Wulfgangsdochter",
+      "jahr": 1850,
+      "besitzer": "Familie Leopold zu Schwarzwald"
+    },
+    {
+      "titel": "",
+      "kuenstler": null,
+      "jahr": null,
+      "besitzer": "Familie von Eisenstadt"
+    }
+  ],
+  "masse_cm": {
+    "height": 90.4,
+    "width": 18.8
+  },
+  "zustandsbericht": "doppelt nummeriert"
+}

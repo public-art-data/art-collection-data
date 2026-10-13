@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-o1248",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-137-59",
+  "objektart": "miniaturportrait",
+  "titel": "Erbe von Grafen Kallenberg",
+  "kuenstler": "Aurora Wychwood",
+  "provenienz": [
+    {
+      "haus": "Grafenhaus von Falkenburg",
+      "besitzer": "Erich Falkenberg",
+      "datum": "1880"
+    },
+    {
+      "haus": "Haus von Ravensburg",
+      "besitzer": "Friedrich von Ravensburg (Ehefrau von Erich Falkenberg)",
+      "datum": "1905"
+    },
+    {
+      "haus": "Erbe von Haus Ravensburg",
+      "besitzer": "Adelheid Ravensburg (Inhalterin des Titels Grafen von Falkenburg, Tochter von Friedrich von Ravensburg)",
+      "datum": "1920"
+    }
+  ],
+  "masse_cm": {
+    "height": 43.4,
+    "width": 295.4
+  },
+  "vorbesitzer": "Freiherren von Graenichen",
+  "zustandsbericht": "stempel des Hausarchivs"
+}

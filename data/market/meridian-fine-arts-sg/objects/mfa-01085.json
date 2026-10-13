@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-1085",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-250",
+  "object_type": "ink drawing",
+  "title": "Viridian Composition",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Sold to Ryker-Jacobson Estate in 2017 by Akihito Tanaka Fine Art Dealership.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 1780.0,
+    "width": 1107.0
+  },
+  "previous_owner": "Meridian Fine Arts Auctioneers",
+  "estimate_sgd": {
+    "low": 32000,
+    "high": 74000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

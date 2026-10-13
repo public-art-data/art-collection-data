@@ -1,0 +1,18 @@
+{
+  "record_id": "CWS-01198",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-922-79",
+  "categorie_d_objet": "vitrail d'atelier",
+  "intitule": "Les Collections du Duc de Valtor",
+  "maitre": {
+    "nom": "Étienne Dumont",
+    "paysage": "Le Pays de la Montagne de Cristal"
+  },
+  "historique": "Acquise en 1850 par le Duc Edmond de Valtor, fils aîné du Duc Antoine de Valtor. Céde à son fils Étienne Dumont en 1885 pour garantir la continuité des collections. Passe sous la direction d'Étienne Dumont et de sa femme Marie-Louise, née d'Amédée de Saint-Exupéry, entre 1910 et 1935.",
+  "cotes_cm": {
+    "height": 205.9,
+    "width": 45.7
+  },
+  "titulaire_precedent": "Vicomtes de Lignieres-en-Bray",
+  "observations_de_la_comtesse": "double cotation au verso"
+}

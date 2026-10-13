@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-01969",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-554",
+  "object_type": "ink drawing",
+  "title": "Indigo Composition",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by Khong Ming Sing in 1977, later donated to the estate of Tan Hock Seng.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 311.0,
+    "width": 1892.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 21000,
+    "high": 129000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

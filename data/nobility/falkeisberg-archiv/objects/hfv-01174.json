@@ -1,0 +1,28 @@
+{
+  "record_id": "SYN_HFV_01174",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-900-10",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Grafenhofgalerie",
+  "kuenstler": "Herrin von der Lindenstadt",
+  "provenienz": [
+    {
+      "datum": "1713",
+      "besitzer": "Gräfin Anna von Schattenwald"
+    },
+    {
+      "datum": "1750",
+      "besitzer": "Ritter Wilhelm von Eisenhuttenberg",
+      "erbe": "Nachkommen der Familie Gräfin Anna von Schattenwald"
+    },
+    {
+      "datum": "1815",
+      "besitzer": "Gräfin Sophie von Donnersberg",
+      "erbschaft": "Innerehe mit Ritter Franz von Eisenhuttenberg"
+    }
+  ],
+  "masse_cm": {
+    "height": 212.0,
+    "width": 188.7
+  }
+}

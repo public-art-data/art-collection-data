@@ -1,0 +1,28 @@
+{
+  "record_id": "VDN-01002",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-986-89",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Graafelijke Samenlevingsvereniging van Rijnhout",
+  "vermoedelijke_meester": "Lavinia Wouters",
+  "provenance": [
+    {
+      "persoon": "Hertogin Helena van Rijnhout",
+      "titel": "Hertogin van Rijnhout",
+      "jaar": 1850,
+      "aantal_jaren": 25
+    },
+    {
+      "persoon": "Koningin Adèle van Rijnhout",
+      "titel": "Koningin van Rijnhout",
+      "jaar": 1875,
+      "aantal_jaren": 30
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 156.9,
+    "width": 223.5
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld",
+  "schatting": 452000
+}

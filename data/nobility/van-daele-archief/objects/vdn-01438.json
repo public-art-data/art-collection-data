@@ -1,0 +1,21 @@
+{
+  "record_id": "VDN-01438",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-333-7",
+  "objecttype": "devotiebeeld",
+  "benaming": "Huis Van De Meer",
+  "vermoedelijke_meester": "Lysander Valtor",
+  "provenance": [
+    {
+      "gezin": "Van De Meer (1588-1700)",
+      "erfenis": true,
+      "overdracht_van": null
+    },
+    {
+      "gezin": "Van Rijn (1720-1800)",
+      "erfenis": false,
+      "overdracht_van": "Lysander Valtor"
+    }
+  ],
+  "staat": "dubbele nummering"
+}

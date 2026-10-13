@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02729-alt",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-290",
+  "object_type": "lithograph",
+  "title": "Riverside, Kuching",
+  "artist": "Ongpiboon",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1973; private collection The Tan Hock Seng Collection since 1995.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1976.0,
+    "width": 2250.0
+  },
+  "estimate_sgd": {
+    "low": 30000,
+    "high": 99000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

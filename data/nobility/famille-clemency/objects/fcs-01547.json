@@ -1,0 +1,37 @@
+{
+  "record_id": "FCS-01547",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-395-24",
+  "type_d_objet": "objet devotionnel",
+  "titre": "Collection d'Art de la Famille de Saint-Roche",
+  "artiste_attribue": "Léon LeFleur",
+  "historique_de_possession": [
+    {
+      "nom_pere": "Étienne Ier de Saint-Roche",
+      "annee_acquisition": 1690,
+      "titre_lateraux": [
+        "Duchesse Marie-Thérèse d'Amboise",
+        "Comtesse Marguerite de Guingamp"
+      ]
+    },
+    {
+      "nom_pere": "Gabriel II de Saint-Roche",
+      "annee_acquisition": 1720,
+      "titre_lateraux": [
+        "Marie-Antoinette, Duchesse de La Rocheville",
+        "Fils aîné de Jean-Henri de Roubaix"
+      ]
+    },
+    {
+      "nom_pere": "François III de Saint-Roche",
+      "annee_acquisition": 1770,
+      "titre_lateraux": [
+        "Marie-Adélaïde, Duchesse d'Amboise",
+        "Fille cadette de Jean-Baptiste de Guingamp"
+      ]
+    }
+  ],
+  "proprietaire_precedent": "Comtesse de Warnier-Saint-Servais",
+  "valeur_estimee": 404000,
+  "observations": "cachet de cire brise"
+}

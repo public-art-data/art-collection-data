@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01355",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-219-63",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt der Gräfin Amalia von Harrasberg",
+  "zugeschriebene_werkstatt": "Ludwig van Eckenheim",
+  "besitzfolge": {
+    "Harrasberg, Grafenfamilie": {
+      "Erbeigung": "1870",
+      "Besitzer": [
+        {
+          "Name": "Kaiserin Maria von Harrasberg",
+          "Jahr": 1920
+        },
+        {
+          "Name": "Prinzessin Sophia von Harrasberg",
+          "Jahr": 1955,
+          "Geschlecht": "Enkelin"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01175",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-823-81",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Archiv der Familie von Aldenburg",
+  "kuenstler": "Ludwig von Eisenfels",
+  "provenienz": [
+    {
+      "datum": 1790,
+      "besitzer": "Hofjägermeister Graf Johann von Wartburg",
+      "übertragung": "Erbfolge"
+    },
+    {
+      "datum": 1848,
+      "besitzer": "Grafin Adelaide von Eisenfels",
+      "übertragung": "Ehe mit Ludwig von Eisenfels"
+    },
+    {
+      "datum": 1902,
+      "besitzer": "Baron Helmut von Aldenburg",
+      "übertragung": "Erbfolge"
+    },
+    {
+      "datum": 1923,
+      "besitzer": "Baronesse Sofia von Wartburg",
+      "übertragung": "Ehe mit Baron Helmut von Aldenburg"
+    }
+  ]
+}

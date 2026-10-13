@@ -1,0 +1,15 @@
+{
+  "record_id": "CWS-01234",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-365-12",
+  "categorie_d_objet": "portrait en miniature",
+  "intitule": "Collection de la Maison d'Orly",
+  "maitre": "Élise de Roubaix",
+  "historique": "Vendu par Vicomtes de Lignieres-en-Bray en 1849; rachete par Maison de Villierscourt en 1850.",
+  "cotes_cm": {
+    "height": 102.2,
+    "width": 28.7
+  },
+  "titulaire_precedent": "Vicomtes de Lignieres-en-Bray",
+  "observations_de_la_comtesse": "annotation au crayon: 'donne en 1848'"
+}

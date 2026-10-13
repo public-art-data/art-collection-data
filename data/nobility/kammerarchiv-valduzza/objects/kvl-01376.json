@@ -1,0 +1,37 @@
+{
+  "record_id": "KVL-01376",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-253-94",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Die Nacht der Blumenkönigin",
+  "zugeschriebene_werkstatt": "Amelie LaRue",
+  "besitzfolge": {
+    "Kontinentaal-Nassau": [
+      {
+        "datum": "1800",
+        "besitzer": "Herausgeber Graf Otto von Nassau"
+      },
+      {
+        "datum": "1830",
+        "erben": [
+          "Gräfin Adelheid von Nassau",
+          "König Philipp I. von Nassau"
+        ]
+      }
+    ],
+    "Westerberg-Mecklenburg": [
+      {
+        "datum": "1910",
+        "erben": [
+          "Baroness Henriette von Westerberg",
+          "Prinz Friedrich Wilhelm von Mecklenburg-Schwerin"
+        ]
+      }
+    ]
+  },
+  "groesse": {
+    "height": 170.9,
+    "width": 187.2
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

@@ -1,0 +1,24 @@
+{
+  "record_id": "VDN-3001360",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-875-84",
+  "objecttype": "devotiebeeld",
+  "benaming": "Archief van de Hertogen van Valkenburg",
+  "vermoedelijke_meester": "Gerardus Vreeswijk",
+  "provenance": [
+    {
+      "gezin": "Hertogen van Valkenburg",
+      "titel": "Eerste Baronessen van Valkenburg",
+      "jaar": "1560"
+    },
+    {
+      "gezin": "Baronnen van Valkenburg",
+      "titel": "Heren van Valkenburg",
+      "jaar": "1625"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 44.2,
+    "width": 11.7
+  }
+}

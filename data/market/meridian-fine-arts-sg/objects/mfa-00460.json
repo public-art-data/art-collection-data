@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00460",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-202",
+  "object_type": "ink drawing",
+  "title": "Riverside, Bandung",
+  "artist": "Thornquist",
+  "provenance": "Acquired by the estate of Aurora Tan in 1955, later sold to the offices of Kwan Kee Heng Gallery in 1971",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 747.0,
+    "width": 1150.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 20000,
+    "high": 96000
+  }
+}

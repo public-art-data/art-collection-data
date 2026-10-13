@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-o1223",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-190-44",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Porträt der Herzogin von Württemberg",
+  "zugeschriebene_werkstatt": "Benedikt van Houten",
+  "besitzfolge": [
+    {
+      "besitzer": "Haus Orlovsky",
+      "jahr": 1815,
+      "beschreibung": "Geboren in der Familie von Orlovsky, übernahm sie das Gemälde aufgrund des Todes ihres Vaters, Herzog Philipp von Württemberg."
+    },
+    {
+      "besitzer": "Haus Orlovsky",
+      "jahr": 1840,
+      "beschreibung": "Erbte das Gemälde von ihrer Schwester, Prinzessin Marie von Württemberg."
+    },
+    {
+      "besitzer": "Haus Hohenlohe-Ingelfingen",
+      "jahr": 1905,
+      "beschreibung": "Erworben durch Erbschaft von Haus Orlovsky."
+    }
+  ],
+  "groesse": {
+    "height": 69.9,
+    "width": 239.6
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

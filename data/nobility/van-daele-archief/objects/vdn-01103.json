@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01103",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-193-83",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huisarchief van Hertogin Maria van Valkenburg",
+  "vermoedelijke_meester": "Johannes van der Meersteyn",
+  "provenance": [
+    {
+      "gezin": "Grafen van Valkenburg",
+      "jaar": 1650,
+      "omschrijving": "Erfgename van graf Hendrik van Valkenburg"
+    },
+    {
+      "gezin": "Hertogen van Valkenburg",
+      "jaar": 1700,
+      "omschrijving": "Verworven door hertogin Elisabeth van Valkenburg op trouw met graaf Johan van Valkenburg"
+    },
+    {
+      "gezin": "Hertogen van Valkenburg",
+      "jaar": 1750,
+      "omschrijving": "Geërfd door hertogin Maria van Valkenburg na het overlijden van haar broer graaf Hendrik van Valkenburg"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 26.9,
+    "width": 255.8
+  },
+  "staat": "dubbele nummering"
+}

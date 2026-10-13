@@ -1,0 +1,30 @@
+{
+  "record_id": "HAG-01050",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-117-3",
+  "gegenstand": "jagdwaffe mit gravur",
+  "bezeichnung": "Maler des Haldanklosters",
+  "zugeschrieben_an": "Adrian Vespern",
+  "besitzgeschichte": [
+    {
+      "jahr": 1738,
+      "besitzer": {
+        "name": "Duke Maximilian von Altenspiel",
+        "linie": "Haldancker Linie"
+      },
+      "beschreibung": "Erführte den Maler an die Familie des Haldanklosters"
+    },
+    {
+      "jahr": 1760,
+      "besitzer": {
+        "name": "Prinzessin Adelaide von Würzburg",
+        "linie": "Würzburger Linie (Erbin der Haldancker Linie)"
+      },
+      "beschreibung": "Übernahm das Werk durch Erbeugung des Testaments ihres Vaters"
+    }
+  ],
+  "abmessungen": {
+    "height": 59.7,
+    "width": 271.8
+  }
+}

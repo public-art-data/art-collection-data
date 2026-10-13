@@ -1,0 +1,35 @@
+{
+  "record_id": "KVL-1001177",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-587-14",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt der Familie von Alderan",
+  "zugeschriebene_werkstatt": "Anna van der Meer",
+  "besitzfolge": [
+    {
+      "datum": "1750",
+      "besitzer": "Familie von Alderan",
+      "beziehung": "Gründungsdatum"
+    },
+    {
+      "datum": "1815",
+      "besitzer": "Konti von Falkenhain",
+      "beziehung": "Ehe mit Anna von Alderan"
+    },
+    {
+      "datum": "1850",
+      "besitzer": "Familie von Falkenhain",
+      "beziehung": "Erbschaft"
+    },
+    {
+      "datum": "1925",
+      "besitzer": "Hans-Joachim von Falkenhain",
+      "beziehung": "Erschenkung von Anna-Maria von Alderan"
+    }
+  ],
+  "groesse": {
+    "height": 107.7,
+    "width": 45.5
+  },
+  "kammervermerk": "wachsiegel beschaedigt"
+}

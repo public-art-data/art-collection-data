@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-01256",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-217-71",
+  "objecttype": "kabinetklok",
+  "benaming": "Huisarchief van Hertogin Anna van Lotharingen",
+  "vermoedelijke_meester": "Janus Veldkamp",
+  "provenance": [
+    {
+      "besitter": "Hertogin Anna van Lotharingen",
+      "jaar": 1675,
+      "oorzaak": "Erbuis"
+    },
+    {
+      "besitter": "Heer Pieter van Merenberg",
+      "jaar": 1700,
+      "oorzaak": "Tussentijdse overdracht"
+    },
+    {
+      "besitter": "Vrouw Adela van Salm-Kyrburg",
+      "jaar": 1750,
+      "oorzaak": "Huwelijk"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 105.1,
+    "width": 97.3
+  }
+}

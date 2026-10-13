@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02484",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-391",
+  "object_type": "bronze figure",
+  "title": "Untitled (harbour crane)",
+  "artist": "Vellacott",
+  "provenance": "Acquired by Teng Soon Yeoh at an estate sale in 1978 and later sold to Ng Ai Yoke's collection in 1997, before being consigned to Meridian Fine Arts Auctioneers in 2021.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 2000.0,
+    "width": 1543.0
+  },
+  "estimate_sgd": {
+    "low": 1000,
+    "high": 120000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

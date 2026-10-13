@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-3018",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-471",
+  "object_type": "bronze figure",
+  "title": "Viridian Composition",
+  "artist": "Winterbourne-Ashe",
+  "provenance": "Sold to Lee Yee-Ling, Estate of Cheong Tsiu in 1987; Inherited by her protégé, Dr. Wong Mei-Lin in 2012",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 2167.0,
+    "width": 2317.0
+  },
+  "estimate_sgd": {
+    "low": 34000,
+    "high": 161000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

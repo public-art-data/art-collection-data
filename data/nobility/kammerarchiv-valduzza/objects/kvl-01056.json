@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-1001056",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-904-2",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Kunstwerk in blauen Glas",
+  "zugeschriebene_werkstatt": "M. Stielke",
+  "besitzfolge": {
+    "Huis Ter Meeren": [
+      {
+        "Vorjahr": "1680",
+        "Vorgeschichte": "Gefundenes Erbe von Huis ter Molen"
+      },
+      {
+        "Jahr": "1705",
+        "Vorgeschichte": "Erbschaft durch Hochzeit mit Elisabeth van der Valk"
+      }
+    ],
+    "Huis van der Meer": [
+      {
+        "Jahr": "1750",
+        "Vorgeschichte": "Erbfolge durch testamentarische Verwaltung von Adriaan van der Meer"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

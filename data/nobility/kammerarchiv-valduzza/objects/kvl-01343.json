@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01343",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-988-25",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Het Schildersgouden van het Huis van Vriesland",
+  "zugeschriebene_werkstatt": "M. Brandhorst",
+  "besitzfolge": [
+    {
+      "Datum": "1565-01-15",
+      "Besitzer": "Hertogin Margaretha van Vriesland",
+      "Erbeichter": null
+    },
+    {
+      "Datum": "1623-07-22",
+      "Besitzer": "Prins Edwert van Vriesland",
+      "Erbeichter": "Janneke van Oranje-Willemstein (vormerig weduwe van Prins Edwert)"
+    }
+  ],
+  "groesse": {
+    "height": 632.4,
+    "width": 31.7
+  }
+}

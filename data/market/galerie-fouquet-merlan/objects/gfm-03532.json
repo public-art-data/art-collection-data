@@ -1,0 +1,17 @@
+{
+  "record_id": "SYN GFM 03532",
+  "source": "Galerie Fouquet-Merlan, Paris",
+  "numero_inventaire": "FM-8426",
+  "type_dobjet": "tableau",
+  "titre": "Nature morte a la bateau-lavoir",
+  "artiste": "M. Ferrand-Brivazac",
+  "dimensions_cm": {
+    "height": 151.2,
+    "width": 222.3
+  },
+  "ancien_proprietaire": {
+    "name": "M. Housset",
+    "born": 1944,
+    "acquired": 1909
+  }
+}

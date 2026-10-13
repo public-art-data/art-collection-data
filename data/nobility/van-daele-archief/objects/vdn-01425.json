@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01425",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-705-52",
+  "objecttype": "miniatuurportret",
+  "benaming": "Huisarchief van de Van der Meerherst",
+  "vermoedelijke_meester": "Lucien Vande Walle",
+  "provenance": [
+    {
+      "jaar": 1650,
+      "eigenaar": "Graaf Hendrik Van der Meerherst",
+      "gevolien": "Hertogin Maria van Oudenaarde"
+    },
+    {
+      "jaar": 1700,
+      "eigenaar": "Prinses Isabella Van der Meerherst (nietje van Oudenaarde)",
+      "gevolien": "Graaf Jan Van der Wijck"
+    },
+    {
+      "jaar": 1750,
+      "eigenaar": "Heren Graaf en Baron Jan Van der Meerherst en zijn zoon",
+      "gevolien": "Lieve van de Walle (zus van Lucien Vande Walle)"
+    }
+  ],
+  "staat": "dubbele nummering"
+}

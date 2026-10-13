@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01547",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-197",
+  "object_type": "bronze figure",
+  "title": "Riverside, Penang",
+  "artist": "Vellacott",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1936; private collection Private collection, Kuala Lumpur since 1965.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 1221.0,
+    "width": 2036.0
+  },
+  "estimate_sgd": {
+    "low": 15000,
+    "high": 130000
+  },
+  "_artist_dates": "1855-1522"
+}

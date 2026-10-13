@@ -1,0 +1,46 @@
+{
+  "record_id": "HAG-01053",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-217-76",
+  "gegenstand": "marmorbueste",
+  "bezeichnung": "Malerei des Meeres",
+  "zugeschrieben_an": {
+    "name": "Edelfriede von Wollersdorf",
+    "beruf": "Kunstlerin, Malerin"
+  },
+  "besitzgeschichte": [
+    {
+      "zeitraum": "1820-1850",
+      "besitzer": {
+        "name": "Königin Elisabeth von Hohenberg",
+        "titel": "Regentin des Hohenbergs"
+      }
+    },
+    {
+      "zeitraum": "1850-1880",
+      "besitzer": {
+        "name": "Graf Wilhelm von Wollersdorf",
+        "titel": "Graf zu Wollersdorf"
+      }
+    },
+    {
+      "zeitraum": "1880-1910",
+      "besitzer": {
+        "name": "Gräfin Helene von Hohenberg",
+        "titel": "Gräfin zu Hohenberg"
+      }
+    },
+    {
+      "zeitraum": "1910-heute",
+      "besitzer": {
+        "name": "Fürst Friedrich von Wollersdorf",
+        "titel": "Fürst zu Wollersdorf"
+      }
+    }
+  ],
+  "abmessungen": {
+    "height": 180.8,
+    "width": 15.5
+  },
+  "schaetzung_chf": 208000
+}

@@ -1,0 +1,23 @@
+{
+  "record_id": "HFV-01307",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-438-37",
+  "objektart": "silbernes schreibzeug",
+  "titel": "Privatarchiv der Grafen von Schönburg",
+  "kuenstler": "Ferdinand van der Meer",
+  "provenienz": [
+    {
+      "person": "Hans von Schönburg",
+      "beziehung": "Erbfolge"
+    },
+    {
+      "person": "Anna Maria von Schönburg",
+      "beziehung": "Ehe mit Philipp von Blankenberg"
+    },
+    {
+      "person": "Ludwig Philipp von Blankenberg",
+      "beziehung": "Inheritance from Anna Maria von Schönburg"
+    }
+  ],
+  "vorbesitzer": "Grafen von Wassenfeld"
+}

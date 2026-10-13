@@ -1,0 +1,24 @@
+{
+  "record_id": "HAG-1001123",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-368-46",
+  "gegenstand": "tafelsilber (teilservice)",
+  "bezeichnung": "Porträt des Grafen von Schlosswald",
+  "zugeschrieben_an": "Marie von Hausberg",
+  "besitzgeschichte": [
+    {
+      "jahr": 1730,
+      "besitzer_in": "Friedrich von Waldenburg"
+    },
+    {
+      "jahr": 1742,
+      "besitzer_in": "Wilhelmine von Schlosswald"
+    },
+    {
+      "jahr": 1755,
+      "besitzer_in": "Karl von Hausberg, Sohn von Wilhelmine von Schlosswald"
+    }
+  ],
+  "frueherer_besitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 64000
+}

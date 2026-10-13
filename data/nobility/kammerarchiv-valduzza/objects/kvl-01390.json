@@ -1,0 +1,27 @@
+{
+  "record_id": "SYN_KVL_01390",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-253-64",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt des Fürsten von Schwarzenberg",
+  "zugeschriebene_werkstatt": "Hermann Wölbinghausen",
+  "besitzfolge": [
+    {
+      "name": "Gräfin Adelheid von Österreich",
+      "datum": "1683"
+    },
+    {
+      "name": "Kaiserin Maria Theresia von Habsburg-Lorraine",
+      "datum": "1712-1815"
+    },
+    {
+      "name": "Fürst Friedrich Karl von Schwarzenberg-Hradec-Krainy",
+      "datum": "1850-1888"
+    }
+  ],
+  "groesse": {
+    "height": 184.3,
+    "width": 179.5
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

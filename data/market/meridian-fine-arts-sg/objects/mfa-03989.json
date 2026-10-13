@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-03989",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-66",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Punggol",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by Lim Ah Lian's estate in 1587 and later sold to Wei Hoon Teo in 1820, prior to its purchase at the 1856 exhibition of the Singapore Society of Artists.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 440.0,
+    "width": 1009.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 27000,
+    "high": 120000
+  },
+  "_artist_dates": "1882-1519"
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "GFM-01170",
+  "source": "Galerie Fouquet-Merlan, Paris",
+  "numero_inventaire": "FM-2857",
+  "type_dobjet": "estampe",
+  "titre": "Etude de pommes",
+  "artiste": "M. Morliat",
+  "dimensions_cm": {
+    "height": 218.6,
+    "width": 283.2
+  },
+  "ancien_proprietaire": {
+    "name": "M. Housset",
+    "born": 1973,
+    "acquired": 1921
+  },
+  "estimation_eur": 29490,
+  "cote": "b4"
+}

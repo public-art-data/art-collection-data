@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01909",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-61",
+  "object_type": "mixed media assemblage",
+  "title": "Untitled (kite)",
+  "artist": "Thornquist",
+  "provenance": "Purchased from Meridian Fine Arts Auctioneers, 1963; private collection Private collection, Kuala Lumpur since 1973.",
+  "medium": "lithograph on wove paper",
+  "dimensions_mm": {
+    "height": 639.0,
+    "width": 2196.0
+  },
+  "estimate_sgd": {
+    "low": 38000,
+    "high": 142000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

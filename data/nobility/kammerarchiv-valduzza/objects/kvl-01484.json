@@ -1,0 +1,32 @@
+{
+  "record_id": "KVL-01484",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-587-54",
+  "artefakt": "marmorbueste",
+  "werktitel": "Grau-Morgen",
+  "zugeschriebene_werkstatt": "Lorenz Veldman",
+  "besitzfolge": [
+    {
+      "name": "Haus Walraven",
+      "herkunft": "Gelderland, 1750"
+    },
+    {
+      "name": "Ehe mit Adelheid von Schönberg",
+      "datum": "1785"
+    },
+    {
+      "name": "Erbschaft aus dem Tod seines Vaters",
+      "datum": "1820"
+    },
+    {
+      "name": "Verkauf an Baroness Helena Orlovitsch",
+      " datum": "1850"
+    }
+  ],
+  "groesse": {
+    "height": 194.9,
+    "width": 40.8
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "stempel des Hausarchivs"
+}

@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-1o01229",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-503-43",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Das große Lügental",
+  "zugeschriebene_werkstatt": "Ludwig von Eisenhut",
+  "besitzfolge": [
+    {
+      "nachfolger": "Gräfin Sophia von Schattenburg",
+      "besitzer_since": "1646-03-15"
+    },
+    {
+      "nachfolger": "Graf Moritz von Wüsterberg",
+      "besitzer_since": "1700-12-25, Erbschaft von Gräfin Sophia von Schattenburg"
+    },
+    {
+      "nachfolger": "Prinzessin Frieda von Eisenhut",
+      "besitzer_since": "1820-01-01, Erbfolge bei Tod von Graf Moritz von Wüsterberg"
+    }
+  ],
+  "groesse": {
+    "height": 105.7,
+    "width": 187.6
+  }
+}

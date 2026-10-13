@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01170",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-955-23",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Heren van Leeuwenhout",
+  "vermoedelijke_meester": "Jacobus van Middelburg",
+  "provenance": [
+    {
+      "persoon": "Gerrit van Leeuwenhout",
+      "titel": "heer van Bommenisse",
+      "jaar": 1620
+    },
+    {
+      "persoon": "Aletta van Leeuwenhout",
+      "titel": "vrouwe van Bommenisse",
+      "jaar": 1650,
+      "relatie": "grootmoeder"
+    },
+    {
+      "persoon": "Karel van der Meer",
+      "titel": "heer van Schimmert",
+      "jaar": 1685
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 138.7,
+    "width": 106.0
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

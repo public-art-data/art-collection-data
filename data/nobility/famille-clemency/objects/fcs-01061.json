@@ -1,0 +1,26 @@
+{
+  "record_id": "FCS-2001061",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-648-94",
+  "type_d_objet": "objet devotionnel",
+  "titre": "Collection de la Famille d'Orléans",
+  "artiste_attribue": "Édouard Laurent",
+  "historique_de_possession": [
+    {
+      "datereduction": "1750",
+      "detaileventement": "Héritage direct de son père, le comte d'Anjou",
+      "personnalite_fondatrice": "François d'Orléans"
+    },
+    {
+      "datereduction": "1792",
+      "detaileventement": "Sécuation dans la famille de la vicomtesse du Rouvre",
+      "personnalite_fondatrice": "Antoinette de Vescoville"
+    },
+    {
+      "datereduction": "1838",
+      "detaileventement": "Transmission par son fils, le duc de Guise",
+      "personnalite_fondatrice": "Henri de Guise"
+    }
+  ],
+  "observations": "double cotation au verso"
+}

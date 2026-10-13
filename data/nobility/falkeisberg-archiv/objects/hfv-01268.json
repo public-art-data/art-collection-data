@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01268",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-603-28",
+  "objektart": "marmorbueste",
+  "titel": "Familienarchiv von Haus Hohenberg",
+  "kuenstler": "Ludwigus Pistorius",
+  "provenienz": {
+    "Geschichte": [
+      {
+        "Datum": "1675",
+        "Besitzer": "Haus Hohenberg"
+      },
+      {
+        "Datum": "1730",
+        "Besitzer": "Familie von Wartburg"
+      },
+      {
+        "Datum": "1800",
+        "Besitzer": "Haus Hohenberg"
+      }
+    ]
+  },
+  "masse_cm": {
+    "height": 127.5,
+    "width": 133.4
+  },
+  "vorbesitzer": "Herren von Falkeisberg",
+  "zustandsbericht": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

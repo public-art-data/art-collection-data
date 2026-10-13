@@ -1,0 +1,23 @@
+{
+  "record_id": "OGV-01266",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-600-38",
+  "stuk": "kabinetklok",
+  "omschrijving": "Portret van een Adelige in Romeinse stijl",
+  "vermoedelijke_maker": "Heren van Valkenburg",
+  "eigendomsgeschiedenis": [
+    {
+      "Datum": "1518",
+      "Eigener": "Graaf Van Rennenberg"
+    },
+    {
+      "Datum": "1564",
+      "Overleden": true,
+      "Nieuwe Eigenaar": "Baron Van Rennenberg, zoon van Graaf Van Rennenberg"
+    },
+    {
+      "Datum": "1618",
+      "Eigener": "Baron Van Rennenberg"
+    }
+  ]
+}

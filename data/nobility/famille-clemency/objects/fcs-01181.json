@@ -1,0 +1,34 @@
+{
+  "record_id": "FCS-01181",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-626-94",
+  "type_d_objet": "tapisserie de haute lisse",
+  "titre": "Collection d'Art Royale",
+  "artiste_attribue": "Élise Dupont",
+  "historique_de_possession": [
+    {
+      "personne": "Marie-Thérèse de Fleurville",
+      "annee_acquisition": 1750
+    },
+    {
+      "personne": "Pierre de Roubaix",
+      "annee_acquisition": 1800,
+      "motif_acquisition": "Héritage"
+    },
+    {
+      "personne": "Isabelle de Villars",
+      "annee_acquisition": 1850
+    },
+    {
+      "personne": "Édouard de Fleurville",
+      "annee_acquisition": 1900,
+      "motif_acquisition": "Achat"
+    }
+  ],
+  "dimensions": {
+    "height": 28.3,
+    "width": 183.4
+  },
+  "proprietaire_precedent": "Comtes de Rousset-Lavandieres",
+  "valeur_estimee": 893000
+}

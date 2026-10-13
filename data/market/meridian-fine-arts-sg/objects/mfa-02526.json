@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02526",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-472",
+  "object_type": "bronze figure",
+  "title": "Riverside, Kuching",
+  "artist": "Vellacott",
+  "provenance": "Collection of the late Dato' R. Sivanathan, acquired 1913; Meridian Fine Arts Auctioneers, lot 864, 1938; thence by descent to The Tan Hock Seng Collection.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 201.0,
+    "width": 2855.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 32000,
+    "high": 155000
+  }
+}

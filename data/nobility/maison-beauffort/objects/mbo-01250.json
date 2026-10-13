@@ -1,0 +1,27 @@
+{
+  "record_id": "MBO-01250",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-792-38",
+  "nature": "tapisserie de haute lisse",
+  "appellation": "Marquise de Roulencourt",
+  "attribue_a": "Élène LaFleur",
+  "provenance_detaillee": [
+    {
+      "date": "1620",
+      "description": "Acquis par Madame Adèle de Roubaix, veuve du Comte de Montaudon"
+    },
+    {
+      "date": "1645",
+      "description": "Legaté à sa fille aînée, Mademoiselle Sophie de Roulencourt"
+    },
+    {
+      "date": "1680",
+      "description": "Élevée en héritage par son oncle maternel, Monsieur Henri d'Orléans-Guillaume"
+    }
+  ],
+  "mesures": {
+    "height": 164.7,
+    "width": 121.4
+  },
+  "detenteur_precedent": "Famille de Collonges-Valiere"
+}

@@ -1,0 +1,35 @@
+{
+  "record_id": "OGV-1001493",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-745-23",
+  "stuk": "devotiebeeld",
+  "omschrijving": "De Meesterschilderij van de Prinses",
+  "vermoedelijke_maker": "Hendrik Vandersteen",
+  "eigendomsgeschiedenis": [
+    {
+      "jaar": 1650,
+      "eigenaar": "Graaf Hendrik van Leyden",
+      "gevolgen": "Geërfd door zijn neef, Graaf Jan van den Bosch"
+    },
+    {
+      "jaar": 1750,
+      "eigenaar": "Prinses Elisabeth van Oranje-Nassau",
+      "gevolgen": "Kocht van graaf Jan van den Bosch voor 10.000 gulden"
+    },
+    {
+      "jaar": 1900,
+      "eigenaar": "Baroness Sophie van Merenberg",
+      "gevolgen": "Legaat van haar moeder, Prinses Elisabeth van Oranje-Nassau"
+    },
+    {
+      "jaar": 1950,
+      "eigenaar": "Heren Fokker & Zoon",
+      "gevolgen": "Kocht als deel van hun erfgoed op de veiling bij Van der Valk"
+    }
+  ],
+  "grootte": {
+    "height": 151.2,
+    "width": 37.9
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

@@ -1,0 +1,36 @@
+{
+  "record_id": "KVL-01038",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-332-66",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträtscholarze",
+  "zugeschriebene_werkstatt": "Adélaïde Dumont",
+  "besitzfolge": {
+    "Haus Valtor": [
+      {
+        "grundung": "1500",
+        "erbeinhaber": "Frans I van Valtor"
+      },
+      {
+        "erweiterung": "1575",
+        "erbeinhaber": "Katharina van Valtor, Tochter von Frans I"
+      },
+      {
+        "übertragung": "1700",
+        "erbeinhaber": "Hermann van Valtor, Sohn von Katharina"
+      }
+    ],
+    "Haus Kalidor": [
+      {
+        "Übergabe": "1750",
+        "erbeinhaber": "Adélaïde Dumont, Tochter von Hermann van Valtor"
+      },
+      {
+        "Erwerb": "1825",
+        "erbeinhaber": "Ludwig Kalidor, Verheirateter mit Adélèque Dumont"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Herren von Valduzza",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

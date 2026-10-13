@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-01345",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-810-52",
+  "stuk": "wandtapijt",
+  "omschrijving": "Een kast met schilderijen en tekeningen van de beroemde meester, Hendrik van der Meer",
+  "vermoedelijke_maker": {
+    "name": "Hendrik van der Meer",
+    "geboren": "1675",
+    "overleden": "1750"
+  },
+  "eigendomsgeschiedenis": [
+    {
+      "periode": "18e eeuw",
+      "beschrijving": "Overgedragen aan zijn neef, Baron Johannes van der Meer, op wie de burcht in 's-Hertogenbosch"
+    },
+    {
+      "periode": "19e eeuw",
+      "beschrijving": "Omgekocht door graaf Adriaan van Merwede, die het kasteel liet restaureren en verhuisde naar zijn erfgoed in 's-Gravenhage"
+    },
+    {
+      "periode": "20e eeuw",
+      "beschrijving": "Verworven door zijn erfgename, prinses Anna van Oranje-Nassau, die het schilderij aan de kunstverzameling toevoegde op haar zetel in 's-Hertogenbosch"
+    }
+  ],
+  "grootte": {
+    "height": 132.3,
+    "width": 194.7
+  }
+}

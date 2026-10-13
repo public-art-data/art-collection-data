@@ -1,0 +1,25 @@
+{
+  "record_id": "CRL-01531",
+  "registre_de_la_chambre": "Registre de la Chambre des Comtes de Rousset-Lavandieres, Vendomois, France",
+  "folio": "CRL-244-57",
+  "nature_de_piece": "buste en marbre",
+  "denomination": "Comtes de Brionne",
+  "maitre_attribue": "Laurent Dumont",
+  "histoire_de_la_piece": {
+    "origine": "Donation du père, Étienne Dumont, en 1710",
+    "dernier_proprietaire": {
+      "nom": "Catherine de Roubaix",
+      "famille": "Comtes de Brionne"
+    },
+    "date_de_vente": "1804",
+    "nouveau_proprietaire": {
+      "nom": "Léon de la Croix",
+      "famille": "Barons de Salle"
+    }
+  },
+  "cotes": {
+    "height": 160.8,
+    "width": 54.6
+  },
+  "detenteur_anterieur": "Maison de Villierscourt"
+}

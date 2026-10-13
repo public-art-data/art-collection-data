@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01476",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-152-97",
+  "objecttype": "wandtapijt",
+  "benaming": "Archief Van Oranje-Nassau",
+  "vermoedelijke_meester": "Pieter van de Meerendonk",
+  "provenance": [
+    {
+      "persoon": "Prins Constantijn van Oranje-Nassau",
+      "positie": "Eigendom",
+      "jaar": "1820"
+    },
+    {
+      "persoon": "Gravin Wilhelmina Frederika van Limburg-Schrans",
+      "positie": "Erfgenaam",
+      "jaar": "1850"
+    },
+    {
+      "persoon": "Koning William III van Oranje-Nassau",
+      "positie": "Incepteur",
+      "jaar": "1900"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 19.4,
+    "width": 113.3
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

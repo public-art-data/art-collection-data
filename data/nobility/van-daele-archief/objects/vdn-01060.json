@@ -1,0 +1,25 @@
+{
+  "record_id": "VDN-01060",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-784-29",
+  "objecttype": "devotiebeeld",
+  "benaming": "Huis van Vleeschouwers",
+  "vermoedelijke_meester": "Ester van de Vijf Scharen",
+  "provenance": [
+    {
+      "jaar": 1723,
+      "eigenaar": "Graaf Hendrik van der Meer",
+      "gezin": "Graafschap van der Meer"
+    },
+    {
+      "jaar": 1750,
+      "eigenaar": "Hertogin Maria van 't Vijfde Kwartje",
+      "gezin": "Hertogdom van 't Vijfde Kwartje"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 28.5,
+    "width": 40.3
+  },
+  "_artist_dates": "1856-1520"
+}

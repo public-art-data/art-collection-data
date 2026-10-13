@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01137",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-766-15",
+  "objecttype": "devotiebeeld",
+  "benaming": "Huis Van Eyk",
+  "vermoedelijke_meester": "Jacob van der Meer",
+  "provenance": {
+    "herkomst": "Kasteel 't Gouderen, 1575",
+    "vererving": [
+      {
+        "name": "Joris van Eyken",
+        "relationship": "zoon"
+      },
+      {
+        "name": "Arent van der Meer",
+        "relationship": "vader"
+      },
+      {
+        "name": "Hendrik Van Eyk",
+        "relationship": "broeder"
+      }
+    ]
+  },
+  "afmetingen_cm": {
+    "height": 144.6,
+    "width": 124.2
+  },
+  "schatting": 260000
+}

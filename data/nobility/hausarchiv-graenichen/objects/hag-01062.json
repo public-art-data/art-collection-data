@@ -1,0 +1,37 @@
+{
+  "record_id": "SYN/HAG/01062",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-330-20",
+  "gegenstand": "tafelsilber (teilservice)",
+  "bezeichnung": "Baroness von Waldenburgs Gemäldegalerie",
+  "zugeschrieben_an": "Herrin Elsa Eisenstadt",
+  "besitzgeschichte": [
+    {
+      "jahr": "1750",
+      "besitzer": "Friedrich von Schwarzenberg",
+      "erworben_von": "seine Großmutter, Prinzessin Sophie von Altendorf"
+    },
+    {
+      "jahr": "1800",
+      "besitzer": "Herr Baron Friedrich von Waldenburg",
+      "erworben_von": "seinen Brüdern, Herrn Philipp und Herrn Johann"
+    },
+    {
+      "jahr": "1850",
+      "besitzer": "Frau Baronin Helena von Waldenburg",
+      "erworben_von": "ihren verstorbenen Ehemann"
+    },
+    {
+      "jahr": "1900",
+      "besitzer": "Herr Baron Karl von Waldenburg",
+      "erwarben_von": "seine Schwiegermutter, Frau Gräfin Helena von Kaltental"
+    }
+  ],
+  "abmessungen": {
+    "height": 101.5,
+    "width": 107.4
+  },
+  "frueherer_besitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 290000,
+  "bemerkungen": "doppelt nummeriert"
+}

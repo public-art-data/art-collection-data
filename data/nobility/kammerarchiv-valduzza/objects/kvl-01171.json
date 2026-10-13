@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01171",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-151-73",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt der Gräfin Elisabeth von Schattenburg",
+  "zugeschriebene_werkstatt": "Ludwig van Eckhartt",
+  "besitzfolge": [
+    {
+      "person": "Gräfin Elisabeth von Schattenburg",
+      "ort": "Schloss Schattenburg, Schattenburg",
+      "datum": "1800-1825"
+    },
+    {
+      "person": "Graf Friedrich von Schattenburg",
+      "ort": "Schloss Schattenburg, Schattenburg",
+      "datum": "1825-1848"
+    },
+    {
+      "person": "Familie von Schattenburg (Erbschaft)",
+      "ort": "Schloss Schattenburg, Schattenburg",
+      "datum": ""
+    }
+  ],
+  "groesse": {
+    "height": 183.8,
+    "width": 109.3
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

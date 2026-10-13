@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-01571",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-573-79",
+  "stuk": "tafelzilver (onderdeel)",
+  "omschrijving": "Schilderij met opgeruinde en bewerkte bomen",
+  "vermoedelijke_maker": "Finnley Wystan III",
+  "eigendomsgeschiedenis": [
+    {
+      "jaar": 1687,
+      "eigenaar": "Huis Te Velde",
+      "gebeurtenis": "Aankoop uit de nalatigheid van de overleden graaf Willem II"
+    },
+    {
+      "jaar": 1725,
+      "eigenaar": "Huis Van den Bergh",
+      "gebeurtenis": "Verhuwd door weduwen van graaf Johan III, zoon van graaf Willem IV"
+    },
+    {
+      "jaar": 1801,
+      "eigenaar": "Koninklijke Huis Oranje-Nassau",
+      "gebeurtenis": "Gedoteerd als erfstuk van de overleden koningin Beatrix"
+    }
+  ],
+  "vorige_eigenaar": {
+    "name": "A. Rijpkema",
+    "born": 1968,
+    "acquired": 1917
+  }
+}

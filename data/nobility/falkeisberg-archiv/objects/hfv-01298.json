@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01298",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-869-35",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Privatarchiv der Grafen von Schattenberg",
+  "kuenstler": "Roderick LaMour",
+  "provenienz": [
+    {
+      "Person": "Grafin Helena von Schattenberg",
+      "Datum": "1840",
+      "Beschreibung": "Erbtole"
+    },
+    {
+      "Person": "Königin Elisabeth von Württemberg",
+      "Datum": "1885",
+      "Beschreibung": "Regierungskommission"
+    },
+    {
+      "Person": "Graf Ferdinand von Schattenberg",
+      "Datum": "1920",
+      "Beschreibung": "Erbschaft"
+    }
+  ],
+  "masse_cm": {
+    "height": 158.6,
+    "width": 281.3
+  },
+  "schaetzung_chf": 618000
+}

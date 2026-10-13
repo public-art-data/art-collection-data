@@ -1,0 +1,32 @@
+{
+  "record_id": "TMB-01139",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-251-56",
+  "soort": "kabinetklok",
+  "titel": "Privéverzameling van Huis Teijn",
+  "toegeschreven_aan": "Catharina van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "datum": "1573",
+      "verstrektaan": "Huis van Oranje-Nassau",
+      "ontvanger": "Pieter teijn, zoon van Pieter teijn en Catharina van der Meer"
+    },
+    {
+      "datum": "1608",
+      "verstrektaan": "Huis teijn",
+      "ontvanger": "Catharina teijn, dochter van Pieter teijn en Catharina van der Meer"
+    },
+    {
+      "datum": "1632",
+      "verstrektaan": "Huis teijn",
+      "ontvanger": "Wilhelm teijn, zoon van Catharina teijn en Pieter teijn"
+    }
+  ],
+  "afmetingen": {
+    "height": 219.3,
+    "width": 56.7
+  },
+  "vroegere_bezitter": "Familie Van Daele-Nuytens",
+  "schatting": 339000,
+  "aantekening": "potloodaantekening: 'uit de boedel van 1852'"
+}

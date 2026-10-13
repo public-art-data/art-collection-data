@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01069R",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-455-43",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt des Fürsten von Schlossberg",
+  "zugeschriebene_werkstatt": "Anna van der Meerwijk",
+  "besitzfolge": {
+    "Gründungsjahr": "1580",
+    "Erstbesitzer": {
+      "Name": "Herr Hermann von Schloßstein",
+      "Beziehung": "Erblichkeit"
+    },
+    "Geschlechtslinie": [
+      {
+        "Name": "Gräfin Maria von Schlossberg",
+        "Ehepartner": "König Ludwig I. von Schlossberg",
+        "Beziehung": "Ehe"
+      },
+      {
+        "Name": "Friedrich von Schlossberg",
+        "Beziehung": "Erbschaft"
+      }
+    ]
+  },
+  "kammervermerk": "doppelt nummeriert",
+  "_artist_dates": "1852-1529"
+}

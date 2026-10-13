@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-1001117",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-339-51",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Elegie an den verstorbenen Herzog",
+  "zugeschriebene_werkstatt": "Herrin von Eisenfels",
+  "besitzfolge": [
+    {
+      "name": "Gräfin von Eisenfels",
+      "datum": 1820,
+      "herkunft": "Erbfolge"
+    },
+    {
+      "name": "Herzogin von Schattenberg",
+      "datum": 1840,
+      "marriage": "Herrin von Eisenfels"
+    },
+    {
+      "name": "Gräfin von Walsee",
+      "datum": 1875,
+      "erbe": "Erbfolge von Herzogin von Schattenberg"
+    }
+  ],
+  "groesse": {
+    "height": 25.5,
+    "width": 246.6
+  }
+}

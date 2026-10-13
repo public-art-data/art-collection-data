@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-1001089",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-655-33",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Die Schatten der Familie Valtor",
+  "zugeschriebene_werkstatt": "Adrianus de Salle",
+  "besitzfolge": [
+    {
+      "haus": "Valtor",
+      "erbe_trotz_geschlechtsauflösung": "1573"
+    },
+    {
+      "haus": "Von Eisenhut",
+      "herrschaftsübernahme_mit_ehe": "1627, Verlobte: Helena Valtor"
+    },
+    {
+      "haus": "Gräfin von Eisenhut",
+      "erbfolge_sind_nicht_gültig": "1735"
+    },
+    {
+      "haus": "Kinder und Nachkommen",
+      "erbschaft_über_verwandten": "1850"
+    }
+  ],
+  "groesse": {
+    "height": 117.8,
+    "width": 29.5
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

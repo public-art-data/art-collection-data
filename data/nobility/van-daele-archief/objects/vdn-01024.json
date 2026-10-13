@@ -1,0 +1,37 @@
+{
+  "record_id": "VDN-01024",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-533-44",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Huis van Valkenburg",
+  "vermoedelijke_meester": "Pieter van Schijf",
+  "provenance": [
+    {
+      "gezin": "Van Valkenburg",
+      "jaar": 1620,
+      "aanhef": "Eerste generatie"
+    },
+    {
+      "gezin": "Van Valkenburg",
+      "jaar": 1650,
+      "aanhef": "Overleden broer, geërfd door zijn zoon"
+    },
+    {
+      "gezin": "Van Valkenburg",
+      "jaar": 1750,
+      "aanhef": "Eenvoudige verering van de kunstwerken door hun kinderen"
+    },
+    {
+      "gezin": "Van Valkenburg",
+      "jaar": 1900,
+      "aanhef": "Kinderen van het familiearchief kochten de schilderijen aan en hielden ze op als erfgoed van het gesin"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 20.7,
+    "width": 38.7
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "schatting": 580000,
+  "staat": "waszegel beschadigd"
+}

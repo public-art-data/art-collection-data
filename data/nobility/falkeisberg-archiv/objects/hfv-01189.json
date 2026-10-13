@@ -1,0 +1,43 @@
+{
+  "record_id": "HFV-01189",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-254-38",
+  "objektart": "silbernes schreibzeug",
+  "titel": "Baroness Sophia von Eisenstadt",
+  "kuenstler": "Adrian van der Meer",
+  "provenienz": [
+    {
+      "datum": "1745",
+      "besitzer": {
+        "titel": "",
+        "name": "Rudolf Graf von Eisenstadt"
+      },
+      "verwandte": ""
+    },
+    {
+      "datum": "1800",
+      "besitzer": {
+        "titel": "Baronin Elisabeth von Eisenstadt",
+        "name": "Elisabeth Freifrau von Steinberg"
+      },
+      "verwandte": "Geschwister, Graf von Hohenlohe"
+    },
+    {
+      "datum": "1850",
+      "besitzer": {
+        "titel": "",
+        "name": "Albert III. Baron von Eisenstadt"
+      },
+      "verwandte": "Eheschließung mit Prinzessin Luise zu Waldburg"
+    },
+    {
+      "datum": "1900",
+      "besitzer": {
+        "titel": "",
+        "name": "Hermann II. Baron von Eisenstadt"
+      },
+      "verwandte": "Erbfolge nach Vater und Großvater"
+    }
+  ],
+  "schaetzung_chf": 261000
+}

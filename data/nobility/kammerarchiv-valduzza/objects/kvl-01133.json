@@ -1,0 +1,40 @@
+{
+  "record_id": "KVL-01133",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-599-55",
+  "artefakt": "marmorbueste",
+  "werktitel": "De Schat van Huis Arend",
+  "zugeschriebene_werkstatt": "Ludwig von Elsenstadt",
+  "besitzfolge": [
+    {
+      "person": "Dame Adelheid van Oranje-Altijn",
+      "datum": 1850,
+      "titel": ""
+    },
+    {
+      "person": "Herr Johann van Merania-Altenkirch",
+      "datum": 1880,
+      "titel": "Erbe durch Verwedering"
+    },
+    {
+      "person": "Familie Arend-Altijnska",
+      "datum": null,
+      "titel": "Erbe durch testamentarische Bereinigung"
+    },
+    {
+      "person": "Herr Johann van Merania-Altenkirch junior",
+      "datum": 1925,
+      "titel": ""
+    },
+    {
+      "person": "Familie Arend-Altijnska",
+      "datum": null,
+      "titel": "Erbe durch testamentarische Bereinigung"
+    }
+  ],
+  "groesse": {
+    "height": 169.5,
+    "width": 265.0
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

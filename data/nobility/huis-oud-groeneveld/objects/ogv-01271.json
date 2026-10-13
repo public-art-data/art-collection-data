@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-01271",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-216-22",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Schilderij met de titel 'Licht door het kloostergebouw'",
+  "vermoedelijke_maker": "Maria van Leeuwen",
+  "eigendomsgeschiedenis": [
+    {
+      "geslacht": "Huis van Oranje-Nassau",
+      "jaar": 1750,
+      "beschrijving": "Aan de hertogin Beatrix van Oranje-Nassau gekregen als erfstuk na haar overlijden"
+    },
+    {
+      "geslacht": "Huis van Holland",
+      "jaar": 1800,
+      "beschrijving": "Ookwegen door haar zoon, prins Lodewijk van Holland, aan de familie van Holland toegekend"
+    },
+    {
+      "geslacht": "Groot-Prinselijke Huis",
+      "jaar": 1850,
+      "beschrijving": "Vervolgens bepaald door de Groot-Prins om het schilderij als erfgoed te houden voor de Oranje-Nassau familie"
+    }
+  ],
+  "grootte": {
+    "height": 55.2,
+    "width": 258.1
+  },
+  "marginale_notitie": "kreuk in perkament"
+}

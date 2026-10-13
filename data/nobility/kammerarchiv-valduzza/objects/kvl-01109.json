@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01109",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-825-44",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt des Herzogs von Schlosskloster",
+  "zugeschriebene_werkstatt": "Ferdinand de la Croix",
+  "besitzfolge": [
+    {
+      "besitzer_name": "Baronin von Schlosskloster",
+      "besitz_datum": "18. Jahrhundert",
+      "besitz_ursprung": "Ehe mit dem Grafen von Wiesenburg"
+    },
+    {
+      "besitzer_name": "Graf von Wiesenburg",
+      "besitz_datum": "17. Jahrhundert",
+      "besitz_ursprung": "Erbschaft"
+    }
+  ],
+  "groesse": {
+    "height": 60.7,
+    "width": 173.3
+  }
+}

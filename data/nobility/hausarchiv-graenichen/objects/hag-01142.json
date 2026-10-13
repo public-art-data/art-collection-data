@@ -1,0 +1,28 @@
+{
+  "record_id": "HAG-01142-alt",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-110-54",
+  "gegenstand": "standuhr mit intarsien",
+  "bezeichnung": "Porträt der Familie von Schattenberg",
+  "zugeschrieben_an": "Hans Eversmann",
+  "besitzgeschichte": {
+    "ersteller": "Ernst Schattenberg",
+    "herkunft": "Schloss Ravensburg, Bayern",
+    "jahr": "1750",
+    "besitzer": [
+      {
+        "name": "Marie-Eleonore Schattenberg",
+        "besitz": "1755-1778"
+      },
+      {
+        "name": "Friedrich von Schattenberg",
+        "besitz": "1780-1813"
+      },
+      {
+        "name": "Ludwig von Schattenberg",
+        "besitz": "1815-1849"
+      }
+    ]
+  },
+  "frueherer_besitzer": "Herren von Falkeisberg"
+}

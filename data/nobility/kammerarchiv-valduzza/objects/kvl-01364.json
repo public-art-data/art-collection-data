@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-1001364",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-230-49",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträtsammlung van de Valkenburgen",
+  "zugeschriebene_werkstatt": "Kornelius 'De Blauwbaard' van de Leest",
+  "besitzfolge": {
+    "herkoming": "Erfgenaamd Graaf Hendrik van der Meer, 18e eeuw",
+    "vererving": [
+      {
+        "nachkommer": "Prinses Wilhelmina van Oranje-Nassau",
+        "jaar": 1850
+      },
+      {
+        "nachkommer": "Baroness Beatrix van de Valkenburgen",
+        "jaar": 1880
+      }
+    ]
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

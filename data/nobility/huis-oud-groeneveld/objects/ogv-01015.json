@@ -1,0 +1,24 @@
+{
+  "record_id": "OGV-01015",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-966-57",
+  "stuk": "kabinetklok",
+  "omschrijving": "Portret van de graaf van Vollenhoven",
+  "vermoedelijke_maker": "Lenaert van Wijk",
+  "eigendomsgeschiedenis": {
+    "uitbrouwer": "Huis Van Voorde",
+    "naam_eerwaardige_koopster": "Anna van Oud-En-Dalenburg, weduwe van graaf Frans van Vollenhoven",
+    "jaar_aankoop": 1650,
+    "gevolg": [
+      {
+        "naam_eerwaardige_uitbrouwer": "Gillis van Voorde, zoon van Anna van Oud-En-Dalenburg",
+        "jaar_na_voorouder_aankoop": 1680
+      },
+      {
+        "naam_eerwaardige_opvolger": "Jan van Vollenhoven, kleinzoon van Gillis van Voorde",
+        "jaar_opvolging": 1750
+      }
+    ]
+  },
+  "marginale_notitie": "kreuk in perkament"
+}

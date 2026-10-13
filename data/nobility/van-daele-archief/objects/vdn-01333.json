@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-01333",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-580-88",
+  "objecttype": "wandtapijt",
+  "benaming": "Hertoginniteit van Nijverheid",
+  "vermoedelijke_meester": "Karel Koenraad Wouters",
+  "provenance": [
+    {
+      "erfgenaam": "Hertogin Maria van Nijverheid",
+      "jaar": 1850,
+      "oorzaak": "Erfgood"
+    },
+    {
+      "erfgenaam": "Heren Karel van Kleefland",
+      "jaar": 1885,
+      "oorzaak": "Weduwdichtheid"
+    },
+    {
+      "erfgenaam": "Prinses Elisabeth van Nijverheid",
+      "jaar": 1920,
+      "oorzaak": "Erfsrecht"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 82.8,
+    "width": 93.7
+  }
+}

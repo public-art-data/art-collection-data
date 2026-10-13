@@ -1,0 +1,24 @@
+{
+  "record_id": "KVL-01191",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-355-66",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Porträt des Grafen von Wimpfen",
+  "zugeschriebene_werkstatt": "Anna Margaretha van der Meer",
+  "besitzfolge": {
+    "Inventarbeschreibung": [
+      {
+        "Art": "Gemälde",
+        "Besitzer": "Haus Wimpfen",
+        "Jahr": 1701,
+        "Erbeiterung": "Grafin Lisbeth von Wimpfen"
+      },
+      {
+        "Art": "Porträt",
+        "Besitzer": "Haus Wimpfen",
+        "Jahr": 1750,
+        "Übertragung": "Familienkonsortium"
+      }
+    ]
+  }
+}

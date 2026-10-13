@@ -1,0 +1,18 @@
+{
+  "record_id": "GFM-03033",
+  "source": "Galerie Fouquet-Merlan, Paris",
+  "numero_inventaire": "FM-3485",
+  "type_dobjet": "technique mixte",
+  "titre": "Etude de pommes",
+  "artiste": "J. Ferrand-Brivazac",
+  "dimensions_cm": {
+    "height": 122.2,
+    "width": 44.6
+  },
+  "ancien_proprietaire": {
+    "name": "M. Housset",
+    "born": 1975,
+    "acquired": 1953
+  },
+  "cote": "b2"
+}

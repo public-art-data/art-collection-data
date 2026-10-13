@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-01678",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-468",
+  "object_type": "ink drawing",
+  "title": "Riverside, Penang",
+  "artist": "Thornquist",
+  "provenance": "Acquired by the estate of Tien Kiat Wong, Kuala Lumpur in 2001 from dealer Mei-Ling Lee, Singapore; thereafter sold to the collection of Chiau Eng Hock, Singapore.",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 719.0,
+    "width": 437.0
+  },
+  "estimate_sgd": {
+    "low": 34000,
+    "high": 158000
+  },
+  "condition_report": "minor foxing to margins"
+}

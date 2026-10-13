@@ -1,0 +1,54 @@
+{
+  "record_id": "CCV-1106",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-827-84",
+  "categorie": "portrait en miniature",
+  "titre": "Collection du Duc de Châteaubriand",
+  "attribution": "Édouard Dupont-Gaillard",
+  "provenance": [
+    {
+      "nom": "Héritage familial",
+      "dates": [
+        "1710-1725"
+      ]
+    },
+    {
+      "nom": "Marriage à la vicomtesse de Brusson",
+      "dates": [
+        "1750-1780"
+      ],
+      "personnes": [
+        {
+          "prenom": "François",
+          "nom": "Le Duc de Châteaubriand"
+        }
+      ]
+    },
+    {
+      "nom": "Légataire testamentaire du père",
+      "dates": [
+        "1800-1830"
+      ]
+    },
+    {
+      "nom": "Héritage transféré à sa nièce",
+      "dates": [
+        "1870-1910"
+      ],
+      "personnes": [
+        {
+          "prenom": "Marie-Thérèse",
+          "nom": "Duchesse d'Orléans-Gaillard"
+        }
+      ]
+    },
+    {
+      "nom": "Cession à la famille de Roubaix",
+      "dates": [
+        "1930-1950"
+      ]
+    }
+  ],
+  "ancien_detenteur": "Famille de Collonges-Valiere",
+  "valeur_estimee": 452000
+}

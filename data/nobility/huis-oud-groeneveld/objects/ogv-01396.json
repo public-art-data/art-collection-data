@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01396",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-947-92",
+  "stuk": "devotiebeeld",
+  "omschrijving": "Rode Valk met goudschilderijen",
+  "vermoedelijke_maker": "Anna van Leeuwenburg",
+  "eigendomsgeschiedenis": [
+    {
+      "gebeurtenis": "Erfgename van Hertogin Sophia van Holland en Overstraeten (overleden 1645)",
+      "eigendomstype": "erfgoed"
+    },
+    {
+      "gebeurtenis": "Overgedraaid aan de erfgenaam van Hertog Jan van Brabant",
+      "eigendomstype": "legaat"
+    },
+    {
+      "gebeurtenis": "Geërfd door Hertog Pieter van Holland en Overstraeten (overleden 1690)",
+      "eigendomstype": "erfgoed"
+    },
+    {
+      "gebeurtenis": "Verhuisd naar het kasteel van Hertog Lodewijk van Brabant",
+      "eigendomstype": "verhuizing"
+    }
+  ],
+  "grootte": {
+    "height": 63.6,
+    "width": 163.8
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel"
+}

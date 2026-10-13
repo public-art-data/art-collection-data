@@ -1,0 +1,40 @@
+{
+  "record_id": "HAG-01083",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-979-17",
+  "gegenstand": "marmorbueste",
+  "bezeichnung": "Familienportrait der Gräfin Sophie von Hohenstein",
+  "zugeschrieben_an": "Ludwig van der Meer",
+  "besitzgeschichte": {
+    "Haus Hohenstein": [
+      {
+        "von": "Hans von Schönau",
+        "Jahr": "1700"
+      },
+      {
+        "zu": "Gustav von Stein",
+        "Jahr": "1750"
+      },
+      {
+        "an": "Sophie von Hohenstein",
+        "Jahr": "1850"
+      }
+    ],
+    "Erbfolge": [
+      {
+        "von": "Sophie von Hohenstein",
+        "nach": "Hermann von Hohenstein",
+        "Jahr": "1865"
+      },
+      {
+        "von": "Hermann von Hohenstein",
+        "nach": "Karla von Hohenstein",
+        "Jahr": "1910"
+      }
+    ]
+  },
+  "abmessungen": {
+    "height": 157.9,
+    "width": 80.1
+  }
+}

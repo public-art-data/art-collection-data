@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-620",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-458",
+  "object_type": "bronze figure",
+  "title": "kite at Dusk",
+  "artist": "Marchetti-Lim",
+  "provenance": "Estate of Private collection, Kuala Lumpur; offered at Meridian Fine Arts Auctioneers in 1923.",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 1677.0,
+    "width": 1806.0
+  },
+  "previous_owner": "Private collection, Kuala Lumpur",
+  "estimate_sgd": {
+    "low": 6000,
+    "high": 114000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

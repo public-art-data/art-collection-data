@@ -1,0 +1,28 @@
+{
+  "record_id": "FCS-01393",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-100-2",
+  "type_d_objet": "objet devotionnel",
+  "titre": "Collection de la Maison d'Alberville",
+  "artiste_attribue": "Pierre Étienne LaFleur",
+  "historique_de_possession": [
+    {
+      "date": "1750",
+      "donnee": "Acquisition par Madame Adélaïde Alberville, épouse de Philippe Ier d'Alberville"
+    },
+    {
+      "date": "1775",
+      "donnee": "Succession du collectionneur, le Comte Charles-François d'Alberville"
+    },
+    {
+      "date": "1810",
+      "donnee": "Héritage de sa fille aînée, Madame Sophie Alberville, épouse de Henri II de Valmont"
+    }
+  ],
+  "dimensions": {
+    "height": 154.4,
+    "width": 42.9
+  },
+  "proprietaire_precedent": "Famille de Clemency-Sonnenberg",
+  "observations": "annotation au crayon: 'donne en 1848'"
+}

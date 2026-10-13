@@ -1,0 +1,21 @@
+{
+  "record_id": "KVL-01081",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-228-20",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Porträt des Herzogs von Eisenstein",
+  "zugeschriebene_werkstatt": "Adelheid van der Meer",
+  "besitzfolge": {
+    "Grundungsjahr": 1591,
+    "Eigentümer": [
+      "Grafin Isabella zu Wuppertal",
+      "Graf Andreas zu Wuppertal",
+      "Karl von Eisenstein"
+    ],
+    "Erbschaft": "Erbschaft durch Heirat mit der Tochter des Grahfs Andreas zu Wuppertal, Anna zu Wuppertal 1625"
+  },
+  "groesse": {
+    "height": 189.6,
+    "width": 293.3
+  }
+}

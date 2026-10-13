@@ -1,0 +1,39 @@
+{
+  "record_id": "OGV-01283",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-509-54",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "Lichtgevende driehoek",
+  "vermoedelijke_maker": "Aurora Veldhuis",
+  "eigendomsgeschiedenis": [
+    {
+      "geschatte_koopjaar": 1885,
+      "koper": "Huis van Oranje-Nassau",
+      "geëigende_namen": [
+        "Prinses Wilhelmina van Oranje-Nassau",
+        "Koningin Emma van Oranje-Nassau"
+      ]
+    },
+    {
+      "geschatte_koopjaar": 1920,
+      "koper": "Huis van Nassau-Weilburg",
+      "geëigende_namen": [
+        "Prins Bernhard van Nassau-Weilburg",
+        "Koningin Juliana van Nassau-Weilburg"
+      ]
+    },
+    {
+      "geschatte_koopjaar": 1960,
+      "koper": "Privé-collectie van Hertogin Anna van Nassau",
+      "geëigende_namen": [
+        "Hertog Heinrich van Nassau",
+        "Prinses Beatrix van Nassau"
+      ]
+    }
+  ],
+  "grootte": {
+    "height": 48.9,
+    "width": 227.8
+  },
+  "marginale_notitie": "waszegel beschadigd"
+}

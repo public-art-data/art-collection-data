@@ -1,0 +1,14 @@
+{
+  "record_id": "ENV-00098",
+  "registre_des_inventaires": "Etude Notariale H. Veillemin (Inventaires apres Deces), Lyon, France",
+  "numero_d_ordre": "ENV-1888-0119",
+  "espece": "tableau a l'huile",
+  "designation_sommaire": "Etude de lavandiere",
+  "maitre_prevu": "M. Fauquembergue",
+  "dimensions": {
+    "height": 50.0,
+    "width": 90.0
+  },
+  "estimation": 32400,
+  "remarque_du_clerc": "double cotation, voir folio 12"
+}

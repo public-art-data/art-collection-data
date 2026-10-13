@@ -1,0 +1,24 @@
+{
+  "record_id": "SYN KVL 01248",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-138-38",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Het Kasteel van de Schierkeieren",
+  "zugeschriebene_werkstatt": "Adriaan van den Heuvel",
+  "besitzfolge": [
+    {
+      "persoon": "Bart van der Meer",
+      "beziehung": "Hausvater"
+    },
+    {
+      "persoon": "Eva van der Meer",
+      "beziehung": "Erbin"
+    },
+    {
+      "persoon": "Johan van de Meer",
+      "beziehung": "Hausvater"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "wachsiegel beschaedigt"
+}

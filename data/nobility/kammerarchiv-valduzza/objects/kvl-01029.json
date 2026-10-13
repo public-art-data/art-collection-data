@@ -1,0 +1,33 @@
+{
+  "record_id": "KVL-1001029",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-126-48",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Der Held von Valdor",
+  "zugeschriebene_werkstatt": "Anna van der Meer",
+  "besitzfolge": {
+    "Haus Hohenberg": [
+      {
+        "datum": "1700",
+        "besitzer": "Kaiserin Maria Theresa"
+      },
+      {
+        "datum": "1750",
+        "erben": [
+          "Ludwig von Hohenberg",
+          "Adelheid von Hohenberg"
+        ]
+      }
+    ],
+    "Gräfin von Eisenstadt": [
+      {
+        "datum": "1850",
+        "vermacht": "Ludwig von Hohenberg"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 187.6,
+    "width": 167.7
+  }
+}

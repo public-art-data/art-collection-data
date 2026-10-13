@@ -1,0 +1,31 @@
+{
+  "record_id": "KVL-01249",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-480-77",
+  "artefakt": "bildteppich",
+  "werktitel": "Mutterliebe",
+  "zugeschriebene_werkstatt": "Ludwig von Königsberg",
+  "besitzfolge": {
+    "Haus von Steinfeld": [
+      {
+        "datum": "1790",
+        "besitzer": "Freiherr Roderich von Steinfeld"
+      },
+      {
+        "datum": "1835",
+        "geschenkt an": "Gräfin Isabella von Königsberg"
+      }
+    ],
+    "Schloss der Freiherren von Steinburg": [
+      {
+        "datum": "1860",
+        "vererbt von": "Kondzinerin Margarethe von Steinfeld"
+      },
+      {
+        "datum": "1905",
+        "geschenkt an": "Herr Anton von Steinberg"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld"
+}

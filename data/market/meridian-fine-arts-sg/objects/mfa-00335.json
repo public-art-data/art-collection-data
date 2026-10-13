@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-335",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2023-54",
+  "object_type": "lithograph",
+  "title": "View of Bandung",
+  "artist": "Thornquist",
+  "provenance": "Acquired by Madame Kusuma Dewi in 1958 and later sold to the estate of Tan Sri Abdul Aziz in 1975",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1578.0,
+    "width": 632.0
+  },
+  "estimate_sgd": {
+    "low": 10000,
+    "high": 160000
+  },
+  "condition_report": "good, with light craquelure"
+}

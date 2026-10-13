@@ -1,0 +1,34 @@
+{
+  "record_id": "KVL-2001412",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-326-91",
+  "artefakt": "bildteppich",
+  "werktitel": "De Nachtsterkeijn",
+  "zugeschriebene_werkstatt": "Erik van der Meer",
+  "besitzfolge": [
+    {
+      "name": "House Vlaanderen",
+      "besitzer": "Willem III",
+      "jahr": 1730,
+      "verwandt": "Ehefrau"
+    },
+    {
+      "name": "House Montague",
+      "besitzer": "Emme de Willemsdijk",
+      "jahr": 1785,
+      "erben": "Nachkommen"
+    },
+    {
+      "name": "House Van der Meer",
+      "besitzer": "Pieter van der Meer",
+      "jahr": 1820,
+      "wiederhergestellt": "Vorfahren"
+    }
+  ],
+  "groesse": {
+    "height": 217.4,
+    "width": 274.8
+  },
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "doppelt nummeriert"
+}

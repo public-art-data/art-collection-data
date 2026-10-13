@@ -1,0 +1,26 @@
+{
+  "record_id": "OGV-01075",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-267-8",
+  "stuk": "gegraveerd jachtgeweer",
+  "omschrijving": "Twee hoofden van de Maan",
+  "vermoedelijke_maker": "Koningin Helena Van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "besitter": "Heren van de Hoge Beijen",
+      "jaar": 1650,
+      "overleden": false
+    },
+    {
+      "besitter": "Heren van het Graafschap Vleermuizen",
+      "jaar": 1750,
+      "overleden": true
+    },
+    {
+      "besitter": "Prinses Helena Van der Meer",
+      "jaar": 1900,
+      "overleden": false
+    }
+  ],
+  "marginale_notitie": "kreuk in perkament"
+}

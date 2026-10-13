@@ -1,0 +1,24 @@
+{
+  "record_id": "VDN-01262",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-215-57",
+  "objecttype": "wandtapijt",
+  "benaming": "Huisarchief van de Van den Berchoven",
+  "vermoedelijke_meester": "Gijsbrecht Jansen",
+  "provenance": [
+    {
+      "persoon": "Graaf Willem I van der Meer",
+      "relatie": "gebruikt als erfgenaam"
+    },
+    {
+      "persoon": "Gravin Anna van der Meer",
+      "relatie": "'erfde na haar overleden echtgenoot"
+    }
+  ],
+  "eerdere_eigenaar": {
+    "name": "A. Rijpkema",
+    "born": 1951,
+    "acquired": 1894
+  },
+  "staat": "kreuk in perkament"
+}

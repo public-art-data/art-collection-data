@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-01457",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-222-13",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "Portret van een Veldheer",
+  "vermoedelijke_maker": "Lena van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Huis Van Pallandt",
+      "jaar": 1650,
+      "aankoop_persoon": "Johannes van Pallandt",
+      "aankoop_grondslag": "Erbteilung"
+    },
+    {
+      "titel": "Huis Van Pallandt",
+      "jaar": 1700,
+      "aankoop_persoon": "Anna van Pallandt",
+      "aankoop_grondslag": "Erfgoodkeuring"
+    },
+    {
+      "titel": "Privébezit van Hertogin Isabella van Palatijn",
+      "jaar": 1850,
+      "aankoop_persoon": "Hartog Frans van Palatijn",
+      "aankoop_grondslag": "Erfgoodkeuring"
+    }
+  ],
+  "marginale_notitie": "dubbele nummering"
+}

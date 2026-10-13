@@ -1,0 +1,36 @@
+{
+  "record_id": "KVL-1001199",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-164-73",
+  "artefakt": "bildteppich",
+  "werktitel": "Die Schatten von Castelverdugo",
+  "zugeschriebene_werkstatt": "Federico della Rosa",
+  "besitzfolge": [
+    {
+      "erbeart": [
+        "Castello della Rosa",
+        "Delfino della Rosa"
+      ],
+      "jahr": "1590"
+    },
+    {
+      "geschenk": [
+        "Giovanna dei Medici",
+        "Castello dei Medici"
+      ],
+      "jahr": "1635"
+    },
+    {
+      "erbeart": [
+        "Giovanni dei Santi",
+        "Famiglia dei Santi"
+      ],
+      "jahr": "1680"
+    }
+  ],
+  "groesse": {
+    "height": 90.1,
+    "width": 105.6
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

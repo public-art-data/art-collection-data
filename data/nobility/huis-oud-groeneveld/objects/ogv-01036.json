@@ -1,0 +1,35 @@
+{
+  "record_id": "OGV-01036",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-859-80",
+  "stuk": "devotiebeeld",
+  "omschrijving": "Triomf van de Adelaarorde",
+  "vermoedelijke_maker": "Aurélien LaFleur",
+  "eigendomsgeschiedenis": [
+    {
+      "eigendom_id": 1,
+      "gezin": "Van der Meer",
+      "opneming": "1785, erfsticht door graaf Willem van der Meer"
+    },
+    {
+      "eigendom_id": 2,
+      "gezin": "Van der Meer",
+      "opneming": "1790, gekocht van zijn neef Pieter Van der Meer"
+    },
+    {
+      "eigendom_id": 3,
+      "gezin": "Heren van Aken",
+      "opneming": "1852, erfsticht door heer Hendrik van Aken"
+    },
+    {
+      "eigendom_id": 4,
+      "gezin": "Van der Meer",
+      "opneming": "1900, erfde van zijn zoon Pieter Hendrik Van der Meer"
+    }
+  ],
+  "grootte": {
+    "height": 204.1,
+    "width": 137.4
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

@@ -1,0 +1,35 @@
+{
+  "record_id": "KVL-01347",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-781-28",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "De Herinnering aan 't Vreemde Lichaam",
+  "zugeschriebene_werkstatt": "Lucien van der Linden",
+  "besitzfolge": [
+    {
+      "eerste_eigenaar": "Hertogin Isabella van Oranje-Nassau",
+      "overdraagbaarheid": "Erfgoed overgedragen aan haar kinderen op 10 januari 1845",
+      "volgende_eigenaar": "Prins Hendrik van Oranje-Nassau"
+    },
+    {
+      "eerste_eigenaar": "Prins Hendrik van Oranje-Nassau",
+      "overdraagbaarheid": "Erfgoed veroverd bij huwelijk met Hertogin Emma van Hessen-Kassel op 15 maart 1867",
+      "volgende_eigenaar": "Hertogin Emma van Hessen-Kassel"
+    },
+    {
+      "eerste_eigenaar": "Hertogin Emma van Hessen-Kassel",
+      "overdraagbaarheid": "Erfgoed vererfd bij huwelijk met Prins Filips van Nassau op 20 augustus 1880",
+      "volgende_eigenaar": "Prins Filips van Nassau"
+    },
+    {
+      "eerste_eigenaar": "Prins Filips van Nassau",
+      "overdraagbaarheid": null,
+      "volgende_eigenaar": "Graafin Isabella van Nassau"
+    }
+  ],
+  "groesse": {
+    "height": 84.6,
+    "width": 132.9
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

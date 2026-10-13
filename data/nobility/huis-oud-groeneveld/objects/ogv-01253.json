@@ -1,0 +1,29 @@
+{
+  "record_id": "OGV-o1253",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-564-48",
+  "stuk": "wandtapijt",
+  "omschrijving": "Grote Kerkhofte Schilderij",
+  "vermoedelijke_maker": "Bartholomeus van der Linden",
+  "eigendomsgeschiedenis": [
+    {
+      "jaar": 1650,
+      "eigenaar": "Hertogin Maria van Oud-Heusden"
+    },
+    {
+      "jaar": 1685,
+      "transmissie": "Van Hertogin Maria via haar dochter Helena naar haar zuster Anna van Oud-Heusden",
+      "eigenaar": "Anna van Oud-Heusden"
+    },
+    {
+      "jaar": 1750,
+      "transmissie": "Van Anna via haar neef Filips van Heusden naar haar zusje Isabella van Heusden",
+      "eigenaar": "Isabella van Heusden"
+    }
+  ],
+  "grootte": {
+    "height": 24.6,
+    "width": 219.5
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

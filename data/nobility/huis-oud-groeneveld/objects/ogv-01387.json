@@ -1,0 +1,44 @@
+{
+  "record_id": "OGV-01387_bis",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-740-51",
+  "stuk": "devotiebeeld",
+  "omschrijving": "Portret van de heer van Wolvestein",
+  "vermoedelijke_maker": "Lavinia LaGraine",
+  "eigendomsgeschiedenis": {
+    "verkocht aan": [
+      {
+        "jaar": 1812,
+        "naam": "Heren Van der Meer",
+        "reden": "Eerwaardige schenking"
+      },
+      {
+        "jaar": 1850,
+        "naam": "Heren De Konynck",
+        "reden": "Gefraaid erfenis"
+      },
+      {
+        "jaar": 1920,
+        "naam": "Prinses Isabella van Wolvestein",
+        "reden": "Eerwaardige erfgenaam"
+      }
+    ],
+    "gekocht door": [
+      {
+        "jaar": 1692,
+        "naam": "Heren Van der Meer",
+        "bedrijf": "Familie Van der Meer"
+      },
+      {
+        "jaar": 1750,
+        "naam": "Graaf van Wolvestein",
+        "bedrijf": "Erfgoed van Wolvestein"
+      }
+    ]
+  },
+  "grootte": {
+    "height": 160.0,
+    "width": 166.0
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

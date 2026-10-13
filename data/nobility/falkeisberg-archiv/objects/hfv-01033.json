@@ -1,0 +1,24 @@
+{
+  "record_id": "HFV-1001033",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-746-45",
+  "objektart": "bildteppich",
+  "titel": "Grafenhof-VonSchönborns Privatarchiv",
+  "kuenstler": "F. von Eisenhut",
+  "provenienz": [
+    {
+      "datum": "1775-02-01",
+      "besitzer": "Hofgrafin Sophie von Schönborn und Wiesbaden",
+      "erben": "Nachgeliegen von ihr ihren Bruder, Graf Johann von Schönborn",
+      "besitzort": "Schloss Wiesbaden"
+    },
+    {
+      "datum": "1820-06-15",
+      "besitzer": "Graf Ferdinand von Schönborn und Nordenburg",
+      "erben": "Nachgeliegen von ihm seiner Schwiegertochter, Gräfin Elisabeth von Fürstenberg",
+      "besitzort": "Nordenburgschloss"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 454000
+}

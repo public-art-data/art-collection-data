@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02016",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-349",
+  "object_type": "ink drawing",
+  "title": "Untitled (boat)",
+  "artist": "Thornquist",
+  "provenance": "Acquired by Lady Wong Mei-Ling in 1947 and exhibited at the inaugural exhibition of the Singapore Art Society, subsequently gifted to the estate of Henry Lee Kwan in 1973",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 999.0,
+    "width": 2201.0
+  },
+  "estimate_sgd": {
+    "low": 1000,
+    "high": 133000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

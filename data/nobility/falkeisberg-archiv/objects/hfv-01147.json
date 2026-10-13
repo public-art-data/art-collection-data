@@ -1,0 +1,32 @@
+{
+  "record_id": "HFV-01147",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-546-40",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Baroness-Gräfin Anna-Louise von Schattenburg",
+  "kuenstler": "Lilja Eisenstadt",
+  "provenienz": [
+    {
+      "person": "Herr Friedrich von Schattenburg, Baron",
+      "beziehung": "Eigentümer (1830-1855)",
+      "verwandte": [
+        "Gräfin Anna-Louise von Schattenburg, Baronin"
+      ]
+    },
+    {
+      "person": "Gräfin Helga von Waldsinn, Heiratin",
+      "beziehung": "Erbin (1855-1870)",
+      "verwandte": [
+        "Baroness-Gräfin Anna-Louise von Schattenburg, Baronin"
+      ]
+    },
+    {
+      "person": "Herr Hugo von Eisenstadt, Ehemann",
+      "beziehung": "Eigentümer (1870-1925)",
+      "verwandte": [
+        "Barone-Gräfin Helga von Waldsinn-Eisenstadt"
+      ]
+    }
+  ],
+  "vorbesitzer": "Freiherren von Graenichen"
+}

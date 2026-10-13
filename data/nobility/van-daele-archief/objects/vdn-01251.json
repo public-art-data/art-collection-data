@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-01251",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-142-9",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Huisarchief Van der Meer",
+  "vermoedelijke_meester": "Klaas Jansz van Driel",
+  "provenance": [
+    {
+      "persoon": "Adriaan I Van der Meer",
+      "titel": "Heer van der Meer",
+      "jaar": 1650,
+      "oorzaak": "Erfenis"
+    },
+    {
+      "persoon": "Albertina Van der Meer",
+      "titel": null,
+      "jaar": 1750,
+      "oorzaak": "Overleden, erfde door zuster Wilhelmina"
+    },
+    {
+      "persoon": "Wilhelmina Van der Meer",
+      "titel": "Koningin van Holland",
+      "jaar": 1800,
+      "oorzaak": "Erfsvererving na het huwelijk met Hendrik van Rijnstein"
+    }
+  ],
+  "staat": "dubbele nummering"
+}

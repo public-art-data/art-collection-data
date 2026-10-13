@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-04222",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-256",
+  "object_type": "oil on canvas",
+  "title": "Viridian Composition",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Acquired by Yee-Hee Lim Estate in 1928, formerly part of the collection of Kai-Ling Wong Gallery",
+  "medium": "oil on canvas",
+  "dimensions_mm": {
+    "height": 1659.0,
+    "width": 579.0
+  },
+  "estimate_sgd": {
+    "low": 14000,
+    "high": 188000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

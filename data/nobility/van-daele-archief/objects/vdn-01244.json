@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-1001244",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-219-52",
+  "objecttype": "wandtapijt",
+  "benaming": "Huis van de Vijf Zonnen",
+  "vermoedelijke_meester": "Marcellinus van de Velden",
+  "provenance": [
+    {
+      "gezin": "Huis van Rieneck",
+      "erfschap_year": 1450,
+      "gevolgd_door": [
+        {
+          "gezin": "Huis van Valkenburg",
+          "erfschap_year": 1625
+        },
+        {
+          "gezin": "Huis van de Vijf Zonnen",
+          "erfschap_year": 1850
+        }
+      ]
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 169.7,
+    "width": 203.7
+  },
+  "eerdere_eigenaar": "Familie Van ter Muelen-Berckel",
+  "staat": "waszegel beschadigd"
+}

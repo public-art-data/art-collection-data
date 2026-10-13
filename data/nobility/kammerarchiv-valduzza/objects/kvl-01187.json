@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-1001187",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-510-52",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Die Schatten des Gutes",
+  "zugeschriebene_werkstatt": "Anna von Arnstadt",
+  "besitzfolge": [
+    {
+      "Person": "Hermann van Oranje-Nassau",
+      "Besitzjahr": 1700,
+      "Geschichte": "Erbaute die Sammlung von seinem Vater, Herzog Johann van Oranje-Nassau"
+    },
+    {
+      "Person": "Anna van Arnstadt",
+      "Besitzjahr": 1725,
+      "Geschichte": "Erbte die Sammlung von ihrem Stiefvater, Graf Philipp van Hessen-Kassel"
+    },
+    {
+      "Person": "Johannes van Nassau-Weilburg",
+      "Besitzjahr": 1790,
+      "Geschichte": "Übernahm die Sammlung seiner Schwester, Herzogin Maria van Oranje-Nassau"
+    }
+  ],
+  "groesse": {
+    "height": 177.9,
+    "width": 14.1
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

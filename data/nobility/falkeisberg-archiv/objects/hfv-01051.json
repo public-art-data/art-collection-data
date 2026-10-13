@@ -1,0 +1,24 @@
+{
+  "record_id": "HFV-01051",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-415-63",
+  "objektart": "marmorbueste",
+  "titel": "Privatarchiv der Grafen von Wolfsburg",
+  "kuenstler": "Johannes Fischer von Auersperg",
+  "provenienz": [
+    {
+      "person": "Graf Adalbert von Wolfsburg",
+      "datum": "1840"
+    },
+    {
+      "person": "Gräfin Elisabeth von Auersperg",
+      "datum": "1880",
+      "vermögensübergang": "erbschaft"
+    },
+    {
+      "person": "Graf Ferdinand von Wolfsburg",
+      "datum": "1920"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Staufenried"
+}

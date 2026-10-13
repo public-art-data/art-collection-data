@@ -1,0 +1,29 @@
+{
+  "record_id": "TMB-01259",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-508-62",
+  "soort": "gegraveerd jachtgeweer",
+  "titel": "Schilderij van een dag in het park",
+  "toegeschreven_aan": "Lena van der Meer",
+  "herkomstgeschiedenis": {
+    "verkoop_op": null,
+    "kochtijd": "1785",
+    "gekocht_voor": 1000,
+    "vorige_eigenaar": null,
+    "eerste_vermelding": 1800,
+    "vorige_eigenaars": [
+      {
+        "verkoop_op": null,
+        "kochtijd": null,
+        "gekocht_voor": null
+      }
+    ]
+  },
+  "afmetingen": {
+    "height": 148.2,
+    "width": 262.7
+  },
+  "vroegere_bezitter": "Huis van Oud-Groeneveld",
+  "schatting": 232000,
+  "aantekening": "potloodaantekening: 'uit de boedel van 1852'"
+}

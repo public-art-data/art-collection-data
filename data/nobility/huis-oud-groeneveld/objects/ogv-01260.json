@@ -1,0 +1,27 @@
+{
+  "record_id": "SYN OGV 01260",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-450-39",
+  "stuk": "devotiebeeld",
+  "omschrijving": "Schilderij met scènes uit de natuur",
+  "vermoedelijke_maker": "Adriaan van Rijn",
+  "eigendomsgeschiedenis": {
+    "eigendom_id": "NV001",
+    "opkomst_year": 1650,
+    "eigendom_beginner": {
+      " naam": "Hertogin Beatrix van Gelre",
+      "gezin_id": "GH002"
+    },
+    "overdracht_tijd": 1685,
+    "eigendom_ontvanger": {
+      "naam": "Prins Hendrik van Nassau",
+      "gezin_id": "NH003"
+    },
+    "opvolging_year": 1720
+  },
+  "grootte": {
+    "height": 139.5,
+    "width": 183.1
+  },
+  "vorige_eigenaar": "Familie Van ter Muelen-Berckel"
+}

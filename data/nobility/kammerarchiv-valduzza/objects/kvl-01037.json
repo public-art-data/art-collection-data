@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01037",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-390-14",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Die Liebe der Gouvernante",
+  "zugeschriebene_werkstatt": "Hélène Dumontière",
+  "besitzfolge": {
+    "Gründungsjahr": 1695,
+    "ursprünglicher_Bezitter": "Friederike von Kurfürstenberg",
+    "Erbschaft_und_Ehe": [
+      {
+        "jahr": 1722,
+        "beziehung": "Eheschließung mit Johann von Taxis"
+      },
+      {
+        "jahr": 1745,
+        "beziehung": "Erbe von ihren Brüdern"
+      }
+    ],
+    "Notizen": [
+      "Im Auftrag der Familie erworben. Nach dem Tod des Ehepaares von Taxis wurde die Sammlung an die Familie von Kurfürstenberg vererbt."
+    ]
+  },
+  "kammervermerk": "doppelt nummeriert"
+}

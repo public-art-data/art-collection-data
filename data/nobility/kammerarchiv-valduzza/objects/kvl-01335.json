@@ -1,0 +1,30 @@
+{
+  "record_id": "KVL-01335",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-396-83",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt des Königs Leopold III",
+  "zugeschriebene_werkstatt": "Johannes van der Meer",
+  "besitzfolge": [
+    {
+      "titel": "Haus Graffenhain",
+      "besitzer_in": [
+        "Grafin Sophie van der Linden"
+      ]
+    },
+    {
+      "titel": "Haus Graffenhain",
+      "besitzer_in": [
+        "Prinz Maximilian van der Linden",
+        "Erbin Helena von Schönborn"
+      ]
+    },
+    {
+      "titel": "Kunstgeschichtliches Archiv Grafen zu Graffenhain",
+      "erben": [
+        "Prinz Friedrich Wilhelm von Braunschweig-Lüneburg"
+      ]
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

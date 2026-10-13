@@ -1,0 +1,27 @@
+{
+  "record_id": "SYN VDN 01062",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-780-12",
+  "objecttype": "marmeren buste",
+  "benaming": "Graafheer van der Meer en de Vijf Bollen",
+  "vermoedelijke_meester": "Pieter van 't Vlees",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van der Meer",
+      "jaar": 1750,
+      "aanwezigheid": "Eigendom"
+    },
+    {
+      "persoon": "Prinsesse Marie van der Meer en de Vijf Bollen",
+      "jaar": 1815,
+      "aanwezigheid": "Erfgood"
+    },
+    {
+      "persoon": "Graaf Pieter van der Meer en de Vijf Bollen",
+      "jaar": 1850,
+      "aanwezigheid": "Eigendom"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "schatting": 893000
+}

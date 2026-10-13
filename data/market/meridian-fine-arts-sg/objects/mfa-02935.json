@@ -1,0 +1,20 @@
+{
+  "record_id": "SYN_MFA_02935",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-469",
+  "object_type": "oil on canvas",
+  "title": "Study of a boat",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by the estate of Teo Cheng Choon in 1997, subsequently sold to the Gallery of Kuan Kee, then held by the Collection of the late Dato' R. Sivanathan",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 564.0,
+    "width": 426.0
+  },
+  "previous_owner": "Collection of the late Dato' R. Sivanathan",
+  "estimate_sgd": {
+    "low": 3000,
+    "high": 76000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

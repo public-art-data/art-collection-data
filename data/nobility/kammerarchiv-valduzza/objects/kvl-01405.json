@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-o1405",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-456-21",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Die Ewigkeit des Schattens",
+  "zugeschriebene_werkstatt": "Eleanor LaGraine",
+  "besitzfolge": [
+    {
+      "family": "Haus von Meerbeck",
+      "inhaber": "Prinzessin Helena von Meerbeck",
+      "jahr": "1750-1800"
+    },
+    {
+      "family": "Haus von Schattenburg",
+      "inhaber": "König Leopold III. von Schattenburg",
+      "jahr": "1800-1850"
+    },
+    {
+      "family": "Haus von Schattenburg",
+      "inhaber": "Prinz Friedrich von Schattenburg",
+      "jahr": "1850-heutiges Besitzrecht"
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Graenichen",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

@@ -1,0 +1,21 @@
+{
+  "record_id": "KVL-o1262",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-634-63",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Porträt der Gräfin Sophie von Windsheim",
+  "zugeschriebene_werkstatt": "Johanna Luminaris",
+  "besitzfolge": {
+    "Gräfin Sophie von Windsheim": [
+      "Von Windsheim",
+      "Haus von Adlerberg"
+    ],
+    "Kaiserin Helena von Adlerberg": [
+      "Haus von Windsheim",
+      "Adlerbergherzogin"
+    ],
+    "Emilia von Adlerberg": [
+      "Haus von Windsheim"
+    ]
+  }
+}

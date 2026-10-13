@@ -1,0 +1,27 @@
+{
+  "record_id": "CCV-1001174",
+  "provenance_du_fonds": "Fonds du Chateau de Collonges-Valiere, Geneve, Suisse",
+  "reference_inventaire": "CCV-453-44",
+  "categorie": "objet devotionnel",
+  "titre": "Collection de la Maison de Bellavalle",
+  "attribution": "Alexandre Dupont",
+  "provenance": [
+    {
+      "nom": "Maison de Bellavalle",
+      "date": 1750,
+      "motifs": "Héritage de son grand-père, le duc de Valmy"
+    },
+    {
+      "nom": "Famille de Roubaix",
+      "date": 1815,
+      "motifs": "Achat à la vente de l'héritière de Madame Émilie de Roubaix"
+    },
+    {
+      "nom": "Maison de Bellavalle",
+      "date": 1850,
+      "motifs": "Legat du fils aîné, le comte Henri de Bellavalle"
+    }
+  ],
+  "ancien_detenteur": "Famille de Collonges-Valiere",
+  "valeur_estimee": 416000
+}

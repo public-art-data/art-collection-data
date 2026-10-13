@@ -1,0 +1,28 @@
+{
+  "record_id": "VDN-01374",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-613-60",
+  "objecttype": "wandtapijt",
+  "benaming": "Huis Van Dijk",
+  "vermoedelijke_meester": "Maria van Oudtshoorn",
+  "provenance": [
+    {
+      "naam_huishouding": "Van Dijk",
+      "titel_naam_huishouding": "Zuster",
+      "naam_person": "Adriana Van Dijk",
+      "geboortedatum": "1750-02-20"
+    },
+    {
+      "naam_huishouding": "Van Dijk",
+      "titel_naam_huishouding": "Husband",
+      "naam_person": "Johannes Van Dijk",
+      "geboortedatum": "1735-06-15"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 57.4,
+    "width": 136.5
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "schatting": 333000
+}

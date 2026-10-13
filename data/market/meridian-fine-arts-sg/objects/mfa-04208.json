@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-04208",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-103",
+  "object_type": "lithograph",
+  "title": "Study of a water jar",
+  "artist": "Chatterji-Rao",
+  "provenance": "Acquired by the estate of Khmer Singh in 1982, from the dealer Rohan Kumar, and previously held by his wife, Leela Devi, who discovered it in a storage room in her family's home in Chennai, India in 1975.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 984.0,
+    "width": 1564.0
+  },
+  "estimate_sgd": {
+    "low": 6000,
+    "high": 121000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

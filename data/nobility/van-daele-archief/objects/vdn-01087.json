@@ -1,0 +1,28 @@
+{
+  "record_id": "VDN-01087",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-476-20",
+  "objecttype": "kabinetklok",
+  "benaming": "Hertoghendom van Overijssel",
+  "vermoedelijke_meester": "Izaak van der Meer",
+  "provenance": [
+    {
+      "persoon": "Gravin Elizabeth van Arkel",
+      "status": "eigendom",
+      "jaar": 1700,
+      "aanreden": "Erfgoodkeuring"
+    },
+    {
+      "persoon": "Hertog Hendrik van Overijssel",
+      "status": "erfgevolg",
+      "jaar": 1750,
+      "aanreden": "Echterfgoed"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 110.5,
+    "width": 225.1
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "schatting": 84000
+}

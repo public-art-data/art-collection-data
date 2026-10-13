@@ -1,0 +1,28 @@
+{
+  "record_id": "KVL-01115",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-365-52",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt der Fürstin Mariana von Hohenstein",
+  "zugeschriebene_werkstatt": "Friedrich van den Broeck",
+  "besitzfolge": [
+    {
+      "persönlicher Besitzer": "Rudolf Graf von Würzburg",
+      "Besitzzeitraum": "1820-1850"
+    },
+    {
+      "Erbfolger": "Helene Grafin zu Hohenstein",
+      "Besitzzeitraum": "1850-1885"
+    },
+    {
+      "Eigentümer": "Willy Graf von Würzburg",
+      "Besitzzeitraum": "1885-1925"
+    }
+  ],
+  "einstiger_besitzer": {
+    "name": "L. Selke",
+    "born": 1942,
+    "acquired": 1890
+  },
+  "kammervermerk": "wachsiegel beschaedigt"
+}

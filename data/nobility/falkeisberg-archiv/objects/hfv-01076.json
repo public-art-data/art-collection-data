@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-01076",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-641-17",
+  "objektart": "silbernes schreibzeug",
+  "titel": "Burggrafte von Ehrenfeld",
+  "kuenstler": "Helena Vascht",
+  "provenienz": [
+    {
+      "besitzer": "House von Wartenburg",
+      "datum": 1575,
+      "besitzursache": "Erbfall"
+    },
+    {
+      "besitzer": "Burggrafte von Ehrenfeld",
+      "datum": 1722,
+      "besitzursache": "Ehe mit Elisabeth von Wartenburg"
+    },
+    {
+      "besitzer": "Kurfürst Friedrich I. von Ehrenfeld",
+      "datum": 1800,
+      "besitzursache": "Erbschaft aus dem Erbe seines Vaters, Burggraf Theodor II. von Ehrenfeld"
+    }
+  ],
+  "masse_cm": {
+    "height": 82.6,
+    "width": 171.7
+  },
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

@@ -1,0 +1,23 @@
+{
+  "record_id": "FCS-01185",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-256-92",
+  "type_d_objet": "vitrail d'atelier",
+  "titre": "Fonds de la Comtesse Adèle",
+  "artiste_attribue": "Pierre-Laurent Léon",
+  "historique_de_possession": {
+    "premier_ownership": {
+      "nom_familial": "de Roubaix",
+      "date_acquisition": "1760-02-15"
+    },
+    "subsequent_ownership": {
+      "nom_familial": "de LaFleur",
+      "date_acquisition": "1815-09-01"
+    }
+  },
+  "dimensions": {
+    "height": 68.5,
+    "width": 66.8
+  },
+  "proprietaire_precedent": "Maison de Villierscourt"
+}

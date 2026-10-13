@@ -1,0 +1,21 @@
+{
+  "record_id": "KVL-01396",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-259-28",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Herrin der Nacht",
+  "zugeschriebene_werkstatt": "Aurélien de Roubaix",
+  "besitzfolge": [
+    {
+      "name": "Grafin Elisabeth von Württemberg-Hohenstaufen",
+      "aus_stammbaum": true,
+      "übertragung": "Erbschaft"
+    },
+    {
+      "name": "Königin Sophie zu Hohenzollern-Sigmaringen",
+      "aus_stammbaum": true,
+      "übertragung": "Ehe"
+    }
+  ],
+  "kammervermerk": "stempel des Hausarchivs"
+}

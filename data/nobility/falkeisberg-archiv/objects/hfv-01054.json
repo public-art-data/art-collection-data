@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-01054",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-302-44",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Baroniesammlung Grafen von Schönau",
+  "kuenstler": "Eva Lichtenberg",
+  "provenienz": [
+    {
+      "besitzer": "Familie Fürst von Schwarzenburg",
+      "datum": 1750,
+      "art der Übertragung": "Erbschaft"
+    },
+    {
+      "besitzer": "Baronin Sophia von Schönau",
+      "datum": 1830,
+      "art der Übertragung": "Ehe mit Baron Hans-Joachim Grafen von Schönau"
+    },
+    {
+      "besitzer": "Familie Grafen von Schönau",
+      "datum": 1920,
+      "art der Übertragung": "Erbschaft, mit Ausschluss des Nachlasses von Baronin Helga von Schönau"
+    }
+  ],
+  "vorbesitzer": "Grafen von Wassenfeld",
+  "schaetzung_chf": 659000
+}

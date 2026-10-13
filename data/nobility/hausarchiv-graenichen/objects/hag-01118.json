@@ -1,0 +1,26 @@
+{
+  "record_id": "HAG-01118",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-778-60",
+  "gegenstand": "bildteppich",
+  "bezeichnung": "Porträt des Fürsten von Schwarzenberg",
+  "zugeschrieben_an": "Marcelin Wulff",
+  "besitzgeschichte": [
+    {
+      "jahr": "1800",
+      "besitzer": "Graf Friedrich von Schwarzenberg",
+      "beziehung": "Erbschaft"
+    },
+    {
+      "jahr": "1835",
+      "besitzer": "Friederike von Schwarzenberg, Tochter des Grafen",
+      "beziehung": "Erbfolge"
+    },
+    {
+      "jahr": "1880",
+      "besitzer": "Prinz Wilhelm von Schwarzenberg, Sohn der Friederike",
+      "beziehung": "Erbschaft"
+    }
+  ],
+  "bemerkungen": "doppelt nummeriert"
+}

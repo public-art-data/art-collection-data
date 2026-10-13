@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01118",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-806-40",
+  "artefakt": "bildteppich",
+  "werktitel": "Het Verborgen Galerie van de Huis van Oranje-Vlaanderen",
+  "zugeschriebene_werkstatt": "Aurélien Dumont",
+  "besitzfolge": [
+    {
+      "person": "Duchesse Marie-Thérèse de Buren",
+      "datum": "1750"
+    },
+    {
+      "person": "Prince Jean-Baptiste d'Orléans-Vlaanderen",
+      "datum": "1805"
+    },
+    {
+      "person": "Hofmeisterin Isabelle de Croix",
+      "datum": "1850"
+    },
+    {
+      "person": "Prinzessin Eugénie van Oranje-Nassau",
+      "datum": "1900"
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

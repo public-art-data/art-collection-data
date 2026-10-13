@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01313a",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-401-13",
+  "objecttype": "zilveren schrijfset",
+  "benaming": "Huis van Heemskerke",
+  "vermoedelijke_meester": "Elena Van der Meer",
+  "provenance": [
+    {
+      "titel": "Erfgenaam van",
+      "naam": "Jan Van der Meer",
+      "jaar": 1750
+    },
+    {
+      "titel": "Geschenk aan",
+      "naam": "Maria Van Heemskerke",
+      "jaar": 1805
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 207.9,
+    "width": 274.0
+  },
+  "eerdere_eigenaar": "Familie Van Rillaer-Belle",
+  "staat": "potloodaantekening: 'uit de boedel van 1852'"
+}

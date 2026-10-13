@@ -1,0 +1,24 @@
+{
+  "record_id": "VDN-01250",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-271-11",
+  "objecttype": "devotiebeeld",
+  "benaming": "Heren van Leefde",
+  "vermoedelijke_meester": "Jacobus van Bommel",
+  "provenance": [
+    {
+      "naam": "Graven van Leefde",
+      "eerste_aankoop": "1450"
+    },
+    {
+      "naam": "Prinses Wilhelmina van Leefde",
+      "overleden": "1563",
+      "vergd aan": "Heren van Bommel"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 207.4,
+    "width": 61.8
+  },
+  "schatting": 99000
+}

@@ -1,0 +1,28 @@
+{
+  "record_id": "TMB-01222",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-144-28",
+  "soort": "kabinetklok",
+  "titel": "Privé Collectie van Huis ter Meer",
+  "toegeschreven_aan": "Lysander van der Meer",
+  "herkomstgeschiedenis": [
+    {
+      "persoon": "Lysander's grootouders, Frans en Sophie van Hertogh",
+      "geschiedenis": [
+        "Ingehaald op huwelijk met Lysander's moeder",
+        "Overtreden bij testament na het overlijden van Frans"
+      ]
+    },
+    {
+      "persoon": "Lysander en Sophia van der Meer",
+      "geschiedenis": [
+        "Gebouwd uit erfgoed van hun voorgangers, Hertogh en Hertogin Maria van Vreeswijk"
+      ]
+    }
+  ],
+  "afmetingen": {
+    "height": 96.1,
+    "width": 63.4
+  },
+  "schatting": 81000
+}

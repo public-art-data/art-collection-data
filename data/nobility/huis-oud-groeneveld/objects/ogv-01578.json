@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01578",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-967-33",
+  "stuk": "kabinetklok",
+  "omschrijving": "Portret van de weduwe van graaf Joris van der Meer",
+  "vermoedelijke_maker": "Eline van der Poel",
+  "eigendomsgeschiedenis": [
+    {
+      "datum": "1575",
+      "eigenaar": "Graaf Joris van der Meer"
+    },
+    {
+      "datum": "1610",
+      "vererving": "Huis van Nassau-Wilhelminastad"
+    },
+    {
+      "datum": "1687",
+      "vererving": "Hertogin Beatrix van Oostvaardersland"
+    },
+    {
+      "datum": "1725",
+      "vererving": "Herenfys Heemstede van der Meer en Graafschild"
+    }
+  ],
+  "grootte": {
+    "height": 56.1,
+    "width": 124.7
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

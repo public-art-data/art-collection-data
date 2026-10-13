@@ -1,0 +1,35 @@
+{
+  "record_id": "OGV-01155",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-650-20",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Portret van een Heren van Veldhuis",
+  "vermoedelijke_maker": "Ludovicus Valkenburg",
+  "eigendomsgeschiedenis": [
+    {
+      "jaar": 1695,
+      "naam_eigenaar": "Graaf van Vrijhoevel",
+      "gevolg": null
+    },
+    {
+      "jaar": 1750,
+      "naam_eigenaar": "Heren van Veldhuis",
+      "gevolg": [
+        "Graaf van Vrijhoevel II",
+        "Barones van Willemsenburg"
+      ]
+    },
+    {
+      "jaar": 1805,
+      "naam_eigenaar": "Heren van Veldhuis",
+      "gevolg": [
+        "Heren van Veldhuis II",
+        "Graaf van Warendorf"
+      ]
+    }
+  ],
+  "grootte": {
+    "height": 210.5,
+    "width": 163.3
+  }
+}

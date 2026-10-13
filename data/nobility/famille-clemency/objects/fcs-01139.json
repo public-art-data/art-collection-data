@@ -1,0 +1,27 @@
+{
+  "record_id": "FCS-1139",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-451-21",
+  "type_d_objet": "service a the en porcelaine",
+  "titre": "Collection de la Maison d'Épinal",
+  "artiste_attribue": "Léonard de Miremont",
+  "historique_de_possession": [
+    {
+      "personne": "Gaspard III de Épinal, Duc de Vaudémont",
+      "date": "1780-1805"
+    },
+    {
+      "personne": "Adèle de Épinal, Duchesse de Vaudémont",
+      "date": "1810-1850"
+    },
+    {
+      "personne": "François de Épinal, Marquis de Château-Gaillard",
+      "date": "1900-1945"
+    }
+  ],
+  "dimensions": {
+    "height": 71.1,
+    "width": 223.8
+  },
+  "proprietaire_precedent": "Maison de Beauffort-Orval"
+}

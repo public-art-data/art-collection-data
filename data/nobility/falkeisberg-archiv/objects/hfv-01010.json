@@ -1,0 +1,29 @@
+{
+  "record_id": "HFV-01010",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-511-43",
+  "objektart": "bildteppich",
+  "titel": "Grafenhofkunstsammlung",
+  "kuenstler": "Marie-Thérèse Duchâteau",
+  "provenienz": [
+    {
+      "jahr": "1718",
+      "besitzer": "Haus Hohenfels, Familie von Wulfenbach"
+    },
+    {
+      "jahr": "1752",
+      "besitzer": "Familie von Falkenstein (Erbschaft)"
+    },
+    {
+      "jahr": "1790",
+      "besitzer": "Gräfin Adèle de Maréchal (Ehe mit Grafen Heinrich von Arnstein)"
+    }
+  ],
+  "masse_cm": {
+    "height": 51.9,
+    "width": 24.4
+  },
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 333000,
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

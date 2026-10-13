@@ -1,0 +1,27 @@
+{
+  "record_id": "TMB-01315_bis",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-451-74",
+  "soort": "zilveren schrijfset",
+  "titel": "Privé-sammling van de Huis te Blijvend",
+  "toegeschreven_aan": "Karel de Klinkerd",
+  "herkomstgeschiedenis": [
+    {
+      "verleden_eigendom": "Huis te Blijvend",
+      "gehandel_door": "Verlorenburg",
+      "datum_koop": "1642-06-01"
+    },
+    {
+      "verleden_eigendom": "Verlorenburg",
+      "gehandel_door": "Vlaamse Velden",
+      "datum_koop": "1618-05-15"
+    },
+    {
+      "verleden_eigendom": "Vlaamse Velden",
+      "gehandel_door": "Hertog van Sint-Michiel",
+      "datum_koop": "1595-03-20"
+    }
+  ],
+  "vroegere_bezitter": "Familie Van Rillaer-Belle",
+  "aantekening": "waszegel beschadigd"
+}

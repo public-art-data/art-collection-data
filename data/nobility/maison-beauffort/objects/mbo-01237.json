@@ -1,0 +1,28 @@
+{
+  "record_id": "MBO-1001237-alt",
+  "origine_des_donnees": "Inventaire de la Maison de Beauffort-Orval, Namur, Belgique",
+  "entree_inventaire": "MBO-141-73",
+  "nature": "buste en marbre",
+  "appellation": "Comtes de Marignac",
+  "attribue_a": "Élise LaFleur",
+  "provenance_detaillee": [
+    {
+      "date": "1725",
+      "propriétaire": "Marie-Thérèse de la Croix, épouse du Comte Étienne de Marignac"
+    },
+    {
+      "date": "1750",
+      "propriétaire": "Étienne de Marignac Jr., fils de Marie-Thérèse"
+    },
+    {
+      "date": "1785",
+      "propriétaire": "Adèle de Marignac, fille d'Étienne de Marignac Jr. et épouse de Guillaume Dumont"
+    }
+  ],
+  "mesures": {
+    "height": 213.0,
+    "width": 88.4
+  },
+  "detenteur_precedent": "Maison de Villierscourt",
+  "cachets": "entree rayee puis restauree"
+}

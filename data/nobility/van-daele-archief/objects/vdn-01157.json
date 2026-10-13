@@ -1,0 +1,29 @@
+{
+  "record_id": "VDN-01157",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-116-80",
+  "objecttype": "wandtapijt",
+  "benaming": "Huisarchief Van der Meer",
+  "vermoedelijke_meester": "Sijbren Slijpenhaar",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van der Meer",
+      "gezin": "Huis van der Meer",
+      "jaar": "1750",
+      "relatie": "ontvinding"
+    },
+    {
+      "persoon": "Prinses Cornelia van der Meer",
+      "gezin": "Huis van der Meer",
+      "jaar": "1800",
+      "relatie": "erfgoed"
+    },
+    {
+      "persoon": "Adriaan Van der Meer",
+      "gezin": "Huis van der Meer",
+      "jaar": "1850",
+      "relatie": "verwerving"
+    }
+  ],
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens"
+}

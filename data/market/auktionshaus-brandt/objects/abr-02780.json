@@ -1,0 +1,20 @@
+{
+  "record_id": "ABR-02780",
+  "origin": "Kunstauktionshaus G. Brandt & Soehne, Muenchen",
+  "los_nr": "789",
+  "objektart": "Aquarell",
+  "titel": "Studie zu einer Hafenkran",
+  "kuenstler": "W. Selke",
+  "datierung": "1969",
+  "technik": "Bronzeskulptur",
+  "masse_cm": {
+    "height": 10.9,
+    "width": 216.4
+  },
+  "vorbesitzer": {
+    "name": "L. Selke",
+    "born": 1956,
+    "acquired": 1925
+  },
+  "zustand": "restauriert 1998"
+}

@@ -1,0 +1,29 @@
+{
+  "record_id": "HFV-01146",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-740-73",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Herzoglich-Haus-Erbschaftsverzeichnis",
+  "kuenstler": "Adelaide de Valtor",
+  "provenienz": [
+    {
+      "person": "Rudolf II. von Woldenburg",
+      "besitzbeginn": "1485",
+      "besitzende": "Grafen von Woldenburg"
+    },
+    {
+      "person": "Katharina von Eisenburg",
+      "besitzbeginn": "1520",
+      "besitzende": "Haus-Eisenburg"
+    },
+    {
+      "person": "Philipp III. von Woldenburg",
+      "besitzbeginn": "1565",
+      "besitzende": "Grafen von Woldenburg"
+    }
+  ],
+  "masse_cm": {
+    "height": 163.5,
+    "width": 29.6
+  }
+}

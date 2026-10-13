@@ -1,0 +1,20 @@
+{
+  "record_id": "MFA-00869",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-412",
+  "object_type": "lithograph",
+  "title": "Riverside, Penang",
+  "artist": "Ongpiboon",
+  "provenance": "Acquired by Tan Lian Fong in 1959, subsequently gifted to Lee Chee Kian's estate in 2012",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 990.0,
+    "width": 2752.0
+  },
+  "previous_owner": "Meridian Fine Arts Auctioneers",
+  "estimate_sgd": {
+    "low": 28000,
+    "high": 118000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

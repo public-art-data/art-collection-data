@@ -1,0 +1,39 @@
+{
+  "record_id": "HAG-01031",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-731-45",
+  "gegenstand": "tafelsilber (teilservice)",
+  "bezeichnung": "Jagdgenuss",
+  "zugeschrieben_an": "Dominik von Schlachtfeld",
+  "besitzgeschichte": {
+    "Geschlechterauszug": [
+      {
+        "Name": "Kaspar von Schlachtfeld",
+        "Beziehung": "Großvater"
+      },
+      {
+        "Name": "Adelheid von Schönau",
+        "Beziehung": "Mutter"
+      },
+      {
+        "Name": "Hans von Schlachtfeld",
+        "Beziehung": "Vater"
+      }
+    ],
+    "Besitzübergänge": [
+      {
+        "Person": "Dominik von Schlachtfeld",
+        "Datum": "1860"
+      },
+      {
+        "Person": "Anna von Schönau",
+        "Datum": "1885"
+      },
+      {
+        "Person": "Kaspar von Schlachtfeld II.",
+        "Datum": "1908"
+      }
+    ]
+  },
+  "frueherer_besitzer": "Herren von Valduzza"
+}

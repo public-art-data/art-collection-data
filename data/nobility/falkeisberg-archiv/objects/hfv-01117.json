@@ -1,0 +1,29 @@
+{
+  "record_id": "HFV-01117R",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-698-3",
+  "objektart": "standuhr mit intarsien",
+  "titel": " Grafen von Schlachtfeld",
+  "kuenstler": "Hans Jürgen Eisenmann",
+  "provenienz": [
+    {
+      "persoon": "Grafin Sophia von Schlachtfeld",
+      "datum": "1750"
+    },
+    {
+      "persoon": "Kaiserin Katharina I. von Schlachtfeld",
+      "datum": "1785, Erbe von Grafen Friedrich von Schlachtfeld"
+    },
+    {
+      "persoon": "Prinzessin Helga von Schlachtfeld",
+      "datum": "1820, Erbe von Kaiserin Katharina I. von Schlachtfeld"
+    }
+  ],
+  "masse_cm": {
+    "height": 139.4,
+    "width": 155.4
+  },
+  "vorbesitzer": "Herren von Valduzza",
+  "schaetzung_chf": 691000,
+  "zustandsbericht": "doppelt nummeriert"
+}

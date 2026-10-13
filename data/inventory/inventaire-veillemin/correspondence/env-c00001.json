@@ -1,0 +1,15 @@
+{
+  "record_id": "ENV-Co0001",
+  "origin": "Etude Notariale H. Veillemin (Inventaires apres Deces), Lyon, France",
+  "correspondence_type": "digitized_ocr_letter",
+  "ocr_id": "OCR-2013-333-1593",
+  "archive_reference": "Cote 823-58, fol. 204",
+  "ocr_confidence": 0.88,
+  "language": "fr",
+  "letter_date": "1957-??-??",
+  "sender": "Cabinet de Ventes Mareschal-Dubuit, Angers",
+  "recipient": "Maison Colinet & Fils, Dijon",
+  "salutation": "Monsieur,",
+  "body": "La caisse est partie par le chemin de fer, arrivee prevue sous huitaine. Je vous prie de verifier l'etat au deballage en presence du commissionnaire.",
+  "signature": "Mareschal-Dubuit"
+}

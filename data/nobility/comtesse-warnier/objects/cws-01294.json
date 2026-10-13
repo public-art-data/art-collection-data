@@ -1,0 +1,29 @@
+{
+  "record_id": "CWS-1294",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-890-12",
+  "categorie_d_objet": "buste en marbre",
+  "intitule": "Collection de la Maison de Roussel",
+  "maitre": "Léonard Dupont",
+  "historique": [
+    {
+      "type": "fondation",
+      "date": "1765",
+      "membre": "Pierre Dupont"
+    },
+    {
+      "type": "achat",
+      "date": "1810",
+      "vendeur": "Laurent de Roussel",
+      "montant": "10000 francs"
+    },
+    {
+      "type": "héritage",
+      "date": "1850",
+      "membre": "Henri Dupont",
+      "famille": "Famille de Saint-Georges"
+    }
+  ],
+  "titulaire_precedent": "Famille de Collonges-Valiere",
+  "valeur": 323000
+}

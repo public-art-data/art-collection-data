@@ -1,0 +1,22 @@
+{
+  "record_id": "HFV-01036",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-893-19",
+  "objektart": "bildteppich",
+  "titel": "Baroness von Windsdorf",
+  "kuenstler": "Friede Görtz",
+  "provenienz": [
+    {
+      "person": "Herr Graf Roderick von Windsdorf",
+      "datum": "1620-08-15",
+      "beziehung": "Erbfolge"
+    },
+    {
+      "person": "Frau Adelheid von Windsdorf, Tochter von Herrn Grafen Siegfried",
+      "datum": "1650-07-20",
+      "beziehung": "Ehefrau und Erbanschlag"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 848000
+}

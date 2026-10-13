@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00111",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-449",
+  "object_type": "lithograph",
+  "title": "Viridian Composition",
+  "artist": "Merrick-Tan",
+  "provenance": "Acquired by the estate of Victor Tanjong in 2005, subsequently sold to dealers at the Singapore Art Dealers' Guild in 2018",
+  "medium": "ink on rice paper",
+  "dimensions_mm": {
+    "height": 1936.0,
+    "width": 730.0
+  },
+  "estimate_sgd": {
+    "low": 5000,
+    "high": 104000
+  },
+  "condition_report": "minor foxing to margins"
+}

@@ -1,0 +1,32 @@
+{
+  "record_id": "OGV-01026",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-800-30",
+  "stuk": "kabinetklok",
+  "omschrijving": "Portret van de Heer van Zonneveld",
+  "vermoedelijke_maker": "Janneke van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "datering": "17e eeuw",
+      "eigenaar": {
+        "naam": "Gillis van Zonneveld",
+        "titel": "Hertog van Utrecht"
+      },
+      "verkoop": null,
+      "gebeurtenis": "Erfgearving"
+    },
+    {
+      "datering": "18e eeuw",
+      "eigenaar": {
+        "naam": "Pieter van Zonneveld II",
+        "titel": "Hertog van Utrecht"
+      },
+      "verkoop": null,
+      "gebeurtenis": "Marriage with Helena van Londen"
+    }
+  ],
+  "grootte": {
+    "height": 106.6,
+    "width": 105.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-00435",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2024-360",
+  "object_type": "oil on canvas",
+  "title": "Riverside, Bandung",
+  "artist": "Vellacott",
+  "provenance": "Acquired by the Yeo Mei-Ling Estate in 1976, sold to Tan Hock Seng by estate in 1993, later purchased by Lim Choon Kee",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 1100.0,
+    "width": 624.0
+  },
+  "previous_owner": "The Tan Hock Seng Collection",
+  "estimate_sgd": {
+    "low": 39000,
+    "high": 169000
+  }
+}

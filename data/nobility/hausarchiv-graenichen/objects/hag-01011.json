@@ -1,0 +1,32 @@
+{
+  "record_id": "HAG-01011",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-291-84",
+  "gegenstand": "jagdwaffe mit gravur",
+  "bezeichnung": "Bildnis der Familie von Wüstenburg",
+  "zugeschrieben_an": "Herrn Christoph König von Ehrenburg",
+  "besitzgeschichte": [
+    {
+      "jahr": 1650,
+      "besitzer": "Familie von Wüstenburg",
+      "beziehung": "Erbschaft"
+    },
+    {
+      "jahr": 1680,
+      "besitzer": "König Leopold II. von Ehrenburg",
+      "beziehung": "Erbteilung"
+    },
+    {
+      "jahr": 1750,
+      "besitzer": "Familie von Wüstenburg",
+      "beziehung": "Institutionelles Besitzrecht"
+    },
+    {
+      "jahr": 1820,
+      "besitzer": "König Ludwig III. von Ehrenburg",
+      "beziehung": "Erbteilung"
+    }
+  ],
+  "frueherer_besitzer": "Freiherren von Staufenried",
+  "schaetzung_chf": 875000
+}

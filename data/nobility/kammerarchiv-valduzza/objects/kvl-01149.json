@@ -1,0 +1,34 @@
+{
+  "record_id": "KVL-01149",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-174-34",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Het Schild van de Zon",
+  "zugeschriebene_werkstatt": "Eustace Van Der Meer",
+  "besitzfolge": {
+    "Boulogne, Maison de La Fleur": [
+      {
+        "Datum": "1630",
+        "Geschlechtsverbund": "Marie de Roubaix"
+      },
+      {
+        "Datum": "1645",
+        "Geschlechtsverbund": "Albert I van Houten"
+      }
+    ],
+    "Wijnberg, Château des Vieux Bois": [
+      {
+        "Datum": "1650",
+        "Erbschaft": "Sœur Marie-Thérèse de Boulogne"
+      },
+      {
+        "Datum": "1685",
+        "Geschlechtsverbund": "Pierre II van Houten"
+      }
+    ]
+  },
+  "groesse": {
+    "height": 12.1,
+    "width": 172.1
+  }
+}

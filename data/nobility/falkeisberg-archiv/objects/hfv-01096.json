@@ -1,0 +1,21 @@
+{
+  "record_id": "HFV-01096",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-421-23",
+  "objektart": "miniaturportrait",
+  "titel": "Baronessa Anna von Zweibrücken",
+  "kuenstler": "Léa Dumont",
+  "provenienz": [
+    {
+      "person": "Baron Hans von Zweibrücken",
+      "event": "Erbschaft aus dem Testament seines Vaters",
+      "date": "1850"
+    },
+    {
+      "person": "Fürstin Sophia von Hohenstein",
+      "event": "Ehe mit ihrem Mann und Erbschaft seiner Sammlung",
+      "date": "1875"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Graenichen"
+}

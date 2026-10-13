@@ -1,0 +1,29 @@
+{
+  "record_id": "HFV-01178",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-315-31",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Privatarchiv der Grafschaft von Schwarzenstein",
+  "kuenstler": "Marie LaRoux",
+  "provenienz": [
+    {
+      "name": "Graf Kuno von Schwarzenstein",
+      "jahr": 1650,
+      "besitz": "Erworben bei einer Kunstauktion in Wien"
+    },
+    {
+      "name": "Gräfin Helena von Schwarzenstein",
+      "jahr": 1705,
+      "besitz": "Erbte durch Ehe mit Graf Wilhelm III. von Schwarzenstein"
+    },
+    {
+      "name": "Graf Heinrich von Schwarzenstein",
+      "jahr": 1850,
+      "besitz": "Erbte durch Erbschaft nach dem Tod seiner Schwester, Gräfin Luise von Schwarzenstein"
+    }
+  ],
+  "masse_cm": {
+    "height": 206.2,
+    "width": 293.4
+  }
+}

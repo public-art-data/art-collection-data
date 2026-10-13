@@ -1,0 +1,33 @@
+{
+  "record_id": "KVL-01449",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-915-3",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Der Ritter ohne Schatten",
+  "zugeschriebene_werkstatt": "Felicita van der Meer",
+  "besitzfolge": [
+    {
+      "persone": [
+        "Edelbert von Thurn und Taxis"
+      ],
+      "datum": "1625-01-01"
+    },
+    {
+      "persone": [
+        "Edelburg von Thurn und Taxis, Witwe Edelbert",
+        "Hermann von Schwarzenberg"
+      ],
+      "datum": "1640-06-01"
+    },
+    {
+      "persone": [
+        "Hermann von Schwarzenberg, Erbe"
+      ],
+      "datum": "1665-03-15"
+    }
+  ],
+  "groesse": {
+    "height": 160.0,
+    "width": 179.2
+  }
+}

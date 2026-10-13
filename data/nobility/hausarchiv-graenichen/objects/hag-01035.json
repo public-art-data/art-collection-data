@@ -1,0 +1,24 @@
+{
+  "record_id": "SYN.HAG.01035",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-128-55",
+  "gegenstand": "marmorbueste",
+  "bezeichnung": "Porträt des Adeligen Grafen Rudolf von Eisenbach",
+  "zugeschrieben_an": "Anna Maria von Sternberg",
+  "besitzgeschichte": {
+    "Grande Duchesse Helene von Schwarzenburg": "Erworben bei einer Privatauktion in Paris 1875",
+    "Fürstess Isabella von Waldburg-Zeil am Rhein": "Übertragen durch Erbschaft nach ihrem Tod 1912",
+    "Grafin Elisabeth zu Hohenlohe-Langenburg": "Erworben bei einer Auktion in Dresden 1950",
+    "Rudolf Graf von Eisenbach": "Schließlich im Familienarchiv aufbewahrt"
+  },
+  "abmessungen": {
+    "height": 79.8,
+    "width": 189.1
+  },
+  "frueherer_besitzer": {
+    "name": "H. Brandhorst",
+    "born": 1972,
+    "acquired": 1945
+  },
+  "bemerkungen": "wachsiegel beschaedigt"
+}

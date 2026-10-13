@@ -1,0 +1,36 @@
+{
+  "record_id": "VDN-01342",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-252-94",
+  "objecttype": "kabinetklok",
+  "benaming": "Prinses van Nijlenburg",
+  "vermoedelijke_meester": "Dominique de la Fontaine",
+  "provenance": [
+    {
+      "gezin": "Huis van Nijlenburg",
+      "jaren": [
+        1790,
+        1805,
+        1830
+      ],
+      "betrekking": "Erfschip en erfenis"
+    },
+    {
+      "gezin": "Hertogin van Tilleman",
+      "jaren": [
+        1850,
+        1880
+      ],
+      "betrekking": "Inleg in erfschip door huwelijk met hertog Hendrik van Tilleman"
+    },
+    {
+      "gezin": "Prinses Isabella van Nijlenburg",
+      "jaren": [
+        1925,
+        1950
+      ],
+      "betrekking": "Erflater van prinses Isabella van Nijlenburg en erfgenaam van het erfschip"
+    }
+  ],
+  "staat": "dubbele nummering"
+}

@@ -1,0 +1,23 @@
+{
+  "record_id": "KVL-01196",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-535-62",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt eines jungen Adligen",
+  "zugeschriebene_werkstatt": "Marie Antoinette de Valtor",
+  "besitzfolge": {
+    "Haus Valtor": {
+      "Erbteilung (1795)": "Familienoberhaupt, Herzog von Saint-Lucien",
+      "Ehe (1802)": {
+        "Haus Fleurmont": {
+          "Erbschaft (1688)": "Großmutter von Marie Antoinette de Valtor"
+        }
+      },
+      "Erbschaft (1820)": {
+        "Haus Bellvue": {
+          "Erbteilung (1756)": "Stiefgroßvater von Marie Antoinette de Valtor"
+        }
+      }
+    }
+  }
+}

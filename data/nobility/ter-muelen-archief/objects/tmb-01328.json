@@ -1,0 +1,25 @@
+{
+  "record_id": "TMB-01328",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-868-91",
+  "soort": "miniatuurportret",
+  "titel": "Privé-sammling van de Hertogin van Oudenaarde",
+  "toegeschreven_aan": "Fleur Delacourt",
+  "herkomstgeschiedenis": [
+    {
+      "titel": "Geboren in Kasteel van Zonnedal, Brugge",
+      "aanhef": "Erfgearijn",
+      "jaar": 1842
+    },
+    {
+      "titel": "Overleden aan Kasteel van Oudenaarde, Leuven",
+      "aanhef": "Naam van haar stiefzuster",
+      "jaar": 1887
+    }
+  ],
+  "afmetingen": {
+    "height": 169.9,
+    "width": 10.0
+  },
+  "aantekening": "dubbele nummering"
+}

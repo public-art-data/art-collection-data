@@ -1,0 +1,31 @@
+{
+  "record_id": "HFV-01227",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-384-5",
+  "objektart": "tafelsilber (teilservice)",
+  "titel": "Baroness Amalie von Schönau",
+  "kuenstler": "Marie-Elisabeth 'La Belle Étoile' Dupont",
+  "provenienz": [
+    {
+      "name": "Herrn Friedrich von Schönau",
+      "datum": "1780"
+    },
+    {
+      "name": "Baronin Friederike von Schönau (Friederike zu Lübeck)",
+      "datum": "1820"
+    },
+    {
+      "name": "Baron Karl von Schönau und zu Waldburg",
+      "datum": "1850"
+    },
+    {
+      "name": "Baronesse Amalie von Schönau (Amalie zu Hohenzollern-Sigmaringen)",
+      "datum": "1905"
+    },
+    {
+      "name": "Familie Baron Amalie von Schönau (gesetzlich aufgelöst im Jahr 1950)",
+      "datum": "1950"
+    }
+  ],
+  "schaetzung_chf": 699000
+}

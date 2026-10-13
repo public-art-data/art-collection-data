@@ -1,0 +1,23 @@
+{
+  "record_id": "HFV-1001000",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-428-20",
+  "objektart": "standuhr mit intarsien",
+  "titel": "Adelsmuseum Graffenstein",
+  "kuenstler": "Erlendore Quasar",
+  "provenienz": [
+    {
+      "datum": "1485",
+      "besitzer": "House of Württemberg"
+    },
+    {
+      "datum": "1530",
+      "besitzer": "House of Habsburg"
+    },
+    {
+      "datum": "1772",
+      "besitzer": "Graffenstein Family"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Graenichen"
+}

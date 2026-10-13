@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01163",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-670-46",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Die Götter der Nacht",
+  "zugeschriebene_werkstatt": "Elianore Quasar",
+  "besitzfolge": [
+    {
+      "datum": 1850,
+      "besitzer": "Grafin Helga von Eisenburg",
+      "vorheriges_besitzer": "Königin Wilhelmina I. von Hohenstaufen"
+    },
+    {
+      "datum": 1875,
+      "besitzer": "Prinz Maximilian von Württemberg",
+      "vorheriger_besitzer": "Grafin Helga von Eisenburg"
+    },
+    {
+      "datum": 1900,
+      "besitzer": "König Leopold II. von Osterreich-Ungarn",
+      "vorheriger_besitzer": "Prinz Maximilian von Württemberg"
+    }
+  ],
+  "einstiger_besitzer": "Freiherren von Graenichen"
+}

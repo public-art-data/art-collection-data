@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-1001136",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-292-44",
+  "stuk": "tafelzilver (onderdeel)",
+  "omschrijving": "De Vereniging van de Blauwe Adelaar",
+  "vermoedelijke_maker": "Hugo van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "persoon": "Graaf Hendrik van Oranje-Nassau",
+      "datum": "1725",
+      "overdracht_van": "Eerwaadzaamheer Hugo van der Meer"
+    },
+    {
+      "persoon": "Hertogin Anna van Nassau",
+      "datum": "1800",
+      "overdracht_van": "Graaf Hendrik van Oranje-Nassau"
+    },
+    {
+      "persoon": "Prins Lodewijk van Oranje-Nassau",
+      "datum": "1850",
+      "overdracht_van": "Hertogin Anna van Nassau"
+    }
+  ],
+  "grootte": {
+    "height": 163.8,
+    "width": 264.1
+  },
+  "vorige_eigenaar": "Familie Van Rillaer-Belle",
+  "marginale_notitie": "waszegel beschadigd"
+}

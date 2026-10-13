@@ -1,0 +1,20 @@
+{
+  "record_id": "HAG-01014",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-588-63",
+  "gegenstand": "marmorbueste",
+  "bezeichnung": "Bilderzyklus der Edelfreude",
+  "zugeschrieben_an": "Kai Rylan",
+  "besitzgeschichte": {
+    "Erstbesitzer": "Familie von Schlosswald",
+    "Erbschaft": "Vererbt durch testamentarische Erbfolge von Herzog Maximilian von Schlosswald (1750-1800)",
+    "Kauf": "Kaufen 1825 von Grafin Sophia von Markenhof (1775-1848) für 50000 Gulden",
+    "Erwerbung": "Erwerben 1850 von Baron Heinrich von Eisenstadt (1790-1863) als Teil seines Vermögens"
+  },
+  "frueherer_besitzer": {
+    "name": "H. Brandhorst",
+    "born": 1930,
+    "acquired": 1895
+  },
+  "bemerkungen": "doppelt nummeriert"
+}

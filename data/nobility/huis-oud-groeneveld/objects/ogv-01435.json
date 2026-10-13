@@ -1,0 +1,30 @@
+{
+  "record_id": "SYN.OGV.01435",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-982-81",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "Gouden Vos van Gent",
+  "vermoedelijke_maker": "Lady Isabella Willemsdorp",
+  "eigendomsgeschiedenis": [
+    {
+      "eerste_eigenaar": "Prins Hendrik van Gent",
+      "datum_aankoop": "1667-02-14",
+      "aankoopprijs": "2.500 gulden"
+    },
+    {
+      "eigendomsvestiging": [
+        "Heren van Leidenburg",
+        "Prinses Elisabeth van Gentenhoofd"
+      ],
+      "datum_vestiging": "1801-03-15"
+    },
+    {
+      "eigendomsvestiging": [
+        "Gravin Maria van Gentenheuvel",
+        "Heren van Bommenisse"
+      ],
+      "datum_vestiging": "1913-10-22"
+    }
+  ],
+  "vorige_eigenaar": "Familie Van Rillaer-Belle"
+}

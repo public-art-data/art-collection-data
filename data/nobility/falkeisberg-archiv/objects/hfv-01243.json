@@ -1,0 +1,27 @@
+{
+  "record_id": "HFV-01243",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-631-68",
+  "objektart": "andachtsbild in rahmen",
+  "titel": "Graven van der Meerhof",
+  "kuenstler": "Ludwigus F. Vanderwijk",
+  "provenienz": [
+    {
+      "datum": 1790,
+      "beschrijving": "Overleden op van Vader van der Meerhof, Adriaan van der Meerhof"
+    },
+    {
+      "datum": 1825,
+      "beschrijving": "Geërfd door zoon van der Meerhof III, Hendrik van der Meerhof"
+    },
+    {
+      "datum": 1900,
+      "beschrijving": "Overleden op van Vader van der Meerhof II, Floris van der Meerhof"
+    }
+  ],
+  "masse_cm": {
+    "height": 102.9,
+    "width": 240.0
+  },
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

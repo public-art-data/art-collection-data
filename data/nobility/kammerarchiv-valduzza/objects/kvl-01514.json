@@ -1,0 +1,45 @@
+{
+  "record_id": "KVL-01514",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-306-8",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "Het portret van de Graaf van Vlaanderen",
+  "zugeschriebene_werkstatt": "Anna van Oranje-Nassau",
+  "besitzfolge": {
+    "Graafdom Vlaanderen (1485-1568)": [
+      {
+        "Inventarisnummer": 1,
+        "Beschermer": "Graaf Willem III van Vlaanderen",
+        "Datum": "1550"
+      }
+    ],
+    "Prinsdom Oranje-Nassau (1575-1714)": [
+      {
+        "Inventarisnummer": 2,
+        "Vererfing": "Prins Wilhelmina van Nassau",
+        "Datum": "1650"
+      }
+    ],
+    "Huis Tecklenburg (1646-1738)": [
+      {
+        "Inventarisnummer": 3,
+        "Belegging": "Graafin Maria Isabella von Tecklenburg",
+        "Datum": "1700"
+      }
+    ],
+    "Haus Wittenberg (1725-1824)": [
+      {
+        "Inventarisnummer": 4,
+        "Erbe": "Furstin Sophie Elisabeth von Wittenberg",
+        "Datum": "1780"
+      }
+    ],
+    "Grafschaft Hohenstein (1797-1956)": [
+      {
+        "Inventarisnummer": 5,
+        "Vererfing": "Hofmarschall Johann Friedrich von Hohenstein",
+        "Datum": "1850"
+      }
+    ]
+  }
+}

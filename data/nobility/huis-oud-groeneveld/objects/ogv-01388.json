@@ -1,0 +1,30 @@
+{
+  "record_id": "OGV-2001388",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-444-45",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Korte kijk door de schouwburg",
+  "vermoedelijke_maker": "Leonora van der Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "naam": "Van Oranje-Nassau",
+      "jaar": 1750,
+      "type": "bezitting"
+    },
+    {
+      "naam": "Van Pallandt",
+      "jaar": 1850,
+      "type": "gebruik"
+    },
+    {
+      "naam": "Van Limburg Stirum",
+      "jaar": 1920,
+      "type": "opvolging"
+    }
+  ],
+  "grootte": {
+    "height": 153.5,
+    "width": 42.4
+  },
+  "vorige_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

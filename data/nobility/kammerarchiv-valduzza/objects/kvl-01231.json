@@ -1,0 +1,43 @@
+{
+  "record_id": "KVL-1001231",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-690-71",
+  "artefakt": "bildteppich",
+  "werktitel": "Porträt der Gräfin Anna von Ravensburg",
+  "zugeschriebene_werkstatt": "Ferdinand von Münsterberg",
+  "besitzfolge": [
+    {
+      "name": "Haus von Wulfenstein",
+      "gründung_jahr": 1300,
+      "besitzer": [
+        {
+          "name": "Hermann Wulfenstein",
+          "titel": "Markgraf"
+        },
+        {
+          "name": "Anna von Ravensburg",
+          "titel": "Grafin"
+        }
+      ]
+    },
+    {
+      "name": "Haus von Kaltbrunn",
+      "gründung_jahr": 1700,
+      "besitzer": [
+        {
+          "name": "Karl Kaltbrunn",
+          "titel": "Fürst"
+        },
+        {
+          "name": "Anna von Ravensburg-Kaltbrunn",
+          "titel": "Prinzessin"
+        }
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 204.7,
+    "width": 289.9
+  },
+  "kammervermerk": "doppelt nummeriert"
+}

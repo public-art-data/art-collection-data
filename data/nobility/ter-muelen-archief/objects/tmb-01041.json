@@ -1,0 +1,29 @@
+{
+  "record_id": "TMB-01041",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-648-95",
+  "soort": "gegraveerd jachtgeweer",
+  "titel": "Private Archief van Huis Van der Meer",
+  "toegeschreven_aan": "Koningin Adelheid van Merenberg",
+  "herkomstgeschiedenis": [
+    {
+      "datum": 1720,
+      "gebeurteis": "Erfdeurvoerigheid Hertogin Elisabeth van Wijlenshout",
+      "naameigenaar": "Herenfyschier Hugo Van der Meer, stamouder van de familie Van der Meer"
+    },
+    {
+      "datum": 1795,
+      "gebeurteis": "Huishoudelijke huwelijk tussen Hertogin Adelheid van Merenberg en Baron Frans Van der Meer",
+      "naameigenaar": "Adelheid Van der Meer, erfdochter"
+    },
+    {
+      "datum": 1860,
+      "gebeurteis": "Erfdeurvoerigheid Hertogin Adelheid van Merenberg",
+      "naameigenaar": "Huis Van der Meer, in bezit van Adelheid en haar kinderen"
+    }
+  ],
+  "afmetingen": {
+    "height": 70.0,
+    "width": 287.4
+  }
+}

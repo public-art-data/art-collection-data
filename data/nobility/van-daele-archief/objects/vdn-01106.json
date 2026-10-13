@@ -1,0 +1,37 @@
+{
+  "record_id": "VDN-01106",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-852-67",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Huisarchief van Graafelijk Huis Beernem",
+  "vermoedelijke_meester": "Benedikt van der Kelder",
+  "provenance": [
+    {
+      "gezin": "Graafelijk Huis Beernem",
+      "jaar": 1650,
+      "omschrijving": "Eerwinst van Benedikt van der Kelder"
+    },
+    {
+      "gezin": "Prinses Maria van Luxemburg",
+      "jaar": 1700,
+      "omschrijving": "Uitgifte aan het Hertogelijk Huis Luxemburg"
+    },
+    {
+      "gezin": "Graaf Adriaan van Beernem",
+      "jaar": 1800,
+      "omschrijving": "Erfgoed overgedragen aan Graafelijk Huis Beernem"
+    },
+    {
+      "gezin": "Prinses Helena van Beernem",
+      "jaar": 1900,
+      "omschrijving": "Erfgoed overgedragen aan het Huis Beernem"
+    },
+    {
+      "gezin": "Hertogin Elisabeth van Beernem",
+      "jaar": 1950,
+      "omschrijving": "Uitgifte aan Huis Beernem"
+    }
+  ],
+  "schatting": 549000,
+  "staat": "dubbele nummering"
+}

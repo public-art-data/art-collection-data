@@ -1,0 +1,35 @@
+{
+  "record_id": "HAG-01037",
+  "fondsname": "Hausarchiv der Freiherren von Graenichen, Aargau, Schweiz",
+  "inventarnummer": "HAG-266-52",
+  "gegenstand": "bildteppich",
+  "bezeichnung": "Hausgalerie des Fürsten von Woldenburg",
+  "zugeschrieben_an": {
+    "Vorname": "Eugen",
+    "Nachname": "Schaaf"
+  },
+  "besitzgeschichte": [
+    {
+      "Ort": "Schloss Woldenburg, Pommern",
+      "Jahr": 1850,
+      "Besitzer": "Familie von Woldenburg"
+    },
+    {
+      "Ort": "Kunstgalerie von Woldenburg, Berlin",
+      "Jahr": 1885,
+      "Besitzer": "Familie von Woldenburg (Eugen Schaaf)"
+    },
+    {
+      "Ort": "Schloss Woldenburg, Pommern",
+      "Jahr": 1920,
+      "Besitzer": "Familie von Woldenburg (Helene von Woldenburg-Schaaf)"
+    },
+    {
+      "Ort": "Kunstgalerie von Woldenburg, Berlin",
+      "Jahr": 1950,
+      "Besitzer": "Familie von Woldenburg-Schaaf (Alfred Schaaf)"
+    }
+  ],
+  "frueherer_besitzer": "Freiherren von Staufenried",
+  "bemerkungen": "doppelt nummeriert"
+}

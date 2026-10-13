@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-1001319",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-310-52",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Hertoginnenkabinet",
+  "vermoedelijke_meester": "Adriaan Van der Meer",
+  "provenance": [
+    {
+      "persoon": "Gracht van Oranje-Nassau",
+      "rol": "legataris",
+      "jaar": 1650
+    },
+    {
+      "persoon": "Hertogin Beatrix van Oranje-Beugum",
+      "rol": "opvolger",
+      "jaar": 1700
+    },
+    {
+      "persoon": "Heer Constantijn Van der Putten",
+      "rol": "werving",
+      "jaar": 1750
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 14.1,
+    "width": 283.3
+  },
+  "eerdere_eigenaar": "Huis van Oud-Groeneveld"
+}

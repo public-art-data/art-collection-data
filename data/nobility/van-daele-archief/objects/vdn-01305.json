@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01305",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-455-2",
+  "objecttype": "kabinetklok",
+  "benaming": "Privé-Sammlung Van der Meer",
+  "vermoedelijke_meester": "Pieter van Overstraeten",
+  "provenance": [
+    {
+      "verdiende_eigenaar": "Dhr. Hendrik Van der Meer",
+      "jaar": 1850,
+      "opdrachtgever": null
+    },
+    {
+      "verdiende_eigenaar": "Dame Adelaïde van der Meer",
+      "jaar": 1885,
+      "opdrachtgever": "Pieter van Overstraeten"
+    },
+    {
+      "verdiende_eigenaar": "Heer Jan Van der Meer",
+      "jaar": 1920,
+      "opdrachtgever": null
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 164.4,
+    "width": 115.4
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "schatting": 692000
+}

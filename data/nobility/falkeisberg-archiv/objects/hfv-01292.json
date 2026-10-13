@@ -1,0 +1,26 @@
+{
+  "record_id": "HFV-01292",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-931-86",
+  "objektart": "marmorbueste",
+  "titel": "Hausarchiv der Grafen von Wittenheim",
+  "kuenstler": "Adrian van Houten",
+  "provenienz": [
+    {
+      "datum": "1500",
+      "besitzer": "Graf Johann zu Wittenheim"
+    },
+    {
+      "datum": "1555",
+      "besitzer": "Grafin Elisabeth von Fürstenberg (Ehefrau von Johanns Sohn, Graf Heinrich)"
+    },
+    {
+      "datum": "1650",
+      "besitzer": "Prinz Friedrich von Württemberg (Enkel von Heinrich und Erbe des Wittenheimer Erbes)"
+    }
+  ],
+  "masse_cm": {
+    "height": 172.9,
+    "width": 286.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01255",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-731-64",
+  "artefakt": "marmorbueste",
+  "werktitel": "Porträt einer Erzengel",
+  "zugeschriebene_werkstatt": "Adrianus van der Meer",
+  "besitzfolge": {
+    "Haus Hohenburg": [
+      "Gräfin Helga von Hohenburg",
+      "Erbfolge"
+    ],
+    "Kunstschatz des Fürstenhauses Waldeck": [
+      "Prinz Wilhelm von Waldeck",
+      "Übertragung durch Erbschaft"
+    ],
+    "Hofkammer der Herzöginnen von Württemberg": [
+      "Herzogin Katharina von Württemberg",
+      "Erlaubnis als Nachfolgerin"
+    ]
+  },
+  "groesse": {
+    "height": 131.9,
+    "width": 81.8
+  }
+}

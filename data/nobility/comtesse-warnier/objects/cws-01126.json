@@ -1,0 +1,18 @@
+{
+  "record_id": "CWS-01126",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-112-22",
+  "categorie_d_objet": "objet devotionnel",
+  "intitule": "Château de Montargouart",
+  "maitre": {
+    "nom": "Pierre-Esclarne Dupont",
+    "date_naissance": "1785-04-15",
+    "lieu_naissance": "Rennes, Bretagne"
+  },
+  "historique": "Acquis par Famille de Clemency-Sonnenberg a l'occasion d'un mariage en 1785; passe a Famille de Collonges-Valiere par heritage en 1787.",
+  "cotes_cm": {
+    "height": 114.2,
+    "width": 58.0
+  },
+  "valeur": 830000
+}

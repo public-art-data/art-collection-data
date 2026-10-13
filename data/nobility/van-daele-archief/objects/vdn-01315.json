@@ -1,0 +1,31 @@
+{
+  "record_id": "VDN-01315",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-142-72",
+  "objecttype": "wandtapijt",
+  "benaming": "Graafschap van Oranje-Rijn",
+  "vermoedelijke_meester": "Willemijn Voskuil",
+  "provenance": [
+    {
+      "persoon": "Hertogin Beatrix van Oranje-Rijn",
+      "gebeurtenis": "Erf opgekregen door huwelijk met Hertog Pieter van Holland",
+      "jaar": "1750"
+    },
+    {
+      "persoon": "Heren Hendrik van Arkel en Frederik van Leeuwen",
+      "gebeurtenis": "Geërfd na dood van Hertog Pieter van Holland",
+      "jaar": "1820"
+    },
+    {
+      "persoon": "Prinses Sophia van Oranje-Rijn",
+      "gebeurtenis": "Verkocht aan haar neef, Graaf Willem van Oranje-Rijn",
+      "jaar": "1880"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 122.4,
+    "width": 299.4
+  },
+  "eerdere_eigenaar": "Familie Van Daele-Nuytens",
+  "staat": "dubbele nummering"
+}

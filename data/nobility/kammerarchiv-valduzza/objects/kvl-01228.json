@@ -1,0 +1,29 @@
+{
+  "record_id": "KVL-01228",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-366-94",
+  "artefakt": "andachtsbild in rahmen",
+  "werktitel": "Het Lichte Licht der Zalmen",
+  "zugeschriebene_werkstatt": "Hendrick van Wouden",
+  "besitzfolge": [
+    {
+      "name": "Haus Alpenburg",
+      "erben": [
+        "Karl Friedrich von Waldenburg",
+        "Adelheid Gräfin von Zweibeln"
+      ]
+    },
+    {
+      "name": "Geschlecht von Schwarzwald",
+      "erben": [
+        "Maximilian Graf von Schwarzwald",
+        "Ludwigine Countess von Schwarzwald"
+      ]
+    }
+  ],
+  "groesse": {
+    "height": 176.8,
+    "width": 251.9
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg"
+}

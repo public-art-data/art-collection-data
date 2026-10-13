@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-1265",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-890-47",
+  "artefakt": "miniaturportrait",
+  "werktitel": "De Fonteinen van 't Goude Kasteel",
+  "zugeschriebene_werkstatt": "Maria van de Velde",
+  "besitzfolge": [
+    {
+      "naam": "Huis Hertogenborch",
+      "jaar": 1645,
+      "opvolger": "Johanna van den Bosch"
+    },
+    {
+      "naam": "Huis van de Vijveren",
+      "jaar": 1700,
+      "opvolger": "Filips van der Meer"
+    }
+  ],
+  "einstiger_besitzer": "Grafen von Wassenfeld",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

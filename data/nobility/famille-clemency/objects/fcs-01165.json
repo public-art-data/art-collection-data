@@ -1,0 +1,26 @@
+{
+  "record_id": "FCS-01165",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-195-46",
+  "type_d_objet": "buste en marbre",
+  "titre": "Famille de la Croix Blanche",
+  "artiste_attribue": "Pierre-Etienne Dupont",
+  "historique_de_possession": [
+    {
+      "date": "1730",
+      "nature": "heritage"
+    },
+    {
+      "date": "1756",
+      "nature": "marriage",
+      "epouse": "Sophie de la Marque"
+    },
+    {
+      "date": "1800",
+      "nature": "legacy",
+      "fille": "Adèle de la Croix Blanche"
+    }
+  ],
+  "valeur_estimee": 393000,
+  "observations": "cachet de cire brise"
+}

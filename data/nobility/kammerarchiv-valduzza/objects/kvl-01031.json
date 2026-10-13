@@ -1,0 +1,35 @@
+{
+  "record_id": "KVL-1001031",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-517-95",
+  "artefakt": "tafelsilber (teilservice)",
+  "werktitel": "Porträt des Grafen von Walsee",
+  "zugeschriebene_werkstatt": "Hans Jörgen Schmelzer",
+  "besitzfolge": {
+    "Herren von Kaltstein": [
+      {
+        "Grundung": "1375",
+        "Besitzer": "Graf Hugo von Kaltstein"
+      },
+      {
+        "Erbe": "1492",
+        "Vorgänger": "Graf Heinrich von Kaltstein"
+      }
+    ],
+    "Hofmeister der Fürsten von Walsee": [
+      "1500-1550"
+    ],
+    "Herren von Walsee": [
+      {
+        "Gründung": "1605",
+        "Besitzer": "Fürst Franz von Walsee"
+      },
+      {
+        "Erbe": "1700",
+        "Vorgänger": "Fürst Albrecht von Walsee"
+      }
+    ]
+  },
+  "einstiger_besitzer": "Herren von Falkeisberg",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

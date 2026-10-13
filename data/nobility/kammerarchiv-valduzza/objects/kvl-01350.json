@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-01350",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-782-33",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Porträt einer Eleganten",
+  "zugeschriebene_werkstatt": "Ludwig van der Meer",
+  "besitzfolge": [
+    {
+      "besitzer": "Grafin Adelheid von Wüstenburg",
+      "jahr": 1885,
+      "ursprung": "Erbschaft"
+    },
+    {
+      "besitzer": "Königin Elisabeth von Hohenlohe-Langenburg",
+      "jahr": 1910,
+      "grundung": "Einzugift"
+    }
+  ],
+  "groesse": {
+    "height": 207.8,
+    "width": 45.6
+  },
+  "kammervermerk": "stempel des Hausarchivs"
+}

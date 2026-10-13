@@ -1,0 +1,18 @@
+{
+  "record_id": "MFA-03784",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2020-252",
+  "object_type": "watercolour on paper",
+  "title": "Riverside, Punggol",
+  "artist": "Ambrose-Kwek",
+  "provenance": "Acquired by the estate of Kiat-Hwa Lim in 1852, previously owned by Chee-Kun Ong, a prominent dealer in Batam during the Dutch East India Company era.",
+  "dimensions_mm": {
+    "height": 1430.0,
+    "width": 2416.0
+  },
+  "estimate_sgd": {
+    "low": 22000,
+    "high": 136000
+  },
+  "_artist_dates": "1873-1508"
+}

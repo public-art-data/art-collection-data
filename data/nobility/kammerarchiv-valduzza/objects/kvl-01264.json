@@ -1,0 +1,25 @@
+{
+  "record_id": "KVL-1264",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-715-56",
+  "artefakt": "miniaturportrait",
+  "werktitel": "Die Ewigkeit der Schatten",
+  "zugeschriebene_werkstatt": "Aurelia van der Meer",
+  "besitzfolge": [
+    {
+      "nachfolger": "Haus von Schattenheim",
+      "nachfolgerecht": "Erbfreunde und Enkelinnen",
+      "jahr": 1850
+    },
+    {
+      "erworben durch Ehen": "von Haus von Römerburg",
+      "partner_in_ehe": "Grafin Elisabeth Römerburg",
+      "jahr": 1725
+    }
+  ],
+  "groesse": {
+    "height": 107.8,
+    "width": 155.0
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

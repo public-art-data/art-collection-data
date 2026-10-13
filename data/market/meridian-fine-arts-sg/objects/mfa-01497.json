@@ -1,0 +1,19 @@
+{
+  "record_id": "SYN MFA 01497",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2022-170",
+  "object_type": "mixed media assemblage",
+  "title": "View of Bandung",
+  "artist": "Hallowquay",
+  "provenance": "Acquired by the Kiat Hoon Estate in 1985, then sold to Tan Wee Eng in 1997. Now in the collection of Hooi Meng Lee since 2010.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 493.0,
+    "width": 1859.0
+  },
+  "estimate_sgd": {
+    "low": 18000,
+    "high": 126000
+  },
+  "condition_report": "examined under UV, no restoration"
+}

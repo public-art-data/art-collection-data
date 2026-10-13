@@ -1,0 +1,22 @@
+{
+  "record_id": "KVL-1042",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-396-94",
+  "artefakt": "jagdwaffe mit gravur",
+  "werktitel": "De Grote Kerk van 't Leed",
+  "zugeschriebene_werkstatt": "Eleanor van Oranje-Nassau",
+  "besitzfolge": [
+    {
+      "person": "Maximiliaan van Beieren-Pommeren",
+      "datum": "1645"
+    },
+    {
+      "person": "Maria van Oost-Friesland",
+      "datum": "1688 (erbte van Maximiliaan)"
+    },
+    {
+      "person": "Ludwig van Palatien-Sachsen-Lauenburg",
+      "datum": "1750 (erfgrootvader van Maria)"
+    }
+  ]
+}

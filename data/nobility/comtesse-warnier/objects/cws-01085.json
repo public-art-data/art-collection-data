@@ -1,0 +1,23 @@
+{
+  "record_id": "CWS-01085",
+  "registre_source": "Registre de la Comtesse de Warnier-Saint-Servais, Liege, Belgique",
+  "folio_cote": "CWS-921-20",
+  "categorie_d_objet": "pendule en bronze dore",
+  "intitule": "Manuscrits de la Maison de Valtor",
+  "maitre": "Marcelle Dumont",
+  "historique": [
+    {
+      "date": "1645",
+      "propriétaire": "Famille de Rousselot"
+    },
+    {
+      "date": "1700",
+      "propriétaire": "Marie-Thérèse de Valtor, épouse de Pierre de Rousselot"
+    },
+    {
+      "date": "1750",
+      "propriétaire": "Pierre-Jean de Valtor, fils de Marie-Thérèse"
+    }
+  ],
+  "titulaire_precedent": "Maison de Beauffort-Orval"
+}

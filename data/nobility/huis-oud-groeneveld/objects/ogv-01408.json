@@ -1,0 +1,42 @@
+{
+  "record_id": "OGV-01408",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-243-5",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Heren en Vrouwen in de Tuin",
+  "vermoedelijke_maker": "Johannes Vander Meer",
+  "eigendomsgeschiedenis": [
+    {
+      "persoon": "Countess Sofia van Oranje-Nassau",
+      "titel": "Aartshertogin",
+      "jaren": [
+        1850,
+        null
+      ],
+      "reden": ""
+    },
+    {
+      "persoon": "Prince Pieter van Beieren",
+      "titel": "Prins",
+      "jaren": [
+        1885,
+        1900
+      ],
+      "reden": null
+    },
+    {
+      "persoon": "Marie-Louise van Oostenrijk-Este",
+      "titel": null,
+      "jaren": [
+        1910,
+        1930
+      ],
+      "reden": "Erfschaft"
+    }
+  ],
+  "grootte": {
+    "height": 180.6,
+    "width": 269.0
+  },
+  "vorige_eigenaar": "Huis van Oud-Groeneveld"
+}

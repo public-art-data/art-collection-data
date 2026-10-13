@@ -1,0 +1,49 @@
+{
+  "record_id": "SYN.OGV.1001001",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-377-81",
+  "stuk": "zilveren schrijfset",
+  "omschrijving": "Kruisbeeld met het lichaam van Christus",
+  "vermoedelijke_maker": "Maria van Steenweghe",
+  "eigendomsgeschiedenis": [
+    {
+      "titel": "Herenza van de Valkenberg",
+      "begin_jaar": 1685,
+      "eigendom": [
+        "Jan van Meerbeck",
+        "Pieter van Meerbeck"
+      ],
+      "overdracht_op": null
+    },
+    {
+      "titel": "Erfgarde van der Horst",
+      "begin_jaar": 1792,
+      "eigendom": [
+        "Sibylla van der Horst",
+        "Jacobus van der Horst"
+      ],
+      "overdracht_op": {
+        "gezin_id": "VAN DER HORST-001",
+        "opdracht_persoon": null
+      }
+    },
+    {
+      "titel": "Kabinet van het Huis Oranje-Nassau",
+      "begin_jaar": 1875,
+      "eigendom": [
+        "Wilhelmina van Oranje-Nassau",
+        "Alexandre van Oranje-Nassau"
+      ],
+      "overdracht_op": null
+    },
+    {
+      "titel": "Herenza van de Valkenberg (hersteld)",
+      "begin_jaar": 1920,
+      "eigendom": [
+        "Adriana van Meerbeck",
+        "Léonore van Meerbeck"
+      ],
+      "overdracht_op": null
+    }
+  ]
+}

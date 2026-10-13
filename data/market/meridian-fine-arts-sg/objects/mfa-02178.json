@@ -1,0 +1,19 @@
+{
+  "record_id": "MFA-02178",
+  "origin": "Meridian Fine Arts Auctioneers, Singapore",
+  "lot_id": "MFA-2021-336",
+  "object_type": "bronze figure",
+  "title": "View of Penang",
+  "artist": "Chatterji-Rao",
+  "provenance": "Acquired by the Singapore Estate of Tan Cheong Kee in 1957, then sold to the Malaysian art dealer, Ling Cheng, who exhibited it at his gallery in Kuala Lumpur in 1962.",
+  "medium": "bronze",
+  "dimensions_mm": {
+    "height": 382.0,
+    "width": 701.0
+  },
+  "estimate_sgd": {
+    "low": 37000,
+    "high": 94000
+  },
+  "condition_report": "good, with light craquelure"
+}

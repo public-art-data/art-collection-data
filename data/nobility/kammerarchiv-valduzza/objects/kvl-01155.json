@@ -1,0 +1,27 @@
+{
+  "record_id": "KVL-01155",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-159-65",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt eines jungen Adligen",
+  "zugeschriebene_werkstatt": "Herrin Regina van der Meer",
+  "besitzfolge": {
+    "Gründungsdatum": "1750",
+    "Besitzer": [
+      {
+        "Name": "Familie von Eisenhut",
+        "Beziehung": "Ehefrau von Graf Wilhelm von Eisenhut"
+      },
+      {
+        "Name": "Grafin Helga von Eisenhut",
+        "Beziehung": "Erbe"
+      },
+      {
+        "Name": "Familie von Schwarzburg",
+        "Beziehung": "Inheritance"
+      }
+    ],
+    "Standort": "Schloss Schwarzbach"
+  },
+  "einstiger_besitzer": "Freiherren von Staufenried"
+}

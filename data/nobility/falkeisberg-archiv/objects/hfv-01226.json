@@ -1,0 +1,35 @@
+{
+  "record_id": "HFV-01226",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-219-25",
+  "objektart": "jagdwaffe mit gravur",
+  "titel": "Sammlung des Hauses von Schwarzwald",
+  "kuenstler": "Emilie von Alderan",
+  "provenienz": {
+    "Vorfahren": [
+      {
+        "Titel": "Herzogin",
+        "Name": "Adelaide von Schwarzwald"
+      },
+      {
+        "Titel": "Fürstin",
+        "Name": "Helena von Alderan"
+      }
+    ],
+    "Eigentümer": [
+      {
+        "Person": "Ludwig von Alderan",
+        "Jahr": 1820
+      },
+      {
+        "Person": "Hedwig von Schwarzwald",
+        "Jahr": 1905
+      },
+      {
+        "Person": "Emilie von Alderan",
+        "Jahr": 1950
+      }
+    ]
+  },
+  "vorbesitzer": "Freiherren von Graenichen"
+}

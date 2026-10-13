@@ -1,0 +1,35 @@
+{
+  "record_id": "HFV-01314",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-346-4",
+  "objektart": "marmorbueste",
+  "titel": "Adelsarchiv Haus von Wachtendonk",
+  "kuenstler": "Emilie van der Meer",
+  "provenienz": [
+    {
+      "personen": [
+        "Henriette von Wachtendonk",
+        "Emilie van der Meer"
+      ],
+      "event": "Erbfolge und Vererbung von Gemälden durch Henriette von Wachtendonk an ihre Tochter Emilie van der Meer",
+      "datum": "1862-03-20"
+    },
+    {
+      "personen": [
+        "Emilie van der Meer",
+        "Leopold von Eisenberg"
+      ],
+      "event": "Ehe mit Leopold von Eisenberg, Erbvater von Wachtendonksche Sammlung",
+      "datum": "1875-06-15"
+    },
+    {
+      "personen": [
+        "Wolfram von Eisenberg",
+        "Emilie van der Meer"
+      ],
+      "event": "Erbe von Gemälden durch Emilie van der Meer an ihren Sohn Wolfram von Eisenberg",
+      "datum": "1901-01-01"
+    }
+  ],
+  "vorbesitzer": "Grafen von Wassenfeld"
+}

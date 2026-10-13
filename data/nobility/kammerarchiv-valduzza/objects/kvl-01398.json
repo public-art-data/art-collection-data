@@ -1,0 +1,51 @@
+{
+  "record_id": "KVL-01398",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-273-93",
+  "artefakt": "silbernes schreibzeug",
+  "werktitel": "Het Geheim van de Blauwe Vlier",
+  "zugeschriebene_werkstatt": "Studio Astrid LaGrange",
+  "besitzfolge": {
+    "Erbfolge": [
+      {
+        "datum": "1617",
+        "eur": "Duchess Maria von Eisenstein",
+        "von": "Haus von Eisenstein"
+      },
+      {
+        "datum": "1650",
+        "eur": "Prince Johann zu Würtzburg",
+        "von": "Prinzessin Anna von Eisenstein"
+      },
+      {
+        "datum": "1700",
+        "eur": "König Karl I. von Altmarkenburg",
+        "von": "Prinz Carl Ludwig von Altmarkenburg"
+      }
+    ],
+    "Ehe": [
+      {
+        "datum": "1750",
+        "eur": "Erzherzogin Sophia zu Würtzburg",
+        "mit": "Graf Wolfgang zu Hohenlohe-Langenburg"
+      },
+      {
+        "datum": "1800",
+        "eur": "König Wilhelm I. von Altmarkenburg",
+        "mit": "Prinzessin Adelaide von Würtzburg"
+      }
+    ],
+    "Erbe": [
+      {
+        "datum": "1850",
+        "eur": "Fürst Friedrich II. von Altmarkenburg",
+        "von": "Haus von Altmarkenburg"
+      },
+      {
+        "datum": "1900",
+        "eur": "König Wilhelm III. von Altmarkenburg",
+        "von": "Fürstin Sophie zu Würtzburg"
+      }
+    ]
+  }
+}

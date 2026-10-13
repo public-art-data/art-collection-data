@@ -1,0 +1,35 @@
+{
+  "record_id": "TMB-01248",
+  "herkomst": "Familiearchief Van ter Muelen-Berckel, Utrecht, Nederland",
+  "inventarisnummer": "TMB-483-11",
+  "soort": "kabinetklok",
+  "titel": "Brieven en tekeningen van het Huis van Veldenstein",
+  "toegeschreven_aan": "Sofia van Willemsdorp",
+  "herkomstgeschiedenis": [
+    {
+      "persoon": "Jan van Willemsdorp",
+      "relatie": "man",
+      "jaar": 1700,
+      "gebeurtenis": "erfde het landschap"
+    },
+    {
+      "persoon": "Sofia's moeder",
+      "relatie": "moeder",
+      "jaar": 1725,
+      "gebeurtenis": "vererving van de schilderscollectie"
+    },
+    {
+      "persoon": "Filips van Wildenstein",
+      "relatie": "man",
+      "jaar": 1750,
+      "gebeurtenis": "kocht het landschap"
+    },
+    {
+      "persoon": "Sofia",
+      "relatie": "erfster",
+      "jaar": 1800,
+      "gebeurtenis": "erving van het landschap"
+    }
+  ],
+  "vroegere_bezitter": "Familie Van Daele-Nuytens"
+}

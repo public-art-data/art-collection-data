@@ -1,0 +1,32 @@
+{
+  "record_id": "VDN-01401",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-105-68",
+  "objecttype": "marmeren buste",
+  "benaming": "Huisarchief van de Hertoginnen van Vlaanderen",
+  "vermoedelijke_meester": "Lucas van Leefde",
+  "provenance": [
+    {
+      "persoon": "Hertogin Elisabeth I van Vlaanderen",
+      "rol": "Eigendom",
+      "jaar": 1685
+    },
+    {
+      "persoon": "Prins Constantijn II van Vlaanderen en Barceloneta",
+      "rol": "Erfgenoot",
+      "jaar": 1710
+    },
+    {
+      "persoon": "Hertogin Isabella van Vlaanderen en Rennenburg",
+      "rol": "Eigendom",
+      "jaar": 1755,
+      "opvolger_van": "Prins Constantijn II van Vlaanderen en Barceloneta"
+    },
+    {
+      "persoon": "Koning Lodewijk I van Vlaanderen en Kastilje",
+      "rol": "Overname",
+      "jaar": 1820
+    }
+  ],
+  "schatting": 62000
+}

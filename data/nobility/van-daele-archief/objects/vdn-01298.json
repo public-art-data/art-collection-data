@@ -1,0 +1,30 @@
+{
+  "record_id": "VDN-01298",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-137-34",
+  "objecttype": "tafelzilver (onderdeel)",
+  "benaming": "Huis van de Vijf Vijfers",
+  "vermoedelijke_meester": "Bartholomeus van der Kelder",
+  "provenance": [
+    {
+      "persoon": "Graaf Hendrik van der Meer",
+      "geslacht": "van der Meer",
+      "jaar": 1750
+    },
+    {
+      "persoon": "Koningin Beatrix van Oranje-Nassau",
+      "geslacht": "van Oranje-Nassau",
+      "jaar": 1850
+    },
+    {
+      "persoon": "Prinses Sophia van Bourbon-Buillon",
+      "geslacht": "van Bourbon-Buillon",
+      "jaar": 1920
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 172.9,
+    "width": 124.4
+  },
+  "eerdere_eigenaar": "Geslacht Van Schoonhoven-Dal"
+}

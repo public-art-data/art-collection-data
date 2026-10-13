@@ -1,0 +1,28 @@
+{
+  "record_id": "FCS-1001555",
+  "source_du_fonds": "Inventaire de la Famille de Clemency-Sonnenberg, Luxembourg",
+  "numero_d_ordre": "FCS-871-85",
+  "type_d_objet": "portrait en miniature",
+  "titre": "Collection des Chevaliers de Montaigne",
+  "artiste_attribue": "Pierre LaFleur",
+  "historique_de_possession": [
+    {
+      "pere": "Edmond de la Croix",
+      "mariage": {
+        "epouse": "Adèle Dumont"
+      },
+      "heritage": {
+        "passe": "Aucun"
+      }
+    },
+    {
+      "pere": "Edmond de la Croix",
+      "mariage": {
+        "epouse": "Céline Marquis"
+      },
+      "heritage": {
+        "passe": "La Collection d'Éléonore"
+      }
+    }
+  ]
+}

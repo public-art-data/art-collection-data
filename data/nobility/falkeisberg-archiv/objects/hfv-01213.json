@@ -1,0 +1,30 @@
+{
+  "record_id": "HFV-1001213",
+  "archivherkunft": "Hausarchiv der Herren von Falkeisberg, Vaduz, Liechtenstein",
+  "aktenzeichen": "HFV-451-65",
+  "objektart": "marmorbueste",
+  "titel": "Ducal Collection",
+  "kuenstler": "Adrian Valtor",
+  "provenienz": [
+    {
+      "name": "Earl van der Meer",
+      "haus": "Van der Meer",
+      "datum": 1620,
+      "beschreibung": "Erbt von Adrian Valtors Vater, Graf Johann Valtor"
+    },
+    {
+      "name": "Baroness Elisabeth Sombert",
+      "haus": "Sombert",
+      "datum": 1650,
+      "beschreibung": "Übergabe durch Heirat mit Baron Jan van der Meer, Sohn von Earl van der Meer"
+    },
+    {
+      "name": "Duchess Anna von Montague",
+      "haus": "von Montague",
+      "datum": 1750,
+      "beschreibung": "Vererbte Nachlage von Adrian Valtors Enkelin, Elisabeth Sombert"
+    }
+  ],
+  "vorbesitzer": "Freiherren von Graenichen",
+  "zustandsbericht": "wachsiegel beschaedigt"
+}

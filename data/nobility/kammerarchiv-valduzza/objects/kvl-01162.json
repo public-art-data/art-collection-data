@@ -1,0 +1,29 @@
+{
+  "record_id": "SYN_KVL_01162",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-708-55",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Hollandsche Landschaft mit einem Weiler und einem See",
+  "zugeschriebene_werkstatt": "Johannes van der Meer",
+  "besitzfolge": [
+    {
+      "name": "Adellijke Stichting voor de Kunsten",
+      "datum": "1723"
+    },
+    {
+      "name": "Haus Wintersberg",
+      "datum": "1850"
+    },
+    {
+      "name": "Haus Wintersberg",
+      "datum": null,
+      "beziehung": "Erbfolge"
+    }
+  ],
+  "groesse": {
+    "height": 166.2,
+    "width": 231.9
+  },
+  "einstiger_besitzer": "Freiherren von Graenichen",
+  "kammervermerk": "bleistiftvermerk: 'aus Schlossinventar 1861'"
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "ESD-C00001",
+  "origin": "Etude Notariale B. Sorel-Delavigne (Inventaires de Succession), Bourg-en-Bresse, France",
+  "correspondence_type": "digitized_ocr_letter",
+  "ocr_id": "OCR-2013-478-6894",
+  "archive_reference": "Cote 498-59, fol. 149",
+  "ocr_confidence": 0.89,
+  "language": "fr",
+  "letter_date": "1959-08-13",
+  "sender": "Depot d'Antiquites Sarteaux-Voinay, Tours",
+  "recipient": "Cabinet de Ventes Mareschal-Dubuit, Angers",
+  "salutation": "Monsieur,",
+  "body": "je vous confirme la reception de la tableau que vous m'avez adressee le 17. juin 1900. L'etat parait satisfaisant, toutefois le prix de 2000 francs me semble excede. Je vous propose 1222.",
+  "signature": "Sarteaux-Voinay",
+  "transcription_notes": [
+    "rousseurs",
+    "cachet du destinataire"
+  ]
+}

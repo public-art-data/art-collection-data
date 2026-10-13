@@ -1,0 +1,31 @@
+{
+  "record_id": "OGV-01444",
+  "archief_van": "Inventaris van het Huis van Oud-Groeneveld, Gelderland, Nederland",
+  "reeksnummer": "OGV-200-12",
+  "stuk": "miniatuurportret",
+  "omschrijving": "Riddersklooster Sint-Andries",
+  "vermoedelijke_maker": "Adriaan van Oudenhove",
+  "eigendomsgeschiedenis": [
+    {
+      "eigendoms_nummer": 1,
+      "eigendomsbezitter": "Hertogin Isabella van Vlaanderen (1480-1523)",
+      "overdracht_op": "gevolgd door haar zuster, Hertogin Margaretha van Brabant"
+    },
+    {
+      "eigendoms_nummer": 2,
+      "eigendomsbezitter": "Hertog Lodewijk van Vlaanderen (1510-1548)",
+      "overdracht_op": "gevolgd door zijn zoon, Hertog Filips van Vlaanderen"
+    },
+    {
+      "eigendoms_nummer": 3,
+      "eigendomsbezitter": "Hertogin Elisabeth van Vlaanderen (1570-1615)",
+      "overdracht_op": "gevolgd door haar neef, Hertog Filips van Vlaanderen II"
+    }
+  ],
+  "grootte": {
+    "height": 95.2,
+    "width": 282.9
+  },
+  "vorige_eigenaar": "Familie Van Daele-Nuytens",
+  "marginale_notitie": "dubbele nummering"
+}

@@ -1,0 +1,26 @@
+{
+  "record_id": "KVL-01313",
+  "archivbestand": "Kammerarchiv der Herren von Valduzza, Triesenberg, Liechtenstein",
+  "kammernummer": "KVL-660-68",
+  "artefakt": "standuhr mit intarsien",
+  "werktitel": "Porträt einer Blume",
+  "zugeschriebene_werkstatt": "Anna van der Meer",
+  "besitzfolge": [
+    {
+      "name": "Haus Walther von Eisenfels",
+      "herkunftsland": "Deutschland",
+      "besitzer": "Johann Friedrich von Eisenfels"
+    },
+    {
+      "name": "Haus Hohensteiner",
+      "herkunftsland": "Deutschland",
+      "besitzer": "Anna Franziska von Hohensteiner (geheime Schwester von Johann Friedrich)"
+    },
+    {
+      "name": "Privatbesitz, Grafin Hedwig von Eisenfels",
+      "herkunftsland": "Deutschland",
+      "besitzer": "Hedwig von Eisenfels (Erbin des Erbteils der Mutter Anna Franziska von Hohensteiner)"
+    }
+  ],
+  "einstiger_besitzer": "Herren von Valduzza"
+}

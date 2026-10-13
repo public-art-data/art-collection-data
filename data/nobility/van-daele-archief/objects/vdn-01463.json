@@ -1,0 +1,26 @@
+{
+  "record_id": "VDN-01463",
+  "collectie_herkomst": "Archief van de Familie Van Daele-Nuytens, Gent, Belgie",
+  "fiche_nummer": "VDN-275-84",
+  "objecttype": "miniatuurportret",
+  "benaming": "Kasteel van de Valkenburgh",
+  "vermoedelijke_meester": "Pieter van den Berghe",
+  "provenance": [
+    {
+      "gezin": "Huis van Oudenhove",
+      "eerste_oorlog": true,
+      "erfenis": "Verkocht door Pieter van den Berghe aan de Hertog van Montigny"
+    },
+    {
+      "gezin": "Huis van Montigny",
+      "vermogen": 1800,
+      "erfenis": "Geërfd door Adelaïde van Montigny, weduwe van Willem van Oudenhove"
+    }
+  ],
+  "afmetingen_cm": {
+    "height": 22.6,
+    "width": 58.2
+  },
+  "schatting": 387000,
+  "staat": "waszegel beschadigd"
+}

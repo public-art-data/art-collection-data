@@ -64,10 +64,7 @@ use; commercial republication requires written permission.
 > *Provenance Records of Private Art Trade Archives, 1870–1995*,
 > Release 1.2, Ermetschwil, October 2026.
 
-## Contact
 
-Archivleitung, SKDE, Postfach 41, CH-9050 Ermetschwil
-archiv@skde-ermetschwil.ch
 
 ---
 
